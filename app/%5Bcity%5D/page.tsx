@@ -1,4 +1,4 @@
-import { supabase } from '@/lib/supabase'
+import { getSupabase } from '@/lib/supabase'
 import Link from 'next/link'
 
 export const dynamic = 'force-dynamic'
@@ -10,6 +10,8 @@ interface CityPageProps {
 }
 
 export default async function CityHub({ params }: CityPageProps) {
+  const supabase = getSupabase()
+
   // Fetch city data
   const { data: cityData } = await supabase
     .from('city')
