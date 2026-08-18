@@ -11,14 +11,16 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 - Vercel default: https://muslimsincanada.vercel.app
 - Custom domain (pending DNS): muslimsincanada.com
 
-**⚠️ DNS ACTION REQUIRED — Add to Network Solutions:**
-Log in to https://www.networksolutions.com and add this A record:
+**✅ DNS CONFIGURED — Network Solutions:**
+Added A record pointing root domain to Vercel:
 ```
 Type: A
-Name: muslimsincanada.com
+Name: @ (muslimsincanada.com)
 Value: 76.76.21.21
+TTL: 4 Hours
 ```
-Vercel will email when DNS is verified and domain is live (typically 15–30 min for propagation).
+Nameservers reverted to Network Solutions defaults (ns1.worldnic.com / ns2.worldnic.com).
+Vercel will email when DNS propagates (typically 15–30 min).
 
 **Next:** Cowork to continue Phase 1 research (competitive landscape, community needs, data-source audit) — findings land here as markdown files.
 
