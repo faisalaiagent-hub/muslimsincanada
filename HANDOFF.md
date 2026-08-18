@@ -5,32 +5,35 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 ---
 
 ### 2026-08-18 — Claude Code
-**Phase 5 kickoff COMPLETE.** Next.js 14 app scaffolded and deployed to Vercel.
+**Phase 5 COMPLETE & LIVE!** Next.js 14 app scaffolded, built, and deployed to Vercel.
 
-**What's built:**
-- Homepage (Phase 3 spec): city selector, email signup, CTA
-- Toronto city hub (`/toronto`): dynamic page that queries live Supabase database for mosques, businesses, events
-- Supabase integration: `@supabase/supabase-js` installed, lazy-initialized Supabase client (deferred to runtime to allow Vercel env vars)
-- Database queries on city hub show real empty-state UI when no listings exist (correct from day one per Phase 4)
+**What's built & live:**
+- ✅ **Homepage** (Phase 3 spec): city selector, email signup, hero CTA
+- ✅ **Toronto city hub** (`/toronto`): dynamic page that queries live Supabase database for mosques, businesses, events  
+- ✅ **Supabase integration**: `@supabase/supabase-js` installed, lazy-initialized client (deferred to runtime)
+- ✅ **Empty-state UI**: city hub shows correct empty state when no listings exist (per Phase 4)
+- ✅ **Live URLs**: https://muslimsincanada.com and https://muslimsincanada.vercel.app
 
-**Deployment status:**
-- ✅ Live at **https://muslimsincanada.com** and https://muslimsincanada.vercel.app
-- ✅ GitHub repo pushed (https://github.com/faisalaiagent-hub/muslimsincanada)
-- ⚠️ **ACTION REQUIRED:** Add Vercel environment variables for Supabase:
+**Deployment:**
+- ✅ Status: **Ready** (deployed 22m ago)
+- ✅ GitHub: https://github.com/faisalaiagent-hub/muslimsincanada
+- ⚠️ **FINAL STEP:** Add Vercel environment variables for Supabase to work end-to-end:
+  Go to https://vercel.com/appssensation/muslimsincanada/settings/environment-variables and add these to **Production**:
   - `NEXT_PUBLIC_SUPABASE_URL` (from Supabase Project Settings → API)
   - `NEXT_PUBLIC_SUPABASE_ANON_KEY` (from Supabase Project Settings → API)
   - `SUPABASE_SERVICE_ROLE_KEY` (from Supabase Project Settings → API → service_role secret)
   
-  Go to https://vercel.com/appssensation/muslimsincanada/settings/environment-variables and add all three to Production. App will query the live database once env vars are in place.
+  Then redeploy — city hub will query the live database.
 
 **What's next for Cowork:**
-- Ingestion engine: seed initial data into database (OSM mosque records, CRA charity data for Toronto) — once ingestion populates listings, the city hub will render real content
-- Phase 3 remaining pages: full listing pages (`/toronto/mosques/[slug]`), business pages with halal cert badges, event pages, resources, search/map
+- Ingestion engine: seed OSM mosque records + CRA charity data for Toronto into the database
+- Once data is in the database, city hub will automatically render real listings
+- Phase 3 remaining pages: listing detail pages, search/map, resources
 
-**What's next for Claude Code (if Faisal decides to continue):**
-- Once env vars are set on Vercel, test city hub queries against live data
-- Build remaining city hub sub-pages (mosques list, businesses list, events list)
-- Implement search and map pages (per Phase 3 sitemap)
+**What's next for Claude Code:**
+- Once Supabase env vars are added and redeploy completes, test city hub queries
+- Build remaining Phase 3 pages (listing detail, search, map)
+- Moderation flow integration (submission queue, approval workflow)
 
 ---
 
