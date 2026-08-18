@@ -4,6 +4,36 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 
 ---
 
+### 2026-08-18 — Claude Code
+**Phase 5 kickoff COMPLETE.** Next.js 14 app scaffolded and deployed to Vercel.
+
+**What's built:**
+- Homepage (Phase 3 spec): city selector, email signup, CTA
+- Toronto city hub (`/toronto`): dynamic page that queries live Supabase database for mosques, businesses, events
+- Supabase integration: `@supabase/supabase-js` installed, lazy-initialized Supabase client (deferred to runtime to allow Vercel env vars)
+- Database queries on city hub show real empty-state UI when no listings exist (correct from day one per Phase 4)
+
+**Deployment status:**
+- ✅ Live at **https://muslimsincanada.com** and https://muslimsincanada.vercel.app
+- ✅ GitHub repo pushed (https://github.com/faisalaiagent-hub/muslimsincanada)
+- ⚠️ **ACTION REQUIRED:** Add Vercel environment variables for Supabase:
+  - `NEXT_PUBLIC_SUPABASE_URL` (from Supabase Project Settings → API)
+  - `NEXT_PUBLIC_SUPABASE_ANON_KEY` (from Supabase Project Settings → API)
+  - `SUPABASE_SERVICE_ROLE_KEY` (from Supabase Project Settings → API → service_role secret)
+  
+  Go to https://vercel.com/appssensation/muslimsincanada/settings/environment-variables and add all three to Production. App will query the live database once env vars are in place.
+
+**What's next for Cowork:**
+- Ingestion engine: seed initial data into database (OSM mosque records, CRA charity data for Toronto) — once ingestion populates listings, the city hub will render real content
+- Phase 3 remaining pages: full listing pages (`/toronto/mosques/[slug]`), business pages with halal cert badges, event pages, resources, search/map
+
+**What's next for Claude Code (if Faisal decides to continue):**
+- Once env vars are set on Vercel, test city hub queries against live data
+- Build remaining city hub sub-pages (mosques list, businesses list, events list)
+- Implement search and map pages (per Phase 3 sitemap)
+
+---
+
 ### 2026-08-18 — Cowork
 **Database is live.** Provisioned a dedicated Supabase project (`muslimsincanada`, region `ca-central-1` — Canadian data residency, on the free tier, $0/month) and applied the full Phase 4 schema directly.
 
