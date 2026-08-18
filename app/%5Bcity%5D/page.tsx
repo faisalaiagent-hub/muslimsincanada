@@ -1,6 +1,8 @@
 import { supabase } from '@/lib/supabase'
 import Link from 'next/link'
 
+export const dynamic = 'force-dynamic'
+
 interface CityPageProps {
   params: {
     city: string
