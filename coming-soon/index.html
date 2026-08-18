@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MuslimsInCanada.com — The Digital Home for Canada's Muslim Community</title>
+<meta name="description" content="MuslimsInCanada.com is coming soon: a continuously updated, trusted, location-aware home for mosques, events, businesses, jobs and resources across Canada's Muslim community.">
+<style>
+  :root {
+    --ink: #0f1720;
+    --muted: #5b6672;
+    --line: #e6e9ec;
+    --accent: #0f6e5c;
+    --accent-soft: #e7f3f0;
+    --bg: #fbfaf8;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  header {
+    padding: 28px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1040px;
+    margin: 0 auto;
+    width: 100%;
+  }
+  .brand {
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: -0.01em;
+  }
+  .brand span { color: var(--accent); }
+  main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 24px 80px;
+  }
+  .card {
+    max-width: 640px;
+    text-align: center;
+  }
+  .eyebrow {
+    display: inline-block;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 13px;
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 999px;
+    margin-bottom: 24px;
+    letter-spacing: 0.02em;
+  }
+  h1 {
+    font-size: clamp(32px, 5vw, 48px);
+    line-height: 1.1;
+    margin: 0 0 18px;
+    letter-spacing: -0.02em;
+  }
+  p.lede {
+    color: var(--muted);
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0 0 36px;
+  }
+  form {
+    display: flex;
+    gap: 10px;
+    max-width: 420px;
+    margin: 0 auto 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  input[type="email"] {
+    flex: 1;
+    min-width: 220px;
+    padding: 13px 16px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    font-size: 15px;
+    background: #fff;
+  }
+  button {
+    padding: 13px 22px;
+    border-radius: 8px;
+    border: none;
+    background: var(--accent);
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .note {
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .pillars {
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+    margin-top: 56px;
+    flex-wrap: wrap;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .pillars div { max-width: 150px; }
+  .pillars strong { display: block; color: var(--ink); font-size: 15px; margin-bottom: 4px; }
+  footer {
+    text-align: center;
+    padding: 24px;
+    color: var(--muted);
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="brand">Muslims<span>In</span>Canada.com</div>
+  </header>
+  <main>
+    <div class="card">
+      <span class="eyebrow">Building in the open — launching city by city</span>
+      <h1>The digital home for Canada's Muslim community.</h1>
+      <p class="lede">Mosques, events, businesses, jobs and community resources — kept current automatically, in one trusted place. We're building it starting with the GTA.</p>
+      <form onsubmit="return false;">
+        <input type="email" placeholder="you@email.com" aria-label="Email address" required>
+        <button type="submit">Notify me</button>
+      </form>
+      <p class="note">No spam. One email when we launch in your city.</p>
+      <div class="pillars">
+        <div><strong>Always current</strong>Continuously updated from real community sources</div>
+        <div><strong>City by city</strong>Starting in the GTA, built to reach every major community</div>
+        <div><strong>Built for everyone</strong>Every madhhab, background and language welcome</div>
+      </div>
+    </div>
+  </main>
+  <footer>&copy; 2026 MuslimsInCanada.com — in active development.</footer>
+</body>
+</html>
