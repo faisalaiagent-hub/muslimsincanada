@@ -2,9 +2,9 @@
   "compilerOptions": {
     "target": "es2017",
     "lib": ["es2017", "dom", "dom.iterable"],
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "module": "esnext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "allowJs": true,
     "strict": true,
@@ -16,7 +16,6 @@
     "declarationMap": true,
     "incremental": true,
     "isolatedModules": true,
-    "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
     }
