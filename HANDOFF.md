@@ -33,13 +33,21 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 - City hub: https://muslimsincanada.com/toronto
 - Vercel: https://muslimsincanada.vercel.app
 
-**Latest (Session 3 continued — Mosque Detail Pages):**
-- ✅ Created `/[city]/mosques/[slug]` route
-- ✅ Full mosque profile: prayer times, facilities, contact info, website
-- ✅ Data source & verification info displayed
-- ✅ Report/claim buttons (CTAs ready for moderation flow)
-- ✅ Linked from city hub mosque cards (click name → detail page)
-- ✅ Deployed and live
+**Latest (Session 3 continued — Complete Detail Page Suite):**
+✅ **All three detail page templates live and linked:**
+- `/[city]/mosques/[slug]` — Prayer times, facilities, contact, website, claim button
+- `/[city]/businesses/[slug]` — Category, halal certification, hours, contact, halal certifier link
+- `/[city]/events/[slug]` — Date/time, location (online/in-person), family-friendly flag, add-to-calendar
+
+**Full user journey now working:**
+```
+Homepage → City Hub → Click any listing → 
+  Mosque Detail (prayer times, facilities)
+  Business Detail (halal cert, hours, contact)
+  Event Detail (date/time, location, RSVP-ready)
+```
+
+All pages show data source, verification confidence, and report CTAs. Deployed and live.
 
 **What's next (Phase 3 remaining):**
 1. Business detail pages (template reusable pattern)
