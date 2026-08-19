@@ -33,13 +33,23 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 - City hub: https://muslimsincanada.com/toronto
 - Vercel: https://muslimsincanada.vercel.app
 
+**Latest (Session 3 continued — Mosque Detail Pages):**
+- ✅ Created `/[city]/mosques/[slug]` route
+- ✅ Full mosque profile: prayer times, facilities, contact info, website
+- ✅ Data source & verification info displayed
+- ✅ Report/claim buttons (CTAs ready for moderation flow)
+- ✅ Linked from city hub mosque cards (click name → detail page)
+- ✅ Deployed and live
+
 **What's next (Phase 3 remaining):**
-1. Search page with filters (category, distance, halal-certified, etc.)
-2. Listing detail pages (mosque detail, business detail, event detail, organization detail)
-3. Map view (city-level clustering, neighbourhood zoom)
-4. Submission flow (one unified form, branching by content type)
-5. AI assistant page (`/ask`) with grounded answers
-6. Admin dashboard (`/admin`) for moderation queue
+1. Business detail pages (template reusable pattern)
+2. Event detail pages (with add-to-calendar)
+3. Organization detail pages
+4. Search page with filters (category, distance, halal-certified, etc.)
+5. Map view (city-level clustering, neighbourhood zoom)
+6. Submission flow (one unified form, branching by content type)
+7. AI assistant page (`/ask`) with grounded answers
+8. Admin dashboard (`/admin`) for moderation queue
 
 ---
 
