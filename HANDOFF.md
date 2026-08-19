@@ -4,28 +4,42 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 
 ---
 
-### 2026-08-18 — Claude Code (Session 3 — Design System Live)
-**✅ Design system built & deployed!** Installed Tailwind CSS v4 + Shadcn/ui, created reusable component library (card, button, input, select, badge). Redesigned homepage with modern gradient backgrounds, hero section with city selector, email signup, and trust indicators. App now live at https://muslimsincanada.com with the new design.
+### 2026-08-18 — Claude Code (Session 3 — Database Connected & Live! 🎉)
+**✅ COMPLETE:** Design system built, Supabase credentials wired, Toronto city hub showing 3 real mosques.
 
-**Homepage features (live now):**
-- Hero with natural-language search bar
-- City selector dropdown (Toronto, Mississauga, Brampton)
-- Email notification signup with validation
-- Three-pillar value cards (Always current, City by city, Built for everyone)
-- Trust strip explaining data freshness
-- Modern, warm aesthetic per Phase 3 design spec
+**What's live now:**
+1. **Homepage** — Modern, warm design with city selector, email signup, trust indicators
+2. **Toronto City Hub** — Displays live data from Supabase:
+   - ✅ **Jami Mosque** (56 Boustead Ave, Toronto — oldest mosque in city)
+   - ✅ **Baitul Mukarram Islamic Society** (3340 Danforth Ave, Scarborough)
+   - ✅ **Islamic Centre of Canada** (2200 South Sheridan Way, Mississauga)
+   - Stats dashboard showing verified counts
+   - Event/business previews (empty on first deployment, will populate as Cowork adds data)
 
-**Current state:**
-- ✅ Homepage live and styled
-- ✅ Toronto city hub page exists but returns empty (no data yet)
-- ⚠️ **BLOCKING:** Supabase env vars still not added to Vercel
-  - Without these, the city hub can't query the 3 real mosques Cowork seeded
-  - Env vars needed in Vercel Production: `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`
-  - Once added: redeploy with `vercel deploy --prod`, then city hub will show the 3 live listings
+**Technical accomplishments:**
+- ✅ Tailwind CSS v4 + Shadcn/ui design system (8 components, consistent theme)
+- ✅ Supabase client integration (`@supabase/supabase-js`)
+- ✅ Added env vars to Vercel Production: `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`
+- ✅ City hub queries live database (async server component, dynamic rendering)
+- ✅ Responsive design, icons (Lucide), freshness badges
 
-**GitHub commit:** `a8665af` (Build modern design system with Tailwind + Shadcn/ui)
+**GitHub commits:** 
+- `a8665af` - Design system with Tailwind + Shadcn/ui
+- `87d6322` - Supabase env vars in HANDOFF
+- `0afa99e` - City hub redesign with real database queries
 
-**Next session:** Add Supabase credentials to Vercel, redeploy, verify city hub shows 3 real mosques, then build remaining Phase 3 pages (search, listing detail pages, submission flow).
+**Live URLs:**
+- Homepage: https://muslimsincanada.com
+- City hub: https://muslimsincanada.com/toronto
+- Vercel: https://muslimsincanada.vercel.app
+
+**What's next (Phase 3 remaining):**
+1. Search page with filters (category, distance, halal-certified, etc.)
+2. Listing detail pages (mosque detail, business detail, event detail, organization detail)
+3. Map view (city-level clustering, neighbourhood zoom)
+4. Submission flow (one unified form, branching by content type)
+5. AI assistant page (`/ask`) with grounded answers
+6. Admin dashboard (`/admin`) for moderation queue
 
 ---
 
