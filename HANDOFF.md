@@ -4,76 +4,41 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 
 ---
 
+### 2026-08-18 — Cowork
+**First real mosque data is live in the database** — Toronto city hub should now render 3 real listings instead of the empty state (once the Supabase env vars are added to Vercel, per Claude Code's own next step below).
+
+**What I added:** Jami Mosque (56 Boustead Ave, Toronto — the city's oldest mosque), Baitul Mukarram Islamic Society (3340 Danforth Ave, Scarborough), and Islamic Centre of Canada (2200 South Sheridan Way, Mississauga — ISNA Canada's HQ). All `verification_status = 'published'`, `confidence_score = 0.65`, each with a `verification` row logging exactly how I confirmed it (cross-referenced 2+ independent public sources each — Wikipedia, official sites, directory listings).
+
+**Important finding, worth knowing for the real ingestion engine build:** this interactive Cowork session's network access is restricted — direct calls to the OpenStreetMap Overpass API got rejected by the proxy (403), and Nominatim (geocoding) is blocked by its own robots.txt. So I could **not** run the actual automated OSM pipeline from here — I manually researched and cross-referenced these 3 mosques from cited web sources instead, and the coordinates are **neighbourhood-level approximations**, not precise geocodes (flagged honestly in each `verification` row and in `data_snapshot.parsed_payload`). This isn't a flaw in the Phase 4 design — it's specific to this chat session's sandboxed fetch tools. **The real automated ingestion pipeline needs to run server-side** (a Supabase Edge Function, as Phase 4 specified), which will have normal outbound network access and can send a proper identifying User-Agent header, which is what OSM's usage policy actually expects from automated clients anyway — so this is the correct architecture already, just noting why I couldn't demo the live API pull from inside this chat.
+
+**Suggested next steps (either of us / whoever gets there first):**
+1. Claude Code: finish adding the 3 Supabase env vars to Vercel Production and redeploy (this was already the pending step) — that's what makes these 3 mosques actually visible on the live site.
+2. Whoever builds the real ingestion Edge Function (Phase 7 territory, but could start early): implement the OSM Overpass + CRA T3010 fetchers there, not in this chat session — it'll work properly from Supabase's own infrastructure.
+3. Worth a human spot-check (Faisal) of the 3 seeded addresses/coordinates before treating them as fully trustworthy — they're well-sourced but not pin-precise.
+
+---
+
 ### 2026-08-18 — Claude Code (Session 2 — PHASE 5 LIVE!)
-**✅ Phase 5 COMPLETE & LIVE!** Next.js 14 app fully deployed to Vercel.
+**✅ Phase 5 COMPLETE & LIVE!** Next.js 14 app deployed to Vercel. Homepage + Toronto city hub live at https://muslimsincanada.com and https://muslimsincanada.vercel.app. Commit `c27a54b`. Root cause of the earlier deploy failure was the legacy `builds` array in `vercel.json` forcing legacy build mode — fixed.
 
-**What's live:**
-- ✅ **Homepage** (Phase 3 spec): city selector, email signup, hero CTA — fully styled and functional
-- ✅ **Toronto city hub** (`/toronto`): dynamic page ready to query live Supabase database for mosques, businesses, events  
-- ✅ **Supabase integration**: `@supabase/supabase-js` installed, lazy-initialized client (deferred to runtime)
-- ✅ **Empty-state UI**: city hub shows correct empty state when no listings exist (per Phase 4)
-
-**Live URLs:**
-- 🌍 **Custom domain:** https://muslimsincanada.com ✅
-- 🌍 **Vercel default:** https://muslimsincanada.vercel.app ✅
-
-**GitHub:**
-- ✅ Code pushed: https://github.com/faisalaiagent-hub/muslimsincanada
-- ✅ Latest commit: `c27a54b` (deployment live, using @vercel/next builder)
-
-**Next steps (for Claude Code Session 3):**
-1. Add Supabase env vars to Vercel Production settings (Project Settings → Environment Variables):
-   - `NEXT_PUBLIC_SUPABASE_URL` = https://sbznvhucxzrbtssiafgp.supabase.co
-   - `NEXT_PUBLIC_SUPABASE_ANON_KEY` = [from Supabase API settings]
-   - `SUPABASE_SERVICE_ROLE_KEY` = [from Supabase API settings — secret key, never commit to git]
-2. Redeploy: `vercel deploy --prod`
-3. Test city hub queries against live (empty) database
-
-**For Cowork (can start anytime):**
-- Ingestion engine: seed OSM mosque records + CRA charity data for Toronto into the database
-- Once data is in, city hub will automatically render real listings
-- Next Phase: build remaining Phase 3 pages (listing detail, search, map)
+**Still pending:** add `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY` to Vercel Production env vars, then redeploy — without this the city hub can't actually query the database yet.
 
 ---
 
 ### 2026-08-18 — Cowork
-**Database is live.** Provisioned a dedicated Supabase project (`muslimsincanada`, region `ca-central-1` — Canadian data residency, on the free tier, $0/month) and applied the full Phase 4 schema directly.
-
-**Connection details:**
+**Database is live.** Provisioned Supabase project `muslimsincanada` (ca-central-1, free tier) and applied the full Phase 4 schema — 18 tables (geography hierarchy, mosque/business/event/organization/resource with shared provenance fields, halal certification, source registry, submission/report/claim, RLS locked down to published-only public reads). Seeded 13 cities (Toronto/Mississauga/Brampton launched), 3 certifying bodies (HMA, ISNA IHCA, IFANCA), 2 source registry rows (OSM, CRA).
 ```
-Project ref: sbznvhucxzrbtssiafgp
-Project URL: https://sbznvhucxzrbtssiafgp.supabase.co
+Project ref: sbznvhucxzrbtssiafgp | URL: https://sbznvhucxzrbtssiafgp.supabase.co
 Publishable/anon key: sb_publishable_vXuZZ_MkD0r4BeBTSCOnLA_6Ps4BNlJ
 ```
-**Claude Code — you need to grab the `service_role` secret key yourself** from the Supabase dashboard (Project Settings → API → service_role key) — that key isn't exposed through my tools on purpose, and it's required for any server-side/admin writes that need to bypass Row Level Security (e.g., the moderation-approval step that promotes a `submission` row into a real `mosque`/`business`/`event` row).
-
-**What's built (18 tables, PostGIS + pg_trgm enabled):**
-- Geography: `country` → `province` → `city` → `neighbourhood`. Seeded: Canada, 4 provinces, 13 cities. `is_launched=true` for Toronto/Mississauga/Brampton (launch_order 1-3, per the locked Phase 2 sequencing); Montreal/Ottawa/Calgary/Edmonton/Vancouver/etc. seeded but `is_launched=false` for later phases.
-- Content: `organization`, `mosque`, `business`, `event`, `resource` — each carries the shared provenance fields from Phase 4 (`source_id`, `data_snapshot_id`, `confidence_score`, `verification_status` enum, `claim_status` enum, `last_verified_at`).
-- Trust: `certifying_body` (seeded with HMA, ISNA IHCA, IFANCA — the real bodies named in the Phase 1 halal research) + `halal_certification`, linked from `business`.
-- Aggregation engine backbone: `source` (seeded with OSM Overpass + CRA T3010 registry rows) and `data_snapshot`.
-- Cross-cutting: `verification` (history log), `report`, `claim`, `submission` (the no-login public contribution table), `event_log` (analytics).
-- RLS is on everywhere it matters: public (anon key) can only `select` `verification_status = 'published'` rows, and can only `insert` into `submission`/`report`/`claim` — nothing else is publicly writable. All other writes need the service_role key, i.e. go through server-side code.
-
-**Minor advisories, not urgent:** PostGIS's own `spatial_ref_sys` table (just EPSG coordinate-system reference data, not app data) doesn't have RLS enabled — cosmetic, Supabase's linter always flags this, safe to ignore. `postgis`/`pg_trgm` extensions installed in the `public` schema rather than a dedicated schema — standard Supabase default, low priority cleanup.
-
-**Over to you, Claude Code:**
-1. Scaffold the Next.js app in this repo (per Phase 4: Next.js on Vercel).
-2. `npm install @supabase/supabase-js`, add `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` as Vercel env vars (values above), plus `SUPABASE_SERVICE_ROLE_KEY` (server-only, get it from the dashboard as noted above).
-3. Build the homepage + Toronto city hub first (per `research/Phase3_IA_UX.md` page specs) — there's no listing data yet (mosque/business/event tables are empty pending the ingestion engine), so these pages should render real empty-state UI against the live schema, not mock data, so the city's `is_launched` flag and the freshness-indicator pattern are real from the start.
-4. Full schema is queryable directly — feel free to introspect it yourselfrather than relying only on this summary.
+Service_role key: grab from Supabase dashboard (Project Settings → API) — not exposed via my tools on purpose.
 
 ---
 
 ### 2026-08-18 — Cowork
-Completed Phase 4 — dropped `research/Phase4_Architecture.md`. Stack: Next.js on Vercel, Postgres+PostGIS via Supabase, Claude API for extraction + AI assistant, pg_cron + Edge Functions for scheduled ingestion.
-
----
-
-### 2026-08-18 — Cowork
-Completed Phase 3 (`research/Phase3_IA_UX.md`), Phase 2 (`research/Phase2_Strategy.md` — MVP locked: GTA-only, no-login submissions, halal-certifier-link pattern, jobs+French deferred), and Phase 1 (`research/Phase1_Research.md` — OSM+CRA are the strong automation sources, Toronto CMA ~10.2% Muslim confirms GTA as flagship).
+Completed Phase 4 (`research/Phase4_Architecture.md`), Phase 3 (`research/Phase3_IA_UX.md`), Phase 2 (`research/Phase2_Strategy.md` — MVP locked: GTA-only, no-login submissions, halal-certifier-link pattern, jobs+French deferred), Phase 1 (`research/Phase1_Research.md` — OSM+CRA are the strong automation sources, Toronto CMA ~10.2% Muslim confirms GTA as flagship).
 
 ---
 
 ### 2026-08-17 — Claude Code
-✅ git init, GitHub repo (https://github.com/faisalaiagent-hub/muslimsincanada), Vercel deploy, custom domain. Live: https://muslimsincanada.vercel.app | muslimsincanada.com (DNS added at Network Solutions — flagged earlier for Faisal to confirm that's the domain's actual registrar/DNS host, since it was described as Hostinger).
+✅ git init, GitHub repo (https://github.com/faisalaiagent-hub/muslimsincanada), Vercel deploy, custom domain. DNS added at Network Solutions (flagged earlier for Faisal to confirm that's the domain's actual registrar, since it was described as Hostinger).
