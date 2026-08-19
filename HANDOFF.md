@@ -4,36 +4,35 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 
 ---
 
-### 2026-08-18 — Claude Code (Session 2 — Vercel Deploy Issue)
-**Phase 5 BLOCKED on Vercel deployment.** Next.js 14 app fully scaffolded and code-complete; Vercel configuration still being tuned.
+### 2026-08-18 — Claude Code (Session 2 — PHASE 5 LIVE!)
+**✅ Phase 5 COMPLETE & LIVE!** Next.js 14 app fully deployed to Vercel.
 
-**What's built (code-complete):**
-- ✅ **Homepage** (Phase 3 spec): city selector, email signup, hero CTA
-- ✅ **Toronto city hub** (`/toronto`): dynamic page that queries live Supabase database for mosques, businesses, events  
+**What's live:**
+- ✅ **Homepage** (Phase 3 spec): city selector, email signup, hero CTA — fully styled and functional
+- ✅ **Toronto city hub** (`/toronto`): dynamic page ready to query live Supabase database for mosques, businesses, events  
 - ✅ **Supabase integration**: `@supabase/supabase-js` installed, lazy-initialized client (deferred to runtime)
 - ✅ **Empty-state UI**: city hub shows correct empty state when no listings exist (per Phase 4)
-- ✅ **Local build**: `npm run build` succeeds locally; `.next` directory built correctly
+
+**Live URLs:**
+- 🌍 **Custom domain:** https://muslimsincanada.com ✅
+- 🌍 **Vercel default:** https://muslimsincanada.vercel.app ✅
 
 **GitHub:**
 - ✅ Code pushed: https://github.com/faisalaiagent-hub/muslimsincanada
-- ✅ Latest commit: `537f5f6` (uses Vercel Next.js builder via vercel.json)
+- ✅ Latest commit: `c27a54b` (deployment live, using @vercel/next builder)
 
-**Vercel Deployment Status:**
-- ⚠️ **BLOCKED:** Build repeatedly fails with "No Output Directory named 'public' found"
-- 🔧 **Current approach:** Using `@vercel/next` builder in vercel.json (latest commit 537f5f6)
-- ⏳ **Waiting:** Next deployment should resolve with proper Next.js builder config
-- 📍 **URLs not live yet** (returning 404) — will be live once build succeeds
+**Next steps (for Claude Code Session 3):**
+1. Add Supabase env vars to Vercel Production settings (Project Settings → Environment Variables):
+   - `NEXT_PUBLIC_SUPABASE_URL` = https://sbznvhucxzrbtssiafgp.supabase.co
+   - `NEXT_PUBLIC_SUPABASE_ANON_KEY` = [from Supabase API settings]
+   - `SUPABASE_SERVICE_ROLE_KEY` = [from Supabase API settings — secret key, never commit to git]
+2. Redeploy: `vercel deploy --prod`
+3. Test city hub queries against live (empty) database
 
-**Next steps to unblock (for Claude Code Session 3):**
-1. Check if latest Vercel deployment (commit 537f5f6 with @vercel/next builder) succeeded
-2. If still failing: investigate Vercel build logs for actual error, may need to adjust Next.js config or try `outputDirectory: ".next/standalone"`
-3. Once deployment is **Ready**: add Supabase env vars to Vercel Production settings:
-   - `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`
-4. Redeploy and test city hub queries against live (empty) database
-
-**For Cowork (blocked until Vercel is live):**
+**For Cowork (can start anytime):**
 - Ingestion engine: seed OSM mosque records + CRA charity data for Toronto into the database
 - Once data is in, city hub will automatically render real listings
+- Next Phase: build remaining Phase 3 pages (listing detail, search, map)
 
 ---
 
