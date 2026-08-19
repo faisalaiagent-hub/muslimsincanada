@@ -185,24 +185,32 @@ export default async function CityHub({ params }: CityPageProps) {
           {events && events.length > 0 ? (
             <div className="space-y-4">
               {events.map((event) => (
-                <Card key={event.id} className="bg-white border-line p-6 hover:shadow-md transition">
-                  <div className="flex items-start justify-between">
-                    <div>
-                      <h3 className="font-semibold text-ink text-lg mb-2">{event.name}</h3>
-                      <div className="flex items-center gap-2 text-sm text-muted">
-                        <Calendar className="w-4 h-4" />
-                        <span>{new Date(event.event_date).toLocaleDateString('en-US', {
-                          weekday: 'short',
-                          month: 'short',
-                          day: 'numeric',
-                          hour: '2-digit',
-                          minute: '2-digit'
-                        })}</span>
+                <Link
+                  key={event.id}
+                  href={`/${params.city}/events/${event.slug}`}
+                  className="group"
+                >
+                  <Card className="bg-white border-line p-6 hover:shadow-md transition cursor-pointer">
+                    <div className="flex items-start justify-between">
+                      <div>
+                        <h3 className="font-semibold text-ink text-lg mb-2 group-hover:text-accent transition">
+                          {event.name}
+                        </h3>
+                        <div className="flex items-center gap-2 text-sm text-muted">
+                          <Calendar className="w-4 h-4" />
+                          <span>{new Date(event.event_date).toLocaleDateString('en-US', {
+                            weekday: 'short',
+                            month: 'short',
+                            day: 'numeric',
+                            hour: '2-digit',
+                            minute: '2-digit'
+                          })}</span>
+                        </div>
                       </div>
+                      {event.is_free && <Badge className="bg-accent-soft text-accent border-0">Free</Badge>}
                     </div>
-                    {event.is_free && <Badge className="bg-accent-soft text-accent border-0">Free</Badge>}
-                  </div>
-                </Card>
+                  </Card>
+                </Link>
               ))}
             </div>
           ) : (
@@ -223,16 +231,29 @@ export default async function CityHub({ params }: CityPageProps) {
           {businesses && businesses.length > 0 ? (
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {businesses.map((business) => (
-                <Card key={business.id} className="bg-white border-line p-6 hover:shadow-md transition">
-                  <h3 className="font-semibold text-ink mb-2 text-lg">{business.name}</h3>
-                  <p className="text-sm text-muted mb-4">{business.category}</p>
-                  {business.address && (
-                    <div className="flex items-start gap-2 text-sm text-muted">
-                      <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                      <span>{business.address}</span>
-                    </div>
-                  )}
-                </Card>
+                <Link
+                  key={business.id}
+                  href={`/${params.city}/businesses/${business.slug}`}
+                  className="group"
+                >
+                  <Card className="bg-white border-line p-6 hover:shadow-md transition cursor-pointer h-full">
+                    <h3 className="font-semibold text-ink mb-2 text-lg group-hover:text-accent transition">
+                      {business.name}
+                    </h3>
+                    <p className="text-sm text-muted mb-4">{business.category}</p>
+                    {business.halal_certified && (
+                      <Badge className="bg-green-100 text-green-700 border-0 mb-4">
+                        Halal Certified
+                      </Badge>
+                    )}
+                    {business.address && (
+                      <div className="flex items-start gap-2 text-sm text-muted">
+                        <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                        <span>{business.address}</span>
+                      </div>
+                    )}
+                  </Card>
+                </Link>
               ))}
             </div>
           ) : (
