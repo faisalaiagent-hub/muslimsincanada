@@ -4,6 +4,35 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 
 ---
 
+### 2026-08-19 — Claude Code (Session 4 — CRITICAL BLOCKER: Vercel Deployment Not Serving)
+🚨 **BLOCKER:** Build succeeds and routes are correctly recognized, but Vercel isn't serving any pages (404/302 errors). This requires Vercel dashboard access to diagnose.
+
+**What we know:**
+- ✅ Code is correct: directories renamed from `%5Bcity%5D` → `[city]`, committed to GitHub
+- ✅ Builds complete successfully (22s, READY state) with all routes recognized by Next.js
+- ✅ Routes manifest (`routes-manifest.json`) shows all dynamic and static routes correctly registered
+- ✅ DNS resolves `muslimsincanada.com` → `76.76.21.21` (Vercel IP)
+- ❌ Custom domain returns `404 NOT_FOUND` (from Vercel server)
+- ❌ `.vercel.app` URL returns `302 redirect to vercel.com/sso-api` (project protection enabled?)
+
+**Root cause:** Vercel project settings or deployment configuration is preventing the site from being served publicly. Possibly:
+1. Project Protection (password) is enabled on the `.vercel.app` domain
+2. Vercel Edge cache is misconfigured
+3. Production deployment settings are wrong
+
+**Required next steps (user action):**
+1. Log into Vercel dashboard → https://vercel.com/appssensation/muslimsincanada
+2. Check **Project Settings → Protected Branches / Protection** — disable any password protection
+3. Check **Settings → Environment** — ensure Production env vars for Supabase are set correctly
+4. Check **Deployments** tab → inspect the latest deployment logs for errors
+5. If still failing, try: **Settings → Redeploy → Force Redeploy** (or delete project and recreate)
+
+**Commits related to this session:**
+- `50c5232` - Remove vercel.json: Let Vercel auto-detect
+- `b601eb4` - Fix: Rename URL-encoded directory names to proper Next.js dynamic route syntax
+
+---
+
 ### 2026-08-19 — Claude Code (Session 3 continued — Search Page Live)
 ✅ **Search page** — `/search` route now live and fully functional.
 
