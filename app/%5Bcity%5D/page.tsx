@@ -147,16 +147,24 @@ export default async function CityHub({ params }: CityPageProps) {
           {mosques && mosques.length > 0 ? (
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {mosques.map((mosque) => (
-                <Card key={mosque.id} className="bg-white border-line p-6 hover:shadow-md transition">
-                  <h3 className="font-semibold text-ink mb-3 text-lg">{mosque.name}</h3>
-                  <div className="flex items-start gap-2 text-sm text-muted mb-4">
-                    <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                    <span>{mosque.address}</span>
-                  </div>
-                  <Badge className="bg-accent-soft text-accent border-0">
-                    Verified
-                  </Badge>
-                </Card>
+                <Link
+                  key={mosque.id}
+                  href={`/${params.city}/mosques/${mosque.slug}`}
+                  className="group"
+                >
+                  <Card className="bg-white border-line p-6 hover:shadow-md transition cursor-pointer h-full">
+                    <h3 className="font-semibold text-ink mb-3 text-lg group-hover:text-accent transition">
+                      {mosque.name}
+                    </h3>
+                    <div className="flex items-start gap-2 text-sm text-muted mb-4">
+                      <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                      <span>{mosque.address}</span>
+                    </div>
+                    <Badge className="bg-accent-soft text-accent border-0">
+                      Verified
+                    </Badge>
+                  </Card>
+                </Link>
               ))}
             </div>
           ) : (
