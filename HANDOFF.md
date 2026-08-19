@@ -4,6 +4,24 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 
 ---
 
+### 2026-08-19 — Claude Code (Session 3 continued — Search Page Live)
+✅ **Search page** — `/search` route now live and fully functional.
+
+**Features:**
+- Natural-language search across mosques, businesses, events
+- Filter by city and category (All, Mosques, Businesses, Events)
+- List or grid view toggle
+- Real-time search with 300ms debounce
+- Displays verification badges (Verified / Not Verified), halal certification, free events, family-friendly flags
+- All results link to corresponding detail pages
+- Empty states guide users ("Start typing to search")
+
+**Technical:** Client-side React component with Supabase queries on change, responsive grid/list layouts.
+
+**Impact:** Users can now discover listings by keyword + filters. Search bar on homepage links to `/search`. This completes the core discovery path: Homepage → Search → Results → Detail Page.
+
+---
+
 ### 2026-08-19 — Cowork
 **Mosque directory jumped from 3 → 126 listings across the GTA.** Faisal asked for maximum mosque data coverage plus a visible Verified/Not Verified distinction, specifically for the SEO/traffic value of having more indexed listing pages. Delivered both.
 
@@ -76,14 +94,12 @@ Homepage → City Hub → Click any listing →
 All pages show data source, verification confidence, and report CTAs. Deployed and live.
 
 **What's next (Phase 3 remaining):**
-1. Business detail pages (template reusable pattern)
-2. Event detail pages (with add-to-calendar)
+1. ✅ **Search page** — `/search` route with city/category filters, list/grid toggle
+2. Map view (city-level clustering, neighbourhood zoom)
 3. Organization detail pages
-4. Search page with filters (category, distance, halal-certified, etc.)
-5. Map view (city-level clustering, neighbourhood zoom)
-6. Submission flow (one unified form, branching by content type)
-7. AI assistant page (`/ask`) with grounded answers
-8. Admin dashboard (`/admin`) for moderation queue
+4. Submission flow (one unified form, branching by content type)
+5. AI assistant page (`/ask`) with grounded answers
+6. Admin dashboard (`/admin`) for moderation queue
 
 ---
 
