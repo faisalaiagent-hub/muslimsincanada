@@ -4,6 +4,32 @@ Shared log between Cowork (research/architecture/content) and Claude Code (git/V
 
 ---
 
+### 2026-08-19 — Cowork
+**Mosque directory jumped from 3 → 126 listings across the GTA.** Faisal asked for maximum mosque data coverage plus a visible Verified/Not Verified distinction, specifically for the SEO/traffic value of having more indexed listing pages. Delivered both.
+
+**What I added:** Researched 6 GTA sub-regions (Toronto core/downtown, North York, Scarborough, Etobicoke, Mississauga, Brampton) via WebSearch/WebFetch, cross-referencing every candidate against 2+ independent public sources (Muslim Link, Zabihah, official mosque sites, YellowPages, 30masjids.ca, HalalTrip, PrayersConnect, CanadaHelps charity registry, and others). Deduplicated against the existing 3 mosques and against each other, then inserted **123 new mosque rows**:
+- **100 set to `published`** (shown as "Verified") — each cross-referenced across 3+ independent sources agreeing on name and address.
+- **23 set to `validating`** (shown as "Not Verified") — 1–2 sources only, and/or an unresolved address/status conflict (e.g. street-number discrepancies, a listing flagged possibly-closed). Each has the specific reason logged in its `verification` row.
+- **7 candidates were excluded entirely** rather than published with guessed data: Regent Park Islamic Resource Center (Toronto — no confirmable current address), Abdullah Ibn Abbas Islamic Centre (Toronto — single source only), Istiqamah Islamic Centre of Ontario (Mississauga — Yelp shows "CLOSED" as of Sept 2025), Uyghur Mosque (Mississauga — community's own site says they relocated to Troy, ON in 2021), Malton Musallah, Iqbal Musallah, and Friday Masjid (all Mississauga — address unconfirmable or likely not a standalone institution). Worth a follow-up research pass if you want these resolved rather than dropped.
+
+**Region breakdown (published / not-verified):** Toronto core 12/2, North York 12/7, Scarborough 16/8, Etobicoke 13/3, Mississauga 27/3, Brampton 20/0.
+
+**RLS policy changed:** `mosque`'s public SELECT policy now allows `verification_status IN ('published', 'validating')`, not just `published`. This was a deliberate, explicit decision to satisfy Faisal's ask — previously "Not Verified" listings weren't publicly visible at all. **Front-end implication for whoever builds the mosque list/detail UI:** please make sure `validating` rows render with a clear "Not Verified" badge (not styled the same as `published`/"Verified") — otherwise this reads as false precision, which conflicts with the North Star's provenance principle. If any UI already has a confidence/freshness badge system, wiring it to `verification_status` directly should cover this.
+
+**Ahmadiyya Muslim Community mosques — included, per Faisal's explicit decision:** 3 of the 6 regional research passes independently surfaced Ahmadiyya institutions (Masjid Mubarak in Brampton — 5+ sources, `published`; Baitul Hamd Mosque in Mississauga — 2 sources, `validating`; 3 prayer rooms in Etobicoke — 1 source each, `validating`). I flagged this to Faisal as a genuine editorial question (mainstream Sunni/Shia directories generally exclude Ahmadiyya institutions over contested "who counts as Muslim" theology; MIC's North Star principle is "inclusive by design, no madhhab bias"). **Faisal chose: include them, clearly labeled.** They're tagged via `facilities->>'affiliation' = 'Ahmadiyya Muslim Community'`. Same pattern used for a few Shia/Ismaili/Sufi institutions already in the data (`facilities->>'tradition'`, e.g. "Shia", "Shia Ismaili", "Sufi (Jerrahi Order)"). **Front-end implication:** if `facilities` has an `affiliation` or `tradition` key, surface it as a small visible tag on the listing — this is a provenance/transparency requirement, not a nice-to-have.
+
+**Same network-access caveat as before applies to this whole batch:** this Cowork session still can't call OSM Overpass/Nominatim directly, so all 123 coordinates are neighbourhood/street-level approximations (documented in each region's `data_snapshot.parsed_payload`), not precise geocodes. Names/addresses/phones/websites are real and sourced; pin locations on a map will be close but not exact until the real server-side ingestion engine (Phase 7, Supabase Edge Function) replaces them with proper geocodes.
+
+**New source/provenance rows:** one `source` row (`manual`, reliability 0.6) + 6 `data_snapshot` rows (one per region, each documenting its specific source list) + 123 `verification` rows (one per mosque, logging the specific confidence reasoning).
+
+**Suggested next steps:**
+1. Front-end: confirm the mosque list/detail pages visually distinguish Verified vs. Not Verified, and surface `facilities.affiliation`/`facilities.tradition` tags where present (see above).
+2. Worth extending the same `published`+`validating` public-read policy to `organization`/`business`/`event`/`resource` once those verticals get populated, for consistency and the same SEO rationale — not urgent since they're still empty.
+3. A human spot-check of the `validating` entries (23 of them, listed with their specific discrepancy in each `verification.reason`) would be valuable before fully trusting them, though they're already live and indexable.
+4. The 7 excluded candidates above are a small, well-defined follow-up list if more coverage is wanted later.
+
+---
+
 ### 2026-08-18 — Claude Code (Session 3 — Database Connected & Live! 🎉)
 **✅ COMPLETE:** Design system built, Supabase credentials wired, Toronto city hub showing 3 real mosques.
 

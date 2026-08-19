@@ -86,17 +86,20 @@ export default function Home() {
 
         {/* Search Bar */}
         <div className="space-y-6">
-          <div className="flex items-center gap-3 bg-white rounded-lg shadow-sm p-1 border border-line">
-            <Search className="w-5 h-5 text-muted ml-3" />
-            <input
-              type="text"
-              placeholder="Find a mosque, event, business, or resource near you..."
-              className="flex-1 px-4 py-3 bg-transparent outline-none text-ink placeholder-muted"
-            />
-            <Button className="bg-accent hover:bg-accent/90 text-white rounded-md mr-1">
-              Search
-            </Button>
-          </div>
+          <Link href="/search" className="block">
+            <div className="flex items-center gap-3 bg-white rounded-lg shadow-sm p-1 border border-line hover:border-accent transition cursor-pointer">
+              <Search className="w-5 h-5 text-muted ml-3" />
+              <input
+                type="text"
+                placeholder="Find a mosque, event, business, or resource near you..."
+                className="flex-1 px-4 py-3 bg-transparent outline-none text-ink placeholder-muted"
+                readOnly
+              />
+              <Button className="bg-accent hover:bg-accent/90 text-white rounded-md mr-1">
+                Search
+              </Button>
+            </div>
+          </Link>
 
           {/* City Selector */}
           <div className="flex items-center gap-3">
