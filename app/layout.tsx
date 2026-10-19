@@ -6,6 +6,7 @@ import { MarketplaceReturn } from '@/components/marketplace-return';
 import { MarketplaceAuth } from '@/components/marketplace-auth';
 import './globals.css';
 import './visual.css';
+import './brand-theme.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.muslimsincanada.com'),
