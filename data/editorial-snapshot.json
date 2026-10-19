@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-19T02:23:39.653Z",
+      "checkedAt": "2026-10-19T13:38:17.690Z",
       "items": [
+        {
+          "id": "Qe4XjRCOSNw",
+          "title": "L33 - Categories 36–38: Mukhtalif al-Hadith Al-Mazid Fi Muttasil al-Asanid, Al-Marasil al-Khafi",
+          "published": "2026-10-19T13:00:14.000Z",
+          "url": "https://www.youtube.com/watch?v=Qe4XjRCOSNw",
+          "image": "https://i.ytimg.com/vi/Qe4XjRCOSNw/hqdefault.jpg"
+        },
         {
           "id": "zz-y7Z5KsIw",
           "title": "700 - Sura al-Nur - 56-58 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
@@ -101,18 +108,11 @@
           "published": "2026-09-04T13:06:12.000Z",
           "url": "https://www.youtube.com/watch?v=R2zUFUT9DaU",
           "image": "https://i.ytimg.com/vi/R2zUFUT9DaU/hqdefault.jpg"
-        },
-        {
-          "id": "fSbzF5kchxY",
-          "title": "Lesson 32 - Book of Purification - [Hadith 334-42] -Mishkat al-Masabih -Shaykh Ilyas Patel",
-          "published": "2026-08-28T13:08:23.000Z",
-          "url": "https://www.youtube.com/watch?v=fSbzF5kchxY",
-          "image": "https://i.ytimg.com/vi/fSbzF5kchxY/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-19T02:23:39.959Z",
+      "checkedAt": "2026-10-19T13:38:17.709Z",
       "items": [
         {
           "id": "uINXL4JxJK4",
@@ -152,78 +152,78 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-19T02:35:13.030Z",
+      "checkedAt": "2026-10-19T13:38:21.684Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/gaza-buries-remains-of-75-palestinians-recovered-from-rubble-of-homes-destroyed-by-israel/",
+          "title": "Gaza buries remains of 75 Palestinians recovered from rubble of homes destroyed by Israel",
+          "published": "2026-10-19T08:13:58.000Z",
+          "url": "https://www.muslimnetwork.tv/gaza-buries-remains-of-75-palestinians-recovered-from-rubble-of-homes-destroyed-by-israel/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/03/Israel-continues-to-deny-entry-of-heavy-machinery-to-remove-rubble-from-Gaza-says-official.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/obama-slams-trumps-plot-to-deport-ilhan-omar/",
+          "title": "Obama slams Trump’s plot to deport Ilhan Omar",
+          "published": "2026-10-19T06:57:10.000Z",
+          "url": "https://www.muslimnetwork.tv/obama-slams-trumps-plot-to-deport-ilhan-omar/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/02/ilhan-omar.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/putin-proposes-trilateral-summit-with-trump-and-xi-to-discuss-ukraine-report/",
+          "title": "Putin proposes trilateral summit with Trump and Xi to discuss Ukraine: report",
+          "published": "2026-10-19T06:20:37.000Z",
+          "url": "https://www.muslimnetwork.tv/putin-proposes-trilateral-summit-with-trump-and-xi-to-discuss-ukraine-report/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/04/Araghchi-hails-strategic-partnership-with-Moscow-as-Tehran-leans-on-allies-amid-stalled-U.S.-diplomacy-putin.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/irans-revolutionary-guard-says-oil-tanker-struck-mine-and-caught-fire-in-strait-of-hormuz/",
+          "title": "Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz",
+          "published": "2026-10-19T06:18:54.000Z",
+          "url": "https://www.muslimnetwork.tv/irans-revolutionary-guard-says-oil-tanker-struck-mine-and-caught-fire-in-strait-of-hormuz/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/06/AA-20260621-41740980-41740976-VESSEL_ACTIVITY_IN_THE_STRAIT_OF_HORMUZ.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-occupiers-injure-2-palestinians-attack-ambulance-in-west-bank/",
+          "title": "Israeli occupiers injure 2 Palestinians, attack ambulance in West Bank",
+          "published": "2026-10-19T06:16:44.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-occupiers-injure-2-palestinians-attack-ambulance-in-west-bank/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261006-42666020-42666011-FOUR_PALESTINIANS_INJURED_IN_ATTACKS_BY_ISRAELI_SETTLERS_IN_NABLUS.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/irans-foreign-minister-accuses-netanyahu-of-pushing-us-toward-another-war-to-avoid-prison/",
+          "title": "Iran’s foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
+          "published": "2026-10-19T06:14:34.000Z",
+          "url": "https://www.muslimnetwork.tv/irans-foreign-minister-accuses-netanyahu-of-pushing-us-toward-another-war-to-avoid-prison/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/10/AA-20241018-35945075-35945062-33_SOUTH_CAUCASUS_FORMAT_MEETING_IN_ISTANBUL.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/4-killed-dozens-seriously-injured-in-fire-at-canadian-military-base/",
+          "title": "4 killed, dozens seriously injured in fire at Canadian military base",
+          "published": "2026-10-19T06:12:52.000Z",
+          "url": "https://www.muslimnetwork.tv/4-killed-dozens-seriously-injured-in-fire-at-canadian-military-base/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/colombian-president-to-sign-decree-on-maritime-boundaries-of-san-andres-providencia-and-santa-catalina-archipelago/",
+          "title": "Colombian president to sign decree on maritime boundaries of San Andres, Providencia and Santa Catalina Archipelago",
+          "published": "2026-10-19T06:11:33.000Z",
+          "url": "https://www.muslimnetwork.tv/colombian-president-to-sign-decree-on-maritime-boundaries-of-san-andres-providencia-and-santa-catalina-archipelago/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/jd-vance-undecided-on-2028-presidential-bid-says-he-may-stay-out-of-race/",
           "title": "JD Vance undecided on 2028 presidential bid, says he may stay out of race",
           "published": "2026-10-18T12:15:51.000Z",
-          "url": "https://www.muslimnetwork.tv/jd-vance-undecided-on-2028-presidential-bid-says-he-may-stay-out-of-race/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260618-41715108-41715086-US_VICE_PRESIDENT_JD_VANCE_HOLDS_PRESS_BRIEFING_AT_WHITE_HOUSE.jpg"
+          "url": "https://www.muslimnetwork.tv/jd-vance-undecided-on-2028-presidential-bid-says-he-may-stay-out-of-race/"
         },
         {
           "id": "https://www.muslimnetwork.tv/iran-threatens-to-reject-oic-resolution-on-yemen-outlines-conditions-for-reopening-strait-of-hormuz/",
           "title": "Iran threatens to reject OIC resolution on Yemen, outlines conditions for reopening Strait of Hormuz",
           "published": "2026-10-18T11:29:01.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-threatens-to-reject-oic-resolution-on-yemen-outlines-conditions-for-reopening-strait-of-hormuz/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/06/AA-20250622-38356333-38356329-TURKISH_FOREIGN_MINISTER_HAKAN_FIDAN.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/ilhan-omars-lawyers-accuse-federal-agents-of-violating-search-warrant-restrictions/",
-          "title": "Ilhan Omar’s lawyers accuse federal agents of violating search warrant restrictions",
-          "published": "2026-10-18T11:26:40.000Z",
-          "url": "https://www.muslimnetwork.tv/ilhan-omars-lawyers-accuse-federal-agents-of-violating-search-warrant-restrictions/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/02/Ilhan_Omar_speaking_at_worker_protest_against_Amazon_45406484475.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/us-blockade-targets-irans-trade-and-oil-revenue-centcom/",
-          "title": "US blockade targets Iran’s trade and oil revenue, CENTCOM",
-          "published": "2026-10-17T11:49:23.000Z",
-          "url": "https://www.muslimnetwork.tv/us-blockade-targets-irans-trade-and-oil-revenue-centcom/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.49.07-PM.png"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/trump-rejects-nuclear-strike-while-threatening-irans-underground-nuclear-site/",
-          "title": "Trump rejects nuclear strike while threatening Iran’s underground nuclear site",
-          "published": "2026-10-17T11:46:33.000Z",
-          "url": "https://www.muslimnetwork.tv/trump-rejects-nuclear-strike-while-threatening-irans-underground-nuclear-site/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_ba791e096d9e4cc8f1bad67ffde3e9c0.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/egypt-wins-moodys-upgrade-as-economic-reforms-strengthen-resilience/",
-          "title": "Egypt wins Moody’s upgrade as economic reforms strengthen resilience",
-          "published": "2026-10-17T11:42:24.000Z",
-          "url": "https://www.muslimnetwork.tv/egypt-wins-moodys-upgrade-as-economic-reforms-strengthen-resilience/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/1994707172-089c9bfa6c4787828409691fdfd3b9857bdb09a92efd1b7c9b79fcb60cf0a8f4-d_1280.avif"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/sisi-rules-out-extending-presidency-beyond-2030/",
-          "title": "Sisi rules out extending presidency beyond 2030",
-          "published": "2026-10-17T11:40:54.000Z",
-          "url": "https://www.muslimnetwork.tv/sisi-rules-out-extending-presidency-beyond-2030/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-raids-and-arrests-deepen-fear-across-southern-syria/",
-          "title": "Israeli raids and arrests deepen fear across southern Syria",
-          "published": "2026-10-17T11:39:23.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-raids-and-arrests-deepen-fear-across-southern-syria/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-drone-strike-kills-palestinian-amid-continuing-gaza-ceasefire-breaches/",
-          "title": "Israeli drone strike kills Palestinian amid continuing Gaza ceasefire breaches",
-          "published": "2026-10-17T11:38:22.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-drone-strike-kills-palestinian-amid-continuing-gaza-ceasefire-breaches/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/extremist-israeli-settlers-attack-palestinians-and-washington-post-photographer/",
-          "title": "Extremist Israeli settlers attack Palestinians and Washington Post photographer",
-          "published": "2026-10-17T11:37:03.000Z",
-          "url": "https://www.muslimnetwork.tv/extremist-israeli-settlers-attack-palestinians-and-washington-post-photographer/"
+          "url": "https://www.muslimnetwork.tv/iran-threatens-to-reject-oic-resolution-on-yemen-outlines-conditions-for-reopening-strait-of-hormuz/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-19T02:35:13.318Z",
+      "checkedAt": "2026-10-19T13:38:22.195Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -295,8 +295,22 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-18T23:05:10.017Z",
+      "checkedAt": "2026-10-19T13:38:17.443Z",
       "items": [
+        {
+          "id": "69b87-vQ6rA",
+          "title": "The Dajjal: Why Is He in the Hadith but Not the Quran? | The Hadith Question",
+          "published": "2026-10-19T13:30:11.000Z",
+          "url": "https://www.youtube.com/watch?v=69b87-vQ6rA",
+          "image": "https://i.ytimg.com/vi/69b87-vQ6rA/hqdefault.jpg"
+        },
+        {
+          "id": "FxSK_I2abHA",
+          "title": "Finding Secure & Supportive Relationships: A Guide revised",
+          "published": "2026-10-19T13:13:31.000Z",
+          "url": "https://www.youtube.com/watch?v=FxSK_I2abHA",
+          "image": "https://i.ytimg.com/vi/FxSK_I2abHA/hqdefault.jpg"
+        },
         {
           "id": "ExPM-CoB1CI",
           "title": "Quran vs. Hadith: Understanding Scriptural Differences",
@@ -387,25 +401,11 @@
           "published": "2026-10-09T17:35:18.000Z",
           "url": "https://www.youtube.com/watch?v=r3CJTzrGn4A",
           "image": "https://i.ytimg.com/vi/r3CJTzrGn4A/hqdefault.jpg"
-        },
-        {
-          "id": "GaS3jxN65i4",
-          "title": "Hanafi School: Hadith Authenticity Unveiled",
-          "published": "2026-10-09T14:04:31.000Z",
-          "url": "https://www.youtube.com/watch?v=GaS3jxN65i4",
-          "image": "https://i.ytimg.com/vi/GaS3jxN65i4/hqdefault.jpg"
-        },
-        {
-          "id": "Olb7lmbgFTk",
-          "title": "Hadith Science: Imam Tirmidhi & Muslim Practice Explained",
-          "published": "2026-10-08T17:36:43.000Z",
-          "url": "https://www.youtube.com/watch?v=Olb7lmbgFTk",
-          "image": "https://i.ytimg.com/vi/Olb7lmbgFTk/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-18T23:05:10.017Z",
+      "checkedAt": "2026-10-19T13:38:17.935Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-18T23:05:10.017Z",
+      "checkedAt": "2026-10-19T13:38:18.186Z",
       "items": [
         {
           "id": "rf4HKYX4luI",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-18T23:05:10.017Z",
+      "checkedAt": "2026-10-19T13:38:18.200Z",
       "items": [
         {
           "id": "pkhGoYn2vlM",
