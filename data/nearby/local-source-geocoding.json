@@ -1,0 +1,93 @@
+{
+  "86 Ringwood Drive, Unit 36, Stouffville, ON L4A 1C3": {
+    "latitude": 43.96302817678249,
+    "longitude": -79.27337174245527,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/93405420",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "18 Ringwood Drive, Unit 7, Stouffville, ON": {
+    "latitude": 43.9650019,
+    "longitude": -79.2746443,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/1082966790",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "5779 Main Street, Suite 108, Whitchurch-Stouffville, ON L4A 2T1": {
+    "latitude": 43.96724467894737,
+    "longitude": -79.26459964561404,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/93405361",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "6316 Main Street, Stouffville, ON": {
+    "latitude": 43.971773,
+    "longitude": -79.2455604,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/5401450727",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "305 Port Union Road, Scarborough, ON": {
+    "latitude": 43.789925,
+    "longitude": -79.140822,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/896561874",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "3150 Highway 7, Markham, ON L3R 5A1": {
+    "latitude": 43.851342,
+    "longitude": -79.3522279,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/896795227",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "9781 Jane Street, Unit 4, Maple, ON L6A 3N9": {
+    "latitude": 43.846575358728536,
+    "longitude": -79.53590308685999,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/400853045",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "1921 Lawrence Avenue East, Scarborough, ON M1R 3Y6": {
+    "latitude": 43.74385,
+    "longitude": -79.29979,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/13865277037",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "48 Peel Centre Drive, Unit A, Brampton, ON L6T 5M2": {
+    "latitude": 43.7150659,
+    "longitude": -79.726649,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/3852186201",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "259 Kingston Road East, Ajax, ON L1Z 0K5": {
+    "latitude": 43.8640298,
+    "longitude": -79.0127311,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/896465648",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "2180 Itabashi Way, Unit D4, Burlington, ON L7M 5A5": {
+    "latitude": 43.38792,
+    "longitude": -79.7949393,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/148241199",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "5955 Latimer Drive, Unit 5, Mississauga, ON L5V 0B7": {
+    "latitude": 43.6091962,
+    "longitude": -79.6970013,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/33136139",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "741 Queen Street West, Toronto, ON M6J 1G1": {
+    "latitude": 43.645396252941175,
+    "longitude": -79.40827448823529,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/66234093",
+    "coordinateLicence": "ODbL-1.0"
+  }
+}

@@ -1,13 +1,14 @@
 import type { Metadata } from 'next'
-import { Geist } from "next/font/google";
-import { cn } from "@/lib/utils";
+import { PortalHeader, PortalFooter } from '@/components/portal-shell';
+import { LocationProvider } from '@/components/location-provider';
+import { LocationBanner } from '@/components/location-banner';
 import './globals.css';
-
-const geist = Geist({subsets:['latin'],variable:'--font-sans'});
+import './visual.css';
 
 export const metadata: Metadata = {
-  title: 'MuslimsInCanada.com',
-  description: 'The digital home for Canada\'s Muslim community',
+  metadataBase: new URL('https://www.muslimsincanada.com'),
+  title: 'Muslims in Canada | Your community, a little closer',
+  description: 'Discover mosques, community events, local connections and practical resources. Rooted in Canada. Connected by community.',
 }
 
 export default function RootLayout({
@@ -16,8 +17,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={cn("font-sans", geist.variable)}>
-      <body className="bg-background text-foreground">{children}</body>
+    <html lang="en">
+      <body><LocationProvider><a className="skip-link" href="#main-content">Skip to content</a><PortalHeader /><LocationBanner /><div id="main-content">{children}</div><PortalFooter /></LocationProvider></body>
     </html>
   )
 }

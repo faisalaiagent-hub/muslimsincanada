@@ -1,0 +1,21 @@
+'use client';
+import { useState, type FormEvent } from 'react';
+import Link from 'next/link';
+import { CheckCircle2, Send } from 'lucide-react';
+import { submissionTypes } from '@/lib/submission-validation';
+const labels: Record<string, string> = { mosque: 'Mosque or prayer space', business: 'Local business', event: 'Community event', organization: 'Community organization', resource: 'Helpful resource', correction: 'Correct a listing', claim: 'Organization management request' };
+export function ContributionForm({ initialType, initialCity, listing }: { initialType?: string; initialCity?: string; listing?: string }) {
+  const [busy, setBusy] = useState(false); const [error, setError] = useState(''); const [reference, setReference] = useState('');
+  async function submit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault(); setError(''); setBusy(true);
+    const form = new FormData(event.currentTarget);
+    try {
+      const response = await fetch('/api/submissions', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ ...Object.fromEntries(form), consent: form.get('consent') === 'on', listing: listing || '' }) });
+      const data = await response.json(); if (!response.ok) throw new Error(data.error || 'Your suggestion could not be saved.');
+      setReference(data.id);
+    } catch (error) { setError(error instanceof Error ? error.message : 'Connection interrupted. Please try again.'); }
+    finally { setBusy(false); }
+  }
+  if (reference) return <section className="empty-state" role="status"><CheckCircle2 size={35} /><h2>Thanks for making a connection.</h2><p>Your suggestion is saved in MIC’s private review queue. It has not been published. Our team will need to check the source and your relationship to the organization where relevant.</p><p className="submission-reference">Reference: {reference}</p><Link href="/search" className="portal-button">Keep exploring</Link></section>;
+  return <form className="contribution-form" onSubmit={submit}><div className="form-grid"><label>What would you like to share?<select name="type" defaultValue={submissionTypes.some(type => type === initialType) ? initialType : 'mosque'}>{submissionTypes.map(type => <option key={type} value={type}>{labels[type]}</option>)}</select></label><label>City / country<input name="city" required minLength={2} maxLength={120} defaultValue={initialCity} placeholder="e.g. Mississauga, Canada" /></label><label className="full">Listing or organization name<input name="name" required minLength={3} maxLength={180} placeholder="What should your community know about?" /></label><label className="full">Official website or public source link<input name="url" type="url" required maxLength={1000} placeholder="https://" /></label><label className="full">Tell us more<textarea name="description" required rows={6} minLength={20} maxLength={4000} placeholder="Include public details we can check. For events, add the date, time zone, venue and registration link. For corrections, explain what needs updating." /></label><label className="full">Your email (kept private)<input name="email" type="email" required maxLength={254} autoComplete="email" placeholder="you@example.com" /></label></div><label className="honeypot" aria-hidden="true">Company<input name="company" tabIndex={-1} autoComplete="off" /></label>{listing ? <p className="submission-reference">Listing reference: {listing}</p> : null}<label className="form-consent"><input type="checkbox" name="consent" required /><span>I have permission to share these public details. MIC may store this suggestion and my email for review and contact me about it. My email will not appear in the public listing. <Link href="/privacy">Privacy details</Link>.</span></label><button type="submit" disabled={busy} className="portal-button"><Send size={15} />{busy ? 'Saving your suggestion…' : 'Send for review'}</button>{error ? <p className="form-message notice" role="alert">{error}</p> : null}<p className="resource-disclaimer">No login required. Suggestions are not automatically published or treated as verified. Please don’t include private addresses, identification documents or sensitive personal information.</p></form>;
+}

@@ -1,0 +1,7 @@
+import { PageIntro } from '@/components/portal-shell';
+import { ContributionForm } from '@/components/contribution-form';
+export const metadata = { title: 'Contribute to your community | MIC' };
+export default async function SubmitPage({ searchParams }: { searchParams: Promise<{ type?: string; city?: string; listing?: string }> }) {
+  const params = await searchParams;
+  return <main className="portal-container page-main"><PageIntro eyebrow="COMMUNITY IS SOMETHING WE BUILD" title="Know something worth sharing?" description="A welcoming place. A helpful service. An event that brings people together. Help someone find their next connection." /><div className="submit-layout"><ContributionForm initialType={params.type} initialCity={params.city} listing={params.listing?.startsWith('/') && !params.listing.startsWith('//') ? params.listing : undefined} /><aside className="prose-panel detail-sidebar"><h2>A little care goes a long way.</h2><p><strong>1. Share a source.</strong><br />An official website or organizer’s public page helps us check the details.</p><p><strong>2. Keep it public.</strong><br />Leave out personal information and sensitive service locations.</p><p><strong>3. Give us time to review.</strong><br />Suggestions go to a private queue. They won’t appear publicly until reviewed.</p><p>Management requests begin a conversation; they do not grant editing access or verify ownership.</p></aside></div></main>;
+}

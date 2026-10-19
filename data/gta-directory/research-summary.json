@@ -1,0 +1,49 @@
+{
+  "collected_at": "2026-10-18T22:18:21.515Z",
+  "canada_mosques_in_source": 261,
+  "gta_mosques_in_source": 116,
+  "gta_hma_food_outlets": 58,
+  "gta_hma_restaurant_or_dessert_outlets": 50,
+  "gta_hma_retail_outlets": 8,
+  "regions": [
+    {
+      "region": "Toronto",
+      "mosques": 55,
+      "hma_food_outlets": 25
+    },
+    {
+      "region": "Peel",
+      "mosques": 26,
+      "hma_food_outlets": 20
+    },
+    {
+      "region": "York",
+      "mosques": 12,
+      "hma_food_outlets": 5
+    },
+    {
+      "region": "Halton",
+      "mosques": 10,
+      "hma_food_outlets": 4
+    },
+    {
+      "region": "Durham",
+      "mosques": 13,
+      "hma_food_outlets": 4
+    }
+  ],
+  "existing_mic": {
+    "checked": true,
+    "public_mosques": 126,
+    "public_businesses": 0,
+    "gta_source_exact_name_matches": 33,
+    "note": "Exact-name matches only; absence of a match does not establish a new listing."
+  },
+  "limitations": [
+    "Neither source is a complete inventory.",
+    "Publisher-reported facts are not independently verified by MIC.",
+    "HMA record addresses need detail-page checks; chain names do not certify all branches.",
+    "No explicit bulk republication licence found for these two sources; research files are not approved for public import.",
+    "OpenStreetMap regional collection failed with timeout/HTTP 500; see summary.json."
+  ]
+}
