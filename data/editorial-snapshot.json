@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-19T13:38:17.690Z",
+      "checkedAt": "2026-10-19T22:29:19.589Z",
       "items": [
         {
           "id": "Qe4XjRCOSNw",
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-19T13:38:17.709Z",
+      "checkedAt": "2026-10-19T22:29:19.819Z",
       "items": [
+        {
+          "id": "7W-xIhz7ZFA",
+          "title": "Rafi’ (ra) and Rifa’a (ra): Healed With the Prophet’s ﷺ Saliva | The Firsts | Dr. Omar Suleiman",
+          "published": "2026-10-19T14:00:08.000Z",
+          "url": "https://www.youtube.com/watch?v=7W-xIhz7ZFA",
+          "image": "https://i.ytimg.com/vi/7W-xIhz7ZFA/hqdefault.jpg"
+        },
         {
           "id": "uINXL4JxJK4",
           "title": "Umar (RA) was offered to pray in a church, he refused | Dr. Omar Suleiman",
@@ -141,89 +148,82 @@
           "published": "2026-10-14T01:00:27.000Z",
           "url": "https://www.youtube.com/watch?v=mxPDoIAslvA",
           "image": "https://i.ytimg.com/vi/mxPDoIAslvA/hqdefault.jpg"
-        },
-        {
-          "id": "aqleNKsPshw",
-          "title": "Have Your Parents Become A Burden? | Signs of the Hour Ep. 21 | Dr. Omar Suleiman",
-          "published": "2026-10-13T14:30:09.000Z",
-          "url": "https://www.youtube.com/watch?v=aqleNKsPshw",
-          "image": "https://i.ytimg.com/vi/aqleNKsPshw/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-19T13:38:21.684Z",
+      "checkedAt": "2026-10-19T22:29:21.554Z",
       "items": [
         {
-          "id": "https://www.muslimnetwork.tv/gaza-buries-remains-of-75-palestinians-recovered-from-rubble-of-homes-destroyed-by-israel/",
-          "title": "Gaza buries remains of 75 Palestinians recovered from rubble of homes destroyed by Israel",
-          "published": "2026-10-19T08:13:58.000Z",
-          "url": "https://www.muslimnetwork.tv/gaza-buries-remains-of-75-palestinians-recovered-from-rubble-of-homes-destroyed-by-israel/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/03/Israel-continues-to-deny-entry-of-heavy-machinery-to-remove-rubble-from-Gaza-says-official.jpg"
+          "id": "https://www.muslimnetwork.tv/muslim-journalist-beaten-to-death-in-india-over-ad-dispute/",
+          "title": "Muslim journalist beaten to death in India over ad dispute",
+          "published": "2026-10-19T20:33:37.000Z",
+          "url": "https://www.muslimnetwork.tv/muslim-journalist-beaten-to-death-in-india-over-ad-dispute/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-skr-2160605598-36946519-1.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/obama-slams-trumps-plot-to-deport-ilhan-omar/",
-          "title": "Obama slams Trump’s plot to deport Ilhan Omar",
-          "published": "2026-10-19T06:57:10.000Z",
-          "url": "https://www.muslimnetwork.tv/obama-slams-trumps-plot-to-deport-ilhan-omar/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/02/ilhan-omar.jpg"
+          "id": "https://www.muslimnetwork.tv/dalit-man-attacked-for-worshipping-at-hindu-temple-in-india/",
+          "title": "Dalit man attacked for worshipping at Hindu temple in India",
+          "published": "2026-10-19T20:31:08.000Z",
+          "url": "https://www.muslimnetwork.tv/dalit-man-attacked-for-worshipping-at-hindu-temple-in-india/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-roman-saienko-1867764487-31818069-1.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/putin-proposes-trilateral-summit-with-trump-and-xi-to-discuss-ukraine-report/",
-          "title": "Putin proposes trilateral summit with Trump and Xi to discuss Ukraine: report",
-          "published": "2026-10-19T06:20:37.000Z",
-          "url": "https://www.muslimnetwork.tv/putin-proposes-trilateral-summit-with-trump-and-xi-to-discuss-ukraine-report/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/04/Araghchi-hails-strategic-partnership-with-Moscow-as-Tehran-leans-on-allies-amid-stalled-U.S.-diplomacy-putin.jpg"
+          "id": "https://www.muslimnetwork.tv/two-kashmir-bound-buses-attacked-in-india-on-consecutive-nights/",
+          "title": "Two Kashmir-bound buses attacked in India on consecutive nights",
+          "published": "2026-10-19T20:28:51.000Z",
+          "url": "https://www.muslimnetwork.tv/two-kashmir-bound-buses-attacked-in-india-on-consecutive-nights/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-sheikh-basharat-33843080-20724226.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/irans-revolutionary-guard-says-oil-tanker-struck-mine-and-caught-fire-in-strait-of-hormuz/",
-          "title": "Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz",
-          "published": "2026-10-19T06:18:54.000Z",
-          "url": "https://www.muslimnetwork.tv/irans-revolutionary-guard-says-oil-tanker-struck-mine-and-caught-fire-in-strait-of-hormuz/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/06/AA-20260621-41740980-41740976-VESSEL_ACTIVITY_IN_THE_STRAIT_OF_HORMUZ.jpg"
+          "id": "https://www.muslimnetwork.tv/maldives-hosts-who-regional-meeting-on-pandemic-preparedness/",
+          "title": "Maldives hosts WHO regional meeting on pandemic preparedness",
+          "published": "2026-10-19T15:38:10.000Z",
+          "url": "https://www.muslimnetwork.tv/maldives-hosts-who-regional-meeting-on-pandemic-preparedness/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-shvetsa-4167580.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/israeli-occupiers-injure-2-palestinians-attack-ambulance-in-west-bank/",
-          "title": "Israeli occupiers injure 2 Palestinians, attack ambulance in West Bank",
-          "published": "2026-10-19T06:16:44.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-occupiers-injure-2-palestinians-attack-ambulance-in-west-bank/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261006-42666020-42666011-FOUR_PALESTINIANS_INJURED_IN_ATTACKS_BY_ISRAELI_SETTLERS_IN_NABLUS.jpg"
+          "id": "https://www.muslimnetwork.tv/germany-pledges-2-2m-for-rohingya-refugees-in-bangladesh/",
+          "title": "Germany pledges $2.2M for Rohingya refugees in Bangladesh",
+          "published": "2026-10-19T15:35:49.000Z",
+          "url": "https://www.muslimnetwork.tv/germany-pledges-2-2m-for-rohingya-refugees-in-bangladesh/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/New-body-will-draft-national-plan-within-90-days-as-more-than-one-million-Rohingya-refugees-remain-in-Bangladesh-with-no-large-scale-return-in-sight.webp"
         },
         {
-          "id": "https://www.muslimnetwork.tv/irans-foreign-minister-accuses-netanyahu-of-pushing-us-toward-another-war-to-avoid-prison/",
-          "title": "Iran’s foreign minister accuses Netanyahu of pushing US toward another war to avoid prison",
-          "published": "2026-10-19T06:14:34.000Z",
-          "url": "https://www.muslimnetwork.tv/irans-foreign-minister-accuses-netanyahu-of-pushing-us-toward-another-war-to-avoid-prison/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/10/AA-20241018-35945075-35945062-33_SOUTH_CAUCASUS_FORMAT_MEETING_IN_ISTANBUL.jpg"
+          "id": "https://www.muslimnetwork.tv/egypt-unveils-laser-system-designed-to-intercept-drones/",
+          "title": "Egypt unveils laser system designed to intercept drones",
+          "published": "2026-10-19T15:33:01.000Z",
+          "url": "https://www.muslimnetwork.tv/egypt-unveils-laser-system-designed-to-intercept-drones/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-pok-rie-33563-4173473.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/4-killed-dozens-seriously-injured-in-fire-at-canadian-military-base/",
-          "title": "4 killed, dozens seriously injured in fire at Canadian military base",
-          "published": "2026-10-19T06:12:52.000Z",
-          "url": "https://www.muslimnetwork.tv/4-killed-dozens-seriously-injured-in-fire-at-canadian-military-base/"
+          "id": "https://www.muslimnetwork.tv/saudi-arabia-launches-new-archaeology-season-in-alula-khaybar/",
+          "title": "Saudi Arabia launches new archaeology season in AlUla, Khaybar",
+          "published": "2026-10-19T15:31:26.000Z",
+          "url": "https://www.muslimnetwork.tv/saudi-arabia-launches-new-archaeology-season-in-alula-khaybar/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/colombian-president-to-sign-decree-on-maritime-boundaries-of-san-andres-providencia-and-santa-catalina-archipelago/",
-          "title": "Colombian president to sign decree on maritime boundaries of San Andres, Providencia and Santa Catalina Archipelago",
-          "published": "2026-10-19T06:11:33.000Z",
-          "url": "https://www.muslimnetwork.tv/colombian-president-to-sign-decree-on-maritime-boundaries-of-san-andres-providencia-and-santa-catalina-archipelago/"
+          "id": "https://www.muslimnetwork.tv/israeli-settlers-injure-palestinians-and-attack-ambulance-in-west-bank/",
+          "title": "Israeli settlers injure Palestinians and attack ambulance in West Bank",
+          "published": "2026-10-19T15:29:03.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-settlers-injure-palestinians-and-attack-ambulance-in-west-bank/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/jd-vance-undecided-on-2028-presidential-bid-says-he-may-stay-out-of-race/",
-          "title": "JD Vance undecided on 2028 presidential bid, says he may stay out of race",
-          "published": "2026-10-18T12:15:51.000Z",
-          "url": "https://www.muslimnetwork.tv/jd-vance-undecided-on-2028-presidential-bid-says-he-may-stay-out-of-race/"
+          "id": "https://www.muslimnetwork.tv/israeli-attacks-strike-southern-lebanese-towns-despite-ceasefire/",
+          "title": "Israeli attacks strike southern Lebanese towns despite ceasefire",
+          "published": "2026-10-19T15:27:16.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-attacks-strike-southern-lebanese-towns-despite-ceasefire/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/iran-threatens-to-reject-oic-resolution-on-yemen-outlines-conditions-for-reopening-strait-of-hormuz/",
-          "title": "Iran threatens to reject OIC resolution on Yemen, outlines conditions for reopening Strait of Hormuz",
-          "published": "2026-10-18T11:29:01.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-threatens-to-reject-oic-resolution-on-yemen-outlines-conditions-for-reopening-strait-of-hormuz/"
+          "id": "https://www.muslimnetwork.tv/beirut-documentary-captures-human-cost-of-israeli-attacks/",
+          "title": "Beirut documentary captures human cost of Israeli attacks",
+          "published": "2026-10-19T15:25:47.000Z",
+          "url": "https://www.muslimnetwork.tv/beirut-documentary-captures-human-cost-of-israeli-attacks/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-19T13:38:22.195Z",
+      "checkedAt": "2026-10-19T22:29:22.002Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -295,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-19T13:38:17.443Z",
+      "checkedAt": "2026-10-19T22:29:19.357Z",
       "items": [
         {
           "id": "69b87-vQ6rA",
@@ -405,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-19T13:38:17.935Z",
+      "checkedAt": "2026-10-19T22:29:20.166Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-19T13:38:18.186Z",
+      "checkedAt": "2026-10-19T22:29:20.327Z",
       "items": [
         {
           "id": "rf4HKYX4luI",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-19T13:38:18.200Z",
+      "checkedAt": "2026-10-19T22:29:20.467Z",
       "items": [
         {
           "id": "pkhGoYn2vlM",
