@@ -1,0 +1,40 @@
+name: Refresh public editorial feeds
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/editorial-feeds.yml'
+      - 'scripts/refresh-editorial.mjs'
+      - 'lib/editorial-config.ts'
+      - 'lib/feed-parser.ts'
+      - 'lib/publisher-image.ts'
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: editorial-feeds
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: node scripts/refresh-editorial.mjs
+      - name: Save successfully refreshed public entries
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/editorial-snapshot.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh public editorial feed snapshot'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
