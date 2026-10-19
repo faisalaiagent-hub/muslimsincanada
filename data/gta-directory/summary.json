@@ -1,0 +1,81 @@
+{
+  "collected_at": "2026-10-18T22:16:18.115Z",
+  "coverage": "Toronto + Peel + York + Halton + Durham administrative areas; not all of Canada",
+  "complete": false,
+  "failures": [
+    {
+      "region": "Toronto",
+      "error": "HTTP 500"
+    },
+    {
+      "region": "Peel",
+      "error": "HTTP 500"
+    },
+    {
+      "region": "York",
+      "error": "HTTP 500"
+    },
+    {
+      "region": "Halton",
+      "error": "HTTP 500"
+    },
+    {
+      "region": "Durham",
+      "error": "The operation was aborted due to timeout"
+    }
+  ],
+  "total_candidates": 0,
+  "mosques": 0,
+  "halal_food": 0,
+  "named_candidates": 0,
+  "food_by_amenity": {
+    "restaurant": 0,
+    "fast_food": 0,
+    "cafe": 0,
+    "food_court": 0
+  },
+  "regions": [
+    {
+      "region": "Toronto",
+      "mosques": 0,
+      "halal_food": 0
+    },
+    {
+      "region": "Peel",
+      "mosques": 0,
+      "halal_food": 0
+    },
+    {
+      "region": "York",
+      "mosques": 0,
+      "halal_food": 0
+    },
+    {
+      "region": "Halton",
+      "mosques": 0,
+      "halal_food": 0
+    },
+    {
+      "region": "Durham",
+      "mosques": 0,
+      "halal_food": 0
+    }
+  ],
+  "possible_duplicate_records": 0,
+  "incomplete_addresses": 0,
+  "existing_mic": {
+    "checked": true,
+    "mosques": 126,
+    "businesses": 0,
+    "matched_candidates": 0
+  },
+  "attribution": "© OpenStreetMap contributors",
+  "licence": "ODbL-1.0",
+  "licence_url": "https://www.openstreetmap.org/copyright",
+  "limitations": [
+    "Community mapping is incomplete; these are candidates, not a census.",
+    "Halal map tags and names do not prove current certification.",
+    "Coordinates for ways/relations are geometry centres.",
+    "No entries published; no database changes made."
+  ]
+}

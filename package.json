@@ -6,7 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "collect:sources": "node --env-file=.env.local scripts/collect-sources.mjs",
+    "verify:portal": "node --env-file=.env.local scripts/verify-portal.mjs",
+    "verify:visuals": "node scripts/verify-visuals.mjs",
+    "verify:editorial": "node scripts/verify-editorial.mjs",
+    "verify:nearby": "node scripts/verify-nearby.mjs",
+    "verify:location": "node scripts/verify-device-location.mjs"
   },
   "repository": {
     "type": "git",
@@ -23,6 +29,7 @@
     "@types/react": "^19.2.18",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "fast-xml-parser": "^5.11.2",
     "lucide-react": "^1.32.0",
     "next": "^16.3.1",
     "react": "^19.2.8",

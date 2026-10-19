@@ -1,0 +1,152 @@
+{
+  "generated_at": "2026-10-18T18:25:28.942Z",
+  "mode": "moderation-queue",
+  "queued": 0,
+  "sources": [
+    {
+      "id": "ircc",
+      "publisher": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://ircc.canada.ca/english/newcomers/services/index.asp",
+      "checked_at": "2026-10-18T18:25:22.007Z",
+      "status": "unavailable",
+      "error": "Collection disallowed by robots.txt",
+      "candidates": []
+    },
+    {
+      "id": "211",
+      "publisher": "211 Canada",
+      "url": "https://211.ca/",
+      "checked_at": "2026-10-18T18:25:22.047Z",
+      "status": "fetched",
+      "title": "211 Canada",
+      "content_hash": "4d5e2e71824df6d7b4708e0152a21617e7e7433d110d15903ccc09fe70780625",
+      "candidates": []
+    },
+    {
+      "id": "acces",
+      "publisher": "ACCES Employment",
+      "url": "https://accesemployment.ca/",
+      "checked_at": "2026-10-18T18:25:22.049Z",
+      "status": "fetched",
+      "title": "ACCES Employment - Helping you in your job search.",
+      "content_hash": "cc0276cdf10cf6d1c66e57d343fb611a01d7ed26d9d994148ceb9726640c1f3d",
+      "candidates": []
+    },
+    {
+      "id": "icna-food",
+      "publisher": "ICNA Relief Canada",
+      "url": "https://www.icnareliefcanada.ca/food-banks/",
+      "checked_at": "2026-10-18T18:25:23.258Z",
+      "status": "fetched",
+      "title": "Food Banks | ICNA Relief Canada",
+      "content_hash": "053f7812c1aaa6c6abda31c03d3da076e458a6f88fdc6498df3947d82aa0aafc",
+      "candidates": []
+    },
+    {
+      "id": "mwc",
+      "publisher": "Muslim Welfare Canada",
+      "url": "https://mwcanada.org/",
+      "checked_at": "2026-10-18T18:25:23.259Z",
+      "status": "fetched",
+      "title": "Muslim Welfare Canada - MWC",
+      "content_hash": "c2f76cdd9071d6350b76f890dbe5848734170fd82925c9c1fd4afc3813830ef4",
+      "candidates": []
+    },
+    {
+      "id": "ymca",
+      "publisher": "YMCA of Greater Toronto",
+      "url": "https://www.ymcagta.org/immigrant-services",
+      "checked_at": "2026-10-18T18:25:23.260Z",
+      "status": "fetched",
+      "title": "Immigrant Services",
+      "content_hash": "d527df9e054a3193bc4dd68526ed5dede5ff612399267a0daee4551048ae747d",
+      "candidates": []
+    },
+    {
+      "id": "settlement",
+      "publisher": "Settlement.Org",
+      "url": "https://settlement.org/",
+      "checked_at": "2026-10-18T18:25:25.985Z",
+      "status": "fetched",
+      "title": "Information Newcomers Can Trust | Settlement.Org",
+      "content_hash": "6847dc136be64db104a21d43ba659e5a1dc4c29946e77e845527ec158c57cbb1",
+      "candidates": []
+    },
+    {
+      "id": "volunteer",
+      "publisher": "Volunteer Canada",
+      "url": "https://volunteer.ca/",
+      "checked_at": "2026-10-18T18:25:25.986Z",
+      "status": "fetched",
+      "title": "Home - Volunteer Canada",
+      "content_hash": "ea370468cab6f0ec9f0b7dacfd8f7e199d0ce2bc7c82af69db8c26c7bde445e9",
+      "candidates": []
+    },
+    {
+      "id": "irc",
+      "publisher": "Islamic Relief Canada",
+      "url": "https://www.islamicreliefcanada.org/",
+      "checked_at": "2026-10-18T18:25:25.988Z",
+      "status": "fetched",
+      "title": "Muslim Charity - Donate Zakat &amp; Sadaqah | Islamic Relief Canada",
+      "content_hash": "54e103496f538ee0774621d1858dd4b55dafa37948f7466738c5e1e302978483",
+      "candidates": []
+    },
+    {
+      "id": "cra",
+      "publisher": "Canada Revenue Agency",
+      "url": "https://www.canada.ca/en/revenue-agency/services/charities-giving/charities-listings.html",
+      "checked_at": "2026-10-18T18:25:26.738Z",
+      "status": "unavailable",
+      "error": "Collection disallowed by robots.txt",
+      "candidates": []
+    },
+    {
+      "id": "icna-us",
+      "publisher": "ICNA Relief USA",
+      "url": "https://icnarelief.org/",
+      "checked_at": "2026-10-18T18:25:26.739Z",
+      "status": "unavailable",
+      "error": "Collection disallowed by robots.txt",
+      "candidates": []
+    },
+    {
+      "id": "icna",
+      "publisher": "Islamic Circle of North America",
+      "url": "https://icna.org/",
+      "checked_at": "2026-10-18T18:25:26.740Z",
+      "status": "fetched",
+      "title": "Islamic Circle of North America (ICNA) &#8211; Outreach, Education and Social Services",
+      "content_hash": "75c6ee7713611bf906c6f5f9100be2b7b372cae64b7399dd9d9dd020d2ff1603",
+      "candidates": []
+    },
+    {
+      "id": "usa",
+      "publisher": "USAGov",
+      "url": "https://www.usa.gov/",
+      "checked_at": "2026-10-18T18:25:28.527Z",
+      "status": "fetched",
+      "title": "Making government services easier to find | USAGov",
+      "content_hash": "f2964d2ab746e42917f122c088611f67398e5c453dfadc139f0bcbcb89f0b911",
+      "candidates": []
+    },
+    {
+      "id": "unhcr",
+      "publisher": "UNHCR",
+      "url": "https://help.unhcr.org/",
+      "checked_at": "2026-10-18T18:25:28.528Z",
+      "status": "unavailable",
+      "error": "HTTP 403",
+      "candidates": []
+    },
+    {
+      "id": "ir-global",
+      "publisher": "Islamic Relief Worldwide",
+      "url": "https://islamic-relief.org/",
+      "checked_at": "2026-10-18T18:25:28.528Z",
+      "status": "unavailable",
+      "error": "Collection disallowed by robots.txt",
+      "candidates": []
+    }
+  ]
+}

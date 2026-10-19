@@ -1,0 +1,300 @@
+{
+  "7 Rossland Rd. E. Unitl 101, Ajax, ON L1T 0H1": {
+    "latitude": null,
+    "longitude": null,
+    "geoAccuracy": "Address location not resolved"
+  },
+  "20 Dewside Dr Unit #10, Brampton, ON L6R 3Y3": {
+    "latitude": 43.7567707,
+    "longitude": -79.7628637,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/8001315789",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "9045 Airport Rd Unit M-10, Brampton, ON L6S 0B8": {
+    "latitude": 43.7446025,
+    "longitude": -79.6964129,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/661951656",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "2535 Appleby Line Unit #3, Burlington, Ont. L7L 0B6": {
+    "latitude": 43.40747,
+    "longitude": -79.8062064,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/7412745177",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "1060 The Queensway, Etobicoke, ON, M8Z 1P7": {
+    "latitude": 43.62334,
+    "longitude": -79.51744,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/13882592777",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "7700 Markham Rd Unit 3B, Markham, ON L3S 4S1": {
+    "latitude": 43.8558057,
+    "longitude": -79.2558333,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/896782023",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "7690 Markham Road, Markham, ON, Canada L3S3K1": {
+    "latitude": 43.8531297,
+    "longitude": -79.2556468,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/3312758624",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "5955 Latimer Dr Unit 4, Mississauga, ON L5V 0B7": {
+    "latitude": 43.6091962,
+    "longitude": -79.6970013,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/33136139",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "4099 Erin Mills Pkwy #16, Mississauga, ON L5L 3P9": {
+    "latitude": 43.550506,
+    "longitude": -79.688759,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/1546685887",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "6435 Erin Mills Parkway, Unit C04, Mississauga, ON L5N 4H4": {
+    "latitude": 43.5871578,
+    "longitude": -79.7404768,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/399053513",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "5165 Dixie Rd Unit 2B, Mississauga, ON L4W 4G1": {
+    "latitude": 43.6396397,
+    "longitude": -79.6240081,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/4001010035",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "2283 Argentia Road, Suite 9, L5N 5Z2, Mississauga, Ontario": {
+    "latitude": 43.5987898,
+    "longitude": -79.7468804,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/33689013",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "Terminal 3, Toronto Pearson International Airport, Mississauga, ON L5P 1B2": {
+    "latitude": null,
+    "longitude": null,
+    "geoAccuracy": "Address location not resolved"
+  },
+  "1585 The Queensway,Toronto, ON ,M8Z 1V1": {
+    "latitude": 43.6170346,
+    "longitude": -79.5420605,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/175342217",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "5165 Dixie Road,L4W4G1 Mississauga": {
+    "latitude": 43.6399761,
+    "longitude": -79.6251796,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/34551517",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "3480 Platinum Dr #110, Mississauga, ON L5M 2S5": {
+    "latitude": null,
+    "longitude": null,
+    "geoAccuracy": "Address location not resolved"
+  },
+  "3417 Derry Road East Mississauga, ON L4T 1A8 Canada": {
+    "latitude": 43.71317929999999,
+    "longitude": -79.63255385,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/79880582",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "3417 Derry Road E, Unit 103, Mississauga ON. L4T 1A8": {
+    "latitude": 43.71317929999999,
+    "longitude": -79.63255385,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/79880582",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "# B1A - 77 Billy Bishop Way, North York, ON, M3K 2C8": {
+    "latitude": null,
+    "longitude": null,
+    "geoAccuracy": "Address location not resolved"
+  },
+  "2501 Hampshire Gate Unit 1A-1, Oakville, ON L6H 6C8": {
+    "latitude": 43.520269,
+    "longitude": -79.6821968,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/32993075",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "2501 Hampshire Gate #7b, Oakville, ON L6H 6C8": {
+    "latitude": 43.520269,
+    "longitude": -79.6821968,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/32993075",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "1280 Clearbrook Dr Unit 2A, Oshawa, ON L1K 3G6": {
+    "latitude": 43.9364041,
+    "longitude": -78.8553646,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/1253613250",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "1900 Dixie Rd Unit 6, Pickering, ON L1V 6M4": {
+    "latitude": 43.8423947,
+    "longitude": -79.1045997,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/896497963",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "12270 Yonge St Unit A-1, Richmond Hill, ON L4E 0W5": {
+    "latitude": 43.9265694,
+    "longitude": -79.452674,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/11233019480",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "4379 Kingston Road Scarborough, Ontario M1E 2M9": {
+    "latitude": 43.7655341,
+    "longitude": -79.1910882,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/896593583",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "699 Markham Rd. Unit #1 Toronto, Ont. M1H 2A4": {
+    "latitude": 43.76163,
+    "longitude": -79.22565,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/13833867807",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "3701 – 3715 Lawrence Ave E M1G 1P7": {
+    "latitude": 43.76048,
+    "longitude": -79.21915,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/13836651396",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "1892 Lawrence Ave E, Scarborough, ON M1R 2Y5": {
+    "latitude": 43.7440567,
+    "longitude": -79.301331,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/804589326",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "2086A Lawrence Ave E, Scarborough, ON M1R 2Z5, Canada": {
+    "latitude": 43.74625,
+    "longitude": -79.293,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/13855712191",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "4830 Sheppard Ave E, Scarborough, ON M1S 5M9": {
+    "latitude": 43.7924559,
+    "longitude": -79.2496169,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/2818170003",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "2058 Ellesmere Rd Unit 6, Scarborough, ON M1H 2V6": {
+    "latitude": 43.77654,
+    "longitude": -79.2343,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/13833869909",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "51 Lebovic Ave, Scarborough, ON M1L 4W1": {
+    "latitude": 43.7228223,
+    "longitude": -79.2893187,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/3212853792",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "4830 Sheppard Ave E Scarborough, M1S 5M9": {
+    "latitude": 43.7924559,
+    "longitude": -79.2496169,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/2818170003",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "264 Markham Rd, Scarborough, ON M1J 3C5, Canada": {
+    "latitude": 43.74523,
+    "longitude": -79.22031,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/13836586930",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "1961 Lawrence Ave E #1, Scarborough, ON M1R 2Y8": {
+    "latitude": 43.7444509,
+    "longitude": -79.2982186,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/804589475",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "234 Markham Rd Scarborough, ON M1J 3C2": {
+    "latitude": 43.74461411111111,
+    "longitude": -79.2197058,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/66416791",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "2450 Sheppard Avenue E, North York, ON, M2J 4W6": {
+    "latitude": 43.7747939,
+    "longitude": -79.3266271,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/896758269",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "4383 Kingston Road Scarborough M1E 2N2": {
+    "latitude": 43.7658871,
+    "longitude": -79.1907653,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/896593614",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "62 Overlea Blvd unit 7b, East York, ON M4H 1C4": {
+    "latitude": 43.7081177,
+    "longitude": -79.3430905,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/344008181",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "208 Queens Quay W, Toronto, ON M5J 2Y5": {
+    "latitude": 43.6399262,
+    "longitude": -79.3814747,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/3474264300",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "2583 St Clair Ave W Unit C7, Toronto, ON M6N 4Z5": {
+    "latitude": 43.66714,
+    "longitude": -79.4884,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/13855137553",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "1365 Gerrard St E, Toronto, Ontario, M4L 1Z3": {
+    "latitude": 43.6714936,
+    "longitude": -79.3248109,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/node/804613790",
+    "coordinateLicence": "ODbL-1.0"
+  },
+  "Union Station Food Crt-Unit 471, Toronto Ontario, M5J 1E6": {
+    "latitude": null,
+    "longitude": null,
+    "geoAccuracy": "Address location not resolved"
+  },
+  "2104 Hwy 7, #1 , Concord ON L4K 2S9": {
+    "latitude": 43.80175700233615,
+    "longitude": -79.49403129413524,
+    "geoAccuracy": "Approximate address location",
+    "coordinateSource": "https://www.openstreetmap.org/way/76124787",
+    "coordinateLicence": "ODbL-1.0"
+  }
+}
