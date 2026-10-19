@@ -25,7 +25,7 @@ export function PortalHeader() {
             <Link href="/voices">Voices</Link>
             <Link href="/news">News</Link>
             <Link href="/resources">Resources</Link>
-            <Link href="/community">Community</Link>
+            <Link href="/marketplace">Marketplace</Link>
           </nav>
           <div className="header-actions"><Link href="/saved" className="saved-nav" aria-label="Saved places and resources"><Bookmark size={20} /></Link><Link href="/submit" className="portal-button small"><Plus size={16} /> Contribute</Link></div>
         </div>
@@ -40,12 +40,12 @@ export function PortalFooter() {
       <footer className="portal-footer">
         <div className="portal-container footer-grid">
           <div><Brand footer /><p>Local roots.<br />A world of connection.</p></div>
-          <div><strong>Explore your community</strong><Link href="/nearby?type=mosque">Mosques near you</Link><Link href="/nearby?type=food">Halal food near you</Link><Link href="/search?type=events">Events & gatherings</Link><Link href="/resources">Community resources</Link></div>
+          <div><strong>Explore your community</strong><Link href="/marketplace">Community marketplace</Link><Link href="/nearby?type=mosque">Mosques near you</Link><Link href="/nearby?type=food">Halal food near you</Link><Link href="/search?type=events">Events & gatherings</Link><Link href="/resources">Community resources</Link></div>
           <div><strong>Build it with us</strong><Link href="/voices">Community voices</Link><Link href="/news">Muslim newsroom</Link><Link href="/submit">Suggest a listing</Link><Link href="/sources">Our sources & approach</Link><Link href="/community">Community guidelines</Link><a href={FACEBOOK_URL} target="_blank" rel="noreferrer">MIC on Facebook ↗</a></div>
         </div>
         <div className="portal-container footer-bottom"><span>© {new Date().getFullYear()} Muslims in Canada</span><span><Link href="/credits">Photography & film credits</Link> · <Link href="/privacy">Privacy</Link></span></div>
       </footer>
-      <nav className="mobile-nav" aria-label="Mobile navigation"><Link href="/"><HeartHandshake size={20} />Home</Link><Link href="/nearby"><Compass size={20} />Near you</Link><Link href="/saved"><Bookmark size={20} />Saved</Link><Link href="/community"><Users size={20} />Connect</Link><Link href="/submit"><Plus size={20} />Add</Link></nav>
+      <nav className="mobile-nav" aria-label="Mobile navigation"><Link href="/"><HeartHandshake size={20} />Home</Link><Link href="/nearby"><Compass size={20} />Near you</Link><Link href="/marketplace"><Users size={20} />Market</Link><Link href="/saved"><Bookmark size={20} />Saved</Link><Link href="/marketplace/new"><Plus size={20} />Post ad</Link></nav>
     </>
   );
 }

@@ -1,0 +1,53 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import {randomUUID} from 'node:crypto';
+import {createClient} from '@supabase/supabase-js';
+import sharp from 'sharp';
+import {validateMarketInput,activeMarketAd} from '../lib/marketplace.ts';
+const base=process.env.MIC_TEST_URL||'http://localhost:3103',origin=new URL(base).origin;
+const admin=createClient(process.env.NEXT_PUBLIC_SUPABASE_URL,process.env.SUPABASE_SERVICE_ROLE_KEY,{auth:{persistSession:false,autoRefreshToken:false}});
+const users=[],rows=[],objects=[];
+async function account(email){const password=`Mic-QA-${randomUUID()}!`;const created=await admin.auth.admin.createUser({email,password,email_confirm:true});assert.ifError(created.error);users.push(created.data.user.id);const client=createClient(process.env.NEXT_PUBLIC_SUPABASE_URL,process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY,{auth:{persistSession:false,autoRefreshToken:false}});const login=await client.auth.signInWithPassword({email,password});assert.ifError(login.error);return {id:created.data.user.id,token:login.data.session.access_token,client};}
+async function request(path,{user,body,method='GET',foreign=false}={}){const response=await fetch(base+path,{method,headers:{Origin:foreign?'https://unrelated.example':origin,...(user?{Authorization:`Bearer ${user.token}`}:{ }),...(body?{'Content-Type':'application/json'}:{})},...(body?{body:JSON.stringify(body)}:{})});return {status:response.status,data:await response.json()};}
+try{
+ const suffix=randomUUID().slice(0,8),seller=await account(`mic-seller-${suffix}@example.invalid`),other=await account(`mic-other-${suffix}@example.invalid`),moderator=await account(process.env.MIC_QA_MODERATOR_EMAIL||'mic-marketplace-moderator-qa@example.invalid');
+ assert.equal((await request('/api/marketplace/account')).status,401);
+ assert.equal((await request('/api/marketplace/account',{user:seller})).data.user.moderator,false);
+ assert.equal((await request('/api/marketplace/account',{user:moderator})).data.user.moderator,true,'Local QA moderator allowlist must be configured');
+ const fixture=process.env.MIC_QA_SMALL_PHOTO==='1'?await sharp({create:{width:16,height:16,channels:3,background:'#00843d'}}).jpeg().toBuffer():await fs.readFile('public/media/shared-table.jpg');
+ const form=new FormData();form.set('photo',new File([fixture],'photo.jpg',{type:'image/jpeg'}));
+ const upload=await fetch(base+'/api/marketplace/upload',{method:'POST',headers:{Origin:origin,Authorization:`Bearer ${seller.token}`},body:form});assert.equal(upload.status,201);const photo=await upload.json();objects.push(photo.path);
+ const publicObject=await fetch(process.env.NEXT_PUBLIC_SUPABASE_URL+'/storage/v1/object/public/mic-marketplace/'+photo.path);assert.ok(!publicObject.ok,'Bucket must remain private');
+ const invalidImage=new FormData();invalidImage.set('photo',new File(['<svg xmlns="http://www.w3.org/2000/svg"/>'],'fake.jpg',{type:'image/jpeg'}));assert.equal((await fetch(base+'/api/marketplace/upload',{method:'POST',headers:{Origin:origin,Authorization:`Bearer ${seller.token}`},body:invalidImage})).status,400);
+ const input={title:'Temporary MIC marketplace QA offering',description:'A temporary synthetic offering created for end-to-end verification. This is not a real business advertisement.',category:'Food & catering',city:'Markham',serviceArea:'GTA',latitude:43.856,longitude:-79.337,priceMode:'fixed',price:25,contactName:'Temporary QA advertiser',contactUrl:'https://example.org/',contactPhone:'',contactEmail:'',imagePaths:[photo.path],consent:true};
+ assert.throws(()=>validateMarketInput({...input,contactUrl:'javascript:alert(1)'},seller.id));assert.throws(()=>validateMarketInput({...input,imagePaths:[`${other.id}/not-mine.jpg`]},seller.id));assert.equal(activeMarketAd({market_state:'published',expires_at:new Date(Date.now()-1).toISOString()}),false);
+ assert.equal((await request('/api/marketplace',{method:'POST',user:seller,body:input,foreign:true})).status,403);
+ assert.equal((await request('/api/marketplace',{method:'POST',user:seller,body:{...input,imagePaths:[]}})).status,400);
+ let result=await request('/api/marketplace',{method:'POST',user:seller,body:input});assert.equal(result.status,201,JSON.stringify(result.data));let ad=result.data.ad;rows.push(ad.id);assert.equal(ad.state,'pending');
+ assert.ok(!(await request('/api/marketplace')).data.ads.some(row=>row.id===ad.id));
+ assert.equal((await fetch(base+`/api/marketplace/media?ad=${ad.id}&index=0`)).status,404);
+ const anonymous=createClient(process.env.NEXT_PUBLIC_SUPABASE_URL,process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);const raw=await anonymous.from('submission').select('id').eq('id',ad.id);assert.ok(raw.error||raw.data.length===0,'Database queue must remain private');
+ for(const client of [anonymous,seller.client]){const bypassId=randomUUID();rows.push(bypassId);const bypass=await client.from('submission').insert({id:bypassId,submission_type:'business',status:'pending',submitter_email:'qa@example.invalid',payload:{channel:'mic-marketplace-v1',market_state:'published'}});assert.ok(bypass.error,'Direct marketplace inserts must be blocked');}
+ assert.equal((await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:other,body:{action:'withdraw',revision:ad.revision}})).status,403);
+ assert.equal((await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:seller,body:{action:'approve',revision:ad.revision}})).status,403);
+ result=await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:moderator,body:{action:'approve',revision:ad.revision}});assert.equal(result.status,200,JSON.stringify(result.data));ad=result.data.ad;assert.equal(ad.state,'published');assert.ok(Date.parse(ad.expiresAt)>Date.now()+29*86400000);
+ const published=(await request('/api/marketplace')).data.ads.find(row=>row.id===ad.id);assert.ok(published);assert.ok(!('sellerEmail'in published)&&!('owner_id'in published));assert.deepEqual(published.imagePaths,[]);
+ const media=await fetch(base+`/api/marketplace/media?ad=${ad.id}&index=0`);assert.equal(media.status,200);assert.match(media.headers.get('content-type'),/image\/jpeg/);
+ assert.equal((await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:seller,body:{...input,action:'save',revision:1}})).status,409);
+ result=await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:seller,body:{...input,title:input.title+' edited',action:'save',revision:ad.revision}});assert.equal(result.status,200);ad=result.data.ad;assert.equal(ad.state,'pending');assert.ok(!(await request('/api/marketplace')).data.ads.some(row=>row.id===ad.id));
+ result=await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:moderator,body:{action:'reject',revision:ad.revision,note:'Test moderation note: improve the description.'}});assert.equal(result.status,200);ad=result.data.ad;assert.equal(ad.state,'rejected');
+ result=await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:seller,body:{action:'renew',revision:ad.revision,consent:true}});assert.equal(result.status,200);ad=result.data.ad;
+ result=await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:moderator,body:{action:'approve',revision:ad.revision}});assert.equal(result.status,200);ad=result.data.ad;
+ const report=await request('/api/marketplace/report',{method:'POST',user:other,body:{adId:ad.id,reason:'Temporary QA report for moderation verification.'}});assert.equal(report.status,201);
+ const reports=(await request('/api/marketplace/account',{user:moderator})).data.reports.filter(row=>row.payload.ad_id===ad.id);assert.equal(reports.length,1);rows.push(...reports.map(row=>row.id));
+ const stored=await admin.from('submission').select('payload').eq('id',ad.id).single();await admin.from('submission').update({payload:{...stored.data.payload,expires_at:new Date(Date.now()-1000).toISOString()}}).eq('id',ad.id);assert.ok(!(await request('/api/marketplace')).data.ads.some(row=>row.id===ad.id));assert.equal((await fetch(base+`/api/marketplace/media?ad=${ad.id}&index=0`)).status,404);
+ result=await request(`/api/marketplace/${ad.id}`,{method:'PATCH',user:seller,body:{action:'withdraw',revision:ad.revision}});assert.equal(result.status,200);assert.equal(result.data.ad.state,'withdrawn');
+ const drafts=await request('/api/marketplace',{method:'POST',user:seller,body:{...input,imagePaths:[],saveDraft:true}});assert.equal(drafts.status,201);rows.push(drafts.data.ad.id);assert.equal(drafts.data.ad.state,'draft');
+ for(const path of ['/marketplace','/marketplace/new','/marketplace/account','/marketplace/rules',`/marketplace/${ad.id}`])assert.equal((await fetch(base+path)).status,200,path);
+ console.log('PASS: verified account roles, private photo upload, invalid-image rejection, moderation, owner isolation, no private-data leakage, edit re-review, stale revision rejection, reports, expiry, withdrawal, drafts and marketplace routes.');
+}finally{
+ if(rows.length){const result=await admin.from('submission').delete().in('id',rows);assert.ifError(result.error);}
+ if(objects.length){const result=await admin.storage.from('mic-marketplace').remove(objects);assert.ifError(result.error);}
+ for(const id of users){const result=await admin.auth.admin.deleteUser(id);assert.ifError(result.error);}
+ console.log('Temporary QA accounts, advertisements, reports and photos removed.');
+}

@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { PortalHeader, PortalFooter } from '@/components/portal-shell';
 import { LocationProvider } from '@/components/location-provider';
 import { LocationBanner } from '@/components/location-banner';
+import { MarketplaceReturn } from '@/components/marketplace-return';
 import './globals.css';
 import './visual.css';
 
@@ -19,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body><LocationProvider><a className="skip-link" href="#main-content">Skip to content</a><PortalHeader /><LocationBanner /><div id="main-content">{children}</div><PortalFooter /></LocationProvider></body>
+      <body><MarketplaceReturn /><LocationProvider><a className="skip-link" href="#main-content">Skip to content</a><PortalHeader /><LocationBanner /><div id="main-content">{children}</div><PortalFooter /></LocationProvider></body>
     </html>
   )
 }

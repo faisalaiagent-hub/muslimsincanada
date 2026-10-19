@@ -10,6 +10,8 @@ import { CommunityVideo } from '@/components/community-video';
 import { Suspense } from 'react';
 import { EditorialSections } from '@/components/editorial-sections';
 import { NearbyTeaser } from '@/components/nearby-teaser';
+import { MarketplaceTeaser } from '@/components/marketplace-teaser';
+import './marketplace/marketplace.css';
 
 export const dynamic = 'force-dynamic';
 
@@ -55,6 +57,7 @@ export default async function Home() {
       <div className="v-ticker" aria-hidden="true"><div className="v-ticker-track">{[0, 1, 2].map(item => <span key={item}>ROOTED IN CANADA <b>✳</b> CONNECTED BY COMMUNITY <b>✳</b> OPEN TO THE WORLD <b>✳</b></span>)}</div></div>
 
       <NearbyTeaser />
+      <MarketplaceTeaser />
       <Suspense fallback={<div className="portal-container v-section">Loading community voices and publisher headlines…</div>}><EditorialSections /></Suspense>
 
       <section className="portal-container v-section" id="explore">
