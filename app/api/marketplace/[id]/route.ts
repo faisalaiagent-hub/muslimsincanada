@@ -1,10 +1,19 @@
 import { marketAdmin, marketUser, marketJson, marketResponse, marketDto, marketRow, MarketError, MARKET_CHANNEL, checkMarketPhotos } from '@/lib/marketplace-server';
 import { validateMarketInput } from '@/lib/marketplace';
+import { notifyMarketReview } from '@/lib/marketplace-review';
 export async function PATCH(request: Request, context: {params: Promise<{id:string}>}) {
   try {
     const user = await marketUser(request), body = await marketJson(request), {id} = await context.params, row = await marketRow(id), p = row.payload;
     if(p.owner_id !== user.id && !user.moderator) throw new MarketError('You cannot manage this advertisement.',403);
     if(body.revision !== p.revision) throw new MarketError('This ad changed in another tab. Refresh before trying again.',409);
+    if(body.action === 'email') {
+      if(!user.moderator) throw new MarketError('MIC moderator access is required.',403);
+      if(p.market_state !== 'pending') throw new MarketError('Only pending offerings need review emails.');
+      if(!process.env.RESEND_API_KEY) throw new MarketError('Moderator emails need the private email-sending key configured in hosting.',503);
+      const sent=await notifyMarketReview(row);
+      if(!sent) throw new MarketError('The review email is queued but sending could not be confirmed. Wait a minute before retrying. The offering is still available in your dashboard.',503);
+      return Response.json({ad:await marketDto(row,true)},{headers:{'Cache-Control':'no-store'}});
+    }
     let next = {...p,revision:p.revision+1,updated_at:new Date().toISOString()};
     if(body.action === 'withdraw') next.market_state = 'withdrawn';
     else if(body.action === 'approve' || body.action === 'reject') {
@@ -30,6 +39,7 @@ export async function PATCH(request: Request, context: {params: Promise<{id:stri
     if(body.action === 'save' || body.action === 'renew') await checkMarketPhotos(next.imagePaths,user.id);
     const {data,error} = await marketAdmin().from('submission').update({payload:next}).eq('id',id).eq('payload->>channel',MARKET_CHANNEL).eq('payload->>revision',String(p.revision)).select('id,created_at,submitter_email,payload').maybeSingle();
     if(error) throw error; if(!data) throw new MarketError('This ad changed. Refresh before trying again.',409);
+    if(body.action === 'save' || body.action === 'renew') await notifyMarketReview(data);
     return Response.json({ad:await marketDto(data,true)},{headers:{'Cache-Control':'no-store'}});
   } catch(error) {return marketResponse(error);}
 }
