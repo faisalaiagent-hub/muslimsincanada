@@ -408,3 +408,21 @@ html[data-motion="paused"] .v-home *, html[data-motion="paused"] .v-home *:befor
 .e-snapshot-date { display: block; margin-top: .6rem; color: #526b61; font-size: .72rem; line-height: 1.5; }
 .e-art-small { min-width: 72px; max-width: 96px; height: 66px; padding: .3rem; overflow: hidden; }
 .e-art-small span { font-size: .6rem; }
+
+/* Account access is visible across the whole portal, including small screens. */
+.account-nav{position:relative;flex-shrink:0;z-index:60}
+.account-trigger{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:42px;padding:9px 12px;border:1px solid #c9ded1;border-radius:25px;background:#fff;color:#075c3b;font-size:12px;font-weight:750;white-space:nowrap;cursor:pointer;list-style:none}
+.account-trigger::-webkit-details-marker{display:none}
+.account-trigger:hover,.account-nav[open] .account-trigger{background:#edf6ef;border-color:#00843d}
+.account-loading{color:#64756c;cursor:default}
+.account-active{width:6px;height:6px;border-radius:50%;background:#00843d;flex-shrink:0}
+.account-panel{position:absolute;right:0;top:calc(100% + 12px);width:min(290px,calc(100vw - 36px));padding:20px;background:#fff;border:1px solid #d6e5db;border-radius:16px;box-shadow:0 16px 45px #123e3226;text-align:left}
+.account-panel>small{display:block;color:#617469;font-size:11px}
+.account-panel>strong{display:block;font-size:14px;overflow-wrap:anywhere;margin:7px 0 16px;color:#173b36}
+.account-panel>a,.account-panel>button{display:flex;align-items:center;gap:8px;width:100%;padding:12px 0;border:0;border-top:1px solid #e4ece6;background:transparent;color:#075c3b;font-size:13px;font-weight:650;text-align:left;line-height:1.5}
+.account-panel>a:hover,.account-panel>button:hover{color:#b4142a}
+.account-panel>p{font-size:12px;color:#a51c2c}
+@media(min-width:1101px) and (max-width:1300px){.header-inner{gap:15px}.desktop-nav{gap:17px}.header-actions{gap:12px}.header-inner .brand-name{max-width:150px;font-size:12px}}
+@media(max-width:900px){.header-actions{gap:10px}.account-trigger{font-size:11px;padding:9px 10px}.header-actions .saved-nav{display:none}}
+@media(max-width:600px){.header-inner{gap:12px}.header-inner .brand-name{max-width:95px;font-size:9px}.header-inner .brand-name>span{font-size:7px}.header-actions .contribute-nav{width:36px;min-height:36px;padding:8px}.contribute-nav>span{display:none}.account-panel{right:-46px}.account-trigger{min-height:38px;gap:5px;padding:8px 9px}.account-trigger>svg:last-child:not(:first-child){width:11px}.account-active{display:none}}
+@media(min-width:601px) and (max-width:900px){.header-actions .contribute-nav{width:36px;min-height:36px;padding:8px}.contribute-nav>span{display:none}}

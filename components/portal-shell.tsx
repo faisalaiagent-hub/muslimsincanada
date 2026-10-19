@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowUpRight, Bookmark, Compass, HeartHandshake, Plus, Users } from 'lucide-react';
 import { FACEBOOK_URL } from '@/lib/community';
+import { AccountNav } from './account-nav';
 
 function Brand({ footer = false }: { footer?: boolean }) {
   return (
@@ -27,7 +28,7 @@ export function PortalHeader() {
             <Link href="/resources">Resources</Link>
             <Link href="/marketplace">Marketplace</Link>
           </nav>
-          <div className="header-actions"><Link href="/saved" className="saved-nav" aria-label="Saved places and resources"><Bookmark size={20} /></Link><Link href="/submit" className="portal-button small"><Plus size={16} /> Contribute</Link></div>
+          <div className="header-actions"><Link href="/saved" className="saved-nav" aria-label="Saved places and resources"><Bookmark size={20} /></Link><AccountNav /><Link href="/submit" className="portal-button small contribute-nav" aria-label="Contribute to MIC"><Plus size={16} /><span>Contribute</span></Link></div>
         </div>
       </header>
     </>
