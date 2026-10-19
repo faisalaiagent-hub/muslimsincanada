@@ -10,6 +10,12 @@ export function MarketplaceAuth({children}:{children:ReactNode}){
   return <Context.Provider value={{session,ready}}>{children}</Context.Provider>;
 }
 export const useMarketplaceAuth=()=>useContext(Context);
+function signInMessage(error: unknown) {
+  const details = error as {code?:string;status?:number;message?:string};
+  if(details.code === 'over_email_send_rate_limit') return 'Sign-in emails are temporarily unavailable because the sending limit has been reached. Please try again later.';
+  if(details.status === 429) return 'Too many sign-in requests. Please wait before requesting another email, and check your inbox and spam folder for an earlier link.';
+  return details.message || 'We could not send your sign-in email. Please try again.';
+}
 export async function marketplaceFetch(path:string,options:RequestInit={}){
   const {data}=await marketBrowser().auth.getSession();
   if(!data.session)throw new Error('Sign in to continue.');
@@ -18,5 +24,5 @@ export async function marketplaceFetch(path:string,options:RequestInit={}){
 }
 export function MarketplaceSignIn(){
   const [email,setEmail]=useState(''),[sent,setSent]=useState(false),[busy,setBusy]=useState(false),[message,setMessage]=useState('');
-  return <section className="m-auth"><span className="v-label">YOUR OFFERINGS. YOUR ACCOUNT.</span><h2>Sign in with your email.</h2><p>We’ll send a secure sign-in link. No password to remember. Confirming your email lets you submit offerings; it does not verify or endorse a business.</p><form onSubmit={async event=>{event.preventDefault();setBusy(true);setMessage('');try{const {error}=await marketBrowser().auth.signInWithOtp({email,options:{emailRedirectTo:`${window.location.origin}/marketplace/account`}});if(error)throw error;setSent(true);}catch(error){setMessage((error as Error).message);}finally{setBusy(false);}}}><label>Email address<input type="email" value={email} onChange={event=>setEmail(event.target.value)} autoComplete="email" required maxLength={254}/></label><button className="portal-button" disabled={busy}>{busy?'Sending…':sent?'Send another link':'Email me a sign-in link'}</button></form>{sent&&<p role="status">Check your inbox and spam folder. Open the sign-in link to manage your offerings.</p>}{message&&<p className="notice" role="alert">{message}</p>}<small>MIC keeps your sign-in email private unless you separately choose to display it as an advertisement contact.</small></section>;
+  return <section className="m-auth"><span className="v-label">YOUR OFFERINGS. YOUR ACCOUNT.</span><h2>Sign in with your email.</h2><p>We’ll send a secure sign-in link. No password to remember. Confirming your email lets you submit offerings; it does not verify or endorse a business.</p><form onSubmit={async event=>{event.preventDefault();setBusy(true);setMessage('');try{const {error}=await marketBrowser().auth.signInWithOtp({email,options:{emailRedirectTo:`${window.location.origin}/marketplace/account`}});if(error)throw error;setSent(true);}catch(error){setSent(false);setMessage(signInMessage(error));}finally{setBusy(false);}}}><label>Email address<input type="email" value={email} onChange={event=>setEmail(event.target.value)} autoComplete="email" required maxLength={254}/></label><button className="portal-button" disabled={busy}>{busy?'Sending…':sent?'Send another link':'Email me a sign-in link'}</button></form>{sent&&<p role="status">Check your inbox and spam folder. Open the sign-in link to manage your offerings.</p>}{message&&<p className="notice" role="alert">{message}</p>}<small>MIC keeps your sign-in email private unless you separately choose to display it as an advertisement contact.</small></section>;
 }
