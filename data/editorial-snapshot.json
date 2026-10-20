@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-20T17:20:50.770Z",
+      "checkedAt": "2026-10-20T21:44:23.174Z",
       "items": [
         {
           "id": "qZ3ZbqL7uAA",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-20T17:20:50.904Z",
+      "checkedAt": "2026-10-20T21:44:23.453Z",
       "items": [
         {
           "id": "SkP_dFTLTu8",
@@ -159,11 +159,11 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-20T17:20:52.464Z",
+      "checkedAt": "2026-10-20T21:44:25.088Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/oic-urges-member-states-to-support-turkiye-candidate-for-fao-chief/",
-          "title": "OIC urges member states to support Türkiye candidate for FAO chief",
+          "title": "Islamic bloc backs Türkiye’s candidate for UN food agency",
           "published": "2026-10-20T14:29:26.000Z",
           "url": "https://www.muslimnetwork.tv/oic-urges-member-states-to-support-turkiye-candidate-for-fao-chief/",
           "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/flags-members-1.jpg"
@@ -230,7 +230,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-20T17:20:53.194Z",
+      "checkedAt": "2026-10-20T21:44:25.558Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -302,7 +302,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-20T17:20:50.653Z",
+      "checkedAt": "2026-10-20T21:44:23.006Z",
       "items": [
         {
           "id": "QdcDbhl3oIo",
@@ -412,7 +412,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-20T17:20:51.027Z",
+      "checkedAt": "2026-10-20T21:44:23.633Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -522,7 +522,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-20T17:20:51.163Z",
+      "checkedAt": "2026-10-20T21:44:23.926Z",
       "items": [
         {
           "id": "rf4HKYX4luI",
@@ -632,7 +632,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-20T17:20:51.271Z",
+      "checkedAt": "2026-10-20T21:44:24.060Z",
       "items": [
         {
           "id": "pkhGoYn2vlM",
@@ -742,14 +742,77 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-20T17:20:52.645Z",
+      "checkedAt": "2026-10-20T21:44:25.301Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/player/play/9.7389001",
+          "title": "Fact check: Old explosion videos do not show CFB Wainwright",
+          "published": "2026-10-20T20:58:27.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7389001",
+          "image": "https://i.cbc.ca/ais/cd8afc44-d706-4fda-a1ab-7c06b625cd14,1792529438755/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/renouncing-oath-king-national-assembly-legal-injunction-9.7388788",
+          "title": "Renouncing oath to the King threatens Quebec's National Assembly's legitimacy, lawyer argues",
+          "published": "2026-10-20T20:05:23.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/renouncing-oath-king-national-assembly-legal-injunction-9.7388788",
+          "image": "https://i.cbc.ca/ais/ba9a3506-cee4-4e09-821c-0a8a55eb5d6c,1792531063555/full/max/0/default.jpg?im=Crop%2Crect%3D%28949%2C47%2C3082%2C1733%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/radio/asithappens/aidan-goulding-sonia-monk-9.7388746",
+          "title": "Mother of soldier killed in CFB Wainwright fire says her 'beautiful son' wanted to protect Canada",
+          "published": "2026-10-20T19:54:16.000Z",
+          "url": "https://www.cbc.ca/radio/asithappens/aidan-goulding-sonia-monk-9.7388746",
+          "image": "https://i.cbc.ca/ais/bd9034c6-457c-4558-a44c-e88bfaec432f,1792523764279/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C415%2C1536%2C864%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-byron-carr-review-9.7388834",
+          "title": "Independent review ordered into Byron Carr murder investigation after charges dropped",
+          "published": "2026-10-20T19:20:33.000Z",
+          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-byron-carr-review-9.7388834",
+          "image": "https://i.cbc.ca/ais/9c78792a-0024-4a41-9c3c-0f650f6ad09a,1791899543978/full/max/0/default.jpg?im=Crop%2Crect%3D%28245%2C60%2C1406%2C790%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/liberal-government-budget-2026-9.7388623",
+          "title": "Liberal government to table budget on Nov. 5",
+          "published": "2026-10-20T18:50:43.000Z",
+          "url": "https://www.cbc.ca/news/politics/liberal-government-budget-2026-9.7388623",
+          "image": "https://i.cbc.ca/ais/06b5b380-6a77-4037-b918-aede3375a5dc,1792516955347/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6753%2C3798%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterskis-fraud-trial-adjourned-until-next-week-due-to-medical-issue-9.7388586",
+          "title": "‘Crypto King’ Aiden Pleterski’s fraud trial adjourned until next week due to medical issue",
+          "published": "2026-10-20T18:07:59.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterskis-fraud-trial-adjourned-until-next-week-due-to-medical-issue-9.7388586",
+          "image": "https://i.cbc.ca/ais/4eb8a4d4-b742-42ab-b5ac-1c4dddccc0fb,1792515393297/full/max/0/default.jpg?im=Crop%2Crect%3D%28199%2C0%2C3562%2C2003%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-community-reaction-9.7388536",
+          "title": "‘What I expected’: Coffee crowd mostly relieved by remain victory in Alberta referendum",
+          "published": "2026-10-20T18:03:06.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-community-reaction-9.7388536",
+          "image": "https://i.cbc.ca/ais/013c3d94-e0ce-4ddc-a38c-a1e00c985599,1792513404121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/cfb-wainwright-fire-9.7388647",
+          "title": "'We're together': Vigil planned for CFB Wainwright community",
+          "published": "2026-10-20T17:52:43.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/cfb-wainwright-fire-9.7388647",
+          "image": "https://i.cbc.ca/ais/c39c3e29-4488-48e4-983f-a904a4f56c8a,1792529619367/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/windsor/juror-letter-to-man-convicted-of-murder-9.7388390",
           "title": "Juror sends mysterious letter to jailed man he just helped convict of murder in Windsor, Ont.",
           "published": "2026-10-20T16:30:30.000Z",
           "url": "https://www.cbc.ca/news/canada/windsor/juror-letter-to-man-convicted-of-murder-9.7388390",
           "image": "https://i.cbc.ca/ais/b1b71761-e4e7-4ab6-88f1-5dd2b29d623b,1792511891347/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C866%2C487%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/canada-economic-forecast-tariffs-9.7388523",
+          "title": "Budget watchdog trims economic forecast for 2026 and 2027 amid new U.S. tariffs",
+          "published": "2026-10-20T16:30:17.000Z",
+          "url": "https://www.cbc.ca/news/politics/canada-economic-forecast-tariffs-9.7388523",
+          "image": "https://i.cbc.ca/ais/320932d3-14f4-4c82-909e-a006b07521a7,1792512840841/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C392%2C7535%2C4238%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/manitoba/grifols-plasma-donation-resumption-9.7388170",
@@ -773,13 +836,6 @@
           "image": "https://i.cbc.ca/ais/78531353-a2b8-4c6f-8830-f4ca2f10f29c,1785988174301/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C38%2C450%2C253%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/tony-powell-obit-9.7387977",
-          "title": "‘End of an era’: Labrador pilot Tony Powell has died",
-          "published": "2026-10-20T12:56:40.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/tony-powell-obit-9.7387977",
-          "image": "https://i.cbc.ca/ais/d2efb9d0-1043-4b23-9cf5-3265bb411463,1792491240297/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C454%2C1206%2C678%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/british-columbia/brady-rogers-satire-kelowna-campaign-win-9.7387848",
           "title": "'How hard could it be?': Kelowna candidate with viral signs gets elected",
           "published": "2026-10-20T12:00:00.000Z",
@@ -792,95 +848,53 @@
           "published": "2026-10-20T11:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/cowichan-appeal-stay-arguments-warnings-9.7383876",
           "image": "https://i.cbc.ca/ais/ebb604da-9ce9-4bc1-9e50-d5d1c4dc488f,1773113080221/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C200%2C3841%2C2160%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/cleveland-cliffs-stelco-strongest-quarter-9.7387277",
-          "title": "Stelco's U.S. owner says steelmaker had 'strongest' quarter since acquisition as massive layoffs underway",
-          "published": "2026-10-20T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/cleveland-cliffs-stelco-strongest-quarter-9.7387277",
-          "image": "https://i.cbc.ca/ais/1.7389238,1732199044000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3377%2C1899%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/roofing-scam-elderly-home-reno-9.7383672",
-          "title": "A contractor left this Toronto man without a roof. His insurance company is denying his claim",
-          "published": "2026-10-20T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/roofing-scam-elderly-home-reno-9.7383672",
-          "image": "https://i.cbc.ca/ais/53b93fac-09ec-40ac-bb53-45fd14657399,1792433349852/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3021%2C1699%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/court-oath-to-king-quebec-9.7387583",
-          "title": "Lieutenant-governor will skip Quebec cabinet's swearing-in at incoming premier's request",
-          "published": "2026-10-20T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/court-oath-to-king-quebec-9.7387583",
-          "image": "https://i.cbc.ca/ais/da5530ee-faf4-4ee4-980f-89c5755e6652,1792503864680/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C426%2C4750%2C2671%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/north/melissa-syer-elected-mayor-yellowknife-9.7387859",
-          "title": "'I don't take that lightly,' says Melissa Syer, about her decisive win in Yellowknife mayoral race",
-          "published": "2026-10-20T02:53:29.000Z",
-          "url": "https://www.cbc.ca/news/canada/north/melissa-syer-elected-mayor-yellowknife-9.7387859",
-          "image": "https://i.cbc.ca/ais/ddc6aa99-6377-4f46-98e8-6182759db456,1792467274869/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777",
-          "title": "Poilievre to speak after 'remain' in Canada side projected to win Alberta referendum",
-          "published": "2026-10-20T01:00:24.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777",
-          "image": "https://i.cbc.ca/ais/5ef63a38-1749-4af4-ac24-cc462706233e,1792476558888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C149%2C3507%2C1972%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/north/livestory/yellowknife-municipal-election-live-updates-october-19-2026-9.7387711",
-          "title": "Yellowknife elects new mayor and council",
-          "published": "2026-10-20T00:05:56.000Z",
-          "url": "https://www.cbc.ca/news/canada/north/livestory/yellowknife-municipal-election-live-updates-october-19-2026-9.7387711",
-          "image": "https://i.cbc.ca/ais/8ef19b6e-b771-4d56-802c-972a3bb421e2,1792462645752/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/wainwright-fire-hiatt-injured-town-community-monday-9.7387581",
-          "title": "'Not out of the woods': Family rallies around soldier badly burned in CFB Wainwright fire",
-          "published": "2026-10-19T23:04:24.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/wainwright-fire-hiatt-injured-town-community-monday-9.7387581",
-          "image": "https://i.cbc.ca/ais/67896aaa-0c2b-483f-874c-6e47cde52dbd,1792447713577/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C38%2C1200%2C675%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-judge-abbotsford-homicide-faint-hope-9.7387506",
-          "title": "B.C. judge rules Abbotsford killers' Charter rights were breached",
-          "published": "2026-10-19T22:43:05.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-judge-abbotsford-homicide-faint-hope-9.7387506",
-          "image": "https://i.cbc.ca/ais/1.6449946,1671236471000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C95%2C1280%2C720%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-20T17:20:53.396Z",
+      "checkedAt": "2026-10-20T21:44:25.663Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
+          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "published": "2026-10-20T21:27:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+          "title": "Suspect arrested after historic town hall set alight - French media",
+          "published": "2026-10-20T21:05:50.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro",
+          "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+          "published": "2026-10-20T20:00:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o",
+          "title": "Trump sued over Canadian tariffs in latest legal challenge",
+          "published": "2026-10-20T19:30:05.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo",
+          "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+          "published": "2026-10-20T17:30:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo",
           "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
           "published": "2026-10-20T16:59:06.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
-          "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-          "published": "2026-10-20T16:11:56.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f072/live/051b0900-cc94-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo",
-          "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-          "published": "2026-10-20T16:09:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
-          "title": "Suspect arrested after historic town hall set alight - French media",
-          "published": "2026-10-20T16:06:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo",
@@ -926,7 +940,7 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
-          "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+          "title": "Man charged with attack on Australia MP to face court",
           "published": "2026-10-20T11:25:35.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg"
@@ -944,20 +958,6 @@
           "published": "2026-10-20T05:00:45.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo",
-          "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-          "published": "2026-10-20T03:10:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/5b9b0010-cc2f-11f1-aeea-f9fa95687445.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o",
-          "title": "Seventh day of violent clashes between Albanian protesters and police",
-          "published": "2026-10-20T02:45:05.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg"
         }
       ]
     }
