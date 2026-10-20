@@ -159,7 +159,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-20T00:19:05.131Z",
+      "checkedAt": "2026-10-20T05:01:53.514Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/tomorrow-worlds-leading-experts-on-multiple-sclerosis-ms-gather-in-toronto/",
@@ -230,7 +230,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-20T00:19:05.747Z",
+      "checkedAt": "2026-10-20T05:01:53.789Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -742,8 +742,36 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-20T00:19:05.189Z",
+      "checkedAt": "2026-10-20T05:01:53.585Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/north/livestory/yellowknife-municipal-election-live-updates-october-19-2026-9.7387711",
+          "title": "Yellowknife elects new mayor and council",
+          "published": "2026-10-20T00:05:56.000Z",
+          "url": "https://www.cbc.ca/news/canada/north/livestory/yellowknife-municipal-election-live-updates-october-19-2026-9.7387711",
+          "image": "https://i.cbc.ca/ais/8ef19b6e-b771-4d56-802c-972a3bb421e2,1792462645752/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/wainwright-fire-hiatt-injured-town-community-monday-9.7387581",
+          "title": "'Not out of the woods': Family rallies around soldier badly burned in CFB Wainwright fire",
+          "published": "2026-10-19T23:04:24.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/wainwright-fire-hiatt-injured-town-community-monday-9.7387581",
+          "image": "https://i.cbc.ca/ais/67896aaa-0c2b-483f-874c-6e47cde52dbd,1792447713577/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C38%2C1200%2C675%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-judge-abbotsford-homicide-faint-hope-9.7387506",
+          "title": "B.C. judge rules Abbotsford killers' Charter rights were breached",
+          "published": "2026-10-19T22:43:05.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-judge-abbotsford-homicide-faint-hope-9.7387506",
+          "image": "https://i.cbc.ca/ais/1.6449946,1671236471000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C95%2C1280%2C720%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/senior-custom-cot-knitting-tuques-9.7382128",
+          "title": "Man who lost legs to MS warming heads and hearts by knitting tuques on custom-made cot",
+          "published": "2026-10-19T22:28:52.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/senior-custom-cot-knitting-tuques-9.7382128",
+          "image": "https://i.cbc.ca/ais/8b1e24bd-c27f-4a67-9e19-63fdf218535d,1792099243933/full/max/0/default.jpg?im=Crop%2Crect%3D%2819%2C0%2C881%2C495%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/saskatchewan/curtis-dagenais-murder-truck-forfeiture-hearing-9.7387302",
           "title": "Cop killer Curtis Dagenais returns to Saskatoon courtroom to argue about fate of his truck",
@@ -815,45 +843,31 @@
           "image": "https://i.cbc.ca/ais/5ffebf3e-94c0-44c6-ae39-d529e70ca2e9,1771352456463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/toronto/cathy-keane-son-critically-injured-oro-medonte-wainwright-fire-9.7386473",
-          "title": "Son of Oro-Medonte, Ont., mayoral candidate 'critically injured' in CFB Wainwright fire",
-          "published": "2026-10-19T13:44:12.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/cathy-keane-son-critically-injured-oro-medonte-wainwright-fire-9.7386473",
-          "image": "https://i.cbc.ca/ais/b1d99bbf-f44b-463e-9250-fd257b94d07c,1792419578795/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/wainwright-tragedy-nl-9.7386431",
-          "title": "'The country is behind you,’ says N.L. veteran in wake of tragedy at CFB Wainwright",
-          "published": "2026-10-19T13:09:42.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/wainwright-tragedy-nl-9.7386431",
-          "image": "https://i.cbc.ca/ais/2d0f7517-c703-4d73-b4de-409209549df5,1792411255401/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C8248%2C4639%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-election-ai-data-centres-9.7382445",
-          "title": "Where do B.C.'s parties stand on the future of AI data centres?",
-          "published": "2026-10-19T13:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-election-ai-data-centres-9.7382445",
-          "image": "https://i.cbc.ca/ais/1.4023845,1792182459162/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C180%2C3500%2C1968%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/north/it-s-voting-day-in-yellowknife-here-s-what-you-should-know-9.7382260",
-          "title": "It's voting day in Yellowknife. Here's what you should know",
-          "published": "2026-10-19T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/north/it-s-voting-day-in-yellowknife-here-s-what-you-should-know-9.7382260",
-          "image": "https://i.cbc.ca/ais/efd58cec-3931-445b-9dd4-232b5f19412d,1791327104463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-nova-scotia-schools-9.7378965",
-          "title": "Inconsistent guidelines for AI use in N.S. classrooms fuel calls for provincewide policy",
-          "published": "2026-10-19T09:00:55.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-nova-scotia-schools-9.7378965",
-          "image": "https://i.cbc.ca/ais/cb92c220-1eed-4e35-b3b3-eb0827d18a45,1791910995156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "id": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-deaths-carney-9.7386478",
+          "title": "Canada-wide support grows for CFB Wainwright victims as 50 investigators probe deadly fire",
+          "published": "2026-10-19T14:02:21.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-deaths-carney-9.7386478",
+          "image": "https://i.cbc.ca/ais/024f18e7-6a61-453b-bc94-06811117152f,1792454553032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C206%2C3872%2C2178%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-20T00:19:05.787Z",
+      "checkedAt": "2026-10-20T05:01:53.834Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
+          "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+          "published": "2026-10-20T02:54:05.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab1/live/7030b4a0-cc31-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
+          "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+          "published": "2026-10-20T01:52:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/videos/cqd097z3epvno",
           "title": "US church on frontline of battle against drug known as 'tranq'",
@@ -894,7 +908,7 @@
           "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
           "published": "2026-10-19T21:14:53.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
@@ -925,25 +939,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
-          "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-          "published": "2026-10-19T18:22:48.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
           "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
           "published": "2026-10-19T17:18:04.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
-          "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-          "published": "2026-10-19T16:32:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d96e/live/22b402e0-cc18-11f1-a64c-550be9e3c66b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo",
