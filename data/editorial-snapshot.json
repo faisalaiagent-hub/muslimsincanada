@@ -2,12 +2,12 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-20T00:12:43.855Z",
+      "checkedAt": "2026-10-20T11:51:30.962Z",
       "items": [
         {
           "id": "Qe4XjRCOSNw",
           "title": "L33 - Categories 36–38: Mukhtalif al-Hadith Al-Mazid Fi Muttasil al-Asanid, Al-Marasil al-Khafi",
-          "published": "2026-10-19T13:00:14.000Z",
+          "published": "2026-10-20T02:35:14.000Z",
           "url": "https://www.youtube.com/watch?v=Qe4XjRCOSNw",
           "image": "https://i.ytimg.com/vi/Qe4XjRCOSNw/hqdefault.jpg"
         },
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-20T00:12:44.081Z",
+      "checkedAt": "2026-10-20T11:51:30.983Z",
       "items": [
+        {
+          "id": "SkP_dFTLTu8",
+          "title": "How Much Divorce Are You Seeing? | Signs of the Hour Ep. 22 | Dr. Omar Suleiman",
+          "published": "2026-10-20T05:18:28.000Z",
+          "url": "https://www.youtube.com/watch?v=SkP_dFTLTu8",
+          "image": "https://i.ytimg.com/vi/SkP_dFTLTu8/hqdefault.jpg"
+        },
         {
           "id": "_wo17AHtboY",
           "title": "Check On Them | Dr. Omar Suleiman",
@@ -148,89 +155,82 @@
           "published": "2026-10-15T19:50:01.000Z",
           "url": "https://www.youtube.com/watch?v=YZF9KViKEl8",
           "image": "https://i.ytimg.com/vi/YZF9KViKEl8/hqdefault.jpg"
-        },
-        {
-          "id": "mxPDoIAslvA",
-          "title": "What's Really Behind \"Sharing\" Al-Aqsa? | Dr. Omar Suleiman",
-          "published": "2026-10-14T01:00:27.000Z",
-          "url": "https://www.youtube.com/watch?v=mxPDoIAslvA",
-          "image": "https://i.ytimg.com/vi/mxPDoIAslvA/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-20T05:01:53.514Z",
+      "checkedAt": "2026-10-20T11:51:32.294Z",
       "items": [
         {
-          "id": "https://www.muslimnetwork.tv/tomorrow-worlds-leading-experts-on-multiple-sclerosis-ms-gather-in-toronto/",
-          "title": "Tomorrow: World’s Leading Experts on Multiple Sclerosis (MS) Gather in Toronto",
-          "published": "2026-10-19T23:16:30.000Z",
-          "url": "https://www.muslimnetwork.tv/tomorrow-worlds-leading-experts-on-multiple-sclerosis-ms-gather-in-toronto/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/MSToronto2026_banner-2_1080x1080-2-1536x1536-1.png"
+          "id": "https://www.muslimnetwork.tv/egypt-postpones-vote-on-military-support-for-saudi-arabia/",
+          "title": "Egypt postpones vote on military support for Saudi Arabia",
+          "published": "2026-10-20T08:51:58.000Z",
+          "url": "https://www.muslimnetwork.tv/egypt-postpones-vote-on-military-support-for-saudi-arabia/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_5c8b9f6e4069e2f9dd71cec53d161d35.webp"
         },
         {
-          "id": "https://www.muslimnetwork.tv/calls-mount-for-katy-merrifield-conservative-campaign-director-to-resign-following-her-islamophobic-social-media-rant/",
-          "title": "Calls Mount for Katy Merrifield, Conservative Campaign Director, to Resign Following Her Islamophobic Social Media Rant.",
-          "published": "2026-10-19T23:13:50.000Z",
-          "url": "https://www.muslimnetwork.tv/calls-mount-for-katy-merrifield-conservative-campaign-director-to-resign-following-her-islamophobic-social-media-rant/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/VWZK3L3JINALNMCD6MSLLAYQ7U.avif"
+          "id": "https://www.muslimnetwork.tv/qatar-prepares-domestic-defense-industries-center-amid-regional-threats/",
+          "title": "Qatar prepares domestic defense industries center amid regional threats",
+          "published": "2026-10-20T08:50:44.000Z",
+          "url": "https://www.muslimnetwork.tv/qatar-prepares-domestic-defense-industries-center-amid-regional-threats/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-ramazphotos-31583097.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/muslim-journalist-beaten-to-death-in-india-over-ad-dispute/",
-          "title": "Muslim journalist beaten to death in India over ad dispute",
-          "published": "2026-10-19T20:33:37.000Z",
-          "url": "https://www.muslimnetwork.tv/muslim-journalist-beaten-to-death-in-india-over-ad-dispute/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-skr-2160605598-36946519-1.jpg"
+          "id": "https://www.muslimnetwork.tv/jazan-preserves-saudi-heritage-through-crafts-customs-and-folk-arts/",
+          "title": "Jazan preserves Saudi heritage through crafts, customs and folk arts",
+          "published": "2026-10-20T08:49:06.000Z",
+          "url": "https://www.muslimnetwork.tv/jazan-preserves-saudi-heritage-through-crafts-customs-and-folk-arts/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_cb16541de73ff3aa5a2599f0608912f5.webp"
         },
         {
-          "id": "https://www.muslimnetwork.tv/dalit-man-attacked-for-worshipping-at-hindu-temple-in-india/",
-          "title": "Dalit man attacked for worshipping at Hindu temple in India",
-          "published": "2026-10-19T20:31:08.000Z",
-          "url": "https://www.muslimnetwork.tv/dalit-man-attacked-for-worshipping-at-hindu-temple-in-india/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-roman-saienko-1867764487-31818069-1.jpg"
+          "id": "https://www.muslimnetwork.tv/amnesty-urges-sanctions-as-israeli-settlers-target-palestinian-farmers/",
+          "title": "Amnesty urges sanctions as Israeli settlers target Palestinian farmers",
+          "published": "2026-10-20T08:46:05.000Z",
+          "url": "https://www.muslimnetwork.tv/amnesty-urges-sanctions-as-israeli-settlers-target-palestinian-farmers/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_f089a1351a07491e9930ba685bdaaf60.webp"
         },
         {
-          "id": "https://www.muslimnetwork.tv/two-kashmir-bound-buses-attacked-in-india-on-consecutive-nights/",
-          "title": "Two Kashmir-bound buses attacked in India on consecutive nights",
-          "published": "2026-10-19T20:28:51.000Z",
-          "url": "https://www.muslimnetwork.tv/two-kashmir-bound-buses-attacked-in-india-on-consecutive-nights/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-sheikh-basharat-33843080-20724226.jpg"
+          "id": "https://www.muslimnetwork.tv/qatar-warns-global-energy-disruption-from-iran-war-may-worsen/",
+          "title": "Qatar warns global energy disruption from Iran war may worsen",
+          "published": "2026-10-20T08:44:44.000Z",
+          "url": "https://www.muslimnetwork.tv/qatar-warns-global-energy-disruption-from-iran-war-may-worsen/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Sheikh-Saoud-bin-Abdulrahman-bin-Hassan-bin-Ali-Al-Thani-920x620-1.png"
         },
         {
-          "id": "https://www.muslimnetwork.tv/maldives-hosts-who-regional-meeting-on-pandemic-preparedness/",
-          "title": "Maldives hosts WHO regional meeting on pandemic preparedness",
-          "published": "2026-10-19T15:38:10.000Z",
-          "url": "https://www.muslimnetwork.tv/maldives-hosts-who-regional-meeting-on-pandemic-preparedness/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-shvetsa-4167580.jpg"
+          "id": "https://www.muslimnetwork.tv/pakistan-and-birzeit-university-launch-telemedicine-initiative-for-palestinians/",
+          "title": "Pakistan and Birzeit University launch telemedicine initiative for Palestinians",
+          "published": "2026-10-20T08:43:20.000Z",
+          "url": "https://www.muslimnetwork.tv/pakistan-and-birzeit-university-launch-telemedicine-initiative-for-palestinians/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_4f5b066f51ce5b661c5781304483f8e5.webp"
         },
         {
-          "id": "https://www.muslimnetwork.tv/germany-pledges-2-2m-for-rohingya-refugees-in-bangladesh/",
-          "title": "Germany pledges $2.2M for Rohingya refugees in Bangladesh",
-          "published": "2026-10-19T15:35:49.000Z",
-          "url": "https://www.muslimnetwork.tv/germany-pledges-2-2m-for-rohingya-refugees-in-bangladesh/"
+          "id": "https://www.muslimnetwork.tv/israeli-strike-kills-palestinian-couple-near-gaza-city-hospital/",
+          "title": "Israeli strike kills Palestinian couple near Gaza City hospital",
+          "published": "2026-10-20T08:41:23.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-strike-kills-palestinian-couple-near-gaza-city-hospital/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/egypt-unveils-laser-system-designed-to-intercept-drones/",
-          "title": "Egypt unveils laser system designed to intercept drones",
-          "published": "2026-10-19T15:33:01.000Z",
-          "url": "https://www.muslimnetwork.tv/egypt-unveils-laser-system-designed-to-intercept-drones/"
+          "id": "https://www.muslimnetwork.tv/israel-deports-scottish-businesswoman-after-denying-her-entry-to-palestine/",
+          "title": "Israel deports Scottish businesswoman after denying her entry to Palestine",
+          "published": "2026-10-20T08:12:28.000Z",
+          "url": "https://www.muslimnetwork.tv/israel-deports-scottish-businesswoman-after-denying-her-entry-to-palestine/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/saudi-arabia-launches-new-archaeology-season-in-alula-khaybar/",
-          "title": "Saudi Arabia launches new archaeology season in AlUla, Khaybar",
-          "published": "2026-10-19T15:31:26.000Z",
-          "url": "https://www.muslimnetwork.tv/saudi-arabia-launches-new-archaeology-season-in-alula-khaybar/"
+          "id": "https://www.muslimnetwork.tv/iran-says-7-internet-cables-under-strait-of-hormuz-its-new-targets/",
+          "title": "Iran says 7 internet cables under Strait of Hormuz its ‘new targets’",
+          "published": "2026-10-20T07:24:17.000Z",
+          "url": "https://www.muslimnetwork.tv/iran-says-7-internet-cables-under-strait-of-hormuz-its-new-targets/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/israeli-settlers-injure-palestinians-and-attack-ambulance-in-west-bank/",
-          "title": "Israeli settlers injure Palestinians and attack ambulance in West Bank",
-          "published": "2026-10-19T15:29:03.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-settlers-injure-palestinians-and-attack-ambulance-in-west-bank/"
+          "id": "https://www.muslimnetwork.tv/japan-launches-worlds-first-mission-to-collect-samples-from-martian-moon/",
+          "title": "Japan launches world’s first mission to collect samples from Martian moon",
+          "published": "2026-10-20T07:00:14.000Z",
+          "url": "https://www.muslimnetwork.tv/japan-launches-worlds-first-mission-to-collect-samples-from-martian-moon/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-20T05:01:53.789Z",
+      "checkedAt": "2026-10-20T11:51:32.818Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -302,8 +302,15 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-20T00:12:43.717Z",
+      "checkedAt": "2026-10-20T11:51:30.863Z",
       "items": [
+        {
+          "id": "BtJk4AsVomA",
+          "title": "Complaining vs. Questioning God: Finding Relief Through Faith",
+          "published": "2026-10-20T00:58:56.000Z",
+          "url": "https://www.youtube.com/watch?v=BtJk4AsVomA",
+          "image": "https://i.ytimg.com/vi/BtJk4AsVomA/hqdefault.jpg"
+        },
         {
           "id": "69b87-vQ6rA",
           "title": "The Dajjal: Why Is He in the Hadith but Not the Quran? | The Hadith Question",
@@ -401,18 +408,11 @@
           "published": "2026-10-12T14:20:00.000Z",
           "url": "https://www.youtube.com/watch?v=sznFM-Kk3R0",
           "image": "https://i.ytimg.com/vi/sznFM-Kk3R0/hqdefault.jpg"
-        },
-        {
-          "id": "r3CJTzrGn4A",
-          "title": "Prophet's (PBUH) Teachings: Distinguishing Sunnah from Personal Practice",
-          "published": "2026-10-09T17:35:18.000Z",
-          "url": "https://www.youtube.com/watch?v=r3CJTzrGn4A",
-          "image": "https://i.ytimg.com/vi/r3CJTzrGn4A/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-20T00:12:44.232Z",
+      "checkedAt": "2026-10-20T11:51:31.112Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -522,7 +522,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-20T00:12:44.380Z",
+      "checkedAt": "2026-10-20T11:51:31.240Z",
       "items": [
         {
           "id": "rf4HKYX4luI",
@@ -632,7 +632,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-20T00:12:44.622Z",
+      "checkedAt": "2026-10-20T11:51:31.259Z",
       "items": [
         {
           "id": "pkhGoYn2vlM",
@@ -742,8 +742,36 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-20T05:01:53.585Z",
+      "checkedAt": "2026-10-20T11:51:32.491Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/roofing-scam-elderly-home-reno-9.7383672",
+          "title": "A contractor left this Toronto man without a roof. His insurance company is denying his claim",
+          "published": "2026-10-20T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/roofing-scam-elderly-home-reno-9.7383672",
+          "image": "https://i.cbc.ca/ais/53b93fac-09ec-40ac-bb53-45fd14657399,1792433349852/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3021%2C1699%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/cleveland-cliffs-stelco-strongest-quarter-9.7387277",
+          "title": "Stelco's U.S. owner says steelmaker had 'strongest' quarter since acquisition as massive layoffs underway",
+          "published": "2026-10-20T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/cleveland-cliffs-stelco-strongest-quarter-9.7387277",
+          "image": "https://i.cbc.ca/ais/1.7389238,1732199044000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3377%2C1899%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/court-oath-to-king-quebec-9.7387583",
+          "title": "Incoming Quebec premier asks lieutenant-governor to skip cabinet's swearing-in",
+          "published": "2026-10-20T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/court-oath-to-king-quebec-9.7387583",
+          "image": "https://i.cbc.ca/ais/2158a7a1-c945-4414-b622-40eaf89a8439,1790365245088/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4240%2C2385%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/north/melissa-syer-elected-mayor-yellowknife-9.7387859",
+          "title": "'I don't take that lightly,' says Melissa Syer, about her decisive win in Yellowknife mayoral race",
+          "published": "2026-10-20T02:53:29.000Z",
+          "url": "https://www.cbc.ca/news/canada/north/melissa-syer-elected-mayor-yellowknife-9.7387859",
+          "image": "https://i.cbc.ca/ais/ddc6aa99-6377-4f46-98e8-6182759db456,1792467274869/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/north/livestory/yellowknife-municipal-election-live-updates-october-19-2026-9.7387711",
           "title": "Yellowknife elects new mayor and council",
@@ -820,46 +848,74 @@
           "published": "2026-10-19T17:36:36.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/osoyoos-raceway-fatality-9.7386938",
           "image": "https://i.cbc.ca/ais/44e160ef-d73f-4322-8f60-685ec01bc87f,1792432270686/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C421%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/ed-dubrovsky-cypfer-hamilton-ransom-fbi-arrest-9.7383552",
-          "title": "Cybersecurity firm hired by Hamilton says director arrested by FBI didn't handle city's ransomware response",
-          "published": "2026-10-19T16:12:57.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/ed-dubrovsky-cypfer-hamilton-ransom-fbi-arrest-9.7383552",
-          "image": "https://i.cbc.ca/ais/d491d3d7-bbd7-4d5d-9975-7e675ea08c9c,1792166370745/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/wallin-resigns-from-senate-9.7386708",
-          "title": "Former journalist Pamela Wallin resigns from Senate",
-          "published": "2026-10-19T15:17:47.000Z",
-          "url": "https://www.cbc.ca/news/politics/wallin-resigns-from-senate-9.7386708",
-          "image": "https://i.cbc.ca/ais/cd9cf655-0b28-4197-a3f6-419d2fc8cb9a,1792421849287/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C477%2C6988%2C3930%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/windsor/unifor-stellantis-favour-strike-mandate-9.7386680",
-          "title": "Unifor Stellantis workers in Ontario vote 97% in favour of strike mandate with talks still stalled",
-          "published": "2026-10-19T14:51:23.000Z",
-          "url": "https://www.cbc.ca/news/canada/windsor/unifor-stellantis-favour-strike-mandate-9.7386680",
-          "image": "https://i.cbc.ca/ais/5ffebf3e-94c0-44c6-ae39-d529e70ca2e9,1771352456463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-deaths-carney-9.7386478",
-          "title": "Canada-wide support grows for CFB Wainwright victims as 50 investigators probe deadly fire",
-          "published": "2026-10-19T14:02:21.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-deaths-carney-9.7386478",
-          "image": "https://i.cbc.ca/ais/024f18e7-6a61-453b-bc94-06811117152f,1792454553032/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C206%2C3872%2C2178%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-20T05:01:53.834Z",
+      "checkedAt": "2026-10-20T11:51:32.934Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+          "title": "Suspect arrested after historic town hall set alight - French media",
+          "published": "2026-10-20T11:47:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
+          "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+          "published": "2026-10-20T11:30:59.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fb/live/f03704d0-cc7a-11f1-bed8-c51b95c602ec.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
+          "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+          "published": "2026-10-20T11:25:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvrly550780po",
+          "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+          "published": "2026-10-20T11:09:09.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvrly550780po",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0859/live/174e7650-cc64-11f1-b1a3-5bda642ff934.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo",
+          "title": "Why Israeli Gen Z voters are drawn to the far right",
+          "published": "2026-10-20T08:53:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
+          "title": "How is the US economy really doing under President Trump?",
+          "published": "2026-10-20T05:00:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo",
+          "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+          "published": "2026-10-20T03:10:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/5b9b0010-cc2f-11f1-aeea-f9fa95687445.png"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
           "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
           "published": "2026-10-20T02:54:05.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab1/live/7030b4a0-cc31-11f1-a64c-550be9e3c66b.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d1/live/ef977c30-cc48-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o",
+          "title": "Seventh day of violent clashes between Albanian protesters and police",
+          "published": "2026-10-20T02:45:05.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
@@ -870,7 +926,7 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cqd097z3epvno",
-          "title": "US church on frontline of battle against drug known as 'tranq'",
+          "title": "US church on front line of battle against drug known as 'tranq'",
           "published": "2026-10-20T00:02:32.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg"
@@ -887,7 +943,7 @@
           "title": "Five ways El Niño is affecting the weather around the world",
           "published": "2026-10-19T23:08:25.000Z",
           "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ce/live/5e5f90f0-cc74-11f1-9a39-31b474234113.png"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo",
@@ -902,62 +958,6 @@
           "published": "2026-10-19T21:30:08.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6193/live/d6797140-cc02-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
-          "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-          "published": "2026-10-19T21:14:53.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-          "published": "2026-10-19T21:12:30.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o",
-          "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-          "published": "2026-10-19T21:02:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
-          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-          "published": "2026-10-19T20:49:00.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo",
-          "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-          "published": "2026-10-19T20:00:43.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
-          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-          "published": "2026-10-19T17:18:04.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo",
-          "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-          "published": "2026-10-19T16:20:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo",
-          "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-          "published": "2026-10-19T16:16:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg"
         }
       ]
     }
