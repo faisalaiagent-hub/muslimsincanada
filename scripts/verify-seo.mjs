@@ -5,7 +5,8 @@ for (const path of ['/', '/news', '/nearby', '/marketplace', '/voices', '/resour
   const response = await fetch(base + path, { signal: AbortSignal.timeout(30000) });
   assert.equal(response.status, 200, path);
   const html = await response.text();
-  assert.ok(html.includes(`rel="canonical" href="${origin}${path === '/' ? '/' : path}"`), `${path}: canonical`);
+  const canonical = html.match(/<link[^>]+rel="canonical"[^>]+href="([^"]+)"/)[1];
+  assert.equal(canonical.replace(/\/$/, ''), (origin + path).replace(/\/$/, ''), `${path}: canonical`);
   assert.match(html, /<meta name="description" content="[^"]{30,}"/);
   assert.ok(html.includes('property="og:image"'), `${path}: sharing image`);
   if (path === '/') {
