@@ -47,6 +47,6 @@ export const getEditorial = unstable_cache(async function getEditorial() {
     Promise.all(publishers.map(async publisher => ({ ...publisher, ...await sourceFeed(publisher, publisher.feed, xml => parseNews(xml, publisher.host)) }))),
   ]);
   return { creators, news, checkedAt: new Date().toISOString() };
-}, ['mic-editorial-v3'], { revalidate: 300 });
+}, ['mic-editorial-v4'], { revalidate: 300 });
 
 export type EditorialData = Awaited<ReturnType<typeof getEditorial>>;

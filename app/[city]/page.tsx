@@ -1,3 +1,4 @@
+import { directoryMetadata } from '@/lib/directory-seo';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getDirectory } from '@/lib/directory';
@@ -10,3 +11,5 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
   const city = data.cities.find(item => item.slug === slug); if (!city) notFound();
   return <main className="portal-container page-main"><PageIntro eyebrow="YOUR CITY. YOUR CONNECTIONS." title={`A little closer to ${city.name}.`} description={city.is_launched ? 'Places to gather, people to meet, and resources to make everyday life easier.' : 'This city directory is coming next. Help us discover the places and organizations that make your community.'} />{city.is_launched ? <Discovery {...data} initialCity={city.slug} /> : <Link href={`/submit?city=${city.slug}`} className="portal-button">Suggest a local listing</Link>}</main>;
 }
+
+export async function generateMetadata({ params }: { params: Promise<{city: string; category?: string; slug?: string}> }) { return directoryMetadata({...await params}); }

@@ -3,7 +3,7 @@ import { Discovery } from '@/components/discovery';
 import { PageIntro } from '@/components/portal-shell';
 import { VisualPageBanner } from '@/components/visual-page-banner';
 export const dynamic = 'force-dynamic';
-export const metadata = { title: 'Discover your community | MIC' };
+export const metadata = {alternates:{canonical:'/search'}, title: 'Discover your community | MIC' };
 export default async function SearchPage({ searchParams }: { searchParams: Promise<Record<string, string | string[] | undefined>> }) {
   const [data, params] = await Promise.all([getDirectory(), searchParams]);
   const value = (key: string, fallback: string) => typeof params[key] === 'string' ? params[key] as string : fallback;

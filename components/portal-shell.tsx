@@ -42,7 +42,7 @@ export function PortalFooter() {
         <div className="portal-container footer-grid">
           <div><Brand footer /><p>Local roots.<br />A world of connection.</p></div>
           <div><strong>Explore your community</strong><Link href="/marketplace">Community marketplace</Link><Link href="/nearby?type=mosque">Mosques near you</Link><Link href="/nearby?type=food">Halal food near you</Link><Link href="/search?type=events">Events & gatherings</Link><Link href="/resources">Community resources</Link></div>
-          <div><strong>Build it with us</strong><Link href="/voices">Community voices</Link><Link href="/news">Muslim newsroom</Link><Link href="/submit">Suggest a listing</Link><Link href="/sources">Our sources & approach</Link><Link href="/community">Community guidelines</Link><a href={FACEBOOK_URL} target="_blank" rel="noreferrer">MIC on Facebook ↗</a></div>
+          <div><strong>Build it with us</strong><Link href="/voices">Community voices</Link><Link href="/news">Community & world news</Link><Link href="/submit">Suggest a listing</Link><Link href="/sources">Our sources & approach</Link><Link href="/community">Community guidelines</Link><Link href="/guides">MIC feature guides</Link><a href={FACEBOOK_URL} target="_blank" rel="noreferrer">MIC on Facebook ↗</a></div>
         </div>
         <div className="portal-container footer-bottom"><span>© {new Date().getFullYear()} Muslims in Canada</span><span><Link href="/credits">Photography & film credits</Link> · <Link href="/privacy">Privacy</Link></span></div>
       </footer>

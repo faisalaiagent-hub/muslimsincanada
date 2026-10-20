@@ -9,5 +9,7 @@ export const voices = [
 
 export const publishers = [
   { id: 'muslim-network', name: 'Muslim Network TV', kind: 'Reporting', url: 'https://www.muslimnetwork.tv/', feed: 'https://www.muslimnetwork.tv/feed/', host: 'muslimnetwork.tv', about: 'https://www.muslimnetwork.tv/about/', description: 'North American Muslim television and current-affairs publisher.' },
+  { id: 'cbc-canada', name: 'CBC News · Canada', kind: 'Canadian reporting', url: 'https://www.cbc.ca/news/canada', feed: 'https://www.cbc.ca/webfeed/rss/rss-canada', host: 'cbc.ca', about: 'https://www.cbc.ca/news', description: 'Canadian news from CBC, Canada’s public broadcaster.' },
   { id: 'muslimmatters', name: 'MuslimMatters', kind: 'Analysis & community', url: 'https://muslimmatters.org/', feed: 'https://muslimmatters.org/category/current-affairs/feed/', host: 'muslimmatters.org', about: 'https://muslimmatters.org/about/', description: 'Established Muslim magazine featuring community perspectives, commentary and analysis.' },
+  { id: 'bbc-world', name: 'BBC News · World', kind: 'World reporting', url: 'https://www.bbc.co.uk/news/world', feed: 'https://feeds.bbci.co.uk/news/world/rss.xml', host: 'bbc.co.uk', about: 'https://www.bbc.co.uk/news/world', description: 'International headlines from BBC News.' },
 ] as const;
