@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-19T22:29:19.589Z",
+      "checkedAt": "2026-10-20T00:12:43.855Z",
       "items": [
         {
           "id": "Qe4XjRCOSNw",
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-19T22:29:19.819Z",
+      "checkedAt": "2026-10-20T00:12:44.081Z",
       "items": [
+        {
+          "id": "_wo17AHtboY",
+          "title": "Check On Them | Dr. Omar Suleiman",
+          "published": "2026-10-19T23:00:34.000Z",
+          "url": "https://www.youtube.com/watch?v=_wo17AHtboY",
+          "image": "https://i.ytimg.com/vi/_wo17AHtboY/hqdefault.jpg"
+        },
         {
           "id": "7W-xIhz7ZFA",
           "title": "Rafi’ (ra) and Rifa’a (ra): Healed With the Prophet’s ﷺ Saliva | The Firsts | Dr. Omar Suleiman",
@@ -152,8 +159,22 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-19T22:29:21.554Z",
+      "checkedAt": "2026-10-20T00:12:46.362Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/tomorrow-worlds-leading-experts-on-multiple-sclerosis-ms-gather-in-toronto/",
+          "title": "Tomorrow: World’s Leading Experts on Multiple Sclerosis (MS) Gather in Toronto",
+          "published": "2026-10-19T23:16:30.000Z",
+          "url": "https://www.muslimnetwork.tv/tomorrow-worlds-leading-experts-on-multiple-sclerosis-ms-gather-in-toronto/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/MSToronto2026_banner-2_1080x1080-2-1536x1536-1.png"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/calls-mount-for-katy-merrifield-conservative-campaign-director-to-resign-following-her-islamophobic-social-media-rant/",
+          "title": "Calls Mount for Katy Merrifield, Conservative Campaign Director, to Resign Following Her Islamophobic Social Media Rant.",
+          "published": "2026-10-19T23:13:50.000Z",
+          "url": "https://www.muslimnetwork.tv/calls-mount-for-katy-merrifield-conservative-campaign-director-to-resign-following-her-islamophobic-social-media-rant/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/VWZK3L3JINALNMCD6MSLLAYQ7U.avif"
+        },
         {
           "id": "https://www.muslimnetwork.tv/muslim-journalist-beaten-to-death-in-india-over-ad-dispute/",
           "title": "Muslim journalist beaten to death in India over ad dispute",
@@ -186,15 +207,13 @@
           "id": "https://www.muslimnetwork.tv/germany-pledges-2-2m-for-rohingya-refugees-in-bangladesh/",
           "title": "Germany pledges $2.2M for Rohingya refugees in Bangladesh",
           "published": "2026-10-19T15:35:49.000Z",
-          "url": "https://www.muslimnetwork.tv/germany-pledges-2-2m-for-rohingya-refugees-in-bangladesh/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/New-body-will-draft-national-plan-within-90-days-as-more-than-one-million-Rohingya-refugees-remain-in-Bangladesh-with-no-large-scale-return-in-sight.webp"
+          "url": "https://www.muslimnetwork.tv/germany-pledges-2-2m-for-rohingya-refugees-in-bangladesh/"
         },
         {
           "id": "https://www.muslimnetwork.tv/egypt-unveils-laser-system-designed-to-intercept-drones/",
           "title": "Egypt unveils laser system designed to intercept drones",
           "published": "2026-10-19T15:33:01.000Z",
-          "url": "https://www.muslimnetwork.tv/egypt-unveils-laser-system-designed-to-intercept-drones/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-pok-rie-33563-4173473.jpg"
+          "url": "https://www.muslimnetwork.tv/egypt-unveils-laser-system-designed-to-intercept-drones/"
         },
         {
           "id": "https://www.muslimnetwork.tv/saudi-arabia-launches-new-archaeology-season-in-alula-khaybar/",
@@ -207,23 +226,11 @@
           "title": "Israeli settlers injure Palestinians and attack ambulance in West Bank",
           "published": "2026-10-19T15:29:03.000Z",
           "url": "https://www.muslimnetwork.tv/israeli-settlers-injure-palestinians-and-attack-ambulance-in-west-bank/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-attacks-strike-southern-lebanese-towns-despite-ceasefire/",
-          "title": "Israeli attacks strike southern Lebanese towns despite ceasefire",
-          "published": "2026-10-19T15:27:16.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-attacks-strike-southern-lebanese-towns-despite-ceasefire/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/beirut-documentary-captures-human-cost-of-israeli-attacks/",
-          "title": "Beirut documentary captures human cost of Israeli attacks",
-          "published": "2026-10-19T15:25:47.000Z",
-          "url": "https://www.muslimnetwork.tv/beirut-documentary-captures-human-cost-of-israeli-attacks/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-19T22:29:22.002Z",
+      "checkedAt": "2026-10-20T00:12:46.976Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -295,7 +302,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-19T22:29:19.357Z",
+      "checkedAt": "2026-10-20T00:12:43.717Z",
       "items": [
         {
           "id": "69b87-vQ6rA",
@@ -405,7 +412,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-19T22:29:20.166Z",
+      "checkedAt": "2026-10-20T00:12:44.232Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +522,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-19T22:29:20.327Z",
+      "checkedAt": "2026-10-20T00:12:44.380Z",
       "items": [
         {
           "id": "rf4HKYX4luI",
@@ -625,7 +632,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-19T22:29:20.467Z",
+      "checkedAt": "2026-10-20T00:12:44.622Z",
       "items": [
         {
           "id": "pkhGoYn2vlM",
@@ -731,6 +738,226 @@
           "published": "2026-09-24T17:30:06.000Z",
           "url": "https://www.youtube.com/watch?v=pp-Iwn2aZGM",
           "image": "https://i.ytimg.com/vi/pp-Iwn2aZGM/hqdefault.jpg"
+        }
+      ]
+    },
+    "cbc-canada": {
+      "checkedAt": "2026-10-20T00:12:46.524Z",
+      "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/curtis-dagenais-murder-truck-forfeiture-hearing-9.7387302",
+          "title": "Cop killer Curtis Dagenais returns to Saskatoon courtroom to argue about fate of his truck",
+          "published": "2026-10-19T20:47:29.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/curtis-dagenais-murder-truck-forfeiture-hearing-9.7387302",
+          "image": "https://i.cbc.ca/ais/2b958b02-2ae5-4149-8804-b160faab0548,1792440281623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C104%2C2000%2C1125%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/calgary-opera-tosca-flag-9.7387171",
+          "title": "Calgary Opera replaces performer who unfurled Palestinian flag during Tosca bow",
+          "published": "2026-10-19T19:39:33.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/calgary-opera-tosca-flag-9.7387171",
+          "image": "https://i.cbc.ca/ais/aea33bb6-bff7-4271-8725-ee950d96ee10,1792438407410/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C22%2C640%2C360%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/b-c-ferries-strikes-humpback-whale-howe-sound-9.7386868",
+          "title": "DFO searching for injured whale struck by B.C. Ferries vessel in Howe Sound",
+          "published": "2026-10-19T19:28:10.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-ferries-strikes-humpback-whale-howe-sound-9.7386868",
+          "image": "https://i.cbc.ca/ais/be1c647e-a139-41f2-81d8-feb6e615cbf1,1792437446047/full/max/0/default.jpg?im=Crop%2Crect%3D%28143%2C75%2C1628%2C915%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/harold-wayne-hynes-7-years-9.7387181",
+          "title": "N.L. man sentenced to 7 years in prison for shooting snowmobiler in the head",
+          "published": "2026-10-19T19:22:20.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/harold-wayne-hynes-7-years-9.7387181",
+          "image": "https://i.cbc.ca/ais/5024d362-07d5-46a2-b2cc-36a397ffa640,1792436715852/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-headquarters-inquiry-report-9.7385809",
+          "title": "Former Winnipeg mayor Sam Katz violated public trust, ex-CAO lacked moral compass, police HQ inquiry says",
+          "published": "2026-10-19T18:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-headquarters-inquiry-report-9.7385809",
+          "image": "https://i.cbc.ca/ais/1.4001066,1488216347000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/quebec-maple-syrup-reserves-nearly-depleted-9.7386889",
+          "title": "Quebec's reserves of maple syrup almost depleted, says new report",
+          "published": "2026-10-19T17:41:22.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/quebec-maple-syrup-reserves-nearly-depleted-9.7386889",
+          "image": "https://i.cbc.ca/ais/efbe15e0-7198-4e03-bff1-f40bbd51efa8,1792429630274/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C204%2C7445%2C4187%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/osoyoos-raceway-fatality-9.7386938",
+          "title": "Harness driver dies after multi-horse collision at Osoyoos, B.C., raceway",
+          "published": "2026-10-19T17:36:36.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/osoyoos-raceway-fatality-9.7386938",
+          "image": "https://i.cbc.ca/ais/44e160ef-d73f-4322-8f60-685ec01bc87f,1792432270686/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C421%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/ed-dubrovsky-cypfer-hamilton-ransom-fbi-arrest-9.7383552",
+          "title": "Cybersecurity firm hired by Hamilton says director arrested by FBI didn't handle city's ransomware response",
+          "published": "2026-10-19T16:12:57.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/ed-dubrovsky-cypfer-hamilton-ransom-fbi-arrest-9.7383552",
+          "image": "https://i.cbc.ca/ais/d491d3d7-bbd7-4d5d-9975-7e675ea08c9c,1792166370745/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/wallin-resigns-from-senate-9.7386708",
+          "title": "Former journalist Pamela Wallin resigns from Senate",
+          "published": "2026-10-19T15:17:47.000Z",
+          "url": "https://www.cbc.ca/news/politics/wallin-resigns-from-senate-9.7386708",
+          "image": "https://i.cbc.ca/ais/cd9cf655-0b28-4197-a3f6-419d2fc8cb9a,1792421849287/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C477%2C6988%2C3930%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/windsor/unifor-stellantis-favour-strike-mandate-9.7386680",
+          "title": "Unifor Stellantis workers in Ontario vote 97% in favour of strike mandate with talks still stalled",
+          "published": "2026-10-19T14:51:23.000Z",
+          "url": "https://www.cbc.ca/news/canada/windsor/unifor-stellantis-favour-strike-mandate-9.7386680",
+          "image": "https://i.cbc.ca/ais/5ffebf3e-94c0-44c6-ae39-d529e70ca2e9,1771352456463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/cathy-keane-son-critically-injured-oro-medonte-wainwright-fire-9.7386473",
+          "title": "Son of Oro-Medonte, Ont., mayoral candidate 'critically injured' in CFB Wainwright fire",
+          "published": "2026-10-19T13:44:12.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/cathy-keane-son-critically-injured-oro-medonte-wainwright-fire-9.7386473",
+          "image": "https://i.cbc.ca/ais/b1d99bbf-f44b-463e-9250-fd257b94d07c,1792419578795/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/wainwright-tragedy-nl-9.7386431",
+          "title": "'The country is behind you,’ says N.L. veteran in wake of tragedy at CFB Wainwright",
+          "published": "2026-10-19T13:09:42.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/wainwright-tragedy-nl-9.7386431",
+          "image": "https://i.cbc.ca/ais/2d0f7517-c703-4d73-b4de-409209549df5,1792411255401/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C8248%2C4639%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-election-ai-data-centres-9.7382445",
+          "title": "Where do B.C.'s parties stand on the future of AI data centres?",
+          "published": "2026-10-19T13:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-election-ai-data-centres-9.7382445",
+          "image": "https://i.cbc.ca/ais/1.4023845,1792182459162/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C180%2C3500%2C1968%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/north/it-s-voting-day-in-yellowknife-here-s-what-you-should-know-9.7382260",
+          "title": "It's voting day in Yellowknife. Here's what you should know",
+          "published": "2026-10-19T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/north/it-s-voting-day-in-yellowknife-here-s-what-you-should-know-9.7382260",
+          "image": "https://i.cbc.ca/ais/efd58cec-3931-445b-9dd4-232b5f19412d,1791327104463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-nova-scotia-schools-9.7378965",
+          "title": "Inconsistent guidelines for AI use in N.S. classrooms fuel calls for provincewide policy",
+          "published": "2026-10-19T09:00:55.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-nova-scotia-schools-9.7378965",
+          "image": "https://i.cbc.ca/ais/cb92c220-1eed-4e35-b3b3-eb0827d18a45,1791910995156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        }
+      ]
+    },
+    "bbc-world": {
+      "checkedAt": "2026-10-20T00:12:47.251Z",
+      "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cqd097z3epvno",
+          "title": "US church on frontline of battle against drug known as 'tranq'",
+          "published": "2026-10-20T00:02:32.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o",
+          "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+          "published": "2026-10-19T23:30:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a92/live/3903b230-cbc7-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
+          "title": "Five ways El Niño is affecting the weather around the world",
+          "published": "2026-10-19T23:08:25.000Z",
+          "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo",
+          "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+          "published": "2026-10-19T23:04:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecf1/live/af489e70-cbe4-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o",
+          "title": "Clean up begins after French riots but police remain",
+          "published": "2026-10-19T21:30:08.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6193/live/d6797140-cc02-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
+          "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+          "published": "2026-10-19T21:14:53.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "published": "2026-10-19T21:12:30.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o",
+          "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+          "published": "2026-10-19T21:02:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
+          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+          "published": "2026-10-19T20:49:00.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo",
+          "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+          "published": "2026-10-19T20:00:43.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
+          "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+          "published": "2026-10-19T18:22:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
+          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+          "published": "2026-10-19T17:18:04.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
+          "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+          "published": "2026-10-19T16:32:47.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d96e/live/22b402e0-cc18-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo",
+          "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+          "published": "2026-10-19T16:20:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo",
+          "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+          "published": "2026-10-19T16:16:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg"
         }
       ]
     }

@@ -7,6 +7,7 @@ on:
       - 'scripts/refresh-editorial.mjs'
       - 'lib/editorial-config.ts'
       - 'lib/feed-parser.ts'
+      - 'lib/feed-images.js'
       - 'lib/publisher-image.ts'
   schedule:
     - cron: '23 */6 * * *'

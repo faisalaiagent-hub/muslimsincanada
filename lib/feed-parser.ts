@@ -1,4 +1,5 @@
 import { XMLParser } from 'fast-xml-parser';
+import { allowedFeedImage } from './feed-images.js';
 
 export type FeedItem = { id: string; title: string; url: string; published: string; image?: string };
 const list = (value: any): any[] => value == null ? [] : Array.isArray(value) ? value : [value];
@@ -39,9 +40,7 @@ export function parseNews(xml: string, host: string): FeedItem[] {
         if (/wp-content\/plugins/i.test(tag) || /(?:width|height)=["'](?:\d|\d\d)["']/i.test(tag)) continue;
         candidates.push(tag.match(/\bsrc=["']([^"']+)/i)?.[1]);
       }
-      const image = candidates.map(candidate => candidate ? plain(candidate) : '').find(candidate => {
-        try { const imageUrl = new URL(candidate); return imageUrl.protocol === 'https:' && imageUrl.hostname.replace(/^www\./, '') === host && /\.(?:jpg|jpeg|png|webp)(?:\?|$)/i.test(imageUrl.pathname); } catch { return false; }
-      });
+      const image = candidates.map(candidate => allowedFeedImage(plain(candidate), host)).find(Boolean);
       return title && published ? [{ id: url.href, title, published, url: url.href, ...(image ? { image: String(image) } : {}) }] : [];
     } catch { return []; }
   }).sort((a, b) => b.published.localeCompare(a.published));

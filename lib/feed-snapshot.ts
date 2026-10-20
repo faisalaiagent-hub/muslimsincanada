@@ -1,4 +1,5 @@
 import type { FeedItem } from './feed-parser';
+import { allowedFeedImage } from './feed-images.js';
 // Public snapshot data is untrusted: restrict destinations, IDs and thumbnail hosts.
 export function snapshotSource(data: unknown, source: { id: string; channelId?: string; host?: string }) {
   const row = (data as any)?.sources?.[source.id];
@@ -14,7 +15,7 @@ export function snapshotSource(data: unknown, source: { id: string; channelId?: 
       }
       if (url.hostname.replace(/^www\./, '') !== source.host) return [];
       let image: string | undefined;
-      try { const candidate = new URL(item.image); if (candidate.protocol === 'https:' && candidate.hostname.replace(/^www\./, '') === source.host) image = candidate.href; } catch {}
+      image = allowedFeedImage(item.image, source.host || '');
       return [{ id: url.href, title: item.title.slice(0, 400), published: new Date(date).toISOString(), url: url.href, ...(image ? { image } : {}) }];
     } catch { return []; }
   });

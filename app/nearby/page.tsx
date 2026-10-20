@@ -1,8 +1,9 @@
+import { pageMetadata } from '@/lib/seo';
 import Image from 'next/image';
 import { NearbyExplorer } from '@/components/nearby-explorer';
 import { getNearbyDirectory } from '@/lib/nearby-directory';
 export const dynamic = 'force-dynamic';
-export const metadata = { title: 'Mosques & halal food near you | MIC', description: 'Find mosques and source-listed halal food around a Canadian area or your optional device location. Starting with the GTA.' };
+export const metadata = pageMetadata('Mosques & halal food near you | MIC', 'Search Canadian cities, neighbourhoods or postal codes for mosques and source-listed halal food. Optional location helps sort nearby places; coverage starts in the GTA.', '/nearby');
 export default async function NearbyPage({ searchParams }: { searchParams: Promise<Record<string, string | string[] | undefined>> }) {
   const [data, params] = await Promise.all([getNearbyDirectory(), searchParams]);
   const query = typeof params.q === 'string' ? params.q.slice(0, 160) : '';

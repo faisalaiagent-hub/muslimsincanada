@@ -1,14 +1,15 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import { createRequire, stripTypeScriptTypes } from 'node:module';
+import { allowedFeedImage } from '../lib/feed-images.js';
 
 const require = createRequire(import.meta.url);
 function load(path) {
   const module = { exports: {} };
   const source = stripTypeScriptTypes(fs.readFileSync(path, 'utf8')).replace(/import \{ XMLParser \} from 'fast-xml-parser';/, "const { XMLParser } = require('fast-xml-parser');");
   const names = [...source.matchAll(/export (?:const|function) (\w+)/g)].map(match => match[1]);
-  const code = source.replace(/export /g, '') + '; module.exports = {' + names.join(',') + '};';
-  new Function('require', 'module', 'exports', code)(require, module, module.exports);
+  const code = source.replace(/import \{ allowedFeedImage \} from '.\/feed-images.js';/, '').replace(/export /g, '') + '; module.exports = {' + names.join(',') + '};';
+  new Function('require', 'module', 'exports', 'allowedFeedImage', code)(require, module, module.exports, allowedFeedImage);
   return module.exports;
 }
 const { voices, publishers } = load('lib/editorial-config.ts');
