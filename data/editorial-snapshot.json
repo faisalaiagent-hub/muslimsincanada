@@ -159,7 +159,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-20T21:44:25.088Z",
+      "checkedAt": "2026-10-21T05:01:26.006Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/oic-urges-member-states-to-support-turkiye-candidate-for-fao-chief/",
@@ -230,7 +230,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-20T21:44:25.558Z",
+      "checkedAt": "2026-10-21T05:01:26.478Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -742,8 +742,71 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-20T21:44:25.301Z",
+      "checkedAt": "2026-10-21T05:01:26.189Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/delayed-flights-toronto-pearson-airport-9.7389523",
+          "title": "Flights delayed at Toronto's Pearson airport after tower evacuated due to reports of smoke",
+          "published": "2026-10-21T02:28:41.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/delayed-flights-toronto-pearson-airport-9.7389523",
+          "image": "https://i.cbc.ca/ais/a94a4634-0d15-4630-8d01-3a0ae5e08ed4,1790028662507/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C860%2C483%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/alberta-premier-danielle-smith-referendum-address-9.7389360",
+          "title": "In televised address, Alberta premier says referendum provides ‘clear mandate’",
+          "published": "2026-10-21T00:45:39.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/alberta-premier-danielle-smith-referendum-address-9.7389360",
+          "image": "https://i.cbc.ca/ais/a8d42008-b3d7-4bf7-8623-8d3795ceca27,1792540486553/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/wainwright-military-fire-safety-protocol-9.7388899",
+          "title": "Fires often break out during military training. What's the protocol?",
+          "published": "2026-10-21T00:28:50.000Z",
+          "url": "https://www.cbc.ca/news/canada/wainwright-military-fire-safety-protocol-9.7388899",
+          "image": "https://i.cbc.ca/ais/d8e94ba0-9f17-4f5e-9440-58597d45dadb,1792533074119/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3872%2C2178%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/pamela-wallin-senate-resignation-9.7389209",
+          "title": "Pamela Wallin says it was simply 'time to move on' after surprise resignation from Senate",
+          "published": "2026-10-20T23:13:09.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/pamela-wallin-senate-resignation-9.7389209",
+          "image": "https://i.cbc.ca/ais/815c5273-dda5-4285-a9e8-2c8b186959ea,1792535727632/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C477%2C6988%2C3930%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-email-rhetoric-9.7389228",
+          "title": "'Outrageous' rhetoric alleged in emails as Steven Galloway defamation trial continues",
+          "published": "2026-10-20T23:04:48.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-email-rhetoric-9.7389228",
+          "image": "https://i.cbc.ca/ais/1.7081359,1728596209000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C62%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/premier-scott-moe-alberta-vote-stay-canada-9.7389207",
+          "title": "Sask. premier says he'll work with Alberta to strengthen Canada in wake of referendum",
+          "published": "2026-10-20T22:40:52.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/premier-scott-moe-alberta-vote-stay-canada-9.7389207",
+          "image": "https://i.cbc.ca/ais/600d2034-9c51-4219-bdae-1f64b04b5267,1792533913935/full/max/0/default.jpg?im=Crop%2Crect%3D%281900%2C143%2C2096%2C1179%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/hamilton-tariff-response-team-funding-announcement-9.7389053",
+          "title": "Hamilton launching tariff response team with $390K from Ontario amid Stelco layoffs",
+          "published": "2026-10-20T22:19:17.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-tariff-response-team-funding-announcement-9.7389053",
+          "image": "https://i.cbc.ca/ais/ad716d57-15a4-468d-979c-0481e64061d1,1792533920202/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C516%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/hockey/nhl/ben-kindel-medical-episode-flight-penguins-nhl-9.7389118",
+          "title": "Penguins' Ben Kindel stable at Utah hospital after medical emergency on team flight",
+          "published": "2026-10-20T21:39:17.000Z",
+          "url": "https://www.cbc.ca/sports/hockey/nhl/ben-kindel-medical-episode-flight-penguins-nhl-9.7389118",
+          "image": "https://i.cbc.ca/ais/6820fd15-1cd0-44e6-a3e6-66db5eab2718,1792531884536/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/indigenous/first-nations-alberta-reaction-9.7388861",
+          "title": "First Nations leaders praise high Alberta referendum turnout despite ballot box barriers",
+          "published": "2026-10-20T21:30:27.000Z",
+          "url": "https://www.cbc.ca/news/indigenous/first-nations-alberta-reaction-9.7388861",
+          "image": "https://i.cbc.ca/ais/c9fc26c4-55e0-4e8e-9de0-ceaf24f133d6,1792524797806/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C73%2C5993%2C3371%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/player/play/9.7389001",
           "title": "Fact check: Old explosion videos do not show CFB Wainwright",
@@ -773,25 +836,11 @@
           "image": "https://i.cbc.ca/ais/9c78792a-0024-4a41-9c3c-0f650f6ad09a,1791899543978/full/max/0/default.jpg?im=Crop%2Crect%3D%28245%2C60%2C1406%2C790%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/politics/liberal-government-budget-2026-9.7388623",
-          "title": "Liberal government to table budget on Nov. 5",
-          "published": "2026-10-20T18:50:43.000Z",
-          "url": "https://www.cbc.ca/news/politics/liberal-government-budget-2026-9.7388623",
-          "image": "https://i.cbc.ca/ais/06b5b380-6a77-4037-b918-aede3375a5dc,1792516955347/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6753%2C3798%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterskis-fraud-trial-adjourned-until-next-week-due-to-medical-issue-9.7388586",
-          "title": "‘Crypto King’ Aiden Pleterski’s fraud trial adjourned until next week due to medical issue",
-          "published": "2026-10-20T18:07:59.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterskis-fraud-trial-adjourned-until-next-week-due-to-medical-issue-9.7388586",
-          "image": "https://i.cbc.ca/ais/4eb8a4d4-b742-42ab-b5ac-1c4dddccc0fb,1792515393297/full/max/0/default.jpg?im=Crop%2Crect%3D%28199%2C0%2C3562%2C2003%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-community-reaction-9.7388536",
-          "title": "‘What I expected’: Coffee crowd mostly relieved by remain victory in Alberta referendum",
-          "published": "2026-10-20T18:03:06.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-community-reaction-9.7388536",
-          "image": "https://i.cbc.ca/ais/013c3d94-e0ce-4ddc-a38c-a1e00c985599,1792513404121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
+          "id": "https://www.cbc.ca/news/canada/montreal/78-students-suspended-saint-jerome-9.7388453",
+          "title": "78 students suspended from Saint-Jérôme, Que., high school after unrest, vandalism",
+          "published": "2026-10-20T18:01:31.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/78-students-suspended-saint-jerome-9.7388453",
+          "image": "https://i.cbc.ca/ais/c2f8ab29-9a47-4107-928a-66fb8823f149,1792518792476/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C2048%2C1152%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/edmonton/cfb-wainwright-fire-9.7388647",
@@ -799,67 +848,67 @@
           "published": "2026-10-20T17:52:43.000Z",
           "url": "https://www.cbc.ca/news/canada/edmonton/cfb-wainwright-fire-9.7388647",
           "image": "https://i.cbc.ca/ais/c39c3e29-4488-48e4-983f-a904a4f56c8a,1792529619367/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/windsor/juror-letter-to-man-convicted-of-murder-9.7388390",
-          "title": "Juror sends mysterious letter to jailed man he just helped convict of murder in Windsor, Ont.",
-          "published": "2026-10-20T16:30:30.000Z",
-          "url": "https://www.cbc.ca/news/canada/windsor/juror-letter-to-man-convicted-of-murder-9.7388390",
-          "image": "https://i.cbc.ca/ais/b1b71761-e4e7-4ab6-88f1-5dd2b29d623b,1792511891347/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C866%2C487%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/canada-economic-forecast-tariffs-9.7388523",
-          "title": "Budget watchdog trims economic forecast for 2026 and 2027 amid new U.S. tariffs",
-          "published": "2026-10-20T16:30:17.000Z",
-          "url": "https://www.cbc.ca/news/politics/canada-economic-forecast-tariffs-9.7388523",
-          "image": "https://i.cbc.ca/ais/320932d3-14f4-4c82-909e-a006b07521a7,1792512840841/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C392%2C7535%2C4238%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/grifols-plasma-donation-resumption-9.7388170",
-          "title": "Plasma donation company Grifols begins phased reopening of centres after 2-month hiatus",
-          "published": "2026-10-20T15:08:37.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/grifols-plasma-donation-resumption-9.7388170",
-          "image": "https://i.cbc.ca/ais/1.7423757,1736175675000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/former-mlb-player-charged-youth-baseball-9.7388143",
-          "title": "Former Blue Jay, wife charged with fraud linked to Ontario youth baseball program fees: police",
-          "published": "2026-10-20T14:50:30.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/former-mlb-player-charged-youth-baseball-9.7388143",
-          "image": "https://i.cbc.ca/ais/2d8b8417-7da4-4208-bbc9-4de7653761aa,1792513572961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/calgary-police-parker-wells-investigation-review-9.7387824",
-          "title": "Calgary police struggled with 'unprecedented' volume of information during search for Parker Wells: review",
-          "published": "2026-10-20T14:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/calgary-police-parker-wells-investigation-review-9.7387824",
-          "image": "https://i.cbc.ca/ais/78531353-a2b8-4c6f-8830-f4ca2f10f29c,1785988174301/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C38%2C450%2C253%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/brady-rogers-satire-kelowna-campaign-win-9.7387848",
-          "title": "'How hard could it be?': Kelowna candidate with viral signs gets elected",
-          "published": "2026-10-20T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/brady-rogers-satire-kelowna-campaign-win-9.7387848",
-          "image": "https://i.cbc.ca/ais/f561b43e-dfbd-4eed-a80f-169ce9d50139,1792465904122/full/max/0/default.jpg?im=Crop%2Crect%3D%28123%2C141%2C1162%2C653%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/cowichan-appeal-stay-arguments-warnings-9.7383876",
-          "title": "'Chaotic situation': Cowichan decision appellants warn of possible impacts to port, property, fishing grounds",
-          "published": "2026-10-20T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/cowichan-appeal-stay-arguments-warnings-9.7383876",
-          "image": "https://i.cbc.ca/ais/ebb604da-9ce9-4bc1-9e50-d5d1c4dc488f,1773113080221/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C200%2C3841%2C2160%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-20T21:44:25.663Z",
+      "checkedAt": "2026-10-21T05:01:26.549Z",
       "items": [
         {
           "id": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
-          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-          "published": "2026-10-20T21:27:39.000Z",
+          "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+          "published": "2026-10-21T03:59:18.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9998/live/a337cac0-cd01-11f1-9999-4d9f447f1e4c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo",
+          "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+          "published": "2026-10-21T02:37:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eec/live/c3a0f8d0-cccb-11f1-951b-8fbc7a9ea030.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
+          "title": "France is divided over who to blame for weekend riots and what to learn from them",
+          "published": "2026-10-21T01:22:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo",
+          "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+          "published": "2026-10-20T23:51:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e48/live/4edd0c70-cc9c-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
+          "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+          "published": "2026-10-20T23:41:30.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1718/live/05ef3900-cc80-11f1-bed8-c51b95c602ec.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "published": "2026-10-20T23:24:47.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno",
+          "title": "Is Donald Trump ready to do business with Myanmar?",
+          "published": "2026-10-20T23:21:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/9dc70340-c7a6-11f1-a624-a3d8608fc192.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo",
+          "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+          "published": "2026-10-20T22:22:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad57/live/10727dd0-cce2-11f1-b759-47986a462148.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
@@ -883,18 +932,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro",
+          "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+          "published": "2026-10-20T19:08:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b22d/live/08cf8f60-c8cc-11f1-95b2-9f12d414946d.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo",
           "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
           "published": "2026-10-20T17:30:15.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo",
-          "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-          "published": "2026-10-20T16:59:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo",
@@ -909,55 +958,6 @@
           "published": "2026-10-20T14:09:42.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cjly016320q1o",
-          "title": "Huge setback for Alberta's separatist movement after decisive defeat",
-          "published": "2026-10-20T13:39:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cjly016320q1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/854b/live/984048b0-cc91-11f1-94e6-edd4c60b2e1d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo",
-          "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-          "published": "2026-10-20T13:23:32.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e3/live/1f907b20-cc6d-11f1-baeb-8d65d4bcd7ab.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno",
-          "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-          "published": "2026-10-20T12:08:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a834/live/7aae38a0-cc89-11f1-bed8-c51b95c602ec.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo",
-          "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-          "published": "2026-10-20T11:45:49.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
-          "title": "Man charged with attack on Australia MP to face court",
-          "published": "2026-10-20T11:25:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo",
-          "title": "Why Israeli Gen Z voters are drawn to the far right",
-          "published": "2026-10-20T08:53:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
-          "title": "How is the US economy really doing under President Trump?",
-          "published": "2026-10-20T05:00:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg"
         }
       ]
     }
