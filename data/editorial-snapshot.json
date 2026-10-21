@@ -2,8 +2,22 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-21T12:03:30.430Z",
+      "checkedAt": "2026-10-21T17:23:12.846Z",
       "items": [
+        {
+          "id": "21YayVSC5QY",
+          "title": "702 - Sura al-Nur - 61 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-10-21T13:58:15.000Z",
+          "url": "https://www.youtube.com/watch?v=21YayVSC5QY",
+          "image": "https://i.ytimg.com/vi/21YayVSC5QY/hqdefault.jpg"
+        },
+        {
+          "id": "RaUwec-4fMY",
+          "title": "35 - Book of Purification: [Hadith 369-380] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "published": "2026-10-21T12:58:51.000Z",
+          "url": "https://www.youtube.com/watch?v=RaUwec-4fMY",
+          "image": "https://i.ytimg.com/vi/RaUwec-4fMY/hqdefault.jpg"
+        },
         {
           "id": "iYNHtpy-9Ww",
           "title": "34 - Book of Purification - [Hadith 356-368] - Mishkat al-Masabih - Shaykh Ilyas Patel",
@@ -94,25 +108,11 @@
           "published": "2026-09-17T12:42:15.000Z",
           "url": "https://www.youtube.com/watch?v=apnYN-WXt94",
           "image": "https://i.ytimg.com/vi/apnYN-WXt94/hqdefault.jpg"
-        },
-        {
-          "id": "6Ga_tTk1Zns",
-          "title": "Lesson 32 - Book of Purification - [Hadith 334-42] -Mishkat al-Masabih -Shaykh Ilyas Patel",
-          "published": "2026-09-17T12:40:09.000Z",
-          "url": "https://www.youtube.com/watch?v=6Ga_tTk1Zns",
-          "image": "https://i.ytimg.com/vi/6Ga_tTk1Zns/hqdefault.jpg"
-        },
-        {
-          "id": "JoFvcl5YS1Y",
-          "title": "Lesson 32 - Book of Purification - [Hadith 334-42] -Mishkat al-Masabih -Shaykh Ilyas Patel",
-          "published": "2026-09-17T12:30:35.000Z",
-          "url": "https://www.youtube.com/watch?v=JoFvcl5YS1Y",
-          "image": "https://i.ytimg.com/vi/JoFvcl5YS1Y/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-21T12:03:30.584Z",
+      "checkedAt": "2026-10-21T17:23:13.109Z",
       "items": [
         {
           "id": "V3-4VILEUnA",
@@ -166,78 +166,78 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-21T12:03:32.733Z",
+      "checkedAt": "2026-10-21T17:23:14.926Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/the-four-palestinian-americans-on-the-us-midterm-ballot/",
+          "title": "The four Palestinian Americans on the US midterm ballot",
+          "published": "2026-10-21T16:33:12.000Z",
+          "url": "https://www.muslimnetwork.tv/the-four-palestinian-americans-on-the-us-midterm-ballot/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/05/AA-20250430-37804983-37804981-SILENT_DEMONSTRATION_FOR_HUMANITY_IN_FRONT_OF_THE_US_CAPITOL.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-attacks-kill-6-palestinian-students-in-gaza-in-2-days-ministry/",
+          "title": "Israeli attacks kill 6 Palestinian students in Gaza in 2 days: Ministry",
+          "published": "2026-10-21T14:35:44.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-attacks-kill-6-palestinian-students-in-gaza-in-2-days-ministry/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260712-41959684-41959669-ISRAELI_ATTACKS_ON_GAZA_CONTINUE_IN_VIOLATION_OF_THE_CEASEFIRE.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/irans-president-rejects-us-threats-calls-for-respect-before-negotiations/",
+          "title": "Iran’s president rejects US threats, calls for respect before negotiations",
+          "published": "2026-10-21T14:33:54.000Z",
+          "url": "https://www.muslimnetwork.tv/irans-president-rejects-us-threats-calls-for-respect-before-negotiations/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/01/AA-20251228-40098750-40098749-IRANIAN_PRESIDENT_MASOUD_PEZESHKIAN.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/iran-says-it-is-developing-father-of-all-bombs-as-missile-arsenal-expands/",
+          "title": "Iran says it is developing ‘father of all bombs’ as missile arsenal expands",
+          "published": "2026-10-21T14:31:40.000Z",
+          "url": "https://www.muslimnetwork.tv/iran-says-it-is-developing-father-of-all-bombs-as-missile-arsenal-expands/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260724-42058544-42058529-ZOLFAGHAR_AND_QADR_MISSILES_PLACED_IN_TEHRANS_AZADI_SQUARE.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/pakistan-qatar-turkiye-and-indonesia-sign-new-defense-cooperation-agreement/",
+          "title": "Pakistan, Qatar, Turkiye and Indonesia sign new defense cooperation agreement",
+          "published": "2026-10-21T14:28:43.000Z",
+          "url": "https://www.muslimnetwork.tv/pakistan-qatar-turkiye-and-indonesia-sign-new-defense-cooperation-agreement/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/09/AA-20240925-35729148-35729146-PAKISTAN_PRIME_MINISTER_SHAHBAZ_SHARIF_IN_NEW_YORK.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/paris-extends-nighttime-curfew-for-third-day-amid-protests-and-unrest/",
+          "title": "Paris extends nighttime curfew for third day amid protests and unrest",
+          "published": "2026-10-21T14:24:44.000Z",
+          "url": "https://www.muslimnetwork.tv/paris-extends-nighttime-curfew-for-third-day-amid-protests-and-unrest/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261018-42796249-42796223-FRESH_CLASHES_ERUPT_IN_PARIS_AS_FRANCE_PROTEST_ARRESTS_EXCEED_2000.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/pentagon-insiders-may-testify-against-hegseth-if-democrats-win-house-report/",
+          "title": "Pentagon insiders may testify against Hegseth if Democrats win House: Report",
+          "published": "2026-10-21T14:22:01.000Z",
+          "url": "https://www.muslimnetwork.tv/pentagon-insiders-may-testify-against-hegseth-if-democrats-win-house-report/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/breaking-alberta-chooses-canada/",
+          "title": "Breaking: Alberta chooses Canada",
+          "published": "2026-10-21T13:53:24.000Z",
+          "url": "https://www.muslimnetwork.tv/breaking-alberta-chooses-canada/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/in-its-150th-year-the-ontario-college-of-art-and-design-announces-150-scholarships-for-students/",
+          "title": "In its 150th year, the Ontario College of Art and Design announces 150 Scholarships for Students.",
+          "published": "2026-10-21T13:47:44.000Z",
+          "url": "https://www.muslimnetwork.tv/in-its-150th-year-the-ontario-college-of-art-and-design-announces-150-scholarships-for-students/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/pakistan-to-chair-imf-and-world-bank-governors-in-2027/",
           "title": "Pakistan to chair IMF and World Bank governors in 2027",
           "published": "2026-10-21T08:18:33.000Z",
-          "url": "https://www.muslimnetwork.tv/pakistan-to-chair-imf-and-world-bank-governors-in-2027/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/04/AFP-TV_20130705_FIN_PAK_ImfLoans_VID532589_EN_en-1.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/pakistans-first-astronaut-to-fly-on-chinese-mission-nov-25/",
-          "title": "Pakistan’s first astronaut to fly on Chinese mission Nov. 25",
-          "published": "2026-10-21T08:16:08.000Z",
-          "url": "https://www.muslimnetwork.tv/pakistans-first-astronaut-to-fly-on-chinese-mission-nov-25/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/02/pexels-spacex-586031.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iran-russia-urge-de-escalation-between-pakistan-and-afghanistan/",
-          "title": "Iran, Russia urge de-escalation between Pakistan and Afghanistan",
-          "published": "2026-10-21T08:14:06.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-russia-urge-de-escalation-between-pakistan-and-afghanistan/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/03/MMD-VD_20220203_POL_AFG_TalibanMuttaqi_9XX9T7_en.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/nvidia-weighs-4-5bn-ai-data-center-push-in-indonesia/",
-          "title": "Nvidia weighs $4.5bn AI data-center push in Indonesia",
-          "published": "2026-10-21T08:08:33.000Z",
-          "url": "https://www.muslimnetwork.tv/nvidia-weighs-4-5bn-ai-data-center-push-in-indonesia/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-uma-media-2149408028-30608594.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/japanese-citrus-growers-court-malaysias-halal-market/",
-          "title": "Japanese citrus growers court Malaysia’s halal market",
-          "published": "2026-10-21T08:07:16.000Z",
-          "url": "https://www.muslimnetwork.tv/japanese-citrus-growers-court-malaysias-halal-market/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-andreadevillier-34844890.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/mamdani-adds-10000-free-childcare-seats-in-new-york/",
-          "title": "Mamdani adds 10,000 free childcare seats in New York",
-          "published": "2026-10-21T07:57:52.000Z",
-          "url": "https://www.muslimnetwork.tv/mamdani-adds-10000-free-childcare-seats-in-new-york/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/11/AA-20251104-39614068-39614059-MAMDANI_HOLDS_A_PRESS_CONFERENCE_AFTER_CASTING_HIS_VOTE.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/trumps-approval-drops-to-33-in-new-poll-before-midterms/",
-          "title": "Trump’s approval drops to 33% in new poll before midterms",
-          "published": "2026-10-21T07:56:03.000Z",
-          "url": "https://www.muslimnetwork.tv/trumps-approval-drops-to-33-in-new-poll-before-midterms/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/mahmoud-khalil-takes-detention-fight-to-us-supreme-court/",
-          "title": "Mahmoud Khalil takes detention fight to US Supreme Court",
-          "published": "2026-10-21T07:53:36.000Z",
-          "url": "https://www.muslimnetwork.tv/mahmoud-khalil-takes-detention-fight-to-us-supreme-court/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/former-senate-aide-behind-town-hall-challenge-to-el-sayed/",
-          "title": "Former Senate aide behind town-hall challenge to El-Sayed",
-          "published": "2026-10-21T07:51:31.000Z",
-          "url": "https://www.muslimnetwork.tv/former-senate-aide-behind-town-hall-challenge-to-el-sayed/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/trump-escalates-islamophobic-attacks-on-democratic-candidates/",
-          "title": "Trump escalates Islamophobic attacks on Democratic candidates",
-          "published": "2026-10-21T07:49:34.000Z",
-          "url": "https://www.muslimnetwork.tv/trump-escalates-islamophobic-attacks-on-democratic-candidates/"
+          "url": "https://www.muslimnetwork.tv/pakistan-to-chair-imf-and-world-bank-governors-in-2027/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-21T12:03:33.272Z",
+      "checkedAt": "2026-10-21T17:23:15.784Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -309,8 +309,29 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-21T12:03:30.303Z",
+      "checkedAt": "2026-10-21T17:23:12.730Z",
       "items": [
+        {
+          "id": "O5yJj_35x_Q",
+          "title": "7 Ajwa Dates and Poison: What Does Medical Science Say",
+          "published": "2026-10-21T16:52:46.000Z",
+          "url": "https://www.youtube.com/watch?v=O5yJj_35x_Q",
+          "image": "https://i.ytimg.com/vi/O5yJj_35x_Q/hqdefault.jpg"
+        },
+        {
+          "id": "nedjadFs-KU",
+          "title": "The Prophet's Night Journey: Why Do The Hadith Contradict Each Other? | The Hadith Question",
+          "published": "2026-10-21T13:30:28.000Z",
+          "url": "https://www.youtube.com/watch?v=nedjadFs-KU",
+          "image": "https://i.ytimg.com/vi/nedjadFs-KU/hqdefault.jpg"
+        },
+        {
+          "id": "i6qpKfaod54",
+          "title": "Prophet’s Wife Question & Quran’s Response",
+          "published": "2026-10-21T13:03:29.000Z",
+          "url": "https://www.youtube.com/watch?v=i6qpKfaod54",
+          "image": "https://i.ytimg.com/vi/i6qpKfaod54/hqdefault.jpg"
+        },
         {
           "id": "QdcDbhl3oIo",
           "title": "Quran: Inheritance & Women",
@@ -394,32 +415,11 @@
           "published": "2026-10-13T18:10:58.000Z",
           "url": "https://www.youtube.com/watch?v=U7R9qMYtp7E",
           "image": "https://i.ytimg.com/vi/U7R9qMYtp7E/hqdefault.jpg"
-        },
-        {
-          "id": "5t1v1nYW_N4",
-          "title": "Muslim Traditions: Origins vs. Current Practice Permissibility",
-          "published": "2026-10-13T14:28:23.000Z",
-          "url": "https://www.youtube.com/watch?v=5t1v1nYW_N4",
-          "image": "https://i.ytimg.com/vi/5t1v1nYW_N4/hqdefault.jpg"
-        },
-        {
-          "id": "x_dR0Gh8rXE",
-          "title": "Did Culture Shape the Hadith About Women? | The Hadith Question Series",
-          "published": "2026-10-13T13:30:02.000Z",
-          "url": "https://www.youtube.com/watch?v=x_dR0Gh8rXE",
-          "image": "https://i.ytimg.com/vi/x_dR0Gh8rXE/hqdefault.jpg"
-        },
-        {
-          "id": "NQkxozYh26g",
-          "title": "Islam: Fard, Sunnah, Mubah Explained Simply",
-          "published": "2026-10-13T00:59:18.000Z",
-          "url": "https://www.youtube.com/watch?v=NQkxozYh26g",
-          "image": "https://i.ytimg.com/vi/NQkxozYh26g/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-21T12:03:30.781Z",
+      "checkedAt": "2026-10-21T17:23:13.250Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -529,7 +529,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-21T12:03:30.938Z",
+      "checkedAt": "2026-10-21T17:23:13.561Z",
       "items": [
         {
           "id": "rf4HKYX4luI",
@@ -639,7 +639,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-21T12:03:31.071Z",
+      "checkedAt": "2026-10-21T17:23:13.674Z",
       "items": [
         {
           "id": "pkhGoYn2vlM",
@@ -749,8 +749,50 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-21T12:03:32.786Z",
+      "checkedAt": "2026-10-21T17:23:15.077Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/wainwright-ceremony-soldiers-depart-9.7390091",
+          "title": "Wainwright residents pay their respects as soldiers leave town following deadly training exercise",
+          "published": "2026-10-21T17:15:25.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/wainwright-ceremony-soldiers-depart-9.7390091",
+          "image": "https://i.cbc.ca/ais/0f8adc94-f51e-4307-8e8f-57b295371cef,1792599645396/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-cabinet-swearing-in-ceremony-live-paul-st-pierre-plamondon-2026-9.7389054",
+          "title": "Quebec cabinet to be sworn in under premier-designate Paul St-Pierre Plamondon",
+          "published": "2026-10-21T16:45:26.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-cabinet-swearing-in-ceremony-live-paul-st-pierre-plamondon-2026-9.7389054",
+          "image": "https://i.cbc.ca/ais/f2c225f4-23db-45e2-88eb-9964eaf1c1ef,1792529958244/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C899%2C4500%2C2531%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+          "title": "Publisher cuts ties with Quebec author accused of AI use in award-winning novel",
+          "published": "2026-10-21T16:37:41.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+          "image": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/premier-news-conference-wednesday-calgary-9.7390066",
+          "title": "Alberta premier to speak to media Wednesday after strong support for 'remain' in referendum",
+          "published": "2026-10-21T16:25:46.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/premier-news-conference-wednesday-calgary-9.7390066",
+          "image": "https://i.cbc.ca/ais/f67ef8f7-e1c7-4ae6-aef4-c8985b756057,1792599595224/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C196%2C5167%2C2906%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/ohip-out-of-country-coverage-denial-cancer-treatment-9.7389736",
+          "title": "Ontario cancer patients speak out over disappointment with drug funding decision",
+          "published": "2026-10-21T13:20:05.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/ohip-out-of-country-coverage-denial-cancer-treatment-9.7389736",
+          "image": "https://i.cbc.ca/ais/90a013d2-70b9-4cd7-b990-c5b5d46ca59b,1792580086104/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C340%2C1536%2C864%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/report-highly-critical-of-rcmp-handling-of-industrial-drowning-9.7388724",
+          "title": "Report highly critical of RCMP handling of industrial drowning",
+          "published": "2026-10-21T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/report-highly-critical-of-rcmp-handling-of-industrial-drowning-9.7388724",
+          "image": "https://i.cbc.ca/ais/1.6022950,1743197900000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C828%2C465%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/atna-ohna-bail-hearing-9.7387384",
           "title": "Ryan Wedding ally 'Tupac,' who allegedly offered cosmetic surgery to locate murder target, requests bail",
@@ -767,17 +809,17 @@
         },
         {
           "id": "https://www.cbc.ca/news/business/real-estate-bank-of-canada-9.7389322",
-          "title": "Housing market 'on its knees' as odds of Bank of Canada rate hike rise",
+          "title": "Bank of Canada increasingly expected to raise interest rates this month",
           "published": "2026-10-21T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/business/real-estate-bank-of-canada-9.7389322",
-          "image": "https://i.cbc.ca/ais/31f647aa-10a5-4140-a9c8-2f6aeb26c862,1792539654532/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5594%2C3146%29%3B"
+          "image": "https://i.cbc.ca/ais/50af46e7-454a-4399-b11e-b82a177ca2e2,1792591061714/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C235%2C3018%2C1697%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/delayed-flights-toronto-pearson-airport-9.7389523",
-          "title": "Operations back to normal at Toronto's Pearson airport after tower evacuated due to reports of smoke",
+          "title": "Operations back to normal at Toronto's Pearson airport after tower evacuated for reports of smoke",
           "published": "2026-10-21T02:28:41.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/delayed-flights-toronto-pearson-airport-9.7389523",
-          "image": "https://i.cbc.ca/ais/a94a4634-0d15-4630-8d01-3a0ae5e08ed4,1790028662507/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C860%2C483%29%3B"
+          "image": "https://i.cbc.ca/ais/e95f5f04-17fd-4241-b436-1e79d575affa,1792588069914/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C377%2C7237%2C4070%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/calgary/alberta-premier-danielle-smith-referendum-address-9.7389360",
@@ -813,60 +855,39 @@
           "published": "2026-10-20T22:40:52.000Z",
           "url": "https://www.cbc.ca/news/canada/saskatchewan/premier-scott-moe-alberta-vote-stay-canada-9.7389207",
           "image": "https://i.cbc.ca/ais/600d2034-9c51-4219-bdae-1f64b04b5267,1792533913935/full/max/0/default.jpg?im=Crop%2Crect%3D%281900%2C143%2C2096%2C1179%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/hamilton-tariff-response-team-funding-announcement-9.7389053",
-          "title": "Hamilton launching tariff response team with $390K from Ontario amid Stelco layoffs",
-          "published": "2026-10-20T22:19:17.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-tariff-response-team-funding-announcement-9.7389053",
-          "image": "https://i.cbc.ca/ais/ad716d57-15a4-468d-979c-0481e64061d1,1792533920202/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C516%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/hockey/nhl/ben-kindel-medical-episode-flight-penguins-nhl-9.7389118",
-          "title": "Penguins' Ben Kindel stable at Utah hospital after medical emergency on team flight",
-          "published": "2026-10-20T21:39:17.000Z",
-          "url": "https://www.cbc.ca/sports/hockey/nhl/ben-kindel-medical-episode-flight-penguins-nhl-9.7389118",
-          "image": "https://i.cbc.ca/ais/6820fd15-1cd0-44e6-a3e6-66db5eab2718,1792531884536/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/indigenous/first-nations-alberta-reaction-9.7388861",
-          "title": "First Nations leaders praise high Alberta referendum turnout despite ballot box barriers",
-          "published": "2026-10-20T21:30:27.000Z",
-          "url": "https://www.cbc.ca/news/indigenous/first-nations-alberta-reaction-9.7388861",
-          "image": "https://i.cbc.ca/ais/c9fc26c4-55e0-4e8e-9de0-ceaf24f133d6,1792524797806/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C73%2C5993%2C3371%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/player/play/9.7389001",
-          "title": "Fact check: Old explosion videos do not show CFB Wainwright",
-          "published": "2026-10-20T20:58:27.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7389001",
-          "image": "https://i.cbc.ca/ais/cd8afc44-d706-4fda-a1ab-7c06b625cd14,1792529438755/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/renouncing-oath-king-national-assembly-legal-injunction-9.7388788",
-          "title": "Renouncing oath to the King threatens Quebec's National Assembly's legitimacy, lawyer argues",
-          "published": "2026-10-20T20:05:23.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/renouncing-oath-king-national-assembly-legal-injunction-9.7388788",
-          "image": "https://i.cbc.ca/ais/ba9a3506-cee4-4e09-821c-0a8a55eb5d6c,1792531063555/full/max/0/default.jpg?im=Crop%2Crect%3D%28949%2C47%2C3082%2C1733%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/radio/asithappens/aidan-goulding-sonia-monk-9.7388746",
-          "title": "Mother of soldier killed in CFB Wainwright fire says her 'beautiful son' wanted to protect Canada",
-          "published": "2026-10-20T19:54:16.000Z",
-          "url": "https://www.cbc.ca/radio/asithappens/aidan-goulding-sonia-monk-9.7388746",
-          "image": "https://i.cbc.ca/ais/bd9034c6-457c-4558-a44c-e88bfaec432f,1792523764279/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C415%2C1536%2C864%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-21T12:03:33.297Z",
+      "checkedAt": "2026-10-21T17:23:15.869Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o",
-          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-          "published": "2026-10-21T12:00:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/83914ac0-8497-11ef-bf4c-1f355eb87d3c.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
+          "title": "Family of prison officer killed by IRA receives state apology",
+          "published": "2026-10-21T16:58:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ef0/live/3613e220-cd70-11f1-bbdb-c39c91930f26.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
+          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "published": "2026-10-21T16:38:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
+          "title": "Macron accuses foreign leaders of exploiting French riots",
+          "published": "2026-10-21T14:04:28.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/ad9474c0-cd63-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo",
+          "title": "Nigeria confirms Ebola case linked to East Africa",
+          "published": "2026-10-21T12:39:34.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ac/live/3b3288b0-cd3e-11f1-bc2e-018d645d8d21.png"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
@@ -891,7 +912,7 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
-          "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
+          "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
           "published": "2026-10-21T08:19:32.000Z",
           "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b7/live/2a48ce80-cd23-11f1-a64c-550be9e3c66b.jpg"
@@ -944,27 +965,6 @@
           "published": "2026-10-21T02:37:13.000Z",
           "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eec/live/c3a0f8d0-cccb-11f1-951b-8fbc7a9ea030.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo",
-          "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-          "published": "2026-10-20T23:51:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e48/live/4edd0c70-cc9c-11f1-9a39-31b474234113.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo",
-          "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-          "published": "2026-10-20T22:22:17.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad57/live/10727dd0-cce2-11f1-b759-47986a462148.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
-          "title": "Suspect arrested after historic town hall set alight - French media",
-          "published": "2026-10-20T21:05:50.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg"
         }
       ]
     }
