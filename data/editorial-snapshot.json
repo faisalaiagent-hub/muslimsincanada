@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-22T17:20:30.097Z",
+      "checkedAt": "2026-10-22T21:45:39.581Z",
       "items": [
         {
           "id": "RaUwec-4fMY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-22T17:20:30.221Z",
+      "checkedAt": "2026-10-22T21:45:39.733Z",
       "items": [
         {
           "id": "V3-4VILEUnA",
@@ -159,7 +159,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-22T17:20:31.622Z",
+      "checkedAt": "2026-10-22T21:45:41.954Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/arakan-army-pressures-rohingya-muslims-to-provide-recruits-financial-support/",
@@ -231,7 +231,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-22T17:20:32.188Z",
+      "checkedAt": "2026-10-22T21:45:42.643Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -303,8 +303,15 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-22T17:20:29.892Z",
+      "checkedAt": "2026-10-22T21:45:39.462Z",
       "items": [
+        {
+          "id": "y3VasyLZadk",
+          "title": "Hadith About Honey: Healing Advice or Misunderstood",
+          "published": "2026-10-22T18:54:42.000Z",
+          "url": "https://www.youtube.com/watch?v=y3VasyLZadk",
+          "image": "https://i.ytimg.com/vi/y3VasyLZadk/hqdefault.jpg"
+        },
         {
           "id": "K_pWJUu6418",
           "title": "Understanding Hadith: Why Not Every Report Is Divine Revelation",
@@ -402,18 +409,11 @@
           "published": "2026-10-14T18:30:16.000Z",
           "url": "https://www.youtube.com/watch?v=WhEq14MlPos",
           "image": "https://i.ytimg.com/vi/WhEq14MlPos/hqdefault.jpg"
-        },
-        {
-          "id": "q66p4GAD_vM",
-          "title": "Muslims & Halloween: Finding Balance for Kids",
-          "published": "2026-10-14T14:37:23.000Z",
-          "url": "https://www.youtube.com/watch?v=q66p4GAD_vM",
-          "image": "https://i.ytimg.com/vi/q66p4GAD_vM/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-22T17:20:30.338Z",
+      "checkedAt": "2026-10-22T21:45:39.841Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -523,7 +523,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-22T17:20:30.514Z",
+      "checkedAt": "2026-10-22T21:45:39.989Z",
       "items": [
         {
           "id": "rf4HKYX4luI",
@@ -633,7 +633,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-22T17:20:30.611Z",
+      "checkedAt": "2026-10-22T21:45:40.120Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -743,8 +743,29 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-22T17:20:31.719Z",
+      "checkedAt": "2026-10-22T21:45:42.223Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/politics/canada-post-weekend-delivery-update-9.7391900",
+          "title": "Canada Post starting weekend parcel delivery in Toronto, Montreal and Ottawa this fall",
+          "published": "2026-10-22T19:44:37.000Z",
+          "url": "https://www.cbc.ca/news/politics/canada-post-weekend-delivery-update-9.7391900",
+          "image": "https://i.cbc.ca/ais/05244ab5-77a7-4d7e-a091-7830d5bdc7f3,1792690490265/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C344%2C6500%2C3656%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/private-virtual-health-care-services-9.7391262",
+          "title": "N.L. spent $32.1 million in 2.5 years on private virtual health-care services",
+          "published": "2026-10-22T18:02:50.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/private-virtual-health-care-services-9.7391262",
+          "image": "https://i.cbc.ca/ais/513556e0-06bb-40ad-b10b-0138e63f3eb4,1792662138741/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C403%2C2441%2C1373%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/ontario-inquest-regis-korchinski-paquet-9.7391838",
+          "title": "Korchinski-Paquet's mother makes new allegation against police during coroner's inquest",
+          "published": "2026-10-22T17:11:44.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/ontario-inquest-regis-korchinski-paquet-9.7391838",
+          "image": "https://i.cbc.ca/ais/1.5588502,1595002107000/full/max/0/default.jpg?im=Crop%2Crect%3D%28266%2C0%2C1078%2C606%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/james-cody-bryant-enters-not-guilty-plea-in-u-s-court-9.7390551",
           "title": "Accused Tumbler Ridge co-conspirator enters not guilty plea in U.S. court",
@@ -761,7 +782,7 @@
         },
         {
           "id": "https://www.cbc.ca/news/politics/ottawa-stelco-letter-9.7391427",
-          "title": "Minister giving Stelco owner 15 days to reverse layoffs before turning to the courts",
+          "title": "Minister gives Stelco owner 15 days to reverse layoffs before turning to the courts",
           "published": "2026-10-22T14:15:00.000Z",
           "url": "https://www.cbc.ca/news/politics/ottawa-stelco-letter-9.7391427",
           "image": "https://i.cbc.ca/ais/70e553f8-cda2-4e77-9f75-77b7c9a30903,1790626056508/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5280%2C2970%29%3B"
@@ -772,6 +793,13 @@
           "published": "2026-10-22T11:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/indigenous-artists-university-of-calgary-free-speech-debate-tom-flanagan-9.7390315",
           "image": "https://i.cbc.ca/ais/1b76bbb6-ecd9-44a4-8055-65795c2bcf44,1792609882383/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C352%2C1080%2C607%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/agent-layla-podcast-justin-sewell-full-parole-9.7389231",
+          "title": "'Agent Layla': A sex assault victim went undercover to bring her abuser to justice. Now he's out on parole",
+          "published": "2026-10-22T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/agent-layla-podcast-justin-sewell-full-parole-9.7389231",
+          "image": "https://i.cbc.ca/ais/fcb16525-767c-4c0d-a7e9-1cb8880fe1af,1792699299228/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C58%2C841%2C473%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/raptors-kawhi-leonard-raptors-season-debut-9.7391270",
@@ -821,40 +849,61 @@
           "published": "2026-10-22T00:07:53.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-post-referendum-medicine-hat-9.7390852",
           "image": "https://i.cbc.ca/ais/66598637-3df7-4824-b9c0-99252276650a,1792624003059/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/terry-hui-cra-tax-dispute-9.7390913",
-          "title": "B.C. billionaire Terry Hui's firms allege 'pattern of misconduct' by CRA in tax dispute",
-          "published": "2026-10-21T23:58:16.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/terry-hui-cra-tax-dispute-9.7390913",
-          "image": "https://i.cbc.ca/ais/6f075f54-d7f2-4a46-a541-0e4bf119b824,1771639155282/full/max/0/default.jpg?im=Crop%2Crect%3D%28358%2C568%2C6161%2C3465%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/dawson-creek-acupunucturist-ivermectin-suspension-9.7390880",
-          "title": "Dawson Creek, B.C., acupuncturist suspended after prescribing ivermectin: regulator",
-          "published": "2026-10-21T23:54:48.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/dawson-creek-acupunucturist-ivermectin-suspension-9.7390880",
-          "image": "https://i.cbc.ca/ais/2202cd71-afd4-488e-9576-c7812b385fe5,1792623797340/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C173%2C5372%2C3021%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-higher-support-for-separation-rural-9.7390830",
-          "title": "Northern Alberta shows higher support for separation, especially in rural areas",
-          "published": "2026-10-21T23:39:21.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-higher-support-for-separation-rural-9.7390830",
-          "image": "https://i.cbc.ca/ais/bcfc9123-b7f0-46f2-93c7-22d25b07b7e9,1792464600192/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/opp-recruit-evaluation-allege-racial-discrimination-9.7390785",
-          "title": "3 Black Ontario police recruits allege discrimination, leading to calls for investigation",
-          "published": "2026-10-21T23:12:22.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/opp-recruit-evaluation-allege-racial-discrimination-9.7390785",
-          "image": "https://i.cbc.ca/ais/dafda525-8d10-40ab-8142-6a680894ef78,1792619962876/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C124%2C2380%2C1338%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-22T17:20:32.264Z",
+      "checkedAt": "2026-10-22T21:45:42.734Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+          "title": "Trump says Musk has restored Ukraine's internet access",
+          "published": "2026-10-22T21:42:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/13dc7b20-ce53-11f1-a7e5-1bf3b637cfc1.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
+          "title": "New York bans horse-drawn carriages over safety and abuse concerns",
+          "published": "2026-10-22T20:49:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/bc84e170-cdf6-11f1-97f7-a7674fb562de.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
+          "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+          "published": "2026-10-22T19:27:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/d77c3ae0-ce29-11f1-9f18-490cec60aa0f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o",
+          "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+          "published": "2026-10-22T19:25:26.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d603/live/9c9fdf10-ce4e-11f1-8507-d7f0bcb84e7e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
+          "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+          "published": "2026-10-22T18:26:56.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c9146p1vx888o",
+          "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+          "published": "2026-10-22T17:49:13.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af60/live/691b9580-ce35-11f1-a86f-f78305ec9987.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o",
+          "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+          "published": "2026-10-22T17:21:42.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1f/live/0ab25ae0-ce37-11f1-a86f-f78305ec9987.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o",
           "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
@@ -874,7 +923,7 @@
           "title": "Race to update services' computer systems after cyber-security flaw found",
           "published": "2026-10-22T17:12:51.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a1/live/7169fdc0-ce3b-11f1-9a39-31b474234113.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo",
@@ -891,20 +940,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9299/live/dd5a6440-ce20-11f1-906e-e3128518d85d.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
-          "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-          "published": "2026-10-22T16:40:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/d77c3ae0-ce29-11f1-9f18-490cec60aa0f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
-          "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-          "published": "2026-10-22T16:16:49.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego",
           "title": "Crowd of 50 beats foreigner to death in South Africa",
           "published": "2026-10-22T16:15:25.000Z",
@@ -919,46 +954,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f6f/live/0c562b60-ce2d-11f1-9f18-490cec60aa0f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o",
-          "title": "French weekend protests to be limited to union demos only, says Macron",
-          "published": "2026-10-22T15:22:48.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab2/live/fa874350-cdfb-11f1-97f7-a7674fb562de.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do",
           "title": "Damaging hail pelts Phoenix in rare storm",
           "published": "2026-10-22T15:11:49.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f3/live/e6483970-ce29-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o",
-          "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-          "published": "2026-10-22T14:33:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a379/live/0b1863f0-ce1c-11f1-906e-e3128518d85d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o",
-          "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-          "published": "2026-10-22T14:09:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cfa/live/29484c90-ce22-11f1-906e-e3128518d85d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do",
-          "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-          "published": "2026-10-22T14:08:10.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2457/live/95e759e0-ce18-11f1-bbba-c577fd901ff7.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o",
-          "title": "First human case of Shamonda virus detected in France, officials say",
-          "published": "2026-10-22T13:53:32.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg"
         }
       ]
     }
