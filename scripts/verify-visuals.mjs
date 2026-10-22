@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 
 const base = process.env.MIC_TEST_URL || 'http://localhost:3102';
 const pages = [
-  ['/', 'In full'], ['/search?type=mosques', 'What will you discover?'],
+  ['/', 'Two things worth'], ['/search?type=mosques', 'What will you discover?'],
   ['/resources', 'Find support. Give something back.'],
   ['/community', 'So many stories.'], ['/credits', 'Mohammed Abubakr'],
 ];
