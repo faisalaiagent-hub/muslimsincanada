@@ -19,9 +19,11 @@ export function dailyCaption(day: string, item: DailyItem) {
 export function validateEdition(raw: unknown, sources: readonly Source[], now = new Date()): DailyEdition | null {
   const edition = raw as DailyEdition;
   if (!edition || !validDay(edition.date) || edition.date > torontoDate(now) || !Number.isFinite(Date.parse(edition.generatedAt)) || Date.parse(edition.generatedAt) > now.getTime() + 60000 || !Array.isArray(edition.items) || edition.items.length !== 2) return null;
+  if (torontoDate(new Date(edition.generatedAt)) !== edition.date) return null;
   const items: DailyItem[] = [];
   for (const row of edition.items) {
     if (!row || !/^[a-z0-9-]{3,60}$/.test(row.id) || typeof row.title !== 'string' || !row.title.trim() || row.title.length > 400 || typeof row.summary !== 'string' || row.summary.length > 600 || !['news','talk','event','guide','greeting'].includes(row.kind)) return null;
+    if ((row.kind === 'event' || row.kind === 'greeting') && !row.expiresAt) return null;
     if (row.expiresAt && (!Number.isFinite(Date.parse(row.expiresAt)) || Date.parse(row.expiresAt) <= Date.parse(edition.generatedAt))) return null;
     if (row.published && (!Number.isFinite(Date.parse(row.published)) || Date.parse(row.published) > now.getTime() + 60000)) return null;
     let image: string | undefined;
