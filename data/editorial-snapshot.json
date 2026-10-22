@@ -166,7 +166,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-21T21:50:44.620Z",
+      "checkedAt": "2026-10-22T00:26:21.937Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/the-four-palestinian-americans-on-the-us-midterm-ballot/",
@@ -237,7 +237,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-21T21:50:45.094Z",
+      "checkedAt": "2026-10-22T00:26:22.582Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -749,8 +749,50 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-21T21:50:44.667Z",
+      "checkedAt": "2026-10-22T00:26:22.071Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/danielle-smith-post-referendum-medicine-hat-9.7390852",
+          "title": "In her riding, United Conservative Party leaders back Danielle Smith",
+          "published": "2026-10-22T00:07:53.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-post-referendum-medicine-hat-9.7390852",
+          "image": "https://i.cbc.ca/ais/66598637-3df7-4824-b9c0-99252276650a,1792624003059/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/terry-hui-cra-tax-dispute-9.7390913",
+          "title": "B.C. billionaire Terry Hui's firms allege 'pattern of misconduct' by CRA in tax dispute",
+          "published": "2026-10-21T23:58:16.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/terry-hui-cra-tax-dispute-9.7390913",
+          "image": "https://i.cbc.ca/ais/6f075f54-d7f2-4a46-a541-0e4bf119b824,1771639155282/full/max/0/default.jpg?im=Crop%2Crect%3D%28358%2C568%2C6161%2C3465%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/dawson-creek-acupunucturist-ivermectin-suspension-9.7390880",
+          "title": "Dawson Creek, B.C., acupuncturist suspended after prescribing ivermectin: regulator",
+          "published": "2026-10-21T23:54:48.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/dawson-creek-acupunucturist-ivermectin-suspension-9.7390880",
+          "image": "https://i.cbc.ca/ais/2202cd71-afd4-488e-9576-c7812b385fe5,1792623797340/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C173%2C5372%2C3021%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-higher-support-for-separation-rural-9.7390830",
+          "title": "Northern Alberta shows higher support for separation, especially in rural areas",
+          "published": "2026-10-21T23:39:21.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-higher-support-for-separation-rural-9.7390830",
+          "image": "https://i.cbc.ca/ais/bcfc9123-b7f0-46f2-93c7-22d25b07b7e9,1792464600192/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/opp-recruit-evaluation-allege-racial-discrimination-9.7390785",
+          "title": "3 Black Ontario police recruits allege discrimination, leading to calls for investigation",
+          "published": "2026-10-21T23:12:22.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/opp-recruit-evaluation-allege-racial-discrimination-9.7390785",
+          "image": "https://i.cbc.ca/ais/dafda525-8d10-40ab-8142-6a680894ef78,1792619962876/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C124%2C2380%2C1338%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/jeremy-hansen-carney-special-adviser-9.7390754",
+          "title": "Carney appoints astronaut Jeremy Hansen to advise government on new space strategy",
+          "published": "2026-10-21T22:01:14.000Z",
+          "url": "https://www.cbc.ca/news/politics/jeremy-hansen-carney-special-adviser-9.7390754",
+          "image": "https://i.cbc.ca/ais/d676e81c-e99e-4afe-807e-24049ff29b5f,1792619148296/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C188%2C7472%2C4203%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/ontario-deploys-doctors-nurses-9.7390664",
           "title": "Ontario to send 28 health care staff to Alberta to help victims of deadly fire at military base",
@@ -763,7 +805,7 @@
           "title": "A new figure skating season begins with Canada rebuilding",
           "published": "2026-10-21T20:46:52.000Z",
           "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-figure-skating-preview-9.7390638",
-          "image": "https://i.cbc.ca/ais/7ddd5e96-dc0c-46e0-b659-1c3a84927c5e,1792614691979/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C206%2C4150%2C2334%29%3B"
+          "image": "https://i.cbc.ca/ais/7ddd5e96-dc0c-46e0-b659-1c3a84927c5e,1792625057941/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C138%2C4150%2C2334%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/fall-colours-photo-scroller-9.7388145",
@@ -794,6 +836,13 @@
           "image": "https://i.cbc.ca/ais/61a83aa7-59da-4b97-8523-b2ea2f083676,1792608263924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C5048%2C2839%29%3B"
         },
         {
+          "id": "https://www.cbc.ca/news/canada/air-canada-another-fee-book-by-phone-9.7390309",
+          "title": "Want to book with Air Canada by phone? That'll be an extra $30 please",
+          "published": "2026-10-21T18:19:18.000Z",
+          "url": "https://www.cbc.ca/news/canada/air-canada-another-fee-book-by-phone-9.7390309",
+          "image": "https://i.cbc.ca/ais/4c55c8e0-fd76-43c8-83a2-5ae2922839d6,1792605832075/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C3000%2C1687%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/toronto/daycare-worker-five-children-struck-durham-police-9.7390276",
           "title": "Girl, 2, critically hurt after driver hits daycare worker and 5 children in Oshawa, Ont.: police",
           "published": "2026-10-21T17:54:54.000Z",
@@ -806,61 +855,47 @@
           "published": "2026-10-21T17:15:25.000Z",
           "url": "https://www.cbc.ca/news/canada/edmonton/wainwright-ceremony-soldiers-depart-9.7390091",
           "image": "https://i.cbc.ca/ais/d85fc9d5-b34b-442b-992b-a4baf7d90807,1792605154610/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-cabinet-swearing-in-ceremony-live-paul-st-pierre-plamondon-2026-9.7389054",
-          "title": "Quebec's new PQ premier unveils smaller cabinet as minority government prepares to govern",
-          "published": "2026-10-21T16:45:26.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-cabinet-swearing-in-ceremony-live-paul-st-pierre-plamondon-2026-9.7389054",
-          "image": "https://i.cbc.ca/ais/f3b760f7-2778-45b7-b4f9-80955eda945b,1792614407620/full/max/0/default.jpg?im=Crop%2Crect%3D%2847%2C450%2C4120%2C2317%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
-          "title": "Publisher cuts ties with Quebec author accused of AI use in award-winning novel",
-          "published": "2026-10-21T16:37:41.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
-          "image": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/premier-news-conference-wednesday-calgary-9.7390066",
-          "title": "Alberta premier says UCP must be pro-Canada, separatists can 'join a different party'",
-          "published": "2026-10-21T16:25:46.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/premier-news-conference-wednesday-calgary-9.7390066",
-          "image": "https://i.cbc.ca/ais/ac28250d-241b-495b-9f7b-8e1f39d63993,1792606908931/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C5099%2C2868%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/ohip-out-of-country-coverage-denial-cancer-treatment-9.7389736",
-          "title": "Ontario cancer patients speak out over disappointment with drug funding decision",
-          "published": "2026-10-21T13:20:05.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/ohip-out-of-country-coverage-denial-cancer-treatment-9.7389736",
-          "image": "https://i.cbc.ca/ais/90a013d2-70b9-4cd7-b990-c5b5d46ca59b,1792580086104/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C340%2C1536%2C864%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/report-highly-critical-of-rcmp-handling-of-industrial-drowning-9.7388724",
-          "title": "Report highly critical of RCMP handling of industrial drowning",
-          "published": "2026-10-21T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/report-highly-critical-of-rcmp-handling-of-industrial-drowning-9.7388724",
-          "image": "https://i.cbc.ca/ais/1.6022950,1743197900000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C828%2C465%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/atna-ohna-bail-hearing-9.7387384",
-          "title": "Ryan Wedding ally 'Tupac,' who allegedly offered cosmetic surgery to locate murder target, requests bail",
-          "published": "2026-10-21T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/atna-ohna-bail-hearing-9.7387384",
-          "image": "https://i.cbc.ca/ais/cac7377e-0813-42eb-877f-80fb66d500f1,1792506849076/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/investigates/canadian-crime-stoppers-tips-leaked-hack-investigation-9.7388820",
-          "title": "More than 1.5 million Canadian Crime Stoppers tips leaked, CBC exclusive finds",
-          "published": "2026-10-21T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/investigates/canadian-crime-stoppers-tips-leaked-hack-investigation-9.7388820",
-          "image": "https://i.cbc.ca/ais/391ead06-1b72-4e9e-b15e-0e3f07baf29a,1792523215998/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-21T21:50:45.118Z",
+      "checkedAt": "2026-10-22T00:26:22.826Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
+          "title": "The real reasons US politicians are getting older",
+          "published": "2026-10-21T23:52:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea2/live/36f80900-cc9e-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o",
+          "title": "Trump's green card curbs test Indian tech workers' American dream",
+          "published": "2026-10-21T23:06:37.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
+          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+          "published": "2026-10-21T23:04:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cmx2302xe931o",
+          "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+          "published": "2026-10-21T22:02:18.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ef/live/eeb5a6a0-cd17-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvze414811jlo",
+          "title": "Japan is known for world-class events - but the Asian Games were chaotic",
+          "published": "2026-10-21T22:00:58.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329a/live/eef02160-c7a2-11f1-a64c-550be9e3c66b.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo",
           "title": "Meta fined $25bn for 'lies' over user data privacy",
@@ -930,41 +965,6 @@
           "published": "2026-10-21T16:58:16.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ef0/live/3613e220-cd70-11f1-bbdb-c39c91930f26.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
-          "title": "Macron accuses foreign leaders of exploiting French riots",
-          "published": "2026-10-21T14:04:28.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/ad9474c0-cd63-11f1-9a39-31b474234113.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
-          "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-          "published": "2026-10-21T09:55:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1718/live/05ef3900-cc80-11f1-bed8-c51b95c602ec.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-          "published": "2026-10-21T08:42:49.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o",
-          "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-          "published": "2026-10-21T08:31:48.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f1a/live/3e1812e0-cd32-11f1-9a39-31b474234113.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
-          "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-          "published": "2026-10-21T06:50:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg"
         }
       ]
     }

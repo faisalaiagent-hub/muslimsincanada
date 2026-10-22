@@ -9,8 +9,12 @@ on:
       - 'lib/feed-parser.ts'
       - 'lib/feed-images.js'
       - 'lib/publisher-image.ts'
+      - 'lib/daily-highlights-core.ts'
+      - 'data/daily-highlight-overrides.json'
+      - 'scripts/refresh-daily-highlights.mjs'
   schedule:
     - cron: '23 */6 * * *'
+    - cron: '17 4,5 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -29,11 +33,12 @@ jobs:
           cache: npm
       - run: npm ci --ignore-scripts
       - run: node scripts/refresh-editorial.mjs
+      - run: node scripts/refresh-daily-highlights.mjs
       - name: Save successfully refreshed public entries
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/editorial-snapshot.json
+          git add data/editorial-snapshot.json data/daily-highlights.json assets/social/daily-highlights/
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh public editorial feed snapshot'
             git pull --rebase origin main

@@ -1,11 +1,12 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowDown, ArrowRight, ArrowUpRight, Building2, CalendarDays, CheckCircle2, Globe2, HeartHandshake, MapPin, Search, Sparkles, Users } from 'lucide-react';
+import { ArrowRight, ArrowUpRight, Building2, CalendarDays, CheckCircle2, Globe2, HeartHandshake, MapPin, Sparkles, Users } from 'lucide-react';
 import { getDirectory } from '@/lib/directory';
 import { FACEBOOK_URL, resources } from '@/lib/community';
 import { ListingCard } from '@/components/listing-card';
 import { ResourceCard } from '@/components/resource-card';
-import { VisualMotion } from '@/components/visual-motion';
+import { DailyHighlights } from '@/components/daily-highlights';
+import {getDailyEdition} from '@/lib/daily-highlights';
 import { CommunityVideo } from '@/components/community-video';
 import { Suspense } from 'react';
 import { EditorialSections } from '@/components/editorial-sections';
@@ -23,38 +24,13 @@ const topics = [
 ];
 
 export default async function Home() {
-  const { cities, listings, unavailable } = await getDirectory();
+  const [{ cities, listings, unavailable }, dailyEdition] = await Promise.all([getDirectory(),getDailyEdition()]);
   const mosques = listings.filter(item => item.type === 'mosques');
   const events = listings.filter(item => item.type === 'events');
 
   return (
     <main className="v-home">
-      <section className="v-hero" aria-labelledby="visual-hero-title">
-        <div className="v-hero-copy">
-          <div className="v-hero-overline"><span className="v-live-dot" /> LOCAL ROOTS. LIMITLESS CONNECTIONS.</div>
-          <h1 id="visual-hero-title">Your community.<br /><span>In full</span> <em>colour.</em></h1>
-          <p>Find your people. Discover your city. Make room for the moments that bring us together.</p>
-          <form action="/search" className="v-search">
-            <Search size={21} aria-hidden="true" />
-            <label className="sr-only" htmlFor="visual-search">Search your community</label>
-            <input id="visual-search" name="q" placeholder="What are you looking for?" />
-            <button type="submit" aria-label="Search community"><ArrowRight size={22} /></button>
-          </form>
-          <div className="v-hero-links"><Link href="/search?type=mosques">Mosques</Link><Link href="/search?type=events">Events</Link><Link href="/resources">Resources</Link><Link href="/search?type=businesses">Local businesses</Link></div>
-          <a href={FACEBOOK_URL} target="_blank" rel="noreferrer" className="v-hero-social"><span className="v-social-icon"><Users size={20} /></span><span><strong>13K followers. One shared community.</strong><small>Join the conversation on Facebook <ArrowUpRight size={12} /></small></span></a>
-          <div className="v-hero-scribble" aria-hidden="true">✳</div>
-        </div>
-        <div className="v-hero-media">
-          <Image src="/media/community-friends.jpg" alt="Friends enjoying a moment outdoors. Stock photograph by MART PRODUCTION." fill priority sizes="(max-width: 760px) 100vw, 56vw" className="v-hero-photo" />
-          <div className="v-photo-shade" />
-          <span className="v-photo-label">MOMENTS THAT MAKE US, US.</span>
-          <div className="v-belong-sticker"><HeartHandshake size={29} strokeWidth={1.5} /><span>YOU BELONG<br />HERE.</span><span className="v-sticker-star">✳</span></div>
-          <div className="v-hero-media-bottom"><a href="#visual-stories" className="v-watch-link"><span><ArrowDown size={20} /></span>Explore life in motion</a><VisualMotion /></div>
-          <Link href="/credits" className="v-image-credit">Stock photography · Image credits</Link>
-        </div>
-      </section>
-
-      <div className="v-ticker" aria-hidden="true"><div className="v-ticker-track">{[0, 1, 2].map(item => <span key={item}>ROOTED IN CANADA <b>✳</b> CONNECTED BY COMMUNITY <b>✳</b> OPEN TO THE WORLD <b>✳</b></span>)}</div></div>
+      <DailyHighlights edition={dailyEdition} />
 
       <NearbyTeaser />
       <MarketplaceTeaser />

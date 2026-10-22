@@ -8,6 +8,7 @@ import { MarketplaceAuth } from '@/components/marketplace-auth';
 import './globals.css';
 import './visual.css';
 import './brand-theme.css';
+import './daily-highlights.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.muslimsincanada.com'),

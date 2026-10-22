@@ -1,0 +1,26 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import {chooseDailyItems,validateEdition,torontoDate,validDay,dailyCaption} from '../lib/daily-highlights-core.ts';
+import {publishers,voices} from '../lib/editorial-config.ts';
+const registry=[...publishers,...voices];
+assert.equal(torontoDate(new Date('2026-10-22T02:00:00Z')),'2026-10-21');
+assert.equal(torontoDate(new Date('2026-12-22T04:00:00Z')),'2026-12-21');
+assert.equal(validDay('2026-02-30'),false);
+const now=new Date();const date=torontoDate(now);
+const fixture=JSON.parse(await fs.readFile('data/daily-highlights.json','utf8')).editions.at(-1);
+assert.ok(validateEdition(fixture,registry,now));
+assert.equal(fixture.items.length,2);
+assert.notEqual(fixture.items[0].kind,fixture.items[1].kind);
+assert.notEqual(fixture.items[0].url,fixture.items[1].url);
+for(const unsafe of ['javascript:alert(1)','https://evil.example/story','//evil.example/story']){const broken=structuredClone(fixture);broken.items[0].url=unsafe;assert.equal(validateEdition(broken,registry,now),null);}
+const image=structuredClone(fixture);image.items[0].image='https://evil.example/pixel.png';assert.equal(validateEdition(image,registry,now).items[0].image,undefined);
+const future=structuredClone(fixture);future.generatedAt=new Date(Date.now()+86400000).toISOString();assert.equal(validateEdition(future,registry,now),null);
+const duplicate=structuredClone(fixture);duplicate.items[1]=duplicate.items[0];assert.equal(validateEdition(duplicate,registry,now),null);
+const tomorrow=new Date(`${date}T12:00:00Z`);tomorrow.setUTCDate(tomorrow.getUTCDate()+1);const next=tomorrow.toISOString().slice(0,10);
+const fresh=fixture.items.map((i,index)=>({...i,id:`fresh-${index}`,url:i.url+'?new=1'}));
+const chosen=chooseDailyItems([...fixture.items,...fresh],[fixture],next);assert.ok(chosen.every(i=>fresh.some(f=>f.url===i.url)));
+assert.throws(()=>chooseDailyItems(fixture.items,[fixture],next));
+const event={...fresh[0],id:'local-event',kind:'event',sourceId:'mic',url:'/toronto/events/test-event',expiresAt:new Date(Date.now()+86400000*3).toISOString()};
+assert.equal(chooseDailyItems([event,...fresh],[],date)[0].kind,'event');
+assert.ok(dailyCaption(date,fixture.items[0]).includes('/today/'+date+'/'));
+console.log('PASS: Toronto day/DST, two different items, source/URL/image validation, future dates, repeat avoidance, event priority and reusable captions.');

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "editions": [
+    {
+      "date": "2026-10-21",
+      "generatedAt": "2026-10-22T00:27:26.331Z",
+      "items": [
+        {
+          "id": "872595b20615",
+          "kind": "news",
+          "title": "The four Palestinian Americans on the US midterm ballot",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/the-four-palestinian-americans-on-the-us-midterm-ballot/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/05/AA-20250430-37804983-37804981-SILENT_DEMONSTRATION_FOR_HUMANITY_IN_FRONT_OF_THE_US_CAPITOL.jpg",
+          "published": "2026-10-21T16:33:12.000Z"
+        },
+        {
+          "id": "4debb23d2bdb",
+          "kind": "talk",
+          "title": "The fastest way to destroy trust is to judge someone before you have heard their side.",
+          "summary": "Make time for a recent conversation from Dr. Yasir Qadhi. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=NTwJggpwplI",
+          "sourceId": "yasir",
+          "source": "Dr. Yasir Qadhi",
+          "image": "https://i.ytimg.com/vi/NTwJggpwplI/hqdefault.jpg",
+          "published": "2026-10-13T09:15:48.000Z"
+        }
+      ]
+    }
+  ]
+}
