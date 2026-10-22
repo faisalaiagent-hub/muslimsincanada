@@ -28,6 +28,33 @@
           "published": "2026-10-13T09:15:48.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "generatedAt": "2026-10-22T05:03:47.158Z",
+      "items": [
+        {
+          "id": "e72427a1abf0",
+          "kind": "talk",
+          "title": "How to Deal with Anger? | Controlling Your Anger in Islam | Dr Haifaa Younis | Jannah Institute",
+          "summary": "Make time for a recent conversation from Dr. Haifaa Younis. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=rf4HKYX4luI",
+          "sourceId": "haifaa",
+          "source": "Dr. Haifaa Younis",
+          "image": "https://i.ytimg.com/vi/rf4HKYX4luI/hqdefault.jpg",
+          "published": "2026-10-18T11:30:13.000Z"
+        },
+        {
+          "id": "69a06e9f5c25",
+          "kind": "guide",
+          "title": "Find mosques and halal food near you",
+          "summary": "Use MIC’s area search and optional location to discover nearby places, starting in the GTA.",
+          "url": "/guides/find-mosques-halal-food-near-you",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/prayer-space.jpg"
+        }
+      ]
     }
   ]
 }

@@ -166,7 +166,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-22T00:33:08.806Z",
+      "checkedAt": "2026-10-22T05:03:46.535Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/the-four-palestinian-americans-on-the-us-midterm-ballot/",
@@ -237,7 +237,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-22T00:33:09.600Z",
+      "checkedAt": "2026-10-22T05:03:46.980Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -749,8 +749,22 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-22T00:33:09.129Z",
+      "checkedAt": "2026-10-22T05:03:46.610Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/electronic-arts-shutting-bioware-edmonton-9.7391164",
+          "title": "Edmonton-based video game studio BioWare shutting down after more than 30 years",
+          "published": "2026-10-22T02:44:55.000Z",
+          "url": "https://www.cbc.ca/news/canada/electronic-arts-shutting-bioware-edmonton-9.7391164",
+          "image": "https://i.cbc.ca/ais/13eb7497-08f8-4acb-82c4-b41a717f57f0,1792635994255/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C174%2C3345%2C1881%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-hospital-er-death-fatality-inquiry-9.7391013",
+          "title": "Nurse describes crowded, chaotic hospital ER at fatality inquiry for Edmonton man",
+          "published": "2026-10-22T00:47:09.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-hospital-er-death-fatality-inquiry-9.7391013",
+          "image": "https://i.cbc.ca/ais/1.5829773,1792629296880/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C3357%2C1888%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/calgary/danielle-smith-post-referendum-medicine-hat-9.7390852",
           "title": "In her riding, United Conservative Party leaders back Danielle Smith",
@@ -795,7 +809,7 @@
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/ontario-deploys-doctors-nurses-9.7390664",
-          "title": "Ontario to send 28 health care staff to Alberta to help victims of deadly fire at military base",
+          "title": "Ontario to send 28 health-care staff to Alberta to help victims of deadly fire at military base",
           "published": "2026-10-21T21:26:38.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/ontario-deploys-doctors-nurses-9.7390664",
           "image": "https://i.cbc.ca/ais/ecccaa25-f088-4e4e-b0f6-171a83f18693,1792616211170/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3872%2C2178%29%3B"
@@ -841,26 +855,40 @@
           "published": "2026-10-21T18:19:18.000Z",
           "url": "https://www.cbc.ca/news/canada/air-canada-another-fee-book-by-phone-9.7390309",
           "image": "https://i.cbc.ca/ais/4c55c8e0-fd76-43c8-83a2-5ae2922839d6,1792605832075/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C3000%2C1687%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/daycare-worker-five-children-struck-durham-police-9.7390276",
-          "title": "Girl, 2, critically hurt after driver hits daycare worker and 5 children in Oshawa, Ont.: police",
-          "published": "2026-10-21T17:54:54.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/daycare-worker-five-children-struck-durham-police-9.7390276",
-          "image": "https://i.cbc.ca/ais/dc7efe1d-1948-4b46-9697-f57f166be4ef,1792611839402/full/max/0/default.jpg?im=Crop%2Crect%3D%2858%2C0%2C1861%2C1046%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/wainwright-ceremony-soldiers-depart-9.7390091",
-          "title": "Wainwright residents pay their respects as soldiers leave town following deadly training exercise",
-          "published": "2026-10-21T17:15:25.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/wainwright-ceremony-soldiers-depart-9.7390091",
-          "image": "https://i.cbc.ca/ais/d85fc9d5-b34b-442b-992b-a4baf7d90807,1792605154610/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-22T00:33:09.862Z",
+      "checkedAt": "2026-10-22T05:03:47.044Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
+          "title": "No purchase, no seats: Starbucks China rolls out new policy",
+          "published": "2026-10-22T04:02:29.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "published": "2026-10-22T03:48:50.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmn06g29522lo",
+          "title": "US embassy accuses Canada of election meddling ahead of midterms",
+          "published": "2026-10-22T03:05:28.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dd2/live/280120d0-cdc5-11f1-ae0b-3f5d64e6a869.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+          "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+          "published": "2026-10-22T01:07:34.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6998/live/cec97250-cdb1-11f1-bc2e-018d645d8d21.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
           "title": "The real reasons US politicians are getting older",
@@ -888,6 +916,20 @@
           "published": "2026-10-21T22:59:18.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/64f8e290-cda0-11f1-96a8-11b361e3c25f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o",
+          "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+          "published": "2026-10-21T22:54:58.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx287g8714lo",
+          "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+          "published": "2026-10-21T22:20:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqx287g8714lo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c97/live/152c9c80-cd7c-11f1-a428-3f9d1bf6cc8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cmx2302xe931o",
@@ -923,48 +965,6 @@
           "published": "2026-10-21T20:31:47.000Z",
           "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b7/live/2a48ce80-cd23-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o",
-          "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-          "published": "2026-10-21T20:19:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0463/live/f6cb33e0-cd86-11f1-b1e7-39558e114359.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo",
-          "title": "Pope does not need further treatment after lung cancer surgery",
-          "published": "2026-10-21T20:09:10.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/89f335e0-cd88-11f1-b1e7-39558e114359.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo",
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-          "published": "2026-10-21T19:58:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/adcfbb20-cd86-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo",
-          "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-          "published": "2026-10-21T19:29:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/125ed250-cd83-11f1-9a39-31b474234113.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c674p0xepljeo",
-          "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-          "published": "2026-10-21T18:22:28.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4c/live/6c343880-cd77-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo",
-          "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-          "published": "2026-10-21T18:10:42.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce68/live/40f9c020-cd60-11f1-bc2e-018d645d8d21.jpg"
         }
       ]
     }
