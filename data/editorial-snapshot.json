@@ -166,7 +166,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-22T00:26:21.937Z",
+      "checkedAt": "2026-10-22T00:33:08.806Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/the-four-palestinian-americans-on-the-us-midterm-ballot/",
@@ -237,7 +237,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-22T00:26:22.582Z",
+      "checkedAt": "2026-10-22T00:33:09.600Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -749,7 +749,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-22T00:26:22.071Z",
+      "checkedAt": "2026-10-22T00:33:09.129Z",
       "items": [
         {
           "id": "https://www.cbc.ca/news/canada/calgary/danielle-smith-post-referendum-medicine-hat-9.7390852",
@@ -859,7 +859,7 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-22T00:26:22.826Z",
+      "checkedAt": "2026-10-22T00:33:09.862Z",
       "items": [
         {
           "id": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
@@ -881,6 +881,13 @@
           "published": "2026-10-21T23:04:03.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o",
+          "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+          "published": "2026-10-21T22:59:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/64f8e290-cda0-11f1-96a8-11b361e3c25f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cmx2302xe931o",
@@ -958,13 +965,6 @@
           "published": "2026-10-21T18:10:42.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce68/live/40f9c020-cd60-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
-          "title": "Family of prison officer killed by IRA receives state apology",
-          "published": "2026-10-21T16:58:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ef0/live/3613e220-cd70-11f1-bbdb-c39c91930f26.jpg"
         }
       ]
     }
