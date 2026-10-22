@@ -2,21 +2,21 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-21T21:50:42.662Z",
+      "checkedAt": "2026-10-22T09:27:42.907Z",
       "items": [
+        {
+          "id": "RaUwec-4fMY",
+          "title": "35 - Book of Purification: [Hadith 369-380] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "published": "2026-10-22T01:57:34.000Z",
+          "url": "https://www.youtube.com/watch?v=RaUwec-4fMY",
+          "image": "https://i.ytimg.com/vi/RaUwec-4fMY/hqdefault.jpg"
+        },
         {
           "id": "21YayVSC5QY",
           "title": "702 - Sura al-Nur - 61 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
           "published": "2026-10-21T13:58:15.000Z",
           "url": "https://www.youtube.com/watch?v=21YayVSC5QY",
           "image": "https://i.ytimg.com/vi/21YayVSC5QY/hqdefault.jpg"
-        },
-        {
-          "id": "RaUwec-4fMY",
-          "title": "35 - Book of Purification: [Hadith 369-380] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-10-21T12:58:51.000Z",
-          "url": "https://www.youtube.com/watch?v=RaUwec-4fMY",
-          "image": "https://i.ytimg.com/vi/RaUwec-4fMY/hqdefault.jpg"
         },
         {
           "id": "iYNHtpy-9Ww",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-21T21:50:42.785Z",
+      "checkedAt": "2026-10-22T09:27:42.921Z",
       "items": [
         {
           "id": "V3-4VILEUnA",
@@ -155,89 +155,82 @@
           "published": "2026-10-16T23:00:17.000Z",
           "url": "https://www.youtube.com/watch?v=c7-cwhvtYrE",
           "image": "https://i.ytimg.com/vi/c7-cwhvtYrE/hqdefault.jpg"
-        },
-        {
-          "id": "YZF9KViKEl8",
-          "title": "How A Muslim Helps His Brother | Dr. Omar Suleiman",
-          "published": "2026-10-15T19:50:01.000Z",
-          "url": "https://www.youtube.com/watch?v=YZF9KViKEl8",
-          "image": "https://i.ytimg.com/vi/YZF9KViKEl8/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-22T05:03:46.535Z",
+      "checkedAt": "2026-10-22T09:27:44.862Z",
       "items": [
         {
-          "id": "https://www.muslimnetwork.tv/the-four-palestinian-americans-on-the-us-midterm-ballot/",
-          "title": "The four Palestinian Americans on the US midterm ballot",
-          "published": "2026-10-21T16:33:12.000Z",
-          "url": "https://www.muslimnetwork.tv/the-four-palestinian-americans-on-the-us-midterm-ballot/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/05/AA-20250430-37804983-37804981-SILENT_DEMONSTRATION_FOR_HUMANITY_IN_FRONT_OF_THE_US_CAPITOL.jpg"
+          "id": "https://www.muslimnetwork.tv/eu-allocates-224500-to-tackle-drought-in-indonesia/",
+          "title": "EU allocates $224,500 to tackle drought in Indonesia",
+          "published": "2026-10-22T09:15:49.000Z",
+          "url": "https://www.muslimnetwork.tv/eu-allocates-224500-to-tackle-drought-in-indonesia/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/07/AA-20230720-31720153-31720133-ACTIVE_VOLCANO_MOUNT_MERAPI_SPEWS_LAVA_IN_INDONESIA-scaled.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/israeli-attacks-kill-6-palestinian-students-in-gaza-in-2-days-ministry/",
-          "title": "Israeli attacks kill 6 Palestinian students in Gaza in 2 days: Ministry",
-          "published": "2026-10-21T14:35:44.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-attacks-kill-6-palestinian-students-in-gaza-in-2-days-ministry/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260712-41959684-41959669-ISRAELI_ATTACKS_ON_GAZA_CONTINUE_IN_VIOLATION_OF_THE_CEASEFIRE.jpg"
+          "id": "https://www.muslimnetwork.tv/vance-declines-to-endorse-netanyahu-breaking-with-trump/",
+          "title": "Vance declines to endorse Netanyahu, breaking with Trump",
+          "published": "2026-10-22T09:10:42.000Z",
+          "url": "https://www.muslimnetwork.tv/vance-declines-to-endorse-netanyahu-breaking-with-trump/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260618-41715108-41715086-US_VICE_PRESIDENT_JD_VANCE_HOLDS_PRESS_BRIEFING_AT_WHITE_HOUSE.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/irans-president-rejects-us-threats-calls-for-respect-before-negotiations/",
-          "title": "Iran’s president rejects US threats, calls for respect before negotiations",
-          "published": "2026-10-21T14:33:54.000Z",
-          "url": "https://www.muslimnetwork.tv/irans-president-rejects-us-threats-calls-for-respect-before-negotiations/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/01/AA-20251228-40098750-40098749-IRANIAN_PRESIDENT_MASOUD_PEZESHKIAN.jpg"
+          "id": "https://www.muslimnetwork.tv/sanders-condemns-trumps-netanyahu-endorsement-urges-arms-halt/",
+          "title": "Sanders condemns Trump’s Netanyahu endorsement, urges arms halt",
+          "published": "2026-10-22T09:09:44.000Z",
+          "url": "https://www.muslimnetwork.tv/sanders-condemns-trumps-netanyahu-endorsement-urges-arms-halt/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/11/AFP-TV_20241121_WAR_ZZZ_CourtNetanyahu_36MZ7NC_en.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/iran-says-it-is-developing-father-of-all-bombs-as-missile-arsenal-expands/",
-          "title": "Iran says it is developing ‘father of all bombs’ as missile arsenal expands",
-          "published": "2026-10-21T14:31:40.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-says-it-is-developing-father-of-all-bombs-as-missile-arsenal-expands/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260724-42058544-42058529-ZOLFAGHAR_AND_QADR_MISSILES_PLACED_IN_TEHRANS_AZADI_SQUARE.jpg"
+          "id": "https://www.muslimnetwork.tv/cair-georgia-rebukes-trumps-mockery-of-the-name-muhammad/",
+          "title": "CAIR-Georgia rebukes Trump’s mockery of the name Muhammad",
+          "published": "2026-10-22T09:07:11.000Z",
+          "url": "https://www.muslimnetwork.tv/cair-georgia-rebukes-trumps-mockery-of-the-name-muhammad/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/05/AFP-TV_20170627_POL_USA_CairReligion_VID1047837_EN_en.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/pakistan-qatar-turkiye-and-indonesia-sign-new-defense-cooperation-agreement/",
-          "title": "Pakistan, Qatar, Turkiye and Indonesia sign new defense cooperation agreement",
-          "published": "2026-10-21T14:28:43.000Z",
-          "url": "https://www.muslimnetwork.tv/pakistan-qatar-turkiye-and-indonesia-sign-new-defense-cooperation-agreement/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/09/AA-20240925-35729148-35729146-PAKISTAN_PRIME_MINISTER_SHAHBAZ_SHARIF_IN_NEW_YORK.jpg"
+          "id": "https://www.muslimnetwork.tv/mamdani-calls-el-sayeds-senate-bid-critical-for-new-york/",
+          "title": "Mamdani calls El-Sayed’s Senate bid ‘critical’ for New York",
+          "published": "2026-10-22T09:05:07.000Z",
+          "url": "https://www.muslimnetwork.tv/mamdani-calls-el-sayeds-senate-bid-critical-for-new-york/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/10/AA-20251024-39503613-39503583-MAMDANI_STANDS_FOR_JUSTICE_FOR_NEW_YORK_ATTORNEY_GENERAL_JAMES.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/paris-extends-nighttime-curfew-for-third-day-amid-protests-and-unrest/",
-          "title": "Paris extends nighttime curfew for third day amid protests and unrest",
-          "published": "2026-10-21T14:24:44.000Z",
-          "url": "https://www.muslimnetwork.tv/paris-extends-nighttime-curfew-for-third-day-amid-protests-and-unrest/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261018-42796249-42796223-FRESH_CLASHES_ERUPT_IN_PARIS_AS_FRANCE_PROTEST_ARRESTS_EXCEED_2000.jpg"
+          "id": "https://www.muslimnetwork.tv/el-sayed-says-trumps-islamophobic-attacks-mask-economic-pain/",
+          "title": "El-Sayed says Trump’s Islamophobic attacks mask economic pain",
+          "published": "2026-10-22T09:03:33.000Z",
+          "url": "https://www.muslimnetwork.tv/el-sayed-says-trumps-islamophobic-attacks-mask-economic-pain/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-2.02.30-PM.png"
         },
         {
-          "id": "https://www.muslimnetwork.tv/pentagon-insiders-may-testify-against-hegseth-if-democrats-win-house-report/",
-          "title": "Pentagon insiders may testify against Hegseth if Democrats win House: Report",
-          "published": "2026-10-21T14:22:01.000Z",
-          "url": "https://www.muslimnetwork.tv/pentagon-insiders-may-testify-against-hegseth-if-democrats-win-house-report/"
+          "id": "https://www.muslimnetwork.tv/ilhan-omar-investigation-fuels-fears-of-political-targeting/",
+          "title": "Ilhan Omar investigation fuels fears of political targeting",
+          "published": "2026-10-22T08:59:43.000Z",
+          "url": "https://www.muslimnetwork.tv/ilhan-omar-investigation-fuels-fears-of-political-targeting/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/breaking-alberta-chooses-canada/",
-          "title": "Breaking: Alberta chooses Canada",
-          "published": "2026-10-21T13:53:24.000Z",
-          "url": "https://www.muslimnetwork.tv/breaking-alberta-chooses-canada/"
+          "id": "https://www.muslimnetwork.tv/trump-says-us-not-negotiating-with-iran-something-will-happen-fairly-soon/",
+          "title": "Trump says US ‘not negotiating’ with Iran, something will happen ‘fairly soon’",
+          "published": "2026-10-22T06:34:21.000Z",
+          "url": "https://www.muslimnetwork.tv/trump-says-us-not-negotiating-with-iran-something-will-happen-fairly-soon/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/in-its-150th-year-the-ontario-college-of-art-and-design-announces-150-scholarships-for-students/",
-          "title": "In its 150th year, the Ontario College of Art and Design announces 150 Scholarships for Students.",
-          "published": "2026-10-21T13:47:44.000Z",
-          "url": "https://www.muslimnetwork.tv/in-its-150th-year-the-ontario-college-of-art-and-design-announces-150-scholarships-for-students/"
+          "id": "https://www.muslimnetwork.tv/north-korea-threatens-south-with-most-horrible-consequences/",
+          "title": "North Korea threatens South with ‘most horrible’ consequences",
+          "published": "2026-10-22T06:30:23.000Z",
+          "url": "https://www.muslimnetwork.tv/north-korea-threatens-south-with-most-horrible-consequences/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/pakistan-to-chair-imf-and-world-bank-governors-in-2027/",
-          "title": "Pakistan to chair IMF and World Bank governors in 2027",
-          "published": "2026-10-21T08:18:33.000Z",
-          "url": "https://www.muslimnetwork.tv/pakistan-to-chair-imf-and-world-bank-governors-in-2027/"
+          "id": "https://www.muslimnetwork.tv/congresswoman-says-israeli-genocide-against-palestinians-has-not-ended/",
+          "title": "Congresswoman says Israeli genocide against Palestinians ‘has not ended’",
+          "published": "2026-10-22T06:27:20.000Z",
+          "url": "https://www.muslimnetwork.tv/congresswoman-says-israeli-genocide-against-palestinians-has-not-ended/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-10-22T05:03:46.980Z",
+      "checkedAt": "2026-10-22T09:27:45.282Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -309,7 +302,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-21T21:50:42.574Z",
+      "checkedAt": "2026-10-22T09:27:42.818Z",
       "items": [
         {
           "id": "O5yJj_35x_Q",
@@ -419,7 +412,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-21T21:50:42.913Z",
+      "checkedAt": "2026-10-22T09:27:43.541Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -529,7 +522,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-21T21:50:43.032Z",
+      "checkedAt": "2026-10-22T09:27:43.766Z",
       "items": [
         {
           "id": "rf4HKYX4luI",
@@ -639,7 +632,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-21T21:50:43.150Z",
+      "checkedAt": "2026-10-22T09:27:43.935Z",
       "items": [
         {
           "id": "pkhGoYn2vlM",
@@ -749,8 +742,22 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-22T05:03:46.610Z",
+      "checkedAt": "2026-10-22T09:27:44.990Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+          "title": "MPs moving to restrict gambling ads in Canada amid mounting harms",
+          "published": "2026-10-22T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+          "image": "https://i.cbc.ca/ais/60c958e0-3fe5-46fe-b973-5fb4be226721,1792621456038/full/max/0/default.jpg?im=Crop%2Crect%3D%281354%2C437%2C4261%2C2396%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/politics-dating-young-canadians-9.7383968",
+          "title": "Politics is widening U.S. gender divides. In Canada? It's complicated",
+          "published": "2026-10-22T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/politics-dating-young-canadians-9.7383968",
+          "image": "https://i.cbc.ca/ais/0fc44ccf-cc35-4254-bde6-2199d3896c72,1792622411921/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4773%2C2684%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/electronic-arts-shutting-bioware-edmonton-9.7391164",
           "title": "Edmonton-based video game studio BioWare shutting down after more than 30 years",
@@ -829,13 +836,6 @@
           "image": "https://i.cbc.ca/ais/4d0f0ee4-5388-4e66-a511-c6133ad001e5,1792614148662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/politics/carney-speaking-more-french-9.7390294",
-          "title": "French content in Carney's speeches rises from 17% to 23%",
-          "published": "2026-10-21T20:19:24.000Z",
-          "url": "https://www.cbc.ca/news/politics/carney-speaking-more-french-9.7390294",
-          "image": "https://i.cbc.ca/ais/eb960a35-24d4-4c89-874f-dc67539ea50d,1792607506393/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/toronto/mississauga-man-50-year-prison-sentence-9.7389200",
           "title": "Ontario man convicted in U.S. terror probe gets additional 50-year prison sentence",
           "published": "2026-10-21T19:58:17.000Z",
@@ -848,32 +848,53 @@
           "published": "2026-10-21T19:33:34.000Z",
           "url": "https://www.cbc.ca/news/canada/ottawa/it-s-a-special-place-to-me-tkachuk-speaks-ahead-of-1st-game-against-former-sens-teammates-9.7390385",
           "image": "https://i.cbc.ca/ais/61a83aa7-59da-4b97-8523-b2ea2f083676,1792608263924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C5048%2C2839%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/air-canada-another-fee-book-by-phone-9.7390309",
-          "title": "Want to book with Air Canada by phone? That'll be an extra $30 please",
-          "published": "2026-10-21T18:19:18.000Z",
-          "url": "https://www.cbc.ca/news/canada/air-canada-another-fee-book-by-phone-9.7390309",
-          "image": "https://i.cbc.ca/ais/4c55c8e0-fd76-43c8-83a2-5ae2922839d6,1792605832075/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C3000%2C1687%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-22T05:03:47.044Z",
+      "checkedAt": "2026-10-22T09:27:45.482Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
-          "title": "No purchase, no seats: Starbucks China rolls out new policy",
-          "published": "2026-10-22T04:02:29.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
+          "title": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+          "published": "2026-10-22T09:06:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/bc84e170-cdf6-11f1-97f7-a7674fb562de.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
+          "title": "Two European women held captive for more than a year in Niger freed in Libya",
+          "published": "2026-10-22T08:21:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa6/live/1aa67a70-1416-11f1-9120-a910fc22c6ac.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr3wv99614deo",
+          "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+          "published": "2026-10-22T08:15:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8eb/live/0ca70d20-cdc2-11f1-ae0b-3f5d64e6a869.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
           "title": "What is PHP and why did it spark a global cyber-security scramble?",
-          "published": "2026-10-22T03:48:50.000Z",
+          "published": "2026-10-22T06:24:59.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o",
+          "title": "How Arab parties could hold critical balance of power in Israeli election",
+          "published": "2026-10-22T05:30:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9938/live/80172d90-cd26-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
+          "title": "No order, no seat: Starbucks China rolls out new store policy",
+          "published": "2026-10-22T04:02:29.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmn06g29522lo",
@@ -891,10 +912,10 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
-          "title": "The real reasons US politicians are getting older",
+          "title": "The real reasons there are so few young politicians in the US",
           "published": "2026-10-21T23:52:12.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea2/live/36f80900-cc9e-11f1-9a39-31b474234113.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db97/live/14d84c70-cdf4-11f1-9a39-31b474234113.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o",
@@ -937,34 +958,6 @@
           "published": "2026-10-21T22:02:18.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ef/live/eeb5a6a0-cd17-11f1-9a39-31b474234113.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvze414811jlo",
-          "title": "Japan is known for world-class events - but the Asian Games were chaotic",
-          "published": "2026-10-21T22:00:58.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329a/live/eef02160-c7a2-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo",
-          "title": "Meta fined $25bn for 'lies' over user data privacy",
-          "published": "2026-10-21T21:49:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
-          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-          "published": "2026-10-21T21:27:41.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
-          "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-          "published": "2026-10-21T20:31:47.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b7/live/2a48ce80-cd23-11f1-a64c-550be9e3c66b.jpg"
         }
       ]
     }
