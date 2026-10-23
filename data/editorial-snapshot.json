@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-22T21:45:39.581Z",
+      "checkedAt": "2026-10-23T09:24:02.407Z",
       "items": [
+        {
+          "id": "em94DaO27aY",
+          "title": "703 - Sura al-Nur - 62 - End - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-10-23T02:39:19.000Z",
+          "url": "https://www.youtube.com/watch?v=em94DaO27aY",
+          "image": "https://i.ytimg.com/vi/em94DaO27aY/hqdefault.jpg"
+        },
         {
           "id": "RaUwec-4fMY",
           "title": "35 - Book of Purification: [Hadith 369-380] - Mishkat al-Masabih - Shaykh Ilyas Patel",
@@ -101,18 +108,11 @@
           "published": "2026-09-17T12:46:12.000Z",
           "url": "https://www.youtube.com/watch?v=PyKfIJIAcK0",
           "image": "https://i.ytimg.com/vi/PyKfIJIAcK0/hqdefault.jpg"
-        },
-        {
-          "id": "apnYN-WXt94",
-          "title": "Lesson 32 - Book of Purification - [Hadith 334-42] -Mishkat al-Masabih -Shaykh Ilyas Patel",
-          "published": "2026-09-17T12:42:15.000Z",
-          "url": "https://www.youtube.com/watch?v=apnYN-WXt94",
-          "image": "https://i.ytimg.com/vi/apnYN-WXt94/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-22T21:45:39.733Z",
+      "checkedAt": "2026-10-23T09:24:02.565Z",
       "items": [
         {
           "id": "V3-4VILEUnA",
@@ -159,74 +159,73 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-23T05:03:42.882Z",
+      "checkedAt": "2026-10-23T09:24:04.274Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-army-kills-2-palestinians-in-occupied-west-bank-shooting/",
+          "title": "Israeli army kills 2 Palestinians in occupied West Bank shooting",
+          "published": "2026-10-23T07:13:09.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-army-kills-2-palestinians-in-occupied-west-bank-shooting/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261006-42666020-42666011-FOUR_PALESTINIANS_INJURED_IN_ATTACKS_BY_ISRAELI_SETTLERS_IN_NABLUS.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/7-0-magnitude-earthquake-kills-16-in-tibets-nagqu-city/",
+          "title": "7.0-magnitude earthquake kills 16 in Tibet’s Nagqu City",
+          "published": "2026-10-23T06:35:33.000Z",
+          "url": "https://www.muslimnetwork.tv/7-0-magnitude-earthquake-kills-16-in-tibets-nagqu-city/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-sanej-prasad-suwal-32250314-7806175.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/trump-accuses-minnesota-congresswoman-of-identity-fraud-calls-for-her-resignation/",
+          "title": "Trump accuses Omar of identity fraud, calls for her resignation",
+          "published": "2026-10-23T06:33:24.000Z",
+          "url": "https://www.muslimnetwork.tv/trump-accuses-minnesota-congresswoman-of-identity-fraud-calls-for-her-resignation/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261005-42660493-42660489-PRESIDENT_TRUMP_DEPARTS_WHITE_HOUSE_FOR_NEBRASKA_MIDTERM_CAMPAIGN_RALLY.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/",
+          "title": "Saudi-led coalition says it intercepted 11 Houthi drones and a ballistic missile",
+          "published": "2026-10-23T06:31:43.000Z",
+          "url": "https://www.muslimnetwork.tv/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/02/AA-20240225-33805479-33805477-IRANIANBACKED_HOUTHIS_ANNOUNCE_THAT_US_AND_UK_LAUNCHED_AIRSTRIKES_ON_SANAA.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/trump-says-us-may-do-it-a-little-bit-further-in-iran/",
+          "title": "Trump says US ‘may do it a little bit further’ in Iran",
+          "published": "2026-10-23T06:30:16.000Z",
+          "url": "https://www.muslimnetwork.tv/trump-says-us-may-do-it-a-little-bit-further-in-iran/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260912-42449871-42449870-US_PRESIDENT_TRUMP_IN_DUBLIN.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/congresswoman-omar-accuses-trump-administration-of-using-home-search-to-intimidate-scare-voters/",
+          "title": "Congresswoman Omar accuses Trump administration of using home search to intimidate, scare voters",
+          "published": "2026-10-23T06:28:30.000Z",
+          "url": "https://www.muslimnetwork.tv/congresswoman-omar-accuses-trump-administration-of-using-home-search-to-intimidate-scare-voters/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/01/Rep._Ilhan_Omar_-_Press_Conference_Ahead_of_August_Primary_Election_50196131897.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israel-kills-4-palestinians-including-girl-in-gaza/",
+          "title": "Israel kills 4 Palestinians, including girl, in Gaza",
+          "published": "2026-10-23T06:25:20.000Z",
+          "url": "https://www.muslimnetwork.tv/israel-kills-4-palestinians-including-girl-in-gaza/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/saudi-civil-defense-issues-early-warnings-in-southwestern-areas-over-potential-danger/",
+          "title": "Saudi Civil Defense issues early warnings in southwestern areas over ‘potential danger’",
+          "published": "2026-10-23T06:23:45.000Z",
+          "url": "https://www.muslimnetwork.tv/saudi-civil-defense-issues-early-warnings-in-southwestern-areas-over-potential-danger/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/the-calls-you-make-and-the-apps-you-use-in-your-car-are-monitoring-and-tracking-you-in-real-time/",
           "title": "If you drive a car, you need to be aware of this: The Calls You Make and the Apps You Use in Your Car are Monitoring and Tracking You in Real Time.",
           "published": "2026-10-23T00:19:38.000Z",
-          "url": "https://www.muslimnetwork.tv/the-calls-you-make-and-the-apps-you-use-in-your-car-are-monitoring-and-tracking-you-in-real-time/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-sahilcaptures-11558248.jpg"
+          "url": "https://www.muslimnetwork.tv/the-calls-you-make-and-the-apps-you-use-in-your-car-are-monitoring-and-tracking-you-in-real-time/"
         },
         {
           "id": "https://www.muslimnetwork.tv/amira-elghawaby-launches-the-muslim-communities-research-observatory-a-new-data-study-to-track-canadian-muslims-and-issues-that-concern-them/",
           "title": "Amira Elghawaby Launches the Muslim Communities Research Observatory — A New Data Study to Track Canadian Muslims and Issues That Concern Them.",
           "published": "2026-10-23T00:16:44.000Z",
-          "url": "https://www.muslimnetwork.tv/amira-elghawaby-launches-the-muslim-communities-research-observatory-a-new-data-study-to-track-canadian-muslims-and-issues-that-concern-them/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Survey-of-Muslims-in-Canada_hi-rez-pic_e.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/arakan-army-pressures-rohingya-muslims-to-provide-recruits-financial-support/",
-          "title": "Arakan Army pressures Rohingya Muslims to provide recruits, financial support",
-          "published": "2026-10-22T16:36:00.000Z",
-          "url": "https://www.muslimnetwork.tv/arakan-army-pressures-rohingya-muslims-to-provide-recruits-financial-support/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/Heavy-rain-triggered-deadly-slope-collapses-across-three-refugee-camps-in-Coxs-Bazar-exposing-recurring-monsoon-risks-facing-displaced-Rohingya-families.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/sultan-haitham-visit-deepens-oman-ties-as-king-charles-quotes-prophet-muhammad/",
-          "title": "Sultan Haitham visit deepens Oman ties as King Charles quotes Prophet Muhammad",
-          "published": "2026-10-22T13:51:52.000Z",
-          "url": "https://www.muslimnetwork.tv/sultan-haitham-visit-deepens-oman-ties-as-king-charles-quotes-prophet-muhammad/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_41ceea565825a85e13ee243b57e8efec.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/european-and-middle-eastern-foreign-ministers-to-meet-in-istanbul/",
-          "title": "European and Middle Eastern foreign ministers to meet in Istanbul",
-          "published": "2026-10-22T13:50:35.000Z",
-          "url": "https://www.muslimnetwork.tv/european-and-middle-eastern-foreign-ministers-to-meet-in-istanbul/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_1fe2c3a44441309f66fc6064c874fe26.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/egypt-rules-out-offensive-operations-in-yemen-under-saudi-defense-support/",
-          "title": "Egypt rules out offensive operations in Yemen under Saudi defense support",
-          "published": "2026-10-22T13:49:16.000Z",
-          "url": "https://www.muslimnetwork.tv/egypt-rules-out-offensive-operations-in-yemen-under-saudi-defense-support/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_e4334cd29e62f49dc5ebd128aa57f4e3.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-settlers-increase-attacks-steal-palestinians-olive-harvests/",
-          "title": "Israeli settlers increase attacks, steal Palestinians’ olive harvests",
-          "published": "2026-10-22T13:47:53.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-settlers-increase-attacks-steal-palestinians-olive-harvests/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/palestine-exposes-dangers-of-expanding-big-tech-authoritarianism/",
-          "title": "Palestine exposes dangers of expanding Big Tech authoritarianism",
-          "published": "2026-10-22T13:46:09.000Z",
-          "url": "https://www.muslimnetwork.tv/palestine-exposes-dangers-of-expanding-big-tech-authoritarianism/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/japanese-activists-condemn-israeli-attacks-and-oppose-military-cooperation/",
-          "title": "Japanese activists condemn Israeli attacks and oppose military cooperation",
-          "published": "2026-10-22T13:42:46.000Z",
-          "url": "https://www.muslimnetwork.tv/japanese-activists-condemn-israeli-attacks-and-oppose-military-cooperation/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israels-election-no-hope-for-palestinians/",
-          "title": "Israel’s election: No hope for Palestinians",
-          "published": "2026-10-22T10:23:05.000Z",
-          "url": "https://www.muslimnetwork.tv/israels-election-no-hope-for-palestinians/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.10.38-PM.png"
+          "url": "https://www.muslimnetwork.tv/amira-elghawaby-launches-the-muslim-communities-research-observatory-a-new-data-study-to-track-canadian-muslims-and-issues-that-concern-them/"
         }
       ]
     },
@@ -303,7 +302,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-22T21:45:39.462Z",
+      "checkedAt": "2026-10-23T09:24:02.269Z",
       "items": [
         {
           "id": "y3VasyLZadk",
@@ -413,7 +412,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-22T21:45:39.841Z",
+      "checkedAt": "2026-10-23T09:24:02.710Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -523,8 +522,15 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-22T21:45:39.989Z",
+      "checkedAt": "2026-10-23T09:24:02.859Z",
       "items": [
+        {
+          "id": "DSD7EanurLg",
+          "title": "THE BARZAKH (Part 1) | Life in The Grave | Dr Haifaa Younis | Jannah Institute",
+          "published": "2026-10-23T06:39:42.000Z",
+          "url": "https://www.youtube.com/watch?v=DSD7EanurLg",
+          "image": "https://i.ytimg.com/vi/DSD7EanurLg/hqdefault.jpg"
+        },
         {
           "id": "rf4HKYX4luI",
           "title": "How to Deal with Anger? | Controlling Your Anger in Islam | Dr Haifaa Younis | Jannah Institute",
@@ -622,18 +628,11 @@
           "published": "2026-10-06T00:33:48.000Z",
           "url": "https://www.youtube.com/watch?v=DGyU5DphyzY",
           "image": "https://i.ytimg.com/vi/DGyU5DphyzY/hqdefault.jpg"
-        },
-        {
-          "id": "DXg1W86xINI",
-          "title": "What Have You Given Up for Allah? | Dr Haifaa Younis | Jannah Instittue | Miftaah Institute",
-          "published": "2026-10-05T11:30:20.000Z",
-          "url": "https://www.youtube.com/watch?v=DXg1W86xINI",
-          "image": "https://i.ytimg.com/vi/DXg1W86xINI/hqdefault.jpg"
         }
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-22T21:45:40.120Z",
+      "checkedAt": "2026-10-23T09:24:02.968Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -743,8 +742,22 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-23T05:03:43.115Z",
+      "checkedAt": "2026-10-23T09:24:04.623Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/quebec-maple-syrup-reserve-explainer-9.7389758",
+          "title": "Why Quebec's strategic reserve of maple syrup is running dry",
+          "published": "2026-10-23T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/quebec-maple-syrup-reserve-explainer-9.7389758",
+          "image": "https://i.cbc.ca/ais/de15a6d8-82f3-45fa-bc51-6d667b79570f,1792599768149/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C645%2C6928%2C3897%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/marketplace/bank-scam-victims-9.7387116",
+          "title": "Same scam. 2 countries. Why Canadians don’t get their money back",
+          "published": "2026-10-23T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/marketplace/bank-scam-victims-9.7387116",
+          "image": "https://i.cbc.ca/ais/eaca261c-9f61-4e05-a4b4-7c13366db852,1792516827653/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/manitoba/loon-decline-canada-9.7392013",
           "title": "The haunting call of Canada's common loon is becoming less common amid widespread declines, study suggests",
@@ -835,32 +848,67 @@
           "published": "2026-10-22T11:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/indigenous-artists-university-of-calgary-free-speech-debate-tom-flanagan-9.7390315",
           "image": "https://i.cbc.ca/ais/1b76bbb6-ecd9-44a4-8055-65795c2bcf44,1792609882383/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C352%2C1080%2C607%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/agent-layla-podcast-justin-sewell-full-parole-9.7389231",
-          "title": "'Agent Layla': A sex assault victim went undercover to bring her abuser to justice. Now he's out on parole",
-          "published": "2026-10-22T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/agent-layla-podcast-justin-sewell-full-parole-9.7389231",
-          "image": "https://i.cbc.ca/ais/fcb16525-767c-4c0d-a7e9-1cb8880fe1af,1792699299228/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C58%2C841%2C473%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/raptors-kawhi-leonard-raptors-season-debut-9.7391270",
-          "title": "Fans buzz with excitement as Kawhi Leonard makes Toronto Raptors regular-season debut",
-          "published": "2026-10-22T10:00:19.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/raptors-kawhi-leonard-raptors-season-debut-9.7391270",
-          "image": "https://i.cbc.ca/ais/be90ef27-0b24-435f-b324-399104fd9e12,1792662826187/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C196%2C5888%2C3312%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-23T05:03:43.503Z",
+      "checkedAt": "2026-10-23T09:24:04.919Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o",
+          "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+          "published": "2026-10-23T08:45:58.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb6/live/26f20040-cec1-11f1-ae9c-0303957c36f8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+          "published": "2026-10-23T08:36:32.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo",
+          "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+          "published": "2026-10-23T08:00:07.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc0c/live/cdfdf700-ce98-11f1-a6ca-3fa3d92134e2.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+          "published": "2026-10-23T07:52:32.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3273/live/7b7caf00-ceb4-11f1-ae9c-0303957c36f8.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o",
+          "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+          "published": "2026-10-23T06:26:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a379/live/0b1863f0-ce1c-11f1-906e-e3128518d85d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o",
+          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "published": "2026-10-23T05:16:37.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
           "title": "Trump ordered to answer questions under oath in BBC lawsuit",
           "published": "2026-10-23T01:38:44.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo",
+          "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+          "published": "2026-10-22T23:55:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4b6/live/7d752ed0-ce60-11f1-b687-5dbe43ddcc33.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo",
@@ -870,32 +918,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0791/live/d5705ef0-ce21-11f1-906e-e3128518d85d.png"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
-          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-          "published": "2026-10-22T23:16:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
-          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
           "published": "2026-10-22T22:27:53.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-          "published": "2026-10-22T21:42:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/13dc7b20-ce53-11f1-a7e5-1bf3b637cfc1.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
-          "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-          "published": "2026-10-22T20:49:12.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/bc84e170-cdf6-11f1-97f7-a7674fb562de.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
@@ -931,34 +958,6 @@
           "published": "2026-10-22T17:21:42.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1f/live/0ab25ae0-ce37-11f1-a86f-f78305ec9987.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o",
-          "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
-          "published": "2026-10-22T17:18:17.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ce2/live/10986490-ce0f-11f1-9f55-cdc56e9c248c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
-          "title": "Race to update services' computer systems after cyber-security flaw found",
-          "published": "2026-10-22T17:12:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo",
-          "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-          "published": "2026-10-22T17:07:03.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae81/live/811fe3f0-ce37-11f1-a68f-db480c983a58.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go",
-          "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-          "published": "2026-10-22T17:01:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9299/live/dd5a6440-ce20-11f1-906e-e3128518d85d.jpg"
         }
       ]
     }
