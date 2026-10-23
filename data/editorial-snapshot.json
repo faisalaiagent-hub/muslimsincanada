@@ -159,8 +159,22 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-22T21:45:41.954Z",
+      "checkedAt": "2026-10-23T05:03:42.882Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/the-calls-you-make-and-the-apps-you-use-in-your-car-are-monitoring-and-tracking-you-in-real-time/",
+          "title": "If you drive a car, you need to be aware of this: The Calls You Make and the Apps You Use in Your Car are Monitoring and Tracking You in Real Time.",
+          "published": "2026-10-23T00:19:38.000Z",
+          "url": "https://www.muslimnetwork.tv/the-calls-you-make-and-the-apps-you-use-in-your-car-are-monitoring-and-tracking-you-in-real-time/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-sahilcaptures-11558248.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/amira-elghawaby-launches-the-muslim-communities-research-observatory-a-new-data-study-to-track-canadian-muslims-and-issues-that-concern-them/",
+          "title": "Amira Elghawaby Launches the Muslim Communities Research Observatory — A New Data Study to Track Canadian Muslims and Issues That Concern Them.",
+          "published": "2026-10-23T00:16:44.000Z",
+          "url": "https://www.muslimnetwork.tv/amira-elghawaby-launches-the-muslim-communities-research-observatory-a-new-data-study-to-track-canadian-muslims-and-issues-that-concern-them/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Survey-of-Muslims-in-Canada_hi-rez-pic_e.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/arakan-army-pressures-rohingya-muslims-to-provide-recruits-financial-support/",
           "title": "Arakan Army pressures Rohingya Muslims to provide recruits, financial support",
@@ -193,15 +207,13 @@
           "id": "https://www.muslimnetwork.tv/israeli-settlers-increase-attacks-steal-palestinians-olive-harvests/",
           "title": "Israeli settlers increase attacks, steal Palestinians’ olive harvests",
           "published": "2026-10-22T13:47:53.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-settlers-increase-attacks-steal-palestinians-olive-harvests/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_fcd25db1904d434b2136f10b4c146e84.webp"
+          "url": "https://www.muslimnetwork.tv/israeli-settlers-increase-attacks-steal-palestinians-olive-harvests/"
         },
         {
           "id": "https://www.muslimnetwork.tv/palestine-exposes-dangers-of-expanding-big-tech-authoritarianism/",
           "title": "Palestine exposes dangers of expanding Big Tech authoritarianism",
           "published": "2026-10-22T13:46:09.000Z",
-          "url": "https://www.muslimnetwork.tv/palestine-exposes-dangers-of-expanding-big-tech-authoritarianism/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_9b87ff6496e2d5868c4fb50ea86c7da0.webp"
+          "url": "https://www.muslimnetwork.tv/palestine-exposes-dangers-of-expanding-big-tech-authoritarianism/"
         },
         {
           "id": "https://www.muslimnetwork.tv/japanese-activists-condemn-israeli-attacks-and-oppose-military-cooperation/",
@@ -215,18 +227,6 @@
           "published": "2026-10-22T10:23:05.000Z",
           "url": "https://www.muslimnetwork.tv/israels-election-no-hope-for-palestinians/",
           "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.10.38-PM.png"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iran-says-it-attacked-4-oil-tankers-in-arabian-gulf-warns-us-of-further-strikes/",
-          "title": "Iran says it attacked 4 oil tankers in Arabian Gulf, warns US of further strikes",
-          "published": "2026-10-22T10:08:45.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-says-it-attacked-4-oil-tankers-in-arabian-gulf-warns-us-of-further-strikes/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/global-bank-hsbc-to-review-its-halal-funds-38m-stake-in-israeli-military-tech-firm/",
-          "title": "Global bank HSBC to review its ‘halal’ fund’s $38m stake in Israeli-military tech firm",
-          "published": "2026-10-22T09:47:05.000Z",
-          "url": "https://www.muslimnetwork.tv/global-bank-hsbc-to-review-its-halal-funds-38m-stake-in-israeli-military-tech-firm/"
         }
       ]
     },
@@ -743,8 +743,50 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-22T21:45:42.223Z",
+      "checkedAt": "2026-10-23T05:03:43.115Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/loon-decline-canada-9.7392013",
+          "title": "The haunting call of Canada's common loon is becoming less common amid widespread declines, study suggests",
+          "published": "2026-10-23T01:15:21.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/loon-decline-canada-9.7392013",
+          "image": "https://i.cbc.ca/ais/e40c1e53-d524-47f7-9cf4-04e907ab5ad4,1792705658915/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1653%2C2242%2C1261%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/calgary-fatal-bus-explosion-raj-dhaliwal-saddle-ridge-9.7392456",
+          "title": "City councillor calls for independent investigation into fatal Calgary bus explosion",
+          "published": "2026-10-23T00:01:29.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/calgary-fatal-bus-explosion-raj-dhaliwal-saddle-ridge-9.7392456",
+          "image": "https://i.cbc.ca/ais/7146510e-449b-474f-84aa-8315985d2e53,1792097666495/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C339%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/human-trafficking-sohel-haider-mohammed-masum-sentence-9.7392552",
+          "title": "'They destroyed my life': 2 Sask. men imprisoned for exploiting woman from Bangladesh",
+          "published": "2026-10-22T23:44:08.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/human-trafficking-sohel-haider-mohammed-masum-sentence-9.7392552",
+          "image": "https://i.cbc.ca/ais/a29663ce-b1b6-4ad2-967a-1baf6b71c538,1786145770551/full/max/0/default.jpg?im=Crop%2Crect%3D%2887%2C381%2C2263%2C1272%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/class-action-dismissed-farmers-wheat-board-9.7392148",
+          "title": "Judge dismisses farmers' class action over end to Canadian Wheat Board monopoly more than a decade ago",
+          "published": "2026-10-22T21:51:33.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/class-action-dismissed-farmers-wheat-board-9.7392148",
+          "image": "https://i.cbc.ca/ais/7d711c20-d0cb-4ba1-a367-523498f62236,1792705332876/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C1179%2C663%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/decision-to-strip-status-from-700-innu-quebec-9.7390670",
+          "title": "Federal bureaucrats grilled over decision to strip status from over 700 Innu in Quebec",
+          "published": "2026-10-22T21:24:58.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/decision-to-strip-status-from-700-innu-quebec-9.7390670",
+          "image": "https://i.cbc.ca/ais/70dd81ca-4113-4d14-b92f-4fb162359487,1777322518622/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/wolf-attack-northern-sask-2026-9.7392258",
+          "title": "Wolf euthanized after rare attack near Cameco site in northern Sask.",
+          "published": "2026-10-22T20:58:47.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/wolf-attack-northern-sask-2026-9.7392258",
+          "image": "https://i.cbc.ca/ais/22a02eab-d5e2-452f-afee-24436b529b53,1792701073310/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/politics/canada-post-weekend-delivery-update-9.7391900",
           "title": "Canada Post starting weekend parcel delivery in Toronto, Montreal and Ottawa this fall",
@@ -807,64 +849,50 @@
           "published": "2026-10-22T10:00:19.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/raptors-kawhi-leonard-raptors-season-debut-9.7391270",
           "image": "https://i.cbc.ca/ais/be90ef27-0b24-435f-b324-399104fd9e12,1792662826187/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C196%2C5888%2C3312%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/thunder-bay/remembering-markenna-agnew-9.7388787",
-          "title": "Healing walk in memory of teen hit by truck on Ont. highway highlights need for more pedestrian safety efforts",
-          "published": "2026-10-22T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/thunder-bay/remembering-markenna-agnew-9.7388787",
-          "image": "https://i.cbc.ca/ais/52455d95-af54-46e6-ab1e-da4acde9dbfb,1792596073439/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
-          "title": "MPs moving to restrict gambling ads in Canada amid mounting harms",
-          "published": "2026-10-22T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
-          "image": "https://i.cbc.ca/ais/60c958e0-3fe5-46fe-b973-5fb4be226721,1792621456038/full/max/0/default.jpg?im=Crop%2Crect%3D%281354%2C437%2C4261%2C2396%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/politics-dating-young-canadians-9.7383968",
-          "title": "Politics is widening U.S. gender divides. In Canada? It's complicated",
-          "published": "2026-10-22T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/politics/politics-dating-young-canadians-9.7383968",
-          "image": "https://i.cbc.ca/ais/0fc44ccf-cc35-4254-bde6-2199d3896c72,1792622411921/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4773%2C2684%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/electronic-arts-shutting-bioware-edmonton-9.7391164",
-          "title": "Edmonton-based video game studio BioWare shutting down after more than 30 years",
-          "published": "2026-10-22T02:44:55.000Z",
-          "url": "https://www.cbc.ca/news/canada/electronic-arts-shutting-bioware-edmonton-9.7391164",
-          "image": "https://i.cbc.ca/ais/13eb7497-08f8-4acb-82c4-b41a717f57f0,1792635994255/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C174%2C3345%2C1881%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-hospital-er-death-fatality-inquiry-9.7391013",
-          "title": "Nurse describes crowded, chaotic hospital ER at fatality inquiry for Edmonton man",
-          "published": "2026-10-22T00:47:09.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-hospital-er-death-fatality-inquiry-9.7391013",
-          "image": "https://i.cbc.ca/ais/1.5829773,1792629296880/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C3357%2C1888%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/danielle-smith-post-referendum-medicine-hat-9.7390852",
-          "title": "In her riding, United Conservative Party leaders back Danielle Smith",
-          "published": "2026-10-22T00:07:53.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-post-referendum-medicine-hat-9.7390852",
-          "image": "https://i.cbc.ca/ais/66598637-3df7-4824-b9c0-99252276650a,1792624003059/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-22T21:45:42.734Z",
+      "checkedAt": "2026-10-23T05:03:43.503Z",
       "items": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
+          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+          "published": "2026-10-23T01:38:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo",
+          "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+          "published": "2026-10-22T23:16:20.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0791/live/d5705ef0-ce21-11f1-906e-e3128518d85d.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+          "published": "2026-10-22T23:16:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "published": "2026-10-22T22:27:53.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-          "title": "Trump says Musk has restored Ukraine's internet access",
+          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
           "published": "2026-10-22T21:42:39.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/13dc7b20-ce53-11f1-a7e5-1bf3b637cfc1.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
-          "title": "New York bans horse-drawn carriages over safety and abuse concerns",
+          "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
           "published": "2026-10-22T20:49:12.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/bc84e170-cdf6-11f1-97f7-a7674fb562de.jpg"
@@ -912,13 +940,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ce2/live/10986490-ce0f-11f1-9f55-cdc56e9c248c.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
-          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-          "published": "2026-10-22T17:14:04.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
           "title": "Race to update services' computer systems after cyber-security flaw found",
           "published": "2026-10-22T17:12:51.000Z",
@@ -938,27 +959,6 @@
           "published": "2026-10-22T17:01:47.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9299/live/dd5a6440-ce20-11f1-906e-e3128518d85d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego",
-          "title": "Crowd of 50 beats foreigner to death in South Africa",
-          "published": "2026-10-22T16:15:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe24/live/7227bf90-ce27-11f1-9f18-490cec60aa0f.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo",
-          "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-          "published": "2026-10-22T15:56:36.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f6f/live/0c562b60-ce2d-11f1-9f18-490cec60aa0f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do",
-          "title": "Damaging hail pelts Phoenix in rare storm",
-          "published": "2026-10-22T15:11:49.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f3/live/e6483970-ce29-11f1-bc2e-018d645d8d21.jpg"
         }
       ]
     }

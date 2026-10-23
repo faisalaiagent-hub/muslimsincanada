@@ -55,6 +55,34 @@
           "image": "/media/prayer-space.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-10-23",
+      "generatedAt": "2026-10-23T05:03:43.595Z",
+      "items": [
+        {
+          "id": "d683d227c43c",
+          "kind": "talk",
+          "title": "The true happiness formula",
+          "summary": "Make time for a recent conversation from Yasmin Mogahed. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=-sIP3KkWhM4",
+          "sourceId": "yasmin",
+          "source": "Yasmin Mogahed",
+          "image": "https://i.ytimg.com/vi/-sIP3KkWhM4/hqdefault.jpg",
+          "published": "2026-10-14T12:21:26.000Z"
+        },
+        {
+          "id": "1e1cac5796a2",
+          "kind": "news",
+          "title": "If you drive a car, you need to be aware of this: The Calls You Make and the Apps You Use in Your Car are Monitoring and Tracking You in Real Time.",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/the-calls-you-make-and-the-apps-you-use-in-your-car-are-monitoring-and-tracking-you-in-real-time/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-sahilcaptures-11558248.jpg",
+          "published": "2026-10-23T00:19:38.000Z"
+        }
+      ]
     }
   ]
 }
