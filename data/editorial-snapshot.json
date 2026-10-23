@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-23T17:17:55.652Z",
+      "checkedAt": "2026-10-23T21:31:34.859Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,12 +112,12 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-23T17:17:55.958Z",
+      "checkedAt": "2026-10-23T21:31:35.008Z",
       "items": [
         {
           "id": "inX5GdP5H2g",
-          "title": "Reverse Engineering Your Life: The Regrets You Can Still Avoid | LATEST Khutbah by Dr. Omar Suleiman",
-          "published": "2026-10-23T16:35:41.000Z",
+          "title": "The Regrets You Can Still Avoid | Khutbah by Dr. Omar Suleiman",
+          "published": "2026-10-23T20:32:35.000Z",
           "url": "https://www.youtube.com/watch?v=inX5GdP5H2g",
           "image": "https://i.ytimg.com/vi/inX5GdP5H2g/hqdefault.jpg"
         },
@@ -166,8 +166,29 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-23T17:17:57.647Z",
+      "checkedAt": "2026-10-23T21:31:37.083Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-troops-kill-syrian-man-with-down-syndrome-during-raid/",
+          "title": "Israeli troops kill Syrian man with Down syndrome during raid",
+          "published": "2026-10-23T21:31:15.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-troops-kill-syrian-man-with-down-syndrome-during-raid/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_033b4d5ef0befa2ddcdee4e6698fc81a.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/unicef-says-351-palestinian-children-killed-since-gaza-ceasefire/",
+          "title": "UNICEF says 351 Palestinian children killed since Gaza ceasefire",
+          "published": "2026-10-23T21:30:09.000Z",
+          "url": "https://www.muslimnetwork.tv/unicef-says-351-palestinian-children-killed-since-gaza-ceasefire/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Eight-children-reportedly-died-within-six-days-prompting-renewed-demands-for-investigations-civilian-protection-and-accountability-for-Israeli-attacks.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/thousands-of-palestinian-prisoners-face-winter-without-blankets/",
+          "title": "Thousands of Palestinian prisoners face winter without blankets",
+          "published": "2026-10-23T21:28:51.000Z",
+          "url": "https://www.muslimnetwork.tv/thousands-of-palestinian-prisoners-face-winter-without-blankets/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_cab854ba8e269fbedf162635167f814e.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/israels-arab-voters-fifth-of-population-but-little-political-power/",
           "title": "Palestinians in Israel have voting rights but remain excluded from political power",
@@ -193,46 +214,25 @@
           "id": "https://www.muslimnetwork.tv/canada-in-need-of-turkish-expertise-to-strengthen-defenses-carney/",
           "title": "Canada ‘in need of Turkish expertise’ to strengthen defenses: Carney",
           "published": "2026-10-23T11:08:59.000Z",
-          "url": "https://www.muslimnetwork.tv/canada-in-need-of-turkish-expertise-to-strengthen-defenses-carney/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261022-42835359-42835341-RECEP_TAYYIP_ERDOGAN_MARK_CARNEY_JOINT_PRESS_CONFERENCE_IN_ANKARA.jpg"
+          "url": "https://www.muslimnetwork.tv/canada-in-need-of-turkish-expertise-to-strengthen-defenses-carney/"
         },
         {
           "id": "https://www.muslimnetwork.tv/what-us-midterms-mean-for-britain-rare-foreign-policy-election-with-real-stakes-for-uk/",
           "title": "What US midterms mean for Britain: ‘rare foreign-policy election’ with real stakes for UK",
           "published": "2026-10-23T10:31:09.000Z",
-          "url": "https://www.muslimnetwork.tv/what-us-midterms-mean-for-britain-rare-foreign-policy-election-with-real-stakes-for-uk/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260923-42544015-42544012-PRIME_MINISTER_OF_THE_UK_ANDY_BURNHAM_ADDRESSED_THE_UN_GENERAL_ASSEMBLY.jpg"
+          "url": "https://www.muslimnetwork.tv/what-us-midterms-mean-for-britain-rare-foreign-policy-election-with-real-stakes-for-uk/"
         },
         {
           "id": "https://www.muslimnetwork.tv/profile-adam-hamawy-surgeon-who-treated-gazas-wounded-and-now-runs-for-congress/",
           "title": "Profile: Adam Hamawy, surgeon who treated Gaza’s wounded and now runs for Congress",
           "published": "2026-10-23T10:21:03.000Z",
-          "url": "https://www.muslimnetwork.tv/profile-adam-hamawy-surgeon-who-treated-gazas-wounded-and-now-runs-for-congress/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/images-19.jpeg"
+          "url": "https://www.muslimnetwork.tv/profile-adam-hamawy-surgeon-who-treated-gazas-wounded-and-now-runs-for-congress/"
         },
         {
           "id": "https://www.muslimnetwork.tv/mntv-exclusive-snow-leopard-conservation-faces-test-are-mountain-herders-being-compensated-fairly/",
           "title": "MNTV Exclusive – Snow leopard conservation faces test: Are mountain herders being compensated fairly?",
           "published": "2026-10-23T10:03:24.000Z",
           "url": "https://www.muslimnetwork.tv/mntv-exclusive-snow-leopard-conservation-faces-test-are-mountain-herders-being-compensated-fairly/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/women-hold-34-of-top-board-seats-in-malaysia/",
-          "title": "Women hold 34% of top board seats in Malaysia",
-          "published": "2026-10-23T10:01:23.000Z",
-          "url": "https://www.muslimnetwork.tv/women-hold-34-of-top-board-seats-in-malaysia/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/indonesias-islamic-finance-assets-rise-to-180-billion/",
-          "title": "Indonesia’s Islamic finance assets rise to $180 billion",
-          "published": "2026-10-23T09:57:45.000Z",
-          "url": "https://www.muslimnetwork.tv/indonesias-islamic-finance-assets-rise-to-180-billion/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/nazeem-hussains-comedy-puts-muslim-family-life-on-screen/",
-          "title": "Nazeem Hussain’s comedy puts Muslim family life on screen",
-          "published": "2026-10-23T09:56:26.000Z",
-          "url": "https://www.muslimnetwork.tv/nazeem-hussains-comedy-puts-muslim-family-life-on-screen/"
         }
       ]
     },
@@ -309,7 +309,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-23T17:17:55.382Z",
+      "checkedAt": "2026-10-23T21:31:34.721Z",
       "items": [
         {
           "id": "lgG7AjCQlr4",
@@ -419,7 +419,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-23T17:17:56.149Z",
+      "checkedAt": "2026-10-23T21:31:35.266Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -529,7 +529,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-23T17:17:56.411Z",
+      "checkedAt": "2026-10-23T21:31:35.490Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -639,7 +639,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-23T17:17:56.588Z",
+      "checkedAt": "2026-10-23T21:31:35.751Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -749,8 +749,36 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-23T17:17:57.849Z",
+      "checkedAt": "2026-10-23T21:31:37.398Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/politics/chief-of-defence-staff-wainwright-speed-of-fire-9.7393268",
+          "title": "Rapid spread of fire was main factor in CFB Wainwright deaths, injuries: Carignan",
+          "published": "2026-10-23T21:14:17.000Z",
+          "url": "https://www.cbc.ca/news/politics/chief-of-defence-staff-wainwright-speed-of-fire-9.7393268",
+          "image": "https://i.cbc.ca/ais/344bd740-149d-4f87-b8a9-f7917945114b,1792788026760/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C75%2C8256%2C4644%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/toronto-liam-hicks-world-series-debut-9.7393844",
+          "title": "It started with hockey, then he picked up a bat. Meet the Toronto catcher headed to the World Series",
+          "published": "2026-10-23T20:11:09.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/toronto-liam-hicks-world-series-debut-9.7393844",
+          "image": "https://i.cbc.ca/ais/7319a2d0-4dfc-43b3-bf4c-5894bd722e83,1792781611519/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C147%2C4870%2C2739%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/loblaw-data-breach-apology-9.7393626",
+          "title": "Loblaw CEO apologizes to 2 million shoppers for personal data hack, offers free credit monitoring",
+          "published": "2026-10-23T19:07:24.000Z",
+          "url": "https://www.cbc.ca/news/business/loblaw-data-breach-apology-9.7393626",
+          "image": "https://i.cbc.ca/ais/1.2527791,1391802525000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/ottawa/quadeville-ontario-attack-guilty-plea-9.7393446",
+          "title": "Teen accused in girl's vicious attack in Quadeville pleads guilty",
+          "published": "2026-10-23T18:07:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/ottawa/quadeville-ontario-attack-guilty-plea-9.7393446",
+          "image": "https://i.cbc.ca/ais/1.7581937,1752177154000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4236%2C2382%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/sports/olympics/winter/curling/curling-canada-future-nolan-thiessen-9.7392788",
           "title": "Curling Canada CEO sees opportunity to think about future of curling in Canada",
@@ -827,71 +855,57 @@
           "published": "2026-10-22T21:24:58.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/decision-to-strip-status-from-700-innu-quebec-9.7390670",
           "image": "https://i.cbc.ca/ais/70dd81ca-4113-4d14-b92f-4fb162359487,1777322518622/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/wolf-attack-northern-sask-2026-9.7392258",
-          "title": "Wolf euthanized after rare attack near Cameco site in northern Sask.",
-          "published": "2026-10-22T20:58:47.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/wolf-attack-northern-sask-2026-9.7392258",
-          "image": "https://i.cbc.ca/ais/22a02eab-d5e2-452f-afee-24436b529b53,1792701073310/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/canada-post-weekend-delivery-update-9.7391900",
-          "title": "Canada Post starting weekend parcel delivery in Toronto, Montreal and Ottawa this fall",
-          "published": "2026-10-22T19:44:37.000Z",
-          "url": "https://www.cbc.ca/news/politics/canada-post-weekend-delivery-update-9.7391900",
-          "image": "https://i.cbc.ca/ais/05244ab5-77a7-4d7e-a091-7830d5bdc7f3,1792690490265/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C344%2C6500%2C3656%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/ontario-inquest-regis-korchinski-paquet-9.7391838",
-          "title": "Korchinski-Paquet's mother makes new allegation against police during coroner's inquest",
-          "published": "2026-10-22T17:11:44.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/ontario-inquest-regis-korchinski-paquet-9.7391838",
-          "image": "https://i.cbc.ca/ais/1.5588502,1595002107000/full/max/0/default.jpg?im=Crop%2Crect%3D%28266%2C0%2C1078%2C606%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/james-cody-bryant-enters-not-guilty-plea-in-u-s-court-9.7390551",
-          "title": "Accused Tumbler Ridge shooting co-conspirator enters not guilty plea in U.S. court",
-          "published": "2026-10-22T16:25:50.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/james-cody-bryant-enters-not-guilty-plea-in-u-s-court-9.7390551",
-          "image": "https://i.cbc.ca/ais/33c9c3a6-5329-43ea-b789-d8bf2550ecc4,1791917420044/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C474%2C4032%2C2268%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-23T17:17:58.397Z",
+      "checkedAt": "2026-10-23T21:31:37.695Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-          "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-          "published": "2026-10-23T16:59:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo",
+          "title": "Argentina drops investigation into President Milei over crypto fraud",
+          "published": "2026-10-23T20:59:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
+          "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+          "published": "2026-10-23T20:18:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
           "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-          "published": "2026-10-23T16:33:11.000Z",
+          "published": "2026-10-23T19:46:30.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-          "published": "2026-10-23T16:19:36.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
-          "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-          "published": "2026-10-23T16:17:02.000Z",
+          "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+          "published": "2026-10-23T19:42:08.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+          "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+          "published": "2026-10-23T19:30:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+          "published": "2026-10-23T18:52:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo",
-          "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
+          "title": "Watch: CCTV footage shows gunmen near church in Jordan",
           "published": "2026-10-23T15:59:36.000Z",
           "url": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0594/live/4fa5d550-cefa-11f1-93e1-3b657b665bcf.jpg"
@@ -909,13 +923,6 @@
           "published": "2026-10-23T15:30:47.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o",
-          "title": "US justice department investigating Corey Lewandowski over DHS role",
-          "published": "2026-10-23T14:58:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c866/live/bcbfcae0-cee3-11f1-bdca-23c64447299f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po",
@@ -939,20 +946,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d87e/live/57440ff0-ceca-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo",
-          "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-          "published": "2026-10-23T10:36:01.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5023/live/f9dfa580-cea7-11f1-bbfb-357cf921a5e9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
-          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-          "published": "2026-10-23T10:23:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eeb/live/c8bb2ad0-cec3-11f1-a701-fddedf244c16.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo",
           "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
           "published": "2026-10-23T10:14:37.000Z",
@@ -965,6 +958,13 @@
           "published": "2026-10-23T10:14:33.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc0c/live/cdfdf700-ce98-11f1-a6ca-3fa3d92134e2.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o",
+          "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+          "published": "2026-10-23T09:23:53.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0121/live/5ab2f2c0-cedc-11f1-8507-45cb00a1c41c.jpg"
         }
       ]
     }
