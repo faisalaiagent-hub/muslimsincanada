@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-24T16:05:22.530Z",
+      "checkedAt": "2026-10-24T20:58:53.339Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-24T16:05:23.387Z",
+      "checkedAt": "2026-10-24T20:58:53.505Z",
       "items": [
         {
           "id": "42ItnCeoZdU",
@@ -155,18 +155,11 @@
           "published": "2026-10-19T14:00:08.000Z",
           "url": "https://www.youtube.com/watch?v=7W-xIhz7ZFA",
           "image": "https://i.ytimg.com/vi/7W-xIhz7ZFA/hqdefault.jpg"
-        },
-        {
-          "id": "uINXL4JxJK4",
-          "title": "Umar (RA) was offered to pray in a church, he refused | Dr. Omar Suleiman",
-          "published": "2026-10-17T17:00:32.000Z",
-          "url": "https://www.youtube.com/watch?v=uINXL4JxJK4",
-          "image": "https://i.ytimg.com/vi/uINXL4JxJK4/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-24T16:05:26.175Z",
+      "checkedAt": "2026-10-24T20:58:55.590Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
@@ -309,7 +302,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-24T16:05:22.289Z",
+      "checkedAt": "2026-10-24T20:58:53.202Z",
       "items": [
         {
           "id": "3I664DH2vKg",
@@ -419,7 +412,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-24T16:05:23.690Z",
+      "checkedAt": "2026-10-24T20:58:53.662Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -529,7 +522,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-24T16:05:24.293Z",
+      "checkedAt": "2026-10-24T20:58:53.846Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -639,7 +632,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-24T16:05:24.994Z",
+      "checkedAt": "2026-10-24T20:58:54.036Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -749,8 +742,15 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-24T16:05:26.373Z",
+      "checkedAt": "2026-10-24T20:58:55.904Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791",
+          "title": "Toronto police seeking mother, 22, for allegedly abducting her 3 children",
+          "published": "2026-10-24T18:48:25.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791",
+          "image": "https://i.cbc.ca/ais/53580138-edaa-4b8d-938f-ecfafd21de55,1792864831846/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C852%2C479%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452",
           "title": "Q&A: Premier Danielle Smith says she doesn’t need Alberta separatists’ support",
@@ -763,7 +763,7 @@
           "title": "Voters head to the polls for B.C. provincial election",
           "published": "2026-10-24T12:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539",
-          "image": "https://i.cbc.ca/ais/b8ce0f88-e14c-4e95-9803-008157034df3,1792711612878/full/max/0/default.jpg?im=Crop%2Crect%3D%28425%2C347%2C2722%2C1531%29%3B"
+          "image": "https://i.cbc.ca/ais/75aff428-79e8-42bf-8500-00fa0ecc3988,1792870099535/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
           "id": "https://www.cbc.ca/player/play/9.7393487",
@@ -848,22 +848,50 @@
           "published": "2026-10-23T22:32:06.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/calgary-pokemon-cards-9.7394033",
           "image": "https://i.cbc.ca/ais/3d6d2eb7-55ae-4b22-afdc-2bcde4b50050,1792794256507/full/max/0/default.jpg?im=Crop%2Crect%3D%28780%2C507%2C2714%2C1526%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/alberta-flag-law-demetrios-nicolaides-education-9.7393743",
-          "title": "New regulations on flags flown at Alberta schools to take effect in January",
-          "published": "2026-10-23T21:42:41.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/alberta-flag-law-demetrios-nicolaides-education-9.7393743",
-          "image": "https://i.cbc.ca/ais/1.6437779,1786662513838/full/max/0/default.jpg?im=Crop%2Crect%3D%28159%2C0%2C1471%2C827%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-24T16:05:26.633Z",
+      "checkedAt": "2026-10-24T20:58:56.358Z",
       "items": [
         {
+          "id": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
+          "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+          "published": "2026-10-24T19:37:35.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
+          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+          "published": "2026-10-24T19:12:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
+          "title": "Two rescued after Nairobi building collapse with five still missing",
+          "published": "2026-10-24T17:25:46.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+          "published": "2026-10-24T17:21:42.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
+          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+          "published": "2026-10-24T17:11:56.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
-          "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+          "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
           "published": "2026-10-24T15:56:48.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"
@@ -874,13 +902,6 @@
           "published": "2026-10-24T15:21:44.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723c/live/ca5c07b0-cfc2-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
-          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-          "published": "2026-10-24T14:45:30.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
@@ -895,20 +916,6 @@
           "published": "2026-10-24T09:46:53.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
-          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-          "published": "2026-10-24T09:45:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
-          "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-          "published": "2026-10-24T09:44:01.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cv0ld9571511o",
@@ -951,20 +958,6 @@
           "published": "2026-10-24T01:55:15.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
-          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-          "published": "2026-10-24T00:36:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno",
-          "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-          "published": "2026-10-23T23:11:31.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg"
         }
       ]
     }
