@@ -83,6 +83,33 @@
           "published": "2026-10-23T00:19:38.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-10-24",
+      "generatedAt": "2026-10-24T04:48:32.999Z",
+      "items": [
+        {
+          "id": "2621b0036101",
+          "kind": "news",
+          "title": "Devastating Data Breach at Crime Stoppers Across Canada Exposes Tipsters and Their Personal Information.",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/devastating-data-breach-at-crime-stoppers-across-canada-exposes-tipsters-and-their-personal-information/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/close-up-data-center-employee-stressed-by-security-breach-alert.jpg",
+          "published": "2026-10-23T23:42:13.000Z"
+        },
+        {
+          "id": "5a7ad270d01b",
+          "kind": "guide",
+          "title": "Give your skills and small business a community home",
+          "summary": "A practical guide to creating a community marketplace offering and what happens after you submit it.",
+          "url": "/guides/share-your-business-on-mic",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/shared-table.jpg"
+        }
+      ]
     }
   ]
 }
