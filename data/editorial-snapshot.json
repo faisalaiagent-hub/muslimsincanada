@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-24T11:17:32.751Z",
+      "checkedAt": "2026-10-24T16:05:22.530Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-24T11:17:32.839Z",
+      "checkedAt": "2026-10-24T16:05:23.387Z",
       "items": [
         {
           "id": "42ItnCeoZdU",
@@ -166,7 +166,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-24T11:17:33.872Z",
+      "checkedAt": "2026-10-24T16:05:26.175Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
@@ -309,7 +309,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-24T11:17:32.656Z",
+      "checkedAt": "2026-10-24T16:05:22.289Z",
       "items": [
         {
           "id": "3I664DH2vKg",
@@ -419,7 +419,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-24T11:17:32.942Z",
+      "checkedAt": "2026-10-24T16:05:23.690Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -529,7 +529,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-24T11:17:33.056Z",
+      "checkedAt": "2026-10-24T16:05:24.293Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -639,7 +639,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-24T11:17:33.179Z",
+      "checkedAt": "2026-10-24T16:05:24.994Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -749,8 +749,71 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-24T11:17:33.915Z",
+      "checkedAt": "2026-10-24T16:05:26.373Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452",
+          "title": "Q&A: Premier Danielle Smith says she doesn’t need Alberta separatists’ support",
+          "published": "2026-10-24T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452",
+          "image": "https://i.cbc.ca/ais/88bb1921-de71-4660-86a8-8286d2845a92,1792808533515/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539",
+          "title": "Voters head to the polls for B.C. provincial election",
+          "published": "2026-10-24T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539",
+          "image": "https://i.cbc.ca/ais/b8ce0f88-e14c-4e95-9803-008157034df3,1792711612878/full/max/0/default.jpg?im=Crop%2Crect%3D%28425%2C347%2C2722%2C1531%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/player/play/9.7393487",
+          "title": "Why Nova Scotia's AI data centre feels like a surprise reveal",
+          "published": "2026-10-24T11:00:00.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7393487",
+          "image": "https://i.cbc.ca/ais/beaadbda-61e0-441b-beef-b9e8517e03e2,1792776830918/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956",
+          "title": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+          "published": "2026-10-24T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956",
+          "image": "https://i.cbc.ca/ais/e7c7ff4a-e7c6-4020-8ead-c516fe187188,1792781774731/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C526%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/mcgill-university-open-letter-9.7393542",
+          "title": "Duelling petitions highlight rift over paroled murderer at McGill law school",
+          "published": "2026-10-24T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/mcgill-university-open-letter-9.7393542",
+          "image": "https://i.cbc.ca/ais/9d720b02-992b-4ee5-a819-cecadedbd602,1792776830461/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/marineland-beluga-whale-deaths-9.7388635",
+          "title": "The Marineland belugas keep dying. Was it a mistake to move them?",
+          "published": "2026-10-24T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/marineland-beluga-whale-deaths-9.7388635",
+          "image": "https://i.cbc.ca/ais/4d731ddc-5b61-4998-ab53-9d45f35b3296,1792600926657/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/radio/rdsp-eligible-future-9.7379198",
+          "title": "The RDSP was meant to help disabled Canadians save for the future. Yet many don't know it exists",
+          "published": "2026-10-24T08:00:00.000Z",
+          "url": "https://www.cbc.ca/radio/rdsp-eligible-future-9.7379198",
+          "image": "https://i.cbc.ca/ais/93710bb9-a247-4030-95d7-0076ecfedd45,1792516243026/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C2493%2C1402%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/alberta-referendum-immigration-carney-poilievre-analysis-9.7393811",
+          "title": "Will the Alberta referendum feed a more polarized immigration debate?",
+          "published": "2026-10-24T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/alberta-referendum-immigration-carney-poilievre-analysis-9.7393811",
+          "image": "https://i.cbc.ca/ais/d67629af-c1ff-4345-8c03-ba3285c50dd6,1792795339143/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6048%2C3402%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/investigates/canadian-crime-stoppers-privacy-commissioners-data-breach-9.7394372",
+          "title": "Canadian privacy watchdogs powerless to hold Crime Stoppers accountable for data breach",
+          "published": "2026-10-24T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/investigates/canadian-crime-stoppers-privacy-commissioners-data-breach-9.7394372",
+          "image": "https://i.cbc.ca/ais/b662ceb6-8ffd-48c1-8d4e-1de6db55c6e6,1792795489598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C313%2C5964%2C3354%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/sports/rugby/canada-womens-rugby-england-ottawa-recap-9.7394296",
           "title": "Canadian women's rugby team scores 2nd straight win over powerhouse England",
@@ -792,81 +855,39 @@
           "published": "2026-10-23T21:42:41.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/alberta-flag-law-demetrios-nicolaides-education-9.7393743",
           "image": "https://i.cbc.ca/ais/1.6437779,1786662513838/full/max/0/default.jpg?im=Crop%2Crect%3D%28159%2C0%2C1471%2C827%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/woman-beat-4-year-old-boy-to-death-testifies-earlier-parole-eligibility-9.7393497",
-          "title": "Quebec woman who beat 4-year-old boy to death testifies in bid to get early parole",
-          "published": "2026-10-23T21:36:36.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/woman-beat-4-year-old-boy-to-death-testifies-earlier-parole-eligibility-9.7393497",
-          "image": "https://i.cbc.ca/ais/23ae191a-7d9a-4cff-9556-21f3aadfbe5f,1792773477851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3922%2C2206%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/chief-of-defence-staff-wainwright-speed-of-fire-9.7393268",
-          "title": "Rapid spread of fire was main factor in CFB Wainwright deaths, injuries: top military commander",
-          "published": "2026-10-23T21:14:17.000Z",
-          "url": "https://www.cbc.ca/news/politics/chief-of-defence-staff-wainwright-speed-of-fire-9.7393268",
-          "image": "https://i.cbc.ca/ais/344bd740-149d-4f87-b8a9-f7917945114b,1792788026760/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C75%2C8256%2C4644%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/toronto-liam-hicks-world-series-debut-9.7393844",
-          "title": "It started with hockey, then he picked up a bat. Meet the Toronto catcher headed to the World Series",
-          "published": "2026-10-23T20:11:09.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/toronto-liam-hicks-world-series-debut-9.7393844",
-          "image": "https://i.cbc.ca/ais/7319a2d0-4dfc-43b3-bf4c-5894bd722e83,1792781611519/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C147%2C4870%2C2739%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/business/loblaw-data-breach-apology-9.7393626",
-          "title": "Loblaw CEO apologizes to 2 million shoppers for personal data hack, offers free credit monitoring",
-          "published": "2026-10-23T19:07:24.000Z",
-          "url": "https://www.cbc.ca/news/business/loblaw-data-breach-apology-9.7393626",
-          "image": "https://i.cbc.ca/ais/1.2527791,1391802525000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/ottawa/quadeville-ontario-attack-guilty-plea-9.7393446",
-          "title": "Teen accused in girl's vicious attack in Quadeville pleads guilty",
-          "published": "2026-10-23T18:07:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/ottawa/quadeville-ontario-attack-guilty-plea-9.7393446",
-          "image": "https://i.cbc.ca/ais/1.7581937,1752177154000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4236%2C2382%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/olympics/winter/curling/curling-canada-future-nolan-thiessen-9.7392788",
-          "title": "Curling Canada CEO sees opportunity to think about future of curling in Canada",
-          "published": "2026-10-23T11:06:04.000Z",
-          "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-canada-future-nolan-thiessen-9.7392788",
-          "image": "https://i.cbc.ca/ais/63f657f5-fc45-4c53-b6d5-0d6e7f9d5ebf,1792753521629/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C517%2C6500%2C3656%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/prince-albert-gateway-mall-500-modular-homes-9.7392495",
-          "title": "Developer wants to build 500 modular homes on roof of struggling Sask. mall",
-          "published": "2026-10-23T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/prince-albert-gateway-mall-500-modular-homes-9.7392495",
-          "image": "https://i.cbc.ca/ais/ab30f383-2cb6-4aa5-94ac-6184a0cdcc97,1792715458824/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/north/haines-junction-fish-canning-workshop-connects-generations-9.7392553",
-          "title": "Workshop in Haines Junction teaches fish canning and connects generations",
-          "published": "2026-10-23T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/north/haines-junction-fish-canning-workshop-connects-generations-9.7392553",
-          "image": "https://i.cbc.ca/ais/c4d4f0e2-88eb-44cc-a432-5a8a0f934c86,1792711462312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/london/infinity-school-acton-academy-cameras-classrooms-9.7390109",
-          "title": "Ontario private school scrutinized over class video surveillance, making kids watch themselves ‘misbehaving’",
-          "published": "2026-10-23T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/london/infinity-school-acton-academy-cameras-classrooms-9.7390109",
-          "image": "https://i.cbc.ca/ais/78012a39-fb9c-45a2-a9b7-814df20954ca,1792700846814/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C277%2C5599%2C3149%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-24T11:17:34.247Z",
+      "checkedAt": "2026-10-24T16:05:26.633Z",
       "items": [
         {
+          "id": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
+          "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+          "published": "2026-10-24T15:56:48.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
-          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-          "published": "2026-10-24T10:22:34.000Z",
+          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "published": "2026-10-24T15:21:44.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723c/live/ca5c07b0-cfc2-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
+          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+          "published": "2026-10-24T14:45:30.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "published": "2026-10-24T12:12:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
@@ -876,11 +897,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
+          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+          "published": "2026-10-24T09:45:47.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
           "title": "Seven missing after multi-storey building collapses in Kenya's capital",
           "published": "2026-10-24T09:44:01.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cv0ld9571511o",
+          "title": "Three released without charge after fatal arson attack in Ireland",
+          "published": "2026-10-24T09:38:28.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0c/live/63ec3980-cf8d-11f1-bef0-7f8eb636c50b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
@@ -930,41 +965,6 @@
           "published": "2026-10-23T23:11:31.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o",
-          "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-          "published": "2026-10-23T23:09:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2145/live/2966bce0-ced9-11f1-8507-45cb00a1c41c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm1dwz311476o",
-          "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-          "published": "2026-10-23T23:08:23.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo",
-          "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-          "published": "2026-10-23T22:47:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo",
-          "title": "Who actually controls Ukraine's access to Starlink?",
-          "published": "2026-10-23T22:24:36.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a39d/live/2b410510-cf2f-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo",
-          "title": "Argentina drops investigation into President Milei over crypto fraud",
-          "published": "2026-10-23T20:59:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg"
         }
       ]
     }
