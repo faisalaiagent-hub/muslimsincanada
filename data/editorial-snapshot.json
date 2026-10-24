@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-24T08:55:29.753Z",
+      "checkedAt": "2026-10-24T11:17:32.751Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-24T08:55:29.855Z",
+      "checkedAt": "2026-10-24T11:17:32.839Z",
       "items": [
         {
           "id": "42ItnCeoZdU",
@@ -166,8 +166,43 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-24T08:55:31.744Z",
+      "checkedAt": "2026-10-24T11:17:33.872Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
+          "title": "Christchurch mosque massacre: book faults official inquiry",
+          "published": "2026-10-24T09:49:05.000Z",
+          "url": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/03/20220315_2_52622738_74704006-scaled.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/pakistan-among-most-targeted-by-israeli-spyware-report/",
+          "title": "Pakistan among most targeted by Israeli spyware: Report",
+          "published": "2026-10-24T09:33:38.000Z",
+          "url": "https://www.muslimnetwork.tv/pakistan-among-most-targeted-by-israeli-spyware-report/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/P20250925DT-0714_President_Donald_Trump_meets_with_Prime_Minister_Shehbaz_Sharif_and_Field_Marshal_Asim_Munir_of_Pakistan.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/pakistani-origin-surgeon-wins-pride-of-britain-lifetime-achievement-award/",
+          "title": "Pakistani-origin surgeon wins Pride of Britain Lifetime Achievement Award",
+          "published": "2026-10-24T09:32:13.000Z",
+          "url": "https://www.muslimnetwork.tv/pakistani-origin-surgeon-wins-pride-of-britain-lifetime-achievement-award/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/images-20.jpeg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/aipac-linked-pac-moves-9m-to-rogers-in-michigan-senate-race/",
+          "title": "AIPAC-linked PAC moves $9m to Rogers in Michigan Senate race",
+          "published": "2026-10-24T09:30:03.000Z",
+          "url": "https://www.muslimnetwork.tv/aipac-linked-pac-moves-9m-to-rogers-in-michigan-senate-race/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_1-1.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/profile-osman-salahuddin-from-pakistani-immigrant-roots-to-washington-state-house/",
+          "title": "Profile: Osman Salahuddin, from Pakistani immigrant roots to Washington State House",
+          "published": "2026-10-24T08:55:38.000Z",
+          "url": "https://www.muslimnetwork.tv/profile-osman-salahuddin-from-pakistani-immigrant-roots-to-washington-state-house/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Osman_Salahuddin.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/devastating-data-breach-at-crime-stoppers-across-canada-exposes-tipsters-and-their-personal-information/",
           "title": "Devastating Data Breach at Crime Stoppers Across Canada Exposes Tipsters and Their Personal Information.",
@@ -179,60 +214,25 @@
           "id": "https://www.muslimnetwork.tv/four-israeli-real-estate-companies-and-one-canadian-marketing-firm-under-scrutiny-for-allegedly-deceiving-canadians/",
           "title": "Four Israeli Real Estate Companies and One Canadian Marketing Firm Under Scrutiny for Allegedly Deceiving Canadians.",
           "published": "2026-10-23T23:38:36.000Z",
-          "url": "https://www.muslimnetwork.tv/four-israeli-real-estate-companies-and-one-canadian-marketing-firm-under-scrutiny-for-allegedly-deceiving-canadians/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/signal-2026-10-23-18-59-52-912_002.jpg"
+          "url": "https://www.muslimnetwork.tv/four-israeli-real-estate-companies-and-one-canadian-marketing-firm-under-scrutiny-for-allegedly-deceiving-canadians/"
         },
         {
           "id": "https://www.muslimnetwork.tv/mosque-madrasa-face-eviction-threat-in-indias-uttar-pradesh/",
           "title": "Mosque, madrasa face eviction threat in India’s Uttar Pradesh",
           "published": "2026-10-23T21:38:04.000Z",
-          "url": "https://www.muslimnetwork.tv/mosque-madrasa-face-eviction-threat-in-indias-uttar-pradesh/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-kolkatarchobiwala-20468510.jpg"
+          "url": "https://www.muslimnetwork.tv/mosque-madrasa-face-eviction-threat-in-indias-uttar-pradesh/"
         },
         {
           "id": "https://www.muslimnetwork.tv/christians-demand-direct-federal-control-amid-deadly-violence-in-india/",
           "title": "Christians demand direct federal control amid deadly violence in India",
           "published": "2026-10-23T21:36:11.000Z",
-          "url": "https://www.muslimnetwork.tv/christians-demand-direct-federal-control-amid-deadly-violence-in-india/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-naveen-prabhakaran-j-144473182-19073338.jpg"
+          "url": "https://www.muslimnetwork.tv/christians-demand-direct-federal-control-amid-deadly-violence-in-india/"
         },
         {
           "id": "https://www.muslimnetwork.tv/palestinian-youths-risk-lives-defending-journalist-from-israeli-settlers/",
           "title": "Palestinian youths risk lives defending journalist from Israeli settlers",
           "published": "2026-10-23T21:34:18.000Z",
-          "url": "https://www.muslimnetwork.tv/palestinian-youths-risk-lives-defending-journalist-from-israeli-settlers/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_fcd25db1904d434b2136f10b4c146e84-1.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/gaza-faces-renewed-famine-as-israeli-restrictions-choke-supplies/",
-          "title": "Gaza faces renewed famine as Israeli restrictions choke supplies",
-          "published": "2026-10-23T21:32:26.000Z",
-          "url": "https://www.muslimnetwork.tv/gaza-faces-renewed-famine-as-israeli-restrictions-choke-supplies/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_e4481d072bb630e340ca20822a9616fd.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-troops-kill-syrian-man-with-down-syndrome-during-raid/",
-          "title": "Israeli troops kill Syrian man with Down syndrome during raid",
-          "published": "2026-10-23T21:31:15.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-troops-kill-syrian-man-with-down-syndrome-during-raid/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/unicef-says-351-palestinian-children-killed-since-gaza-ceasefire/",
-          "title": "UNICEF says 351 Palestinian children killed since Gaza ceasefire",
-          "published": "2026-10-23T21:30:09.000Z",
-          "url": "https://www.muslimnetwork.tv/unicef-says-351-palestinian-children-killed-since-gaza-ceasefire/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/thousands-of-palestinian-prisoners-face-winter-without-blankets/",
-          "title": "Thousands of Palestinian prisoners face winter without blankets",
-          "published": "2026-10-23T21:28:51.000Z",
-          "url": "https://www.muslimnetwork.tv/thousands-of-palestinian-prisoners-face-winter-without-blankets/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israels-arab-voters-fifth-of-population-but-little-political-power/",
-          "title": "Palestinians in Israel have voting rights but remain excluded from political power",
-          "published": "2026-10-23T13:03:30.000Z",
-          "url": "https://www.muslimnetwork.tv/israels-arab-voters-fifth-of-population-but-little-political-power/"
+          "url": "https://www.muslimnetwork.tv/palestinian-youths-risk-lives-defending-journalist-from-israeli-settlers/"
         }
       ]
     },
@@ -309,7 +309,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-24T08:55:29.734Z",
+      "checkedAt": "2026-10-24T11:17:32.656Z",
       "items": [
         {
           "id": "3I664DH2vKg",
@@ -419,7 +419,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-24T08:55:30.047Z",
+      "checkedAt": "2026-10-24T11:17:32.942Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -529,7 +529,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-24T08:55:30.145Z",
+      "checkedAt": "2026-10-24T11:17:33.056Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -639,7 +639,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-24T08:55:30.152Z",
+      "checkedAt": "2026-10-24T11:17:33.179Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -749,7 +749,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-24T08:55:31.820Z",
+      "checkedAt": "2026-10-24T11:17:33.915Z",
       "items": [
         {
           "id": "https://www.cbc.ca/sports/rugby/canada-womens-rugby-england-ottawa-recap-9.7394296",
@@ -859,21 +859,35 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-24T08:55:32.166Z",
+      "checkedAt": "2026-10-24T11:17:34.247Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
+          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+          "published": "2026-10-24T10:22:34.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
+          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+          "published": "2026-10-24T09:46:53.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
+          "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+          "published": "2026-10-24T09:44:01.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
           "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
           "published": "2026-10-24T07:17:44.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "published": "2026-10-24T06:19:46.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f26/live/2a059180-cf74-11f1-aaa0-39a3560003e9.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ck20rery78lro",
@@ -897,13 +911,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/f3eb3240-ce32-11f1-bc2e-018d645d8d21.png"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
-          "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
-          "published": "2026-10-24T03:51:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno",
           "title": "Australian MP's condition improves after alleged car attack",
           "published": "2026-10-24T01:55:15.000Z",
@@ -916,13 +923,6 @@
           "published": "2026-10-24T00:36:47.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
-          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-          "published": "2026-10-24T00:05:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno",
