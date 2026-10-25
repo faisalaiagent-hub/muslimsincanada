@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-25T11:47:02.446Z",
+      "checkedAt": "2026-10-25T16:35:15.509Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-25T11:47:02.667Z",
+      "checkedAt": "2026-10-25T16:35:15.526Z",
       "items": [
         {
           "id": "42ItnCeoZdU",
@@ -123,7 +123,7 @@
         },
         {
           "id": "inX5GdP5H2g",
-          "title": "The Regrets You Can Still Avoid | LATEST Khutbah by Dr. Omar Suleiman",
+          "title": "What You Will Regret At Life’s End, And How To Avoid It | LATEST Khutbah by Dr. Omar Suleiman",
           "published": "2026-10-23T20:32:35.000Z",
           "url": "https://www.youtube.com/watch?v=inX5GdP5H2g",
           "image": "https://i.ytimg.com/vi/inX5GdP5H2g/hqdefault.jpg"
@@ -141,18 +141,11 @@
           "published": "2026-10-20T14:00:09.000Z",
           "url": "https://www.youtube.com/watch?v=SkP_dFTLTu8",
           "image": "https://i.ytimg.com/vi/SkP_dFTLTu8/hqdefault.jpg"
-        },
-        {
-          "id": "_wo17AHtboY",
-          "title": "Check On Them | Dr. Omar Suleiman",
-          "published": "2026-10-19T23:00:34.000Z",
-          "url": "https://www.youtube.com/watch?v=_wo17AHtboY",
-          "image": "https://i.ytimg.com/vi/_wo17AHtboY/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-25T11:47:05.276Z",
+      "checkedAt": "2026-10-25T16:35:17.802Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
@@ -295,7 +288,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-25T11:47:02.233Z",
+      "checkedAt": "2026-10-25T16:35:15.401Z",
       "items": [
         {
           "id": "3I664DH2vKg",
@@ -405,7 +398,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-25T11:47:02.797Z",
+      "checkedAt": "2026-10-25T16:35:15.672Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +508,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-25T11:47:03.020Z",
+      "checkedAt": "2026-10-25T16:35:15.690Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -625,7 +618,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-25T11:47:03.204Z",
+      "checkedAt": "2026-10-25T16:35:15.848Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -735,8 +728,57 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-25T11:47:05.349Z",
+      "checkedAt": "2026-10-25T16:35:18.008Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-sergeant-funeral-cfb-wainwright-9.7395319",
+          "title": "Funeral being held Sunday morning for fallen sergeant",
+          "published": "2026-10-25T16:28:18.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-sergeant-funeral-cfb-wainwright-9.7395319",
+          "image": "https://i.cbc.ca/ais/73799310-ea9f-4955-a3c1-137f1db6e3f5,1792447944202/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C694%2C390%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/the-donair-athon-halifax-david-wadden-feed-nova-scotia-9.7391576",
+          "title": "This Nova Scotian just ran his first marathon. He trained for it by eating donairs",
+          "published": "2026-10-25T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/the-donair-athon-halifax-david-wadden-feed-nova-scotia-9.7391576",
+          "image": "https://i.cbc.ca/ais/ab2d1f7b-e4b4-4c71-8e87-26e55ae38b86,1792751966444/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/quebec-developed-apple-orleans-fruit-of-the-future-9.7389007",
+          "title": "Is this Quebec-developed fruit the 'apple of the future'?",
+          "published": "2026-10-25T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/quebec-developed-apple-orleans-fruit-of-the-future-9.7389007",
+          "image": "https://i.cbc.ca/ais/d1d62ea6-67ab-476f-8914-5d9e427db161,1792443167174/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/ontario-municipal-elections-explainer-9.7392950",
+          "title": "Ontario municipal elections: A look at 7 mayoral races as voters head to the polls",
+          "published": "2026-10-25T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/ontario-municipal-elections-explainer-9.7392950",
+          "image": "https://i.cbc.ca/ais/ea13b9ae-a947-4e5e-8c7e-6680765268c8,1792769131782/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C3600%2C2025%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/first-nations-first-ministers-meeting-relationship-9.7394258",
+          "title": "A ‘reset’ or ‘one and done’? First Nations and first ministers set to hold historic meeting",
+          "published": "2026-10-25T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/first-nations-first-ministers-meeting-relationship-9.7394258",
+          "image": "https://i.cbc.ca/ais/dc87dddf-133e-410f-9b39-7b7e60b3d3aa,1792849563292/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C429%2C8229%2C4628%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/pte-shaun-farrell-procession-9.7394912",
+          "title": "Emergency vehicles escort remains of Pte. Shaun Farrell to Prince Albert",
+          "published": "2026-10-25T01:45:41.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/pte-shaun-farrell-procession-9.7394912",
+          "image": "https://i.cbc.ca/ais/a9cc00b8-21d1-4151-84c2-c624103f590e,1792701931388/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C224%2C1709%2C961%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208",
+          "title": "B.C. Conservatives projected to win 1st majority in nearly a century after Eby's election gamble backfires",
+          "published": "2026-10-25T01:30:17.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208",
+          "image": "https://i.cbc.ca/ais/79104914-9975-49fb-9a0b-91c6e44f0f27,1792905612659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C117%2C4176%2C2349%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845",
           "title": "Convicted murderer who attended McGill's faculty of law now back in custody",
@@ -792,67 +834,39 @@
           "published": "2026-10-24T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/marineland-beluga-whale-deaths-9.7388635",
           "image": "https://i.cbc.ca/ais/4d731ddc-5b61-4998-ab53-9d45f35b3296,1792600926657/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/radio/rdsp-eligible-future-9.7379198",
-          "title": "The RDSP was meant to help disabled Canadians save for the future. Yet many don't know it exists",
-          "published": "2026-10-24T08:00:00.000Z",
-          "url": "https://www.cbc.ca/radio/rdsp-eligible-future-9.7379198",
-          "image": "https://i.cbc.ca/ais/93710bb9-a247-4030-95d7-0076ecfedd45,1792516243026/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C2493%2C1402%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/alberta-referendum-immigration-carney-poilievre-analysis-9.7393811",
-          "title": "Will the Alberta referendum feed a more polarized immigration debate?",
-          "published": "2026-10-24T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/politics/alberta-referendum-immigration-carney-poilievre-analysis-9.7393811",
-          "image": "https://i.cbc.ca/ais/d67629af-c1ff-4345-8c03-ba3285c50dd6,1792795339143/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6048%2C3402%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/investigates/canadian-crime-stoppers-privacy-commissioners-data-breach-9.7394372",
-          "title": "Canadian privacy watchdogs powerless to hold Crime Stoppers accountable for data breach",
-          "published": "2026-10-24T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/investigates/canadian-crime-stoppers-privacy-commissioners-data-breach-9.7394372",
-          "image": "https://i.cbc.ca/ais/b662ceb6-8ffd-48c1-8d4e-1de6db55c6e6,1792795489598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C313%2C5964%2C3354%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/rugby/canada-womens-rugby-england-ottawa-recap-9.7394296",
-          "title": "Canadian women's rugby team scores 2nd straight win over powerhouse England",
-          "published": "2026-10-24T04:17:27.000Z",
-          "url": "https://www.cbc.ca/sports/rugby/canada-womens-rugby-england-ottawa-recap-9.7394296",
-          "image": "https://i.cbc.ca/ais/ebbed414-3145-42cc-88b7-65dd1e1a573e,1792815404341/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C82%2C3758%2C2113%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-emergency-room-hospital-fatality-inquiry-friday-9.7394321",
-          "title": "Inquiry looking into man's death in Edmonton ER hears about too many patients, not enough beds or doctors",
-          "published": "2026-10-24T01:31:03.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-emergency-room-hospital-fatality-inquiry-friday-9.7394321",
-          "image": "https://i.cbc.ca/ais/b06dc89d-00f8-45ee-8841-c61ab71a7240,1792804421113/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C250%2C4800%2C2700%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/connor-hellebuyck-winnipeg-jets-trade-fans-react-9.7394456",
-          "title": "'I'm glad that he's gone': Winnipeg Jets fans say messy exit tarnishes Hellebuyck's legacy",
-          "published": "2026-10-24T01:12:57.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/connor-hellebuyck-winnipeg-jets-trade-fans-react-9.7394456",
-          "image": "https://i.cbc.ca/ais/559bb3aa-b150-4e14-92de-471691cf7c61,1792804905719/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C5136%2C2889%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/chiefs-call-government-drop-appeal-separation-petition-9.7394085",
-          "title": "Chiefs, Opposition call for Alberta government to drop appeal of decision that quashed separation petition",
-          "published": "2026-10-23T22:56:18.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/chiefs-call-government-drop-appeal-separation-petition-9.7394085",
-          "image": "https://i.cbc.ca/ais/2f764567-e2d9-425f-b941-5202886ed92f,1792793880609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C339%2C6244%2C3512%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-25T11:47:05.796Z",
+      "checkedAt": "2026-10-25T16:35:18.468Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
-          "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-          "published": "2026-10-25T11:00:26.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "published": "2026-10-25T16:21:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
+          "title": "Early reports suggest record high turnout in Serbia elections",
+          "published": "2026-10-25T16:05:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
+          "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+          "published": "2026-10-25T15:32:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo",
+          "title": "Gabon says access to social media restored after eight-month ban",
+          "published": "2026-10-25T14:39:47.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo",
@@ -930,27 +944,6 @@
           "published": "2026-10-24T23:02:51.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo",
-          "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-          "published": "2026-10-24T22:58:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c2/live/fb2fe4e0-cef7-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo",
-          "title": "Who are the candidates in Brazil's presidential election?",
-          "published": "2026-10-24T22:08:47.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
-          "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-          "published": "2026-10-24T19:37:35.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg"
         }
       ]
     }
