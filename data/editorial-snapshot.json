@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-24T20:58:53.339Z",
+      "checkedAt": "2026-10-25T09:12:23.398Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-24T20:58:53.505Z",
+      "checkedAt": "2026-10-25T09:12:23.684Z",
       "items": [
         {
           "id": "42ItnCeoZdU",
@@ -148,19 +148,19 @@
           "published": "2026-10-19T23:00:34.000Z",
           "url": "https://www.youtube.com/watch?v=_wo17AHtboY",
           "image": "https://i.ytimg.com/vi/_wo17AHtboY/hqdefault.jpg"
-        },
-        {
-          "id": "7W-xIhz7ZFA",
-          "title": "Rafi’ (ra) and Rifa’a (ra): Healed With the Prophet’s ﷺ Saliva | The Firsts | Dr. Omar Suleiman",
-          "published": "2026-10-19T14:00:08.000Z",
-          "url": "https://www.youtube.com/watch?v=7W-xIhz7ZFA",
-          "image": "https://i.ytimg.com/vi/7W-xIhz7ZFA/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-25T04:56:57.638Z",
+      "checkedAt": "2026-10-25T09:12:26.593Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
+          "title": "Profile: Omar Fateh, renter taking on Minnesota’s establishment",
+          "published": "2026-10-25T07:43:16.000Z",
+          "url": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Omar_Fateh_at_Graze_Meet__Greet.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
           "title": "Christchurch mosque massacre: book faults official inquiry",
@@ -200,8 +200,7 @@
           "id": "https://www.muslimnetwork.tv/devastating-data-breach-at-crime-stoppers-across-canada-exposes-tipsters-and-their-personal-information/",
           "title": "Devastating Data Breach at Crime Stoppers Across Canada Exposes Tipsters and Their Personal Information.",
           "published": "2026-10-23T23:42:13.000Z",
-          "url": "https://www.muslimnetwork.tv/devastating-data-breach-at-crime-stoppers-across-canada-exposes-tipsters-and-their-personal-information/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/close-up-data-center-employee-stressed-by-security-breach-alert.jpg"
+          "url": "https://www.muslimnetwork.tv/devastating-data-breach-at-crime-stoppers-across-canada-exposes-tipsters-and-their-personal-information/"
         },
         {
           "id": "https://www.muslimnetwork.tv/four-israeli-real-estate-companies-and-one-canadian-marketing-firm-under-scrutiny-for-allegedly-deceiving-canadians/",
@@ -220,12 +219,6 @@
           "title": "Christians demand direct federal control amid deadly violence in India",
           "published": "2026-10-23T21:36:11.000Z",
           "url": "https://www.muslimnetwork.tv/christians-demand-direct-federal-control-amid-deadly-violence-in-india/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/palestinian-youths-risk-lives-defending-journalist-from-israeli-settlers/",
-          "title": "Palestinian youths risk lives defending journalist from Israeli settlers",
-          "published": "2026-10-23T21:34:18.000Z",
-          "url": "https://www.muslimnetwork.tv/palestinian-youths-risk-lives-defending-journalist-from-israeli-settlers/"
         }
       ]
     },
@@ -302,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-24T20:58:53.202Z",
+      "checkedAt": "2026-10-25T09:12:23.278Z",
       "items": [
         {
           "id": "3I664DH2vKg",
@@ -412,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-24T20:58:53.662Z",
+      "checkedAt": "2026-10-25T09:12:23.826Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -522,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-24T20:58:53.846Z",
+      "checkedAt": "2026-10-25T09:12:24.111Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -632,11 +625,11 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-24T20:58:54.036Z",
+      "checkedAt": "2026-10-25T09:12:24.242Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
-          "title": "Why They Refuse to Let Go",
+          "title": "The History They Don't Teach You",
           "published": "2026-10-22T17:00:10.000Z",
           "url": "https://www.youtube.com/watch?v=h4GBquq5fDw",
           "image": "https://i.ytimg.com/vi/h4GBquq5fDw/hqdefault.jpg"
@@ -742,7 +735,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-25T04:56:58.020Z",
+      "checkedAt": "2026-10-25T09:12:26.706Z",
       "items": [
         {
           "id": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845",
@@ -852,8 +845,36 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-25T04:56:58.401Z",
+      "checkedAt": "2026-10-25T09:12:27.018Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "published": "2026-10-25T09:00:00.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo",
+          "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+          "published": "2026-10-25T08:36:47.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02e/live/5ba1ae30-c0a7-11f1-b72b-c3e328aa18ed.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo",
+          "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+          "published": "2026-10-25T05:45:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "published": "2026-10-25T05:15:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
           "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
@@ -862,11 +883,53 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
-          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-          "published": "2026-10-24T23:02:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
+          "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+          "published": "2026-10-25T03:20:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "published": "2026-10-25T02:27:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0734/live/d07c4f10-cff9-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
+          "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+          "published": "2026-10-24T23:50:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2d/live/5e5c94f0-cffc-11f1-b444-6fb1f13f8d87.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do",
+          "title": "The bitter row over military service that could shape Israel's future",
+          "published": "2026-10-24T23:03:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo",
+          "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+          "published": "2026-10-24T23:03:09.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo",
+          "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+          "published": "2026-10-24T23:02:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo",
+          "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+          "published": "2026-10-24T22:58:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c2/live/fb2fe4e0-cef7-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo",
@@ -888,76 +951,6 @@
           "published": "2026-10-24T19:12:51.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
-          "title": "Two rescued after Nairobi building collapse with five still missing",
-          "published": "2026-10-24T17:25:46.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
-          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-          "published": "2026-10-24T17:11:56.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
-          "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-          "published": "2026-10-24T15:56:48.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
-          "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-          "published": "2026-10-24T15:21:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723c/live/ca5c07b0-cfc2-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
-          "title": "Ukraine says Starlink connection 'now stable' after network limits",
-          "published": "2026-10-24T12:12:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
-          "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-          "published": "2026-10-24T09:46:53.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cv0ld9571511o",
-          "title": "Three released without charge after fatal arson attack in Ireland",
-          "published": "2026-10-24T09:38:28.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0c/live/63ec3980-cf8d-11f1-bef0-7f8eb636c50b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-          "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-          "published": "2026-10-24T07:17:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck20rery78lro",
-          "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-          "published": "2026-10-24T05:31:01.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb8/live/821f0590-cf15-11f1-a568-e785d17b98ab.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno",
-          "title": "How Brazil's changing working class is reshaping the presidential race",
-          "published": "2026-10-24T05:05:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     }
