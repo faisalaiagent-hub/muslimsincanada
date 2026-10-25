@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-25T16:35:15.509Z",
+      "checkedAt": "2026-10-25T20:58:51.000Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-25T16:35:15.526Z",
+      "checkedAt": "2026-10-25T20:58:51.201Z",
       "items": [
+        {
+          "id": "ZEtMUqIic2U",
+          "title": "When Parents Aren't The Priority Anymore | Dr. Omar Suleiman",
+          "published": "2026-10-25T17:16:11.000Z",
+          "url": "https://www.youtube.com/watch?v=ZEtMUqIic2U",
+          "image": "https://i.ytimg.com/vi/ZEtMUqIic2U/hqdefault.jpg"
+        },
         {
           "id": "42ItnCeoZdU",
           "title": "Why The Prophet (S) Chose Him | Dr. Omar Suleiman",
@@ -134,18 +141,11 @@
           "published": "2026-10-21T01:10:34.000Z",
           "url": "https://www.youtube.com/watch?v=V3-4VILEUnA",
           "image": "https://i.ytimg.com/vi/V3-4VILEUnA/hqdefault.jpg"
-        },
-        {
-          "id": "SkP_dFTLTu8",
-          "title": "How Much Divorce Are You Seeing? | Signs of the Hour Ep. 22 | Dr. Omar Suleiman",
-          "published": "2026-10-20T14:00:09.000Z",
-          "url": "https://www.youtube.com/watch?v=SkP_dFTLTu8",
-          "image": "https://i.ytimg.com/vi/SkP_dFTLTu8/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-25T16:35:17.802Z",
+      "checkedAt": "2026-10-25T20:58:54.646Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
@@ -288,7 +288,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-25T16:35:15.401Z",
+      "checkedAt": "2026-10-25T20:58:50.884Z",
       "items": [
         {
           "id": "3I664DH2vKg",
@@ -398,7 +398,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-25T16:35:15.672Z",
+      "checkedAt": "2026-10-25T20:58:51.319Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -508,7 +508,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-25T16:35:15.690Z",
+      "checkedAt": "2026-10-25T20:58:51.462Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -618,7 +618,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-25T16:35:15.848Z",
+      "checkedAt": "2026-10-25T20:58:51.613Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -728,14 +728,21 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-25T16:35:18.008Z",
+      "checkedAt": "2026-10-25T20:58:54.899Z",
       "items": [
         {
-          "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-sergeant-funeral-cfb-wainwright-9.7395319",
-          "title": "Funeral being held Sunday morning for fallen sergeant",
-          "published": "2026-10-25T16:28:18.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-sergeant-funeral-cfb-wainwright-9.7395319",
-          "image": "https://i.cbc.ca/ais/73799310-ea9f-4955-a3c1-137f1db6e3f5,1792447944202/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C694%2C390%29%3B"
+          "id": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-questions-immigration-constitution-9.7394465",
+          "title": "Smith scores slim majority on immigration questions, Albertans reject constitutional changes",
+          "published": "2026-10-25T19:40:46.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-questions-immigration-constitution-9.7394465",
+          "image": "https://i.cbc.ca/ais/21bceb54-d49f-4449-96f7-a5c0658ee19d,1792803853103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C474%2C6366%2C3580%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/reaction-alberta-referendum-separatism-9.7392004",
+          "title": "There’s disappointment and hope among Albertans who supported the idea of independence",
+          "published": "2026-10-25T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/reaction-alberta-referendum-separatism-9.7392004",
+          "image": "https://i.cbc.ca/ais/debe7e7c-30dc-4c4c-82d7-29c7e7394b1a,1792776602790/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/nova-scotia/the-donair-athon-halifax-david-wadden-feed-nova-scotia-9.7391576",
@@ -745,6 +752,13 @@
           "image": "https://i.cbc.ca/ais/ab2d1f7b-e4b4-4c71-8e87-26e55ae38b86,1792751966444/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
+          "id": "https://www.cbc.ca/news/canada/ontario-municipal-elections-explainer-9.7392950",
+          "title": "Ontario municipal elections: A look at 7 mayoral races as voters head to the polls",
+          "published": "2026-10-25T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/ontario-municipal-elections-explainer-9.7392950",
+          "image": "https://i.cbc.ca/ais/72407af8-3969-455c-96c0-dab3b93ee778,1792783677847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C457%2C7758%2C4363%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/montreal/quebec-developed-apple-orleans-fruit-of-the-future-9.7389007",
           "title": "Is this Quebec-developed fruit the 'apple of the future'?",
           "published": "2026-10-25T08:00:00.000Z",
@@ -752,11 +766,11 @@
           "image": "https://i.cbc.ca/ais/d1d62ea6-67ab-476f-8914-5d9e427db161,1792443167174/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/ontario-municipal-elections-explainer-9.7392950",
-          "title": "Ontario municipal elections: A look at 7 mayoral races as voters head to the polls",
+          "id": "https://www.cbc.ca/news/canada/hamilton/artist-airplane-wainfleet-yard-canadiana-9.7388747",
+          "title": "Niagara artist paints 'love letter to Canada' on retired classic airplane in her Wainfleet, Ont., yard",
           "published": "2026-10-25T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/ontario-municipal-elections-explainer-9.7392950",
-          "image": "https://i.cbc.ca/ais/ea13b9ae-a947-4e5e-8c7e-6680765268c8,1792769131782/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C3600%2C2025%29%3B"
+          "url": "https://www.cbc.ca/news/canada/hamilton/artist-airplane-wainfleet-yard-canadiana-9.7388747",
+          "image": "https://i.cbc.ca/ais/836191c4-ef0c-4938-b3b2-e360374b6158,1792528289481/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4032%2C2268%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/politics/first-nations-first-ministers-meeting-relationship-9.7394258",
@@ -764,6 +778,13 @@
           "published": "2026-10-25T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/politics/first-nations-first-ministers-meeting-relationship-9.7394258",
           "image": "https://i.cbc.ca/ais/dc87dddf-133e-410f-9b39-7b7e60b3d3aa,1792849563292/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C429%2C8229%2C4628%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-vancouver-recap-oct-24-9.7394989",
+          "title": "Canadian women win relay gold, Laoun takes 500m silver at short track World Tour opener",
+          "published": "2026-10-25T04:15:55.000Z",
+          "url": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-vancouver-recap-oct-24-9.7394989",
+          "image": "https://i.cbc.ca/ais/f7a61f6a-c442-433b-823c-7a94ba322c65,1792953980575/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C181%2C2400%2C1350%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/saskatchewan/pte-shaun-farrell-procession-9.7394912",
@@ -813,46 +834,32 @@
           "published": "2026-10-24T11:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/saskatchewan/from-horses-to-electric-cars-sask-couple-sees-world-transform-over-75-year-marriage-9.7390778",
           "image": "https://i.cbc.ca/ais/00279226-99ef-425c-a9c5-6e356c02d3cd,1792618905711/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C1249%2C702%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/player/play/9.7393487",
-          "title": "Why Nova Scotia's AI data centre feels like a surprise reveal",
-          "published": "2026-10-24T11:00:00.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7393487",
-          "image": "https://i.cbc.ca/ais/beaadbda-61e0-441b-beef-b9e8517e03e2,1792776830918/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956",
-          "title": "82 days later, no repairs started on washed-out road dividing small Quebec town",
-          "published": "2026-10-24T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956",
-          "image": "https://i.cbc.ca/ais/e7c7ff4a-e7c6-4020-8ead-c516fe187188,1792781774731/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C526%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/marineland-beluga-whale-deaths-9.7388635",
-          "title": "The Marineland belugas keep dying. Was it a mistake to move them?",
-          "published": "2026-10-24T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/marineland-beluga-whale-deaths-9.7388635",
-          "image": "https://i.cbc.ca/ais/4d731ddc-5b61-4998-ab53-9d45f35b3296,1792600926657/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-25T16:35:18.468Z",
+      "checkedAt": "2026-10-25T20:58:55.282Z",
       "items": [
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "published": "2026-10-25T16:21:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
-        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
           "title": "Early reports suggest record high turnout in Serbia elections",
-          "published": "2026-10-25T16:05:15.000Z",
+          "published": "2026-10-25T19:55:15.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
+          "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+          "published": "2026-10-25T19:14:27.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "published": "2026-10-25T18:29:00.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
@@ -909,13 +916,6 @@
           "published": "2026-10-25T05:15:52.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
-          "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-          "published": "2026-10-25T03:20:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
