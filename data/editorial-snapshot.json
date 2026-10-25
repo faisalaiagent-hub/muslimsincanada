@@ -159,7 +159,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-24T20:58:55.590Z",
+      "checkedAt": "2026-10-25T04:56:57.638Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
@@ -742,14 +742,28 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-24T20:58:55.904Z",
+      "checkedAt": "2026-10-25T04:56:58.020Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845",
+          "title": "Convicted murderer who attended McGill's faculty of law now back in custody",
+          "published": "2026-10-24T20:52:21.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845",
+          "image": "https://i.cbc.ca/ais/0d841f19-77e4-4c89-ba5d-6f5c9c43863a,1792101972315/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C108%2C2048%2C1152%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791",
           "title": "Toronto police seeking mother, 22, for allegedly abducting her 3 children",
           "published": "2026-10-24T18:48:25.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791",
           "image": "https://i.cbc.ca/ais/53580138-edaa-4b8d-938f-ecfafd21de55,1792864831846/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C852%2C479%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/sask-crime-stoppers-pauses-tip-intake-national-data-breach-9.7394723",
+          "title": "Sask. Crime Stoppers programs pause tip intake due to national data breach",
+          "published": "2026-10-24T16:30:19.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-crime-stoppers-pauses-tip-intake-national-data-breach-9.7394723",
+          "image": "https://i.cbc.ca/ais/013355dc-e034-45df-9f6f-c19d52f3aa0d,1792857282778/full/max/0/default.jpg?im=Crop%2Crect%3D%281673%2C0%2C4326%2C2433%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452",
@@ -759,11 +773,11 @@
           "image": "https://i.cbc.ca/ais/88bb1921-de71-4660-86a8-8286d2845a92,1792808533515/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539",
-          "title": "Voters head to the polls for B.C. provincial election",
-          "published": "2026-10-24T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/british-columbia-bc-provincial-snap-election-how-to-vote-9.7392539",
-          "image": "https://i.cbc.ca/ais/75aff428-79e8-42bf-8500-00fa0ecc3988,1792870099535/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/from-horses-to-electric-cars-sask-couple-sees-world-transform-over-75-year-marriage-9.7390778",
+          "title": "From horses to electric cars: Sask. couple sees world transform over 75-year marriage",
+          "published": "2026-10-24T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/from-horses-to-electric-cars-sask-couple-sees-world-transform-over-75-year-marriage-9.7390778",
+          "image": "https://i.cbc.ca/ais/00279226-99ef-425c-a9c5-6e356c02d3cd,1792618905711/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C1249%2C702%29%3B"
         },
         {
           "id": "https://www.cbc.ca/player/play/9.7393487",
@@ -778,13 +792,6 @@
           "published": "2026-10-24T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956",
           "image": "https://i.cbc.ca/ais/e7c7ff4a-e7c6-4020-8ead-c516fe187188,1792781774731/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C526%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/mcgill-university-open-letter-9.7393542",
-          "title": "Duelling petitions highlight rift over paroled murderer at McGill law school",
-          "published": "2026-10-24T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/mcgill-university-open-letter-9.7393542",
-          "image": "https://i.cbc.ca/ais/9d720b02-992b-4ee5-a819-cecadedbd602,1792776830461/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/marineland-beluga-whale-deaths-9.7388635",
@@ -841,19 +848,33 @@
           "published": "2026-10-23T22:56:18.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/chiefs-call-government-drop-appeal-separation-petition-9.7394085",
           "image": "https://i.cbc.ca/ais/2f764567-e2d9-425f-b941-5202886ed92f,1792793880609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C339%2C6244%2C3512%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/calgary-pokemon-cards-9.7394033",
-          "title": "Calgary family finds box of Pokémon cards valued at roughly $48,000",
-          "published": "2026-10-23T22:32:06.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/calgary-pokemon-cards-9.7394033",
-          "image": "https://i.cbc.ca/ais/3d6d2eb7-55ae-4b22-afdc-2bcde4b50050,1792794256507/full/max/0/default.jpg?im=Crop%2Crect%3D%28780%2C507%2C2714%2C1526%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-24T20:58:56.358Z",
+      "checkedAt": "2026-10-25T04:56:58.401Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "published": "2026-10-25T04:16:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+          "published": "2026-10-24T23:02:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo",
+          "title": "Who are the candidates in Brazil's presidential election?",
+          "published": "2026-10-24T22:08:47.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
           "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
@@ -874,13 +895,6 @@
           "published": "2026-10-24T17:25:46.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
-          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-          "published": "2026-10-24T17:21:42.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
@@ -944,20 +958,6 @@
           "published": "2026-10-24T05:05:44.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d48/live/69127510-cef6-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko",
-          "title": "The rise of AI election ads in US midterms campaign",
-          "published": "2026-10-24T05:03:44.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/f3eb3240-ce32-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno",
-          "title": "Australian MP's condition improves after alleged car attack",
-          "published": "2026-10-24T01:55:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg"
         }
       ]
     }

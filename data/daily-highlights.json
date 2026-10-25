@@ -110,6 +110,33 @@
           "image": "/media/shared-table.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "generatedAt": "2026-10-25T04:56:58.503Z",
+      "items": [
+        {
+          "id": "77ef24f11cd7",
+          "kind": "guide",
+          "title": "A little more community in your everyday life",
+          "summary": "Explore MIC’s local discovery, marketplace, community voices, news and practical resources.",
+          "url": "/guides/discover-mic-community-features",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/community-friends.jpg"
+        },
+        {
+          "id": "691e12aed01b",
+          "kind": "talk",
+          "title": "703 - Sura al-Nur - 62 - End - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "summary": "Make time for a recent conversation from Faraz Rabbani & SeekersGuidance. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=em94DaO27aY",
+          "sourceId": "seekers",
+          "source": "Faraz Rabbani & SeekersGuidance",
+          "image": "https://i.ytimg.com/vi/em94DaO27aY/hqdefault.jpg",
+          "published": "2026-10-23T02:39:19.000Z"
+        }
+      ]
     }
   ]
 }
