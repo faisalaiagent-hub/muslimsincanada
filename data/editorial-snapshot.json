@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-26T10:13:09.631Z",
+      "checkedAt": "2026-10-26T13:19:38.714Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-26T10:13:09.740Z",
+      "checkedAt": "2026-10-26T13:19:38.917Z",
       "items": [
         {
           "id": "ZEtMUqIic2U",
@@ -145,7 +145,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-26T10:13:10.736Z",
+      "checkedAt": "2026-10-26T13:19:40.903Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/israeli-soldiers-beat-elderly-palestinian-trying-to-reach-his-west-bank-home/",
@@ -288,7 +288,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-26T10:13:09.515Z",
+      "checkedAt": "2026-10-26T13:19:38.581Z",
       "items": [
         {
           "id": "3I664DH2vKg",
@@ -398,7 +398,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-26T10:13:09.835Z",
+      "checkedAt": "2026-10-26T13:19:39.052Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -508,7 +508,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-26T10:13:09.937Z",
+      "checkedAt": "2026-10-26T13:19:39.290Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -618,7 +618,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-26T10:13:10.060Z",
+      "checkedAt": "2026-10-26T13:19:39.425Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -728,21 +728,28 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-26T10:13:10.778Z",
+      "checkedAt": "2026-10-26T13:19:41.030Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/london/video-of-man-helping-homeless-couple-should-inspire-compassion-and-change-building-manager-says-9.7393537",
+          "title": "Video of man helping homeless couple should inspire compassion and change, building manager says",
+          "published": "2026-10-26T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/london/video-of-man-helping-homeless-couple-should-inspire-compassion-and-change-building-manager-says-9.7393537",
+          "image": "https://i.cbc.ca/ais/4893fd34-43f0-48df-8124-7975f46dda26,1792789352032/full/max/0/default.jpg?im=Crop%2Crect%3D%28381%2C233%2C2156%2C1212%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/community-support-program-9.7390469",
+          "title": "St. John's man with disability could become homeless after losing support program",
+          "published": "2026-10-26T08:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/community-support-program-9.7390469",
+          "image": "https://i.cbc.ca/ais/091e7a11-fb2a-4322-add1-5be994052a32,1792610671238/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/reports-show-staffing-shortages-training-lapses-and-care-failures-in-n-l-group-homes-9.7386656",
           "title": "Reports show staffing shortages, training lapses and care failures in N.L. group homes",
           "published": "2026-10-26T08:30:00.000Z",
           "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/reports-show-staffing-shortages-training-lapses-and-care-failures-in-n-l-group-homes-9.7386656",
           "image": "https://i.cbc.ca/ais/5bb79e89-84cc-4bab-b6b9-df01996ad198,1792756821945/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/business/armstrong-inflation-bank-of-canada-interest-rates-9.7393998",
-          "title": "The Bank of Canada's inflation dilemma",
-          "published": "2026-10-26T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/business/armstrong-inflation-bank-of-canada-interest-rates-9.7393998",
-          "image": "https://i.cbc.ca/ais/8de61ddf-aeaf-4828-bac9-9b16b9bbfcd0,1792788380205/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C511%2C8422%2C4737%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/health/cancer-drug-costs-daraxonrasib-9.7388727",
@@ -752,11 +759,11 @@
           "image": "https://i.cbc.ca/ais/71889735-f06d-4ad1-bf22-65446dfbb891,1792520102488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5512%2C3100%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/gopublic/air-canada-maintenance-loophole-deny-compensation-9.7392314",
-          "title": "Air Canada blamed maintenance issues to deny compensation. Records show it wanted planes for other routes",
+          "id": "https://www.cbc.ca/news/business/armstrong-inflation-bank-of-canada-interest-rates-9.7393998",
+          "title": "The Bank of Canada's inflation dilemma",
           "published": "2026-10-26T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/gopublic/air-canada-maintenance-loophole-deny-compensation-9.7392314",
-          "image": "https://i.cbc.ca/ais/544851cb-1411-463e-9d5d-6b2decae816e,1792776007470/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C60%2C3244%2C1824%29%3B"
+          "url": "https://www.cbc.ca/news/business/armstrong-inflation-bank-of-canada-interest-rates-9.7393998",
+          "image": "https://i.cbc.ca/ais/8de61ddf-aeaf-4828-bac9-9b16b9bbfcd0,1792788380205/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C511%2C8422%2C4737%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-9.7393838",
@@ -764,6 +771,13 @@
           "published": "2026-10-26T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-9.7393838",
           "image": "https://i.cbc.ca/ais/e8e320ea-8c21-48a5-8f7b-9a12eaca9c7f,1792955429581/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C5995%2C3372%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/gopublic/air-canada-maintenance-loophole-deny-compensation-9.7392314",
+          "title": "Air Canada blamed maintenance issues to deny compensation. Records show it wanted planes for other routes",
+          "published": "2026-10-26T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/gopublic/air-canada-maintenance-loophole-deny-compensation-9.7392314",
+          "image": "https://i.cbc.ca/ais/544851cb-1411-463e-9d5d-6b2decae816e,1792776007470/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C60%2C3244%2C1824%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/nova-scotia/j-chalmers-doane-ukulele-hall-of-fame-9.7395230",
@@ -820,26 +834,47 @@
           "published": "2026-10-25T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/hamilton/artist-airplane-wainfleet-yard-canadiana-9.7388747",
           "image": "https://i.cbc.ca/ais/836191c4-ef0c-4938-b3b2-e360374b6158,1792528289481/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/first-nations-first-ministers-meeting-relationship-9.7394258",
-          "title": "A ‘reset’ or ‘one and done’? First Nations and first ministers set to hold historic meeting",
-          "published": "2026-10-25T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/politics/first-nations-first-ministers-meeting-relationship-9.7394258",
-          "image": "https://i.cbc.ca/ais/dc87dddf-133e-410f-9b39-7b7e60b3d3aa,1792849563292/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C429%2C8229%2C4628%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-vancouver-recap-oct-24-9.7394989",
-          "title": "Canadian women win relay gold, Laoun takes 500m silver at short track World Tour opener",
-          "published": "2026-10-25T04:15:55.000Z",
-          "url": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-vancouver-recap-oct-24-9.7394989",
-          "image": "https://i.cbc.ca/ais/f7a61f6a-c442-433b-823c-7a94ba322c65,1792953980575/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C181%2C2400%2C1350%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-26T10:13:10.987Z",
+      "checkedAt": "2026-10-26T13:19:41.419Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
+          "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+          "published": "2026-10-26T12:57:58.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b16/live/de274990-d133-11f1-be77-d1864d279cb0.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+          "published": "2026-10-26T12:52:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o",
+          "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+          "published": "2026-10-26T11:39:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c87/live/9b9ce0d0-d129-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo",
+          "title": "Five ways Trump has changed immigration in the US",
+          "published": "2026-10-26T11:29:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb3/live/8c0c5bf0-d138-11f1-be77-d1864d279cb0.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o",
+          "title": "Stunning photos capture October's Hunter's Moon around the world",
+          "published": "2026-10-26T11:27:39.000Z",
+          "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f993/live/5a4ff260-d125-11f1-9a61-7b8d75492b97.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo",
           "title": "Crowds welcome Venezuela's María Machado after months in exile",
@@ -848,25 +883,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276a/live/9bd2b450-d11d-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-          "published": "2026-10-26T09:04:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
-          "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-          "published": "2026-10-26T08:18:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1265/live/b5d85d90-d10a-11f1-ac54-9f7716f7b702.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro",
-          "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+          "title": "China's big political meeting could see Xi 'tighten discipline' in party",
           "published": "2026-10-26T07:40:57.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db8/live/b9600940-d100-11f1-9d25-c3fafb2ab4de.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo",
+          "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+          "published": "2026-10-26T06:19:12.000Z",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cc7/live/9ef6d620-cbd7-11f1-b139-f77a8b036d06.png"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo",
@@ -887,7 +915,7 @@
           "title": "Australian murderer loses bid to eat Vegemite in prison",
           "published": "2026-10-26T04:05:28.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bc0/live/da50eaa0-c44c-11f0-86a7-5d9864ba6ed6.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1263/live/4ad06900-d12a-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo",
@@ -904,46 +932,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6a/live/2a0b2820-ceb6-11f1-ae9c-0303957c36f8.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo",
+          "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+          "published": "2026-10-26T00:07:16.000Z",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9581/live/b729bb60-d0cb-11f1-b86a-c167c5eb76b4.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
           "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
           "published": "2026-10-25T23:44:34.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo",
-          "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-          "published": "2026-10-25T23:33:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8395/live/f35a8d90-d0fc-11f1-9d25-c3fafb2ab4de.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
-          "title": "Deeply divided Israel braces for pivotal election",
-          "published": "2026-10-25T22:11:13.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo",
-          "title": "Why Israel's election is one of the most important in its history",
-          "published": "2026-10-25T22:05:30.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
-          "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-          "published": "2026-10-25T15:32:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo",
-          "title": "Gabon says access to social media restored after eight-month ban",
-          "published": "2026-10-25T14:39:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg"
         }
       ]
     }
