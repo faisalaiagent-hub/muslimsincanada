@@ -137,6 +137,33 @@
           "published": "2026-10-23T02:39:19.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-10-26",
+      "generatedAt": "2026-10-26T05:00:06.003Z",
+      "items": [
+        {
+          "id": "b19159aeb187",
+          "kind": "news",
+          "title": "Profile: Omar Fateh, renter taking on Minnesota’s establishment",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Omar_Fateh_at_Graze_Meet__Greet.jpg",
+          "published": "2026-10-25T07:43:16.000Z"
+        },
+        {
+          "id": "3e0f6dfc4438",
+          "kind": "guide",
+          "title": "A practical starting point for newcomers",
+          "summary": "Explore named settlement and community-service providers. Confirm current services and eligibility directly with each provider.",
+          "url": "/resources?category=Newcomers",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/volunteers.jpg"
+        }
+      ]
     }
   ]
 }

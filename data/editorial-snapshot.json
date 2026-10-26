@@ -145,7 +145,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-25T20:58:54.646Z",
+      "checkedAt": "2026-10-26T05:00:05.597Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
@@ -728,7 +728,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-25T20:58:54.899Z",
+      "checkedAt": "2026-10-26T05:00:05.657Z",
       "items": [
         {
           "id": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-questions-immigration-constitution-9.7394465",
@@ -736,6 +736,13 @@
           "published": "2026-10-25T19:40:46.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-questions-immigration-constitution-9.7394465",
           "image": "https://i.cbc.ca/ais/21bceb54-d49f-4449-96f7-a5c0658ee19d,1792803853103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C474%2C6366%2C3580%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/north-vancouver-graduates-party-boat-stuck-9.7395064",
+          "title": "North Vancouver graduates-to-be have a night to remember as party boat gets stuck in the mud",
+          "published": "2026-10-25T19:31:27.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/north-vancouver-graduates-party-boat-stuck-9.7395064",
+          "image": "https://i.cbc.ca/ais/f182482c-0021-4653-a13c-543cc70cac98,1792902606293/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/calgary/reaction-alberta-referendum-separatism-9.7392004",
@@ -827,25 +834,39 @@
           "published": "2026-10-24T12:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452",
           "image": "https://i.cbc.ca/ais/88bb1921-de71-4660-86a8-8286d2845a92,1792808533515/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/from-horses-to-electric-cars-sask-couple-sees-world-transform-over-75-year-marriage-9.7390778",
-          "title": "From horses to electric cars: Sask. couple sees world transform over 75-year marriage",
-          "published": "2026-10-24T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/from-horses-to-electric-cars-sask-couple-sees-world-transform-over-75-year-marriage-9.7390778",
-          "image": "https://i.cbc.ca/ais/00279226-99ef-425c-a9c5-6e356c02d3cd,1792618905711/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C1249%2C702%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-25T20:58:55.282Z",
+      "checkedAt": "2026-10-26T05:00:05.887Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
-          "title": "Early reports suggest record high turnout in Serbia elections",
-          "published": "2026-10-25T19:55:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "published": "2026-10-26T03:05:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+          "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+          "published": "2026-10-26T01:07:05.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+          "title": "Deeply divided Israel braces for pivotal election",
+          "published": "2026-10-25T22:11:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo",
+          "title": "Why Israel's election is one of the most important in its history",
+          "published": "2026-10-25T22:05:30.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
@@ -853,13 +874,6 @@
           "published": "2026-10-25T19:14:27.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "published": "2026-10-25T18:29:00.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
@@ -930,20 +944,6 @@
           "published": "2026-10-24T23:03:21.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo",
-          "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-          "published": "2026-10-24T23:03:09.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo",
-          "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-          "published": "2026-10-24T23:02:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png"
         }
       ]
     }
