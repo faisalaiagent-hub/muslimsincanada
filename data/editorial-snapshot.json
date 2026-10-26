@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-25T20:58:51.000Z",
+      "checkedAt": "2026-10-26T10:13:09.631Z",
       "items": [
         {
           "id": "em94DaO27aY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-25T20:58:51.201Z",
+      "checkedAt": "2026-10-26T10:13:09.740Z",
       "items": [
         {
           "id": "ZEtMUqIic2U",
@@ -145,73 +145,73 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-26T05:00:05.597Z",
+      "checkedAt": "2026-10-26T10:13:10.736Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-soldiers-beat-elderly-palestinian-trying-to-reach-his-west-bank-home/",
+          "title": "Israeli soldiers beat elderly Palestinian trying to reach his West Bank home",
+          "published": "2026-10-26T06:41:41.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-soldiers-beat-elderly-palestinian-trying-to-reach-his-west-bank-home/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/AA-20260813-42208988-42208983-ISRAELI_FORCES_RAID_PALESTINIAN_TOWN_OF_QUSRA_IN_THE_WEST_BANK.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/saudi-led-coalition-says-it-carried-out-extensive-operations-against-houthis-in-yemen/",
+          "title": "Saudi-led coalition says it carried out extensive operations against Houthis in Yemen",
+          "published": "2026-10-26T06:39:54.000Z",
+          "url": "https://www.muslimnetwork.tv/saudi-led-coalition-says-it-carried-out-extensive-operations-against-houthis-in-yemen/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/02/AA-20240225-33805479-33805477-IRANIANBACKED_HOUTHIS_ANNOUNCE_THAT_US_AND_UK_LAUNCHED_AIRSTRIKES_ON_SANAA.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/lula-vows-to-govern-for-all-brazilians-after-historic-reelection-victory/",
+          "title": "Lula vows to govern for all Brazilians after historic reelection victory",
+          "published": "2026-10-26T06:35:16.000Z",
+          "url": "https://www.muslimnetwork.tv/lula-vows-to-govern-for-all-brazilians-after-historic-reelection-victory/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/08/AA-20250808-38772510-38772497-BRAZILIAN_PRESIDENT_LULA_DA_SILVA_MEETS_ACTOR_WAGNER_MOURA_AND_DIRECTOR_KLEBER_MENDONCA_FILHO_IN_BRASILIA.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israel-punishes-8-palestinian-prisoners-over-cake-celebrating-ben-gvirs-likely-exit-report/",
+          "title": "Israel punishes 8 Palestinian prisoners over cake celebrating Ben-Gvir’s likely exit: report",
+          "published": "2026-10-26T06:33:31.000Z",
+          "url": "https://www.muslimnetwork.tv/israel-punishes-8-palestinian-prisoners-over-cake-celebrating-ben-gvirs-likely-exit-report/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_ee8fc3969e6d73f1a602148ef266de16.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/trump-uses-michigan-rally-to-attack-democratic-senate-candidate-el-sayed/",
+          "title": "Trump uses Michigan rally to attack Democratic Senate candidate El-Sayed",
+          "published": "2026-10-26T06:30:00.000Z",
+          "url": "https://www.muslimnetwork.tv/trump-uses-michigan-rally-to-attack-democratic-senate-candidate-el-sayed/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/President-Donald-Trump-threatened-to-bomb-Oman-if-it-obstructs-US-efforts-to-end-the-Iran-war-as-peace-talks-remain-stalled.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/yemens-houthis-say-they-targeted-riyadh-airport-and-saudi-oil-pipeline/",
+          "title": "Yemen’s Houthis say they targeted Riyadh airport and Saudi oil pipeline",
+          "published": "2026-10-26T06:24:34.000Z",
+          "url": "https://www.muslimnetwork.tv/yemens-houthis-say-they-targeted-riyadh-airport-and-saudi-oil-pipeline/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_82903470eaae29c2ad5fa36be7502411.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
           "title": "Profile: Omar Fateh, renter taking on Minnesota’s establishment",
           "published": "2026-10-25T07:43:16.000Z",
-          "url": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Omar_Fateh_at_Graze_Meet__Greet.jpg"
+          "url": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/"
         },
         {
           "id": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
           "title": "Christchurch mosque massacre: book faults official inquiry",
           "published": "2026-10-24T09:49:05.000Z",
-          "url": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/03/20220315_2_52622738_74704006-scaled.jpg"
+          "url": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/"
         },
         {
           "id": "https://www.muslimnetwork.tv/pakistan-among-most-targeted-by-israeli-spyware-report/",
           "title": "Pakistan among most targeted by Israeli spyware: Report",
           "published": "2026-10-24T09:33:38.000Z",
-          "url": "https://www.muslimnetwork.tv/pakistan-among-most-targeted-by-israeli-spyware-report/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/P20250925DT-0714_President_Donald_Trump_meets_with_Prime_Minister_Shehbaz_Sharif_and_Field_Marshal_Asim_Munir_of_Pakistan.jpg"
+          "url": "https://www.muslimnetwork.tv/pakistan-among-most-targeted-by-israeli-spyware-report/"
         },
         {
           "id": "https://www.muslimnetwork.tv/pakistani-origin-surgeon-wins-pride-of-britain-lifetime-achievement-award/",
           "title": "Pakistani-origin surgeon wins Pride of Britain Lifetime Achievement Award",
           "published": "2026-10-24T09:32:13.000Z",
-          "url": "https://www.muslimnetwork.tv/pakistani-origin-surgeon-wins-pride-of-britain-lifetime-achievement-award/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/images-20.jpeg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/aipac-linked-pac-moves-9m-to-rogers-in-michigan-senate-race/",
-          "title": "AIPAC-linked PAC moves $9m to Rogers in Michigan Senate race",
-          "published": "2026-10-24T09:30:03.000Z",
-          "url": "https://www.muslimnetwork.tv/aipac-linked-pac-moves-9m-to-rogers-in-michigan-senate-race/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_1-1.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/profile-osman-salahuddin-from-pakistani-immigrant-roots-to-washington-state-house/",
-          "title": "Profile: Osman Salahuddin, from Pakistani immigrant roots to Washington State House",
-          "published": "2026-10-24T08:55:38.000Z",
-          "url": "https://www.muslimnetwork.tv/profile-osman-salahuddin-from-pakistani-immigrant-roots-to-washington-state-house/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Osman_Salahuddin.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/devastating-data-breach-at-crime-stoppers-across-canada-exposes-tipsters-and-their-personal-information/",
-          "title": "Devastating Data Breach at Crime Stoppers Across Canada Exposes Tipsters and Their Personal Information.",
-          "published": "2026-10-23T23:42:13.000Z",
-          "url": "https://www.muslimnetwork.tv/devastating-data-breach-at-crime-stoppers-across-canada-exposes-tipsters-and-their-personal-information/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/four-israeli-real-estate-companies-and-one-canadian-marketing-firm-under-scrutiny-for-allegedly-deceiving-canadians/",
-          "title": "Four Israeli Real Estate Companies and One Canadian Marketing Firm Under Scrutiny for Allegedly Deceiving Canadians.",
-          "published": "2026-10-23T23:38:36.000Z",
-          "url": "https://www.muslimnetwork.tv/four-israeli-real-estate-companies-and-one-canadian-marketing-firm-under-scrutiny-for-allegedly-deceiving-canadians/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/mosque-madrasa-face-eviction-threat-in-indias-uttar-pradesh/",
-          "title": "Mosque, madrasa face eviction threat in India’s Uttar Pradesh",
-          "published": "2026-10-23T21:38:04.000Z",
-          "url": "https://www.muslimnetwork.tv/mosque-madrasa-face-eviction-threat-in-indias-uttar-pradesh/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/christians-demand-direct-federal-control-amid-deadly-violence-in-india/",
-          "title": "Christians demand direct federal control amid deadly violence in India",
-          "published": "2026-10-23T21:36:11.000Z",
-          "url": "https://www.muslimnetwork.tv/christians-demand-direct-federal-control-amid-deadly-violence-in-india/"
+          "url": "https://www.muslimnetwork.tv/pakistani-origin-surgeon-wins-pride-of-britain-lifetime-achievement-award/"
         }
       ]
     },
@@ -288,7 +288,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-25T20:58:50.884Z",
+      "checkedAt": "2026-10-26T10:13:09.515Z",
       "items": [
         {
           "id": "3I664DH2vKg",
@@ -398,7 +398,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-25T20:58:51.319Z",
+      "checkedAt": "2026-10-26T10:13:09.835Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -508,7 +508,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-25T20:58:51.462Z",
+      "checkedAt": "2026-10-26T10:13:09.937Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -618,7 +618,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-25T20:58:51.613Z",
+      "checkedAt": "2026-10-26T10:13:10.060Z",
       "items": [
         {
           "id": "h4GBquq5fDw",
@@ -728,8 +728,50 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-26T05:00:05.657Z",
+      "checkedAt": "2026-10-26T10:13:10.778Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/reports-show-staffing-shortages-training-lapses-and-care-failures-in-n-l-group-homes-9.7386656",
+          "title": "Reports show staffing shortages, training lapses and care failures in N.L. group homes",
+          "published": "2026-10-26T08:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/reports-show-staffing-shortages-training-lapses-and-care-failures-in-n-l-group-homes-9.7386656",
+          "image": "https://i.cbc.ca/ais/5bb79e89-84cc-4bab-b6b9-df01996ad198,1792756821945/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/armstrong-inflation-bank-of-canada-interest-rates-9.7393998",
+          "title": "The Bank of Canada's inflation dilemma",
+          "published": "2026-10-26T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/business/armstrong-inflation-bank-of-canada-interest-rates-9.7393998",
+          "image": "https://i.cbc.ca/ais/8de61ddf-aeaf-4828-bac9-9b16b9bbfcd0,1792788380205/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C511%2C8422%2C4737%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/health/cancer-drug-costs-daraxonrasib-9.7388727",
+          "title": "A new cancer drug costs as much as a home down payment each month. Doctors say that's greed, not health care",
+          "published": "2026-10-26T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/health/cancer-drug-costs-daraxonrasib-9.7388727",
+          "image": "https://i.cbc.ca/ais/71889735-f06d-4ad1-bf22-65446dfbb891,1792520102488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5512%2C3100%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/gopublic/air-canada-maintenance-loophole-deny-compensation-9.7392314",
+          "title": "Air Canada blamed maintenance issues to deny compensation. Records show it wanted planes for other routes",
+          "published": "2026-10-26T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/gopublic/air-canada-maintenance-loophole-deny-compensation-9.7392314",
+          "image": "https://i.cbc.ca/ais/544851cb-1411-463e-9d5d-6b2decae816e,1792776007470/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C60%2C3244%2C1824%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-9.7393838",
+          "title": "First Nations want tangible results as 'historic' first ministers' meeting opens",
+          "published": "2026-10-26T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-9.7393838",
+          "image": "https://i.cbc.ca/ais/e8e320ea-8c21-48a5-8f7b-9a12eaca9c7f,1792955429581/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C5995%2C3372%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/j-chalmers-doane-ukulele-hall-of-fame-9.7395230",
+          "title": "Halifax’s 'Pied Piper' J. Chalmers Doane becomes first Canadian in Ukulele Hall of Fame",
+          "published": "2026-10-25T20:32:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/j-chalmers-doane-ukulele-hall-of-fame-9.7395230",
+          "image": "https://i.cbc.ca/ais/7af6ac33-6e91-43a4-b38d-cca74e6c8a66,1792957488167/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-questions-immigration-constitution-9.7394465",
           "title": "Smith scores slim majority on immigration questions, Albertans reject constitutional changes",
@@ -792,67 +834,88 @@
           "published": "2026-10-25T04:15:55.000Z",
           "url": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-vancouver-recap-oct-24-9.7394989",
           "image": "https://i.cbc.ca/ais/f7a61f6a-c442-433b-823c-7a94ba322c65,1792953980575/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C181%2C2400%2C1350%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/pte-shaun-farrell-procession-9.7394912",
-          "title": "Emergency vehicles escort remains of Pte. Shaun Farrell to Prince Albert",
-          "published": "2026-10-25T01:45:41.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/pte-shaun-farrell-procession-9.7394912",
-          "image": "https://i.cbc.ca/ais/a9cc00b8-21d1-4151-84c2-c624103f590e,1792701931388/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C224%2C1709%2C961%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208",
-          "title": "B.C. Conservatives projected to win 1st majority in nearly a century after Eby's election gamble backfires",
-          "published": "2026-10-25T01:30:17.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208",
-          "image": "https://i.cbc.ca/ais/79104914-9975-49fb-9a0b-91c6e44f0f27,1792905612659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C117%2C4176%2C2349%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845",
-          "title": "Convicted murderer who attended McGill's faculty of law now back in custody",
-          "published": "2026-10-24T20:52:21.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845",
-          "image": "https://i.cbc.ca/ais/0d841f19-77e4-4c89-ba5d-6f5c9c43863a,1792101972315/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C108%2C2048%2C1152%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791",
-          "title": "Toronto police seeking mother, 22, for allegedly abducting her 3 children",
-          "published": "2026-10-24T18:48:25.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/mother-abduction-three-children-toronto-police-9.7394791",
-          "image": "https://i.cbc.ca/ais/53580138-edaa-4b8d-938f-ecfafd21de55,1792864831846/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C852%2C479%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/sask-crime-stoppers-pauses-tip-intake-national-data-breach-9.7394723",
-          "title": "Sask. Crime Stoppers programs pause tip intake due to national data breach",
-          "published": "2026-10-24T16:30:19.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-crime-stoppers-pauses-tip-intake-national-data-breach-9.7394723",
-          "image": "https://i.cbc.ca/ais/013355dc-e034-45df-9f6f-c19d52f3aa0d,1792857282778/full/max/0/default.jpg?im=Crop%2Crect%3D%281673%2C0%2C4326%2C2433%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452",
-          "title": "Q&A: Premier Danielle Smith says she doesn’t need Alberta separatists’ support",
-          "published": "2026-10-24T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-referendum-alberta-separatists-premier-9.7394452",
-          "image": "https://i.cbc.ca/ais/88bb1921-de71-4660-86a8-8286d2845a92,1792808533515/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-26T05:00:05.887Z",
+      "checkedAt": "2026-10-26T10:13:10.987Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "published": "2026-10-26T03:05:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg"
+          "id": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo",
+          "title": "Crowds welcome Venezuela's María Machado after months in exile",
+          "published": "2026-10-26T09:31:12.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276a/live/9bd2b450-d11d-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-          "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-          "published": "2026-10-26T01:07:05.000Z",
+          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+          "published": "2026-10-26T09:04:47.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
+          "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+          "published": "2026-10-26T08:18:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1265/live/b5d85d90-d10a-11f1-ac54-9f7716f7b702.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro",
+          "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+          "published": "2026-10-26T07:40:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db8/live/b9600940-d100-11f1-9d25-c3fafb2ab4de.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo",
+          "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+          "published": "2026-10-26T06:16:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/0257f500-d100-11f1-9d25-c3fafb2ab4de.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "published": "2026-10-26T05:20:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dcf/live/679d8fc0-d0a0-11f1-87fa-c1809f43a7a8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go",
+          "title": "Australian murderer loses bid to eat Vegemite in prison",
+          "published": "2026-10-26T04:05:28.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bc0/live/da50eaa0-c44c-11f0-86a7-5d9864ba6ed6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo",
+          "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+          "published": "2026-10-26T02:53:00.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3247/live/2f1c2d90-d10a-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo",
+          "title": "India's cartoonists built an audience online - now their posts are being restricted",
+          "published": "2026-10-26T01:09:41.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6a/live/2a0b2820-ceb6-11f1-ae9c-0303957c36f8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+          "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+          "published": "2026-10-25T23:44:34.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo",
+          "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+          "published": "2026-10-25T23:33:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8395/live/f35a8d90-d0fc-11f1-9d25-c3fafb2ab4de.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
@@ -869,13 +932,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
-          "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-          "published": "2026-10-25T19:14:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
           "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
           "published": "2026-10-25T15:32:51.000Z",
@@ -888,62 +944,6 @@
           "published": "2026-10-25T14:39:47.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo",
-          "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-          "published": "2026-10-25T10:55:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f31/live/75490920-d05e-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
-          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-          "published": "2026-10-25T10:38:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "published": "2026-10-25T09:00:00.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo",
-          "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-          "published": "2026-10-25T08:36:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02e/live/5ba1ae30-c0a7-11f1-b72b-c3e328aa18ed.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo",
-          "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-          "published": "2026-10-25T05:45:31.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7151/live/1593e210-cfa6-11f1-aadb-297fd0a130b9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "published": "2026-10-25T05:15:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
-          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-          "published": "2026-10-25T02:27:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0734/live/d07c4f10-cff9-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do",
-          "title": "The bitter row over military service that could shape Israel's future",
-          "published": "2026-10-24T23:03:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg"
         }
       ]
     }
