@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-27T09:52:06.776Z",
+      "checkedAt": "2026-10-27T12:27:13.149Z",
       "items": [
         {
           "id": "mI0DDZBLYzg",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-27T09:52:06.949Z",
+      "checkedAt": "2026-10-27T12:27:13.167Z",
       "items": [
         {
           "id": "esvCgoH4V7I",
@@ -145,7 +145,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-27T09:52:08.917Z",
+      "checkedAt": "2026-10-27T12:27:16.259Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/macklemore-launches-free-palestine-tour-after-sheeran-split/",
@@ -288,7 +288,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-27T09:52:06.639Z",
+      "checkedAt": "2026-10-27T12:27:13.042Z",
       "items": [
         {
           "id": "zDd9P02o3r8",
@@ -398,7 +398,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-27T09:52:07.407Z",
+      "checkedAt": "2026-10-27T12:27:13.286Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -508,7 +508,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-27T09:52:07.568Z",
+      "checkedAt": "2026-10-27T12:27:13.654Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -618,7 +618,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-27T09:52:07.862Z",
+      "checkedAt": "2026-10-27T12:27:13.795Z",
       "items": [
         {
           "id": "VpnoHQNR1ko",
@@ -728,14 +728,28 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-27T09:52:09.389Z",
+      "checkedAt": "2026-10-27T12:27:16.460Z",
       "items": [
         {
-          "id": "https://www.cbc.ca/news/health/glp1-crash-dieting-9.7390473",
-          "title": "Long-term medication or modern crash diet? Inside the new world of GLP-1s",
-          "published": "2026-10-27T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/health/glp1-crash-dieting-9.7390473",
-          "image": "https://i.cbc.ca/ais/5287ee25-067c-419a-8bb8-98ead40cc475,1792609045109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "id": "https://www.cbc.ca/news/canada/kitchener-waterloo/fresh-faces-take-the-reins-as-mayoral-incumbents-fall-short-across-waterloo-region-9.7397187",
+          "title": "Fresh faces take the reins as mayoral incumbents fall short across Waterloo, Ont., region",
+          "published": "2026-10-27T11:06:13.000Z",
+          "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/fresh-faces-take-the-reins-as-mayoral-incumbents-fall-short-across-waterloo-region-9.7397187",
+          "image": "https://i.cbc.ca/ais/197e3b5e-9c73-4f42-a579-1edd84ed047d,1793072729391/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/parks-canada-search-and-rescue-dog-program-banff-9.7396787",
+          "title": "Parks Canada ends search and rescue dog program",
+          "published": "2026-10-27T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/parks-canada-search-and-rescue-dog-program-banff-9.7396787",
+          "image": "https://i.cbc.ca/ais/74b968bd-8024-4162-9840-ae3a0fbe0714,1793060665419/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C812%2C1536%2C864%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/community-support-program-update-9.7397101",
+          "title": "Family relieved as health unit reverses decision to terminate St. John’s man’s social support",
+          "published": "2026-10-27T08:56:40.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/community-support-program-update-9.7397101",
+          "image": "https://i.cbc.ca/ais/5449dd3c-74ce-43ab-bdd0-4b6b9d1f5191,1793059832557/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1800%2C1012%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/olivia-chow-progressive-council-toronto-mayor-second-term-9.7396703",
@@ -743,6 +757,13 @@
           "published": "2026-10-27T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/olivia-chow-progressive-council-toronto-mayor-second-term-9.7396703",
           "image": "https://i.cbc.ca/ais/c27777d8-948e-4f0a-957e-0e6eb7f16895,1793068803247/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/health/glp1-crash-dieting-9.7390473",
+          "title": "Long-term medication or modern crash diet? Inside the new world of GLP-1s",
+          "published": "2026-10-27T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/health/glp1-crash-dieting-9.7390473",
+          "image": "https://i.cbc.ca/ais/5287ee25-067c-419a-8bb8-98ead40cc475,1792609045109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/investigates/crime-stoppers-breach-fallout-widens-9.7397211",
@@ -757,6 +778,13 @@
           "published": "2026-10-27T01:40:39.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-lower-voter-turnout-vote-splitting-9.7397022",
           "image": "https://i.cbc.ca/ais/07520df7-7474-4cf3-a8d0-06c3d9fa9d32,1793059969087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C69%2C6500%2C3656%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/player/play/9.7397098",
+          "title": "Molly Carlson makes history by diving off an iceberg | Hanomansing Live",
+          "published": "2026-10-27T00:19:06.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7397098",
+          "image": "https://i.cbc.ca/ais/2516d852-858e-4211-b55b-06087567d292,1793060112332/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C8269%2C4651%29%3B"
         },
         {
           "id": "https://www.cbc.ca/player/play/9.7397024",
@@ -806,46 +834,53 @@
           "published": "2026-10-26T23:00:16.000Z",
           "url": "https://www.cbc.ca/news/canada/hamilton/livestory/hamilton-niagara-ontario-election-9.7396668",
           "image": "https://i.cbc.ca/ais/7eb9c78d-44b8-447c-b450-888a24bce456,1793072771031/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C372%2C4992%2C2808%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/ottawa/livestory/ottawa-city-municipal-local-election-mayor-council-2026-watch-9.7396716",
-          "title": "Mark Sutcliffe to return as Ottawa mayor with 3 new councillors",
-          "published": "2026-10-26T23:00:02.000Z",
-          "url": "https://www.cbc.ca/news/canada/ottawa/livestory/ottawa-city-municipal-local-election-mayor-council-2026-watch-9.7396716",
-          "image": "https://i.cbc.ca/ais/15d691ce-bd34-4693-962b-c253f7013432,1793068019052/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C1998%2C1123%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/online-gambling-alberta-aigc-9.7396739",
-          "title": "Online gambling brings in roughly $56M for Alberta since July launch",
-          "published": "2026-10-26T22:42:27.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/online-gambling-alberta-aigc-9.7396739",
-          "image": "https://i.cbc.ca/ais/ea212b23-ea5f-43ba-ab45-f2ec87222f89,1792595202065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C280%2C5375%2C3023%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/livestory/2026-election-toronto-brampton-mississauga-durham-9.7396652",
-          "title": "GTA votes 2026: Catch up on everything you need to know from election night",
-          "published": "2026-10-26T22:42:23.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/livestory/2026-election-toronto-brampton-mississauga-durham-9.7396652",
-          "image": "https://i.cbc.ca/ais/626089fa-55ad-47b2-ac43-da0cd76654a3,1793045162525/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C341%2C7508%2C4223%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/radio/asithappens/sarnia-mayor-great-lakes-drones-9.7396779",
-          "title": "The U.S. put surveillance drones in the Great Lakes, and this border town mayor isn't happy",
-          "published": "2026-10-26T22:05:56.000Z",
-          "url": "https://www.cbc.ca/radio/asithappens/sarnia-mayor-great-lakes-drones-9.7396779",
-          "image": "https://i.cbc.ca/ais/1.7064328,1703019796000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C1071%2C602%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-27T09:52:09.511Z",
+      "checkedAt": "2026-10-27T12:27:16.881Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+          "published": "2026-10-27T12:02:20.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
           "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-          "published": "2026-10-27T09:18:44.000Z",
+          "published": "2026-10-27T11:53:57.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "published": "2026-10-27T11:44:54.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo",
+          "title": "Netherlands pulls out of Eurovision again over Israel participation",
+          "published": "2026-10-27T11:23:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/912b/live/5e717160-d1fd-11f1-b30f-21253679b290.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
+          "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+          "published": "2026-10-27T11:11:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo",
+          "title": "What does Israel's election mean for Gaza and the wider world?",
+          "published": "2026-10-27T10:17:36.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054f/live/2e8109b0-d1f4-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/c574p31l1l2no",
@@ -859,21 +894,7 @@
           "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
           "published": "2026-10-27T07:22:41.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c551/live/acd0cb80-d1d5-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
-          "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-          "published": "2026-10-27T07:15:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
-          "title": "Israel heads to polls for pivotal election defined by security and democracy",
-          "published": "2026-10-27T05:45:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/45485530-d1ff-11f1-b30f-21253679b290.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
@@ -895,13 +916,6 @@
           "published": "2026-10-27T02:40:17.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
-          "title": "Ex-FBI chief James Comey faces federal charges for third time",
-          "published": "2026-10-27T02:01:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
@@ -930,20 +944,6 @@
           "published": "2026-10-26T19:27:21.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
-          "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
-          "published": "2026-10-26T18:46:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/180c/live/6ade9ad0-d16d-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo",
-          "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
-          "published": "2026-10-26T18:00:10.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df4/live/5c4cd8f0-d1d7-11f1-b441-2b33b063138f.jpg"
         }
       ]
     }
