@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-27T12:27:13.149Z",
+      "checkedAt": "2026-10-27T22:25:30.009Z",
       "items": [
+        {
+          "id": "pfXQbVmv8V4",
+          "title": "36 - Book of Purification: [Hadith 381-390] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "published": "2026-10-27T14:00:53.000Z",
+          "url": "https://www.youtube.com/watch?v=pfXQbVmv8V4",
+          "image": "https://i.ytimg.com/vi/pfXQbVmv8V4/hqdefault.jpg"
+        },
         {
           "id": "mI0DDZBLYzg",
           "title": "704 - Sura al-Furqan - 01 - 02 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
@@ -101,19 +108,19 @@
           "published": "2026-09-17T15:01:53.000Z",
           "url": "https://www.youtube.com/watch?v=FzExnW0S4yM",
           "image": "https://i.ytimg.com/vi/FzExnW0S4yM/hqdefault.jpg"
-        },
-        {
-          "id": "kw0ymHsTlrY",
-          "title": "Lesson 32 - Book of Purification - [Hadith 334-42] -Mishkat al-Masabih -Shaykh Ilyas Patel",
-          "published": "2026-09-17T13:43:25.000Z",
-          "url": "https://www.youtube.com/watch?v=kw0ymHsTlrY",
-          "image": "https://i.ytimg.com/vi/kw0ymHsTlrY/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-27T12:27:13.167Z",
+      "checkedAt": "2026-10-27T22:25:30.133Z",
       "items": [
+        {
+          "id": "PUaq6dSejTI",
+          "title": "When Exposing Yourself Is “Empowerment” | Signs of the Hour Ep. 23 | Dr. Omar Suleiman",
+          "published": "2026-10-27T14:00:06.000Z",
+          "url": "https://www.youtube.com/watch?v=PUaq6dSejTI",
+          "image": "https://i.ytimg.com/vi/PUaq6dSejTI/hqdefault.jpg"
+        },
         {
           "id": "esvCgoH4V7I",
           "title": "School Bus Hero: The Faith Behind The Courage | Ebro Ahmed and Dr. Omar Suleiman",
@@ -145,73 +152,73 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-27T12:27:16.259Z",
+      "checkedAt": "2026-10-27T22:25:31.156Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/rights-groups-condemn-israels-detention-of-palestinian-healthcare-workers/",
+          "title": "Rights groups condemn Israel’s detention of Palestinian healthcare workers",
+          "published": "2026-10-27T17:13:14.000Z",
+          "url": "https://www.muslimnetwork.tv/rights-groups-condemn-israels-detention-of-palestinian-healthcare-workers/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Human-rights-monitors-demand-release-of-three-detained-doctors-and-warn-of-alleged-torture-medical-neglect-and-criminalization-of-legitimate-advocacy.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/riyadh-event-challenges-stigma-surrounding-people-who-stutter/",
+          "title": "Riyadh event challenges stigma surrounding people who stutter",
+          "published": "2026-10-27T17:09:33.000Z",
+          "url": "https://www.muslimnetwork.tv/riyadh-event-challenges-stigma-surrounding-people-who-stutter/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-silverkblack-30535632.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/dubai-ai-festival-showcases-emerging-artificial-intelligence-applications/",
+          "title": "Dubai AI Festival showcases emerging artificial intelligence applications",
+          "published": "2026-10-27T17:08:02.000Z",
+          "url": "https://www.muslimnetwork.tv/dubai-ai-festival-showcases-emerging-artificial-intelligence-applications/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-katetrysh-27206533.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/iraq-and-jordan-sign-nine-agreements-to-deepen-cooperation/",
+          "title": "Iraq and Jordan sign nine agreements to deepen cooperation",
+          "published": "2026-10-27T17:06:48.000Z",
+          "url": "https://www.muslimnetwork.tv/iraq-and-jordan-sign-nine-agreements-to-deepen-cooperation/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_2a3d3a8bda01370c70eb080e1d08145b.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-forces-demolish-palestinian-home-during-qalqilya-raid/",
+          "title": "Israeli forces demolish Palestinian home during Qalqilya raid",
+          "published": "2026-10-27T16:44:05.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-forces-demolish-palestinian-home-during-qalqilya-raid/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/images.jpeg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/amnesty-uk-condemns-israeli-elections-as-apartheid-at-the-ballot-box/",
+          "title": "Amnesty UK condemns Israeli elections as ‘apartheid at the ballot box’",
+          "published": "2026-10-27T14:39:57.000Z",
+          "url": "https://www.muslimnetwork.tv/amnesty-uk-condemns-israeli-elections-as-apartheid-at-the-ballot-box/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261027-42882020-42882011-YASHAR_PARTY_LEADER_GADI_EISENKOT_CASTS_VOTE_IN_ISRAELI_ELECTIONS.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/ben-gvir-accuses-netanyahu-of-planning-us-backed-government-without-him/",
+          "title": "Ben-Gvir accuses Netanyahu of planning US-backed government without him",
+          "published": "2026-10-27T14:38:37.000Z",
+          "url": "https://www.muslimnetwork.tv/ben-gvir-accuses-netanyahu-of-planning-us-backed-government-without-him/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/macklemore-launches-free-palestine-tour-after-sheeran-split/",
           "title": "Macklemore launches Free Palestine tour after Sheeran split",
           "published": "2026-10-27T09:08:18.000Z",
-          "url": "https://www.muslimnetwork.tv/macklemore-launches-free-palestine-tour-after-sheeran-split/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_430184922e190905479d6f8cabf616df.webp"
+          "url": "https://www.muslimnetwork.tv/macklemore-launches-free-palestine-tour-after-sheeran-split/"
         },
         {
           "id": "https://www.muslimnetwork.tv/egypt-authorizes-sisi-to-support-saudi-arabia-against-aggression/",
           "title": "Egypt authorizes Sisi to support Saudi Arabia against aggression",
           "published": "2026-10-27T09:06:10.000Z",
-          "url": "https://www.muslimnetwork.tv/egypt-authorizes-sisi-to-support-saudi-arabia-against-aggression/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_48171d99fe24f8a9dd950dade0bb4b5d.webp"
+          "url": "https://www.muslimnetwork.tv/egypt-authorizes-sisi-to-support-saudi-arabia-against-aggression/"
         },
         {
           "id": "https://www.muslimnetwork.tv/un-investigators-document-israeli-extermination-and-torture-in-west-bank/",
           "title": "UN investigators document Israeli extermination and torture in West Bank",
           "published": "2026-10-27T09:04:50.000Z",
-          "url": "https://www.muslimnetwork.tv/un-investigators-document-israeli-extermination-and-torture-in-west-bank/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_4a6786e519db55c43747eccd5af98026.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israel-launches-fresh-attacks-across-southern-lebanon/",
-          "title": "Israel launches fresh attacks across southern Lebanon",
-          "published": "2026-10-27T09:03:19.000Z",
-          "url": "https://www.muslimnetwork.tv/israel-launches-fresh-attacks-across-southern-lebanon/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/lebanon-israel.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/jordan-launches-airstrikes-in-syria-after-deadly-church-shooting/",
-          "title": "Jordan launches airstrikes in Syria after deadly church shooting",
-          "published": "2026-10-27T08:50:19.000Z",
-          "url": "https://www.muslimnetwork.tv/jordan-launches-airstrikes-in-syria-after-deadly-church-shooting/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_b6dbef109c82c6f5cca05c9e629e6105.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/new-legal-report-casts-indian-ruled-kashmir-as-a-settler-colonial-siege/",
-          "title": "New legal report casts Indian-ruled Kashmir as a settler-colonial siege",
-          "published": "2026-10-27T08:34:22.000Z",
-          "url": "https://www.muslimnetwork.tv/new-legal-report-casts-indian-ruled-kashmir-as-a-settler-colonial-siege/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/05/AA-20250508-37887708-37887691-DAILY_LIFE_AMID_TENSIONS_VIEWS_FROM_INDIAS_BORDER_TOWN_OF_URI.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iran-tajikistan-propose-union-of-persian-speaking-states/",
-          "title": "Iran, Tajikistan propose union of Persian-speaking states",
-          "published": "2026-10-27T08:21:58.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-tajikistan-propose-union-of-persian-speaking-states/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/uzbekistan-issues-its-first-islamic-banking-license/",
-          "title": "Uzbekistan issues its first Islamic banking license",
-          "published": "2026-10-27T08:20:45.000Z",
-          "url": "https://www.muslimnetwork.tv/uzbekistan-issues-its-first-islamic-banking-license/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/malaysias-johor-state-on-track-for-12-million-tourists/",
-          "title": "Malaysia’s Johor state on track for 12 million tourists",
-          "published": "2026-10-27T08:18:31.000Z",
-          "url": "https://www.muslimnetwork.tv/malaysias-johor-state-on-track-for-12-million-tourists/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/thailands-deep-south-artists-speak-out-for-palestine/",
-          "title": "Thailand’s Deep South artists speak out for Palestine",
-          "published": "2026-10-27T08:14:10.000Z",
-          "url": "https://www.muslimnetwork.tv/thailands-deep-south-artists-speak-out-for-palestine/"
+          "url": "https://www.muslimnetwork.tv/un-investigators-document-israeli-extermination-and-torture-in-west-bank/"
         }
       ]
     },
@@ -288,8 +295,22 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-27T12:27:13.042Z",
+      "checkedAt": "2026-10-27T22:25:29.868Z",
       "items": [
+        {
+          "id": "9wytgVpt9mk",
+          "title": "Strengthening Faith: Creating a Muslim-Friendly Environment",
+          "published": "2026-10-27T18:08:06.000Z",
+          "url": "https://www.youtube.com/watch?v=9wytgVpt9mk",
+          "image": "https://i.ytimg.com/vi/9wytgVpt9mk/hqdefault.jpg"
+        },
+        {
+          "id": "uEOEIG1lQCw",
+          "title": "The Quran on Neglecting Prayer",
+          "published": "2026-10-27T13:32:15.000Z",
+          "url": "https://www.youtube.com/watch?v=uEOEIG1lQCw",
+          "image": "https://i.ytimg.com/vi/uEOEIG1lQCw/hqdefault.jpg"
+        },
         {
           "id": "zDd9P02o3r8",
           "title": "God's Mercy: The Key to Faith and Love",
@@ -380,25 +401,11 @@
           "published": "2026-10-19T13:13:31.000Z",
           "url": "https://www.youtube.com/watch?v=FxSK_I2abHA",
           "image": "https://i.ytimg.com/vi/FxSK_I2abHA/hqdefault.jpg"
-        },
-        {
-          "id": "ExPM-CoB1CI",
-          "title": "Quran vs. Hadith: Understanding Scriptural Differences",
-          "published": "2026-10-16T17:48:31.000Z",
-          "url": "https://www.youtube.com/watch?v=ExPM-CoB1CI",
-          "image": "https://i.ytimg.com/vi/ExPM-CoB1CI/hqdefault.jpg"
-        },
-        {
-          "id": "K12C9ae6ItA",
-          "title": "Our Family's Halloween: No Trick-or-Treating, Just Candy!",
-          "published": "2026-10-16T14:39:33.000Z",
-          "url": "https://www.youtube.com/watch?v=K12C9ae6ItA",
-          "image": "https://i.ytimg.com/vi/K12C9ae6ItA/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-27T12:27:13.286Z",
+      "checkedAt": "2026-10-27T22:25:30.228Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -508,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-27T12:27:13.654Z",
+      "checkedAt": "2026-10-27T22:25:30.318Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -618,8 +625,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-27T12:27:13.795Z",
+      "checkedAt": "2026-10-27T22:25:30.466Z",
       "items": [
+        {
+          "id": "MwFgQdUI7j4",
+          "title": "A test can become a path upward when it brings you back to Allah.",
+          "published": "2026-10-27T20:00:28.000Z",
+          "url": "https://www.youtube.com/watch?v=MwFgQdUI7j4",
+          "image": "https://i.ytimg.com/vi/MwFgQdUI7j4/hqdefault.jpg"
+        },
         {
           "id": "VpnoHQNR1ko",
           "title": "Blessings are preserved through responsibility, gratitude, and the character you build around them.",
@@ -717,233 +731,226 @@
           "published": "2026-10-01T17:30:07.000Z",
           "url": "https://www.youtube.com/watch?v=i-2k8HGdUBc",
           "image": "https://i.ytimg.com/vi/i-2k8HGdUBc/hqdefault.jpg"
-        },
-        {
-          "id": "KAwwJbM4Gn4",
-          "title": "We are already few. Why make ourselves fewer through division?",
-          "published": "2026-09-30T03:24:45.000Z",
-          "url": "https://www.youtube.com/watch?v=KAwwJbM4Gn4",
-          "image": "https://i.ytimg.com/vi/KAwwJbM4Gn4/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-27T12:27:16.460Z",
+      "checkedAt": "2026-10-27T22:25:31.197Z",
       "items": [
         {
-          "id": "https://www.cbc.ca/news/canada/kitchener-waterloo/fresh-faces-take-the-reins-as-mayoral-incumbents-fall-short-across-waterloo-region-9.7397187",
-          "title": "Fresh faces take the reins as mayoral incumbents fall short across Waterloo, Ont., region",
-          "published": "2026-10-27T11:06:13.000Z",
-          "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/fresh-faces-take-the-reins-as-mayoral-incumbents-fall-short-across-waterloo-region-9.7397187",
-          "image": "https://i.cbc.ca/ais/197e3b5e-9c73-4f42-a579-1edd84ed047d,1793072729391/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+          "id": "https://www.cbc.ca/news/canada/manitoba/indian-act-abolish-kinew-reactions-9.7398585",
+          "title": "'Healthy' to have conversation on abolishing Indian Act, First Nation chief says",
+          "published": "2026-10-27T21:52:30.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/indian-act-abolish-kinew-reactions-9.7398585",
+          "image": "https://i.cbc.ca/ais/17e9e917-4fb1-485d-bdc9-366572c38ea2,1793132730926/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7917%2C4453%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/calgary/parks-canada-search-and-rescue-dog-program-banff-9.7396787",
-          "title": "Parks Canada ends search and rescue dog program",
-          "published": "2026-10-27T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/parks-canada-search-and-rescue-dog-program-banff-9.7396787",
-          "image": "https://i.cbc.ca/ais/74b968bd-8024-4162-9840-ae3a0fbe0714,1793060665419/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C812%2C1536%2C864%29%3B"
+          "id": "https://www.cbc.ca/news/canada/calgary/alberta-health-services-ahs-athana-mentzelopoulos-9.7398616",
+          "title": "RCMP investigating allegations of money laundering, fraud in Alberta health procurement probes",
+          "published": "2026-10-27T21:38:45.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/alberta-health-services-ahs-athana-mentzelopoulos-9.7398616",
+          "image": "https://i.cbc.ca/ais/2254a344-80cc-46e3-9fe8-5727fc0b7ac2,1793133678466/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C182%2C5607%2C3153%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/community-support-program-update-9.7397101",
-          "title": "Family relieved as health unit reverses decision to terminate St. John’s man’s social support",
-          "published": "2026-10-27T08:56:40.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/community-support-program-update-9.7397101",
-          "image": "https://i.cbc.ca/ais/5449dd3c-74ce-43ab-bdd0-4b6b9d1f5191,1793059832557/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1800%2C1012%29%3B"
+          "id": "https://www.cbc.ca/news/canada/manitoba/citizenship-judge-suzanne-carriere-2500-ceremonies-9.7398448",
+          "title": "Manitoba citizenship judge has sworn in almost 200,000 new Canadians in 2,500 ceremonies",
+          "published": "2026-10-27T21:23:35.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/citizenship-judge-suzanne-carriere-2500-ceremonies-9.7398448",
+          "image": "https://i.cbc.ca/ais/3dcd4bba-ad1f-4ab8-9c51-794e719c90ef,1793128025413/full/max/0/default.jpg?im=Crop%2Crect%3D%28268%2C45%2C1631%2C917%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/toronto/olivia-chow-progressive-council-toronto-mayor-second-term-9.7396703",
-          "title": "Olivia Chow romps to victory as head of progressive new Toronto council",
-          "published": "2026-10-27T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/olivia-chow-progressive-council-toronto-mayor-second-term-9.7396703",
-          "image": "https://i.cbc.ca/ais/c27777d8-948e-4f0a-957e-0e6eb7f16895,1793068803247/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B"
+          "id": "https://www.cbc.ca/news/canada/ottawa/ottawa-city-council-2026-women-elect-9.7398153",
+          "title": "Ottawa makes history by electing city council that's mostly women",
+          "published": "2026-10-27T21:19:19.000Z",
+          "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-city-council-2026-women-elect-9.7398153",
+          "image": "https://i.cbc.ca/ais/789a752d-3249-43f5-8601-de75d5dccfd8,1793103231663/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/health/glp1-crash-dieting-9.7390473",
-          "title": "Long-term medication or modern crash diet? Inside the new world of GLP-1s",
-          "published": "2026-10-27T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/health/glp1-crash-dieting-9.7390473",
-          "image": "https://i.cbc.ca/ais/5287ee25-067c-419a-8bb8-98ead40cc475,1792609045109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-government-bill-stops-dei-hiring-9.7398443",
+          "title": "Alberta bill would stop provincial entities from considering diversity, equity and inclusion in hiring",
+          "published": "2026-10-27T21:06:03.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-government-bill-stops-dei-hiring-9.7398443",
+          "image": "https://i.cbc.ca/ais/26d36d16-733e-40c7-aae8-1757e264b874,1782882252548/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C25%2C2048%2C1152%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/investigates/crime-stoppers-breach-fallout-widens-9.7397211",
-          "title": "Canada-wide freeze on Crime Stoppers programs, partnerships surges to 35 agencies",
-          "published": "2026-10-27T02:28:46.000Z",
-          "url": "https://www.cbc.ca/news/investigates/crime-stoppers-breach-fallout-widens-9.7397211",
-          "image": "https://i.cbc.ca/ais/1.7467088,1740425250000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4032%2C2268%29%3B"
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/hmp-toothbrush-shortage-9.7398628",
+          "title": "Watchdog sounds alarm after N.L.'s largest jail runs out of toothbrushes",
+          "published": "2026-10-27T21:02:06.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hmp-toothbrush-shortage-9.7398628",
+          "image": "https://i.cbc.ca/ais/93973afc-df61-4b95-ab78-5b34b9edd4c2,1793134150617/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C4240%2C2385%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-lower-voter-turnout-vote-splitting-9.7397022",
-          "title": "B.C. NDP's defeat reflected in low voter turnout: political scientists",
-          "published": "2026-10-27T01:40:39.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-lower-voter-turnout-vote-splitting-9.7397022",
-          "image": "https://i.cbc.ca/ais/07520df7-7474-4cf3-a8d0-06c3d9fa9d32,1793059969087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C69%2C6500%2C3656%29%3B"
+          "id": "https://www.cbc.ca/news/canada/calgary/lorne-doerkson-danielle-smith-bc-alberta-pipeline-energy-relationship-9.7398329",
+          "title": "How will a new Conservative premier change the relationship between B.C. and Alberta?",
+          "published": "2026-10-27T20:39:54.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/lorne-doerkson-danielle-smith-bc-alberta-pipeline-energy-relationship-9.7398329",
+          "image": "https://i.cbc.ca/ais/c295789b-f12e-4c70-b587-a59254e27936,1793131682700/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/player/play/9.7397098",
-          "title": "Molly Carlson makes history by diving off an iceberg | Hanomansing Live",
-          "published": "2026-10-27T00:19:06.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7397098",
-          "image": "https://i.cbc.ca/ais/2516d852-858e-4211-b55b-06087567d292,1793060112332/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C8269%2C4651%29%3B"
+          "id": "https://www.cbc.ca/news/investigates/privacy-commissioner-canada-crime-stoppers-breach-investigation-9.7398559",
+          "title": "Privacy commissioner to investigate Canadian Crime Stoppers breach",
+          "published": "2026-10-27T20:18:31.000Z",
+          "url": "https://www.cbc.ca/news/investigates/privacy-commissioner-canada-crime-stoppers-breach-investigation-9.7398559",
+          "image": "https://i.cbc.ca/ais/0eb6fa90-b117-4bbf-90a8-81d0b116b713,1793131303472/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C320%2C8308%2C4673%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/player/play/9.7397024",
-          "title": "Fact check: Who's behind the fake images of Jagmeet Singh on X?",
-          "published": "2026-10-26T23:54:17.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7397024",
-          "image": "https://i.cbc.ca/ais/11a6959b-8c19-422b-87d8-66453882fdbe,1793058814094/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/mitchell-moise-long-term-offender-warrant-9.7398488",
+          "title": "Warrant out for long-term offender from Sask. who walked away from halfway house in B.C.",
+          "published": "2026-10-27T20:18:08.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/mitchell-moise-long-term-offender-warrant-9.7398488",
+          "image": "https://i.cbc.ca/ais/aa2de05c-22be-4725-a831-83a78cc59bc9,1793125103662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C95%2C800%2C450%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/london/livestory/london-ontario-election-2026-9.7396303",
-          "title": "The polls have been counted in the 2026 London election, Josh Morgan re-elected as mayor",
-          "published": "2026-10-26T23:40:04.000Z",
-          "url": "https://www.cbc.ca/news/canada/london/livestory/london-ontario-election-2026-9.7396303",
-          "image": "https://i.cbc.ca/ais/71c88a9a-fed4-4cd7-ac4a-e78e86cd9c5d,1793075303808/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C249%2C2768%2C1557%29%3B"
+          "id": "https://www.cbc.ca/sports/hockey/nhl/ben-kindel-rejoins-penguins-practice-vasovagal-episode-9.7398534",
+          "title": "Canadian forward Ben Kindel returns to Penguins practice after medical episode",
+          "published": "2026-10-27T20:17:17.000Z",
+          "url": "https://www.cbc.ca/sports/hockey/nhl/ben-kindel-rejoins-penguins-practice-vasovagal-episode-9.7398534",
+          "image": "https://i.cbc.ca/ais/e52cba1e-6812-47b5-8e67-aa1ef24c68a6,1793131545962/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-ubc-9.7396893",
-          "title": "Agent of author Steven Galloway says sex assault allegations derailed promising career",
-          "published": "2026-10-26T23:32:33.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-ubc-9.7396893",
-          "image": "https://i.cbc.ca/ais/7f98cbe1-d84d-40e2-9a85-82b7b9102598,1791209587609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C151%2C5000%2C2812%29%3B"
+          "id": "https://www.cbc.ca/news/canada/calgary/richard-hubert-jones-rapist-cold-case-guilty-calgary-dna-9.7398435",
+          "title": "Serial Calgary rapist from 1980s convicted of 9 offences against mothers, teen girl",
+          "published": "2026-10-27T19:38:51.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/richard-hubert-jones-rapist-cold-case-guilty-calgary-dna-9.7398435",
+          "image": "https://i.cbc.ca/ais/0a1ea927-32c5-4397-8f75-c7bf12045912,1769551034847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C7008%2C3942%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/windsor/livestory/windsor-ontario-election-2026-9.7395543",
-          "title": "Fred Francis wins Windsor, Ont., mayoral race, CBC News projects",
-          "published": "2026-10-26T23:28:02.000Z",
-          "url": "https://www.cbc.ca/news/canada/windsor/livestory/windsor-ontario-election-2026-9.7395543",
-          "image": "https://i.cbc.ca/ais/d8744f9e-610f-4c21-a3d6-599cca5fcb92,1793066514781/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+          "id": "https://www.cbc.ca/news/canada/ottawa/ottawa-rapid-fc-pulls-merch-van-blurene-parc-9.7391880",
+          "title": "Ottawa Rapid FC pull merch naming nonexistent 'Van Blurené Parc'",
+          "published": "2026-10-27T19:22:25.000Z",
+          "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-rapid-fc-pulls-merch-van-blurene-parc-9.7391880",
+          "image": "https://i.cbc.ca/ais/af1a6ea2-0659-4847-8088-25cf290f0ecf,1793127761140/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C341%2C1136%2C639%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/kitchener-waterloo/livestory/2026-municipal-election-waterloo-region-guelph-9.7396899",
-          "title": "A night of upsets: 4 Waterloo region mayors ousted by challengers in 2026 municipal election",
-          "published": "2026-10-26T23:15:08.000Z",
-          "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/livestory/2026-municipal-election-waterloo-region-guelph-9.7396899",
-          "image": "https://i.cbc.ca/ais/2fabb1e8-9033-4c31-89b1-7f90e07bd874,1793077024757/full/max/0/default.jpg?im=Crop%2Crect%3D%28858%2C986%2C4663%2C2622%29%3B"
+          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-court-daniel-desmond-crowder-terrorism-plea-9.7398371",
+          "title": "P.E.I. man pleads not guilty to terrorism charges that police say are a 1st for Atlantic Canada",
+          "published": "2026-10-27T19:17:07.000Z",
+          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-court-daniel-desmond-crowder-terrorism-plea-9.7398371",
+          "image": "https://i.cbc.ca/ais/95a3635b-893c-45c8-9980-d14ae6cbca06,1763562177003/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/sudbury/livestory/northeastern-ontario-municipal-elections-9.7396883",
-          "title": "Sudbury incumbent Paul Lefebvre delivers victory speech",
-          "published": "2026-10-26T23:00:22.000Z",
-          "url": "https://www.cbc.ca/news/canada/sudbury/livestory/northeastern-ontario-municipal-elections-9.7396883",
-          "image": "https://i.cbc.ca/ais/0fc28240-55f8-4e08-a5d6-5975ca5f03cb,1793068730209/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+          "id": "https://www.cbc.ca/news/canada/edmonton/elections-alberta-referendum-counting-vote-9.7398212",
+          "title": "Q&A:  Elections Alberta explains why the referendum took so long to count",
+          "published": "2026-10-27T18:32:46.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/elections-alberta-referendum-counting-vote-9.7398212",
+          "image": "https://i.cbc.ca/ais/3aeed09f-5ece-48dc-af49-35eaba70a310,1793125886372/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/hamilton/livestory/hamilton-niagara-ontario-election-9.7396668",
-          "title": "New mayor, 8 new councillors for Hamilton, with results all in",
-          "published": "2026-10-26T23:00:16.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/livestory/hamilton-niagara-ontario-election-9.7396668",
-          "image": "https://i.cbc.ca/ais/7eb9c78d-44b8-447c-b450-888a24bce456,1793072771031/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C372%2C4992%2C2808%29%3B"
+          "id": "https://www.cbc.ca/news/canada/ontario-election-roundup-toronto-ottawa-hamilton-kw-london-9.7397644",
+          "title": "Big wins, shocking losses, and goodbye to a 46-year mayor: what to know about Ontario's 400+ elections",
+          "published": "2026-10-27T17:23:27.000Z",
+          "url": "https://www.cbc.ca/news/canada/ontario-election-roundup-toronto-ottawa-hamilton-kw-london-9.7397644",
+          "image": "https://i.cbc.ca/ais/bf9ee5bf-3e08-4d31-b13f-edb7aaef50ea,1793114637848/full/max/0/default.jpg?im=Crop%2Crect%3D%28976%2C547%2C3773%2C2122%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-27T12:27:16.881Z",
+      "checkedAt": "2026-10-27T22:25:31.430Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "published": "2026-10-27T22:11:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
+          "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+          "published": "2026-10-27T21:12:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo",
+          "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+          "published": "2026-10-27T21:09:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo",
+          "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+          "published": "2026-10-27T20:44:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
+          "title": "Dutch zookeeper dies after being mauled by leopard",
+          "published": "2026-10-27T19:30:37.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo",
+          "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+          "published": "2026-10-27T19:01:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16e/live/5844f360-d226-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo",
+          "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+          "published": "2026-10-27T18:43:41.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbe/live/217282b0-d22d-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o",
+          "title": "Controversial Islamic cleric shot dead in northern Nigeria",
+          "published": "2026-10-27T18:35:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719f/live/5b2284f0-d233-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
+          "title": "Norway and Finland leaders hold rare call with Putin",
+          "published": "2026-10-27T18:28:23.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo",
+          "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+          "published": "2026-10-27T17:11:27.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/4e8e4460-d227-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmx28de233r2o",
+          "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+          "published": "2026-10-27T17:10:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a42/live/20bef180-d22a-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo",
+          "title": "West warns of famine risk in Sudan as civil war grinds on",
+          "published": "2026-10-27T15:41:46.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609e/live/8fffe6c0-d208-11f1-b3b6-c1e79e957e40.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo",
+          "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+          "published": "2026-10-27T14:29:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o",
+          "title": "Trump vs Obama - which president has the star power to get out the vote?",
+          "published": "2026-10-27T13:59:22.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d111/live/2bd85810-d219-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
           "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-          "published": "2026-10-27T12:02:20.000Z",
+          "published": "2026-10-27T13:25:54.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
-          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-          "published": "2026-10-27T11:53:57.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
-          "title": "Ex-FBI chief James Comey faces federal charges for third time",
-          "published": "2026-10-27T11:44:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo",
-          "title": "Netherlands pulls out of Eurovision again over Israel participation",
-          "published": "2026-10-27T11:23:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/912b/live/5e717160-d1fd-11f1-b30f-21253679b290.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
-          "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
-          "published": "2026-10-27T11:11:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo",
-          "title": "What does Israel's election mean for Gaza and the wider world?",
-          "published": "2026-10-27T10:17:36.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054f/live/2e8109b0-d1f4-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c574p31l1l2no",
-          "title": "Why it could take time for a new Israeli government to form",
-          "published": "2026-10-27T08:37:30.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfd/live/7eff31e0-d1dc-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o",
-          "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
-          "published": "2026-10-27T07:22:41.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/45485530-d1ff-11f1-b30f-21253679b290.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
-          "title": "Jay-Z to perform at Super Bowl half-time show",
-          "published": "2026-10-27T05:05:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d63/live/e4feb0b0-d1d2-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
-          "title": "Meghan to co-host Junior MasterChef Australia",
-          "published": "2026-10-27T04:43:56.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
-          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-          "published": "2026-10-27T02:40:17.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
-          "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-          "published": "2026-10-27T01:46:38.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05b2/live/06753110-d192-11f1-8c41-0bbbeafdc6d4.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o",
-          "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-          "published": "2026-10-27T00:31:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725c/live/634334d0-d1e9-11f1-b360-61fb5d34dc08.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo",
-          "title": "'Maxxing' selected as Dictionary.com word of the year",
-          "published": "2026-10-26T21:31:53.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03d/live/90fce170-d165-11f1-87df-afb7a168a1f2.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
-          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-          "published": "2026-10-26T19:27:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"
         }
       ]
     }
