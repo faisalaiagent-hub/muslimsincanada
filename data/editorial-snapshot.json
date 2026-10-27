@@ -145,8 +145,22 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-26T22:46:53.224Z",
+      "checkedAt": "2026-10-27T05:17:23.180Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/congratulations-mayor-olivia-chow-this-is-how-you-do-it/",
+          "title": "Congratulations, Mayor Olivia Chow. This is How You Do It!",
+          "published": "2026-10-27T02:13:47.000Z",
+          "url": "https://www.muslimnetwork.tv/congratulations-mayor-olivia-chow-this-is-how-you-do-it/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/796996487_1645843053570617_8425958677999097971_n.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/alvin-tedjo-wins-the-mississauga-mayoral-race/",
+          "title": "Alvin Tedjo Wins the Mississauga Mayoral Race!",
+          "published": "2026-10-27T02:11:10.000Z",
+          "url": "https://www.muslimnetwork.tv/alvin-tedjo-wins-the-mississauga-mayoral-race/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Alvin-Tedjo-pic-from-the-Tedjo-campaign-oct-26.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/mississauga-mayoral-candidates-and-their-stances-on-key-issues/",
           "title": "Mississauga Mayoral Candidates and Their Stances on Key Issues",
@@ -179,15 +193,13 @@
           "id": "https://www.muslimnetwork.tv/lula-vows-to-govern-for-all-brazilians-after-historic-reelection-victory/",
           "title": "Lula vows to govern for all Brazilians after historic reelection victory",
           "published": "2026-10-26T06:35:16.000Z",
-          "url": "https://www.muslimnetwork.tv/lula-vows-to-govern-for-all-brazilians-after-historic-reelection-victory/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/08/AA-20250808-38772510-38772497-BRAZILIAN_PRESIDENT_LULA_DA_SILVA_MEETS_ACTOR_WAGNER_MOURA_AND_DIRECTOR_KLEBER_MENDONCA_FILHO_IN_BRASILIA.jpg"
+          "url": "https://www.muslimnetwork.tv/lula-vows-to-govern-for-all-brazilians-after-historic-reelection-victory/"
         },
         {
           "id": "https://www.muslimnetwork.tv/israel-punishes-8-palestinian-prisoners-over-cake-celebrating-ben-gvirs-likely-exit-report/",
           "title": "Israel punishes 8 Palestinian prisoners over cake celebrating Ben-Gvir’s likely exit: report",
           "published": "2026-10-26T06:33:31.000Z",
-          "url": "https://www.muslimnetwork.tv/israel-punishes-8-palestinian-prisoners-over-cake-celebrating-ben-gvirs-likely-exit-report/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/thumbs_b_c_ee8fc3969e6d73f1a602148ef266de16.webp"
+          "url": "https://www.muslimnetwork.tv/israel-punishes-8-palestinian-prisoners-over-cake-celebrating-ben-gvirs-likely-exit-report/"
         },
         {
           "id": "https://www.muslimnetwork.tv/trump-uses-michigan-rally-to-attack-democratic-senate-candidate-el-sayed/",
@@ -200,18 +212,6 @@
           "title": "Yemen’s Houthis say they targeted Riyadh airport and Saudi oil pipeline",
           "published": "2026-10-26T06:24:34.000Z",
           "url": "https://www.muslimnetwork.tv/yemens-houthis-say-they-targeted-riyadh-airport-and-saudi-oil-pipeline/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/",
-          "title": "Profile: Omar Fateh, renter taking on Minnesota’s establishment",
-          "published": "2026-10-25T07:43:16.000Z",
-          "url": "https://www.muslimnetwork.tv/profile-omar-fateh-renter-taking-on-minnesotas-establishment/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/",
-          "title": "Christchurch mosque massacre: book faults official inquiry",
-          "published": "2026-10-24T09:49:05.000Z",
-          "url": "https://www.muslimnetwork.tv/christchurch-mosque-massacre-book-faults-official-inquiry/"
         }
       ]
     },
@@ -728,14 +728,105 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-26T22:46:53.280Z",
+      "checkedAt": "2026-10-27T05:17:23.497Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/investigates/crime-stoppers-breach-fallout-widens-9.7397211",
+          "title": "Canada-wide freeze on Crime Stoppers programs, partnerships surges to 35 agencies",
+          "published": "2026-10-27T02:28:46.000Z",
+          "url": "https://www.cbc.ca/news/investigates/crime-stoppers-breach-fallout-widens-9.7397211",
+          "image": "https://i.cbc.ca/ais/1.7467088,1740425250000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-lower-voter-turnout-vote-splitting-9.7397022",
+          "title": "B.C. NDP's defeat reflected in low voter turnout: political scientists",
+          "published": "2026-10-27T01:40:39.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-lower-voter-turnout-vote-splitting-9.7397022",
+          "image": "https://i.cbc.ca/ais/07520df7-7474-4cf3-a8d0-06c3d9fa9d32,1793059969087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C69%2C6500%2C3656%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/player/play/9.7397024",
+          "title": "Fact check: Who's behind the fake images of Jagmeet Singh on X?",
+          "published": "2026-10-26T23:54:17.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7397024",
+          "image": "https://i.cbc.ca/ais/11a6959b-8c19-422b-87d8-66453882fdbe,1793058814094/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/london/livestory/london-ontario-election-2026-9.7396303",
+          "title": "The polls have been counted in the 2026 London election, Josh Morgan re-elected as mayor",
+          "published": "2026-10-26T23:40:04.000Z",
+          "url": "https://www.cbc.ca/news/canada/london/livestory/london-ontario-election-2026-9.7396303",
+          "image": "https://i.cbc.ca/ais/71c88a9a-fed4-4cd7-ac4a-e78e86cd9c5d,1793075303808/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C249%2C2768%2C1557%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-ubc-9.7396893",
+          "title": "Agent of author Steven Galloway says sex assault allegations derailed promising career",
+          "published": "2026-10-26T23:32:33.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/steven-galloway-defamation-trial-ubc-9.7396893",
+          "image": "https://i.cbc.ca/ais/7f98cbe1-d84d-40e2-9a85-82b7b9102598,1791209587609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C151%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/windsor/livestory/windsor-ontario-election-2026-9.7395543",
+          "title": "Fred Francis wins Windsor, Ont., mayoral race, CBC News projects",
+          "published": "2026-10-26T23:28:02.000Z",
+          "url": "https://www.cbc.ca/news/canada/windsor/livestory/windsor-ontario-election-2026-9.7395543",
+          "image": "https://i.cbc.ca/ais/d8744f9e-610f-4c21-a3d6-599cca5fcb92,1793066514781/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/kitchener-waterloo/livestory/2026-municipal-election-waterloo-region-guelph-9.7396899",
+          "title": "A night of upsets: 4 Waterloo region mayors ousted by challengers in 2026 municipal election",
+          "published": "2026-10-26T23:15:08.000Z",
+          "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/livestory/2026-municipal-election-waterloo-region-guelph-9.7396899",
+          "image": "https://i.cbc.ca/ais/2fabb1e8-9033-4c31-89b1-7f90e07bd874,1793077024757/full/max/0/default.jpg?im=Crop%2Crect%3D%28858%2C986%2C4663%2C2622%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/sudbury/livestory/northeastern-ontario-municipal-elections-9.7396883",
+          "title": "Sudbury incumbent Paul Lefebvre delivers victory speech",
+          "published": "2026-10-26T23:00:22.000Z",
+          "url": "https://www.cbc.ca/news/canada/sudbury/livestory/northeastern-ontario-municipal-elections-9.7396883",
+          "image": "https://i.cbc.ca/ais/0fc28240-55f8-4e08-a5d6-5975ca5f03cb,1793068730209/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/livestory/hamilton-niagara-ontario-election-9.7396668",
+          "title": "New mayor, 8 new councillors for Hamilton, with results all in",
+          "published": "2026-10-26T23:00:16.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/livestory/hamilton-niagara-ontario-election-9.7396668",
+          "image": "https://i.cbc.ca/ais/7eb9c78d-44b8-447c-b450-888a24bce456,1793072771031/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C372%2C4992%2C2808%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/ottawa/livestory/ottawa-city-municipal-local-election-mayor-council-2026-watch-9.7396716",
+          "title": "Mark Sutcliffe to return as Ottawa mayor with 3 new councillors",
+          "published": "2026-10-26T23:00:02.000Z",
+          "url": "https://www.cbc.ca/news/canada/ottawa/livestory/ottawa-city-municipal-local-election-mayor-council-2026-watch-9.7396716",
+          "image": "https://i.cbc.ca/ais/15d691ce-bd34-4693-962b-c253f7013432,1793068019052/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C1998%2C1123%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/online-gambling-alberta-aigc-9.7396739",
+          "title": "Online gambling brings in roughly $56M for Alberta since July launch",
+          "published": "2026-10-26T22:42:27.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/online-gambling-alberta-aigc-9.7396739",
+          "image": "https://i.cbc.ca/ais/ea212b23-ea5f-43ba-ab45-f2ec87222f89,1792595202065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C280%2C5375%2C3023%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/livestory/2026-election-toronto-brampton-mississauga-durham-9.7396652",
+          "title": "GTA votes 2026: Catch up on everything you need to know from election night",
+          "published": "2026-10-26T22:42:23.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/livestory/2026-election-toronto-brampton-mississauga-durham-9.7396652",
+          "image": "https://i.cbc.ca/ais/626089fa-55ad-47b2-ac43-da0cd76654a3,1793045162525/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C341%2C7508%2C4223%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/radio/asithappens/sarnia-mayor-great-lakes-drones-9.7396779",
+          "title": "The U.S. put surveillance drones in the Great Lakes, and this border town mayor isn't happy",
+          "published": "2026-10-26T22:05:56.000Z",
+          "url": "https://www.cbc.ca/radio/asithappens/sarnia-mayor-great-lakes-drones-9.7396779",
+          "image": "https://i.cbc.ca/ais/1.7064328,1703019796000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C1071%2C602%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-outcome-9.7396077",
           "title": "First Nations-first ministers' meeting brings funding announcements and mixed reviews",
           "published": "2026-10-26T20:02:06.000Z",
           "url": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-outcome-9.7396077",
-          "image": "https://i.cbc.ca/ais/ce1fa192-595d-4003-a17b-337600fe05aa,1793044401556/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C794%2C7626%2C4289%29%3B"
+          "image": "https://i.cbc.ca/ais/baa7514a-b644-400c-ae15-0bb893637522,1793048327544/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C742%2C7856%2C4419%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-trial-recording-aiden-pleterski-9.7396465",
@@ -743,103 +834,47 @@
           "published": "2026-10-26T19:21:33.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-trial-recording-aiden-pleterski-9.7396465",
           "image": "https://i.cbc.ca/ais/c92b28d1-501f-470c-a7d0-68c2d85c9645,1793038841762/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/in-photos-toronto-voters-head-to-the-polls-in-tight-municipal-race-9.7396466",
-          "title": "IN PHOTOS | Toronto voters head to the polls in tight municipal race",
-          "published": "2026-10-26T19:11:52.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/in-photos-toronto-voters-head-to-the-polls-in-tight-municipal-race-9.7396466",
-          "image": "https://i.cbc.ca/ais/0a0555ef-9f7c-46a9-b5b7-084f12f97828,1793039520596/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/westjet-qatar-airways-codeshare-partnership-9.7396536",
-          "title": "WestJet signs code-share partnership deal with Qatar Airways",
-          "published": "2026-10-26T19:11:12.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/westjet-qatar-airways-codeshare-partnership-9.7396536",
-          "image": "https://i.cbc.ca/ais/634341ac-fea9-4f2d-97c8-58cf7c1e789e,1793041460406/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/vehicle-found-missing-three-children-toronto-9.7396545",
-          "title": "Police locate vehicle allegedly used by Toronto mother to abduct 3 children",
-          "published": "2026-10-26T19:04:45.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/vehicle-found-missing-three-children-toronto-9.7396545",
-          "image": "https://i.cbc.ca/ais/55f0b4e1-c3c9-4cd4-ae5b-6dff0742dc8e,1792865716803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C852%2C479%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/ottawa/quebec-s-spa-nordik-introduces-new-safety-measures-following-sexual-assault-allegations-9.7396253",
-          "title": "Quebec's Spa Nordik introduces new safety measures following sexual assault allegations",
-          "published": "2026-10-26T18:51:22.000Z",
-          "url": "https://www.cbc.ca/news/canada/ottawa/quebec-s-spa-nordik-introduces-new-safety-measures-following-sexual-assault-allegations-9.7396253",
-          "image": "https://i.cbc.ca/ais/40f9b91e-24a7-44bc-866f-24b3429bc8c7,1791486910391/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/horse-drawn-carriages-canadian-cities-9.7396008",
-          "title": "Horse-drawn carriages are still a tradition in some Canadian cities",
-          "published": "2026-10-26T16:27:03.000Z",
-          "url": "https://www.cbc.ca/news/canada/horse-drawn-carriages-canadian-cities-9.7396008",
-          "image": "https://i.cbc.ca/ais/5edd7184-aab1-4ffe-b069-f7484ba718c0,1793029150139/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C6430%2C3616%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/high-liner-foods-bought-umios-9.7396091",
-          "title": "N.S.' High Liner Foods to be bought by Japanese seafood giant in $804M deal",
-          "published": "2026-10-26T15:07:23.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/high-liner-foods-bought-umios-9.7396091",
-          "image": "https://i.cbc.ca/ais/1.5542546,1587658963000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-tanker-ban-conservatives-poilievre-9.7395981",
-          "title": "Federal Conservatives renew push to end B.C. North Coast tanker ban",
-          "published": "2026-10-26T15:05:33.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-tanker-ban-conservatives-poilievre-9.7395981",
-          "image": "https://i.cbc.ca/ais/1.7305729,1724728666000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C345%2C3300%2C1856%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/point-may-whale-rescue-9.7395932",
-          "title": "Point May, N.L. residents rally for a whale-sized weekend rescue",
-          "published": "2026-10-26T15:00:10.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/point-may-whale-rescue-9.7395932",
-          "image": "https://i.cbc.ca/ais/20955fad-0d2b-42c5-a3c7-787b021a4a6c,1793026778790/full/max/0/default.jpg?im=Crop%2Crect%3D%28557%2C159%2C835%2C469%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/police-watchdog-investigation-montreal-officer-misconduct-9.7395892",
-          "title": "Montreal police officer who allegedly urinated on homeless people faces ethics probe",
-          "published": "2026-10-26T13:34:37.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/police-watchdog-investigation-montreal-officer-misconduct-9.7395892",
-          "image": "https://i.cbc.ca/ais/21ee3feb-e9f2-49ef-8695-0bf02712af25,1793019201153/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C146%2C2808%2C1579%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/london/video-of-man-helping-homeless-couple-should-inspire-compassion-and-change-building-manager-says-9.7393537",
-          "title": "Video of man helping homeless couple should inspire compassion and change, building manager says",
-          "published": "2026-10-26T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/london/video-of-man-helping-homeless-couple-should-inspire-compassion-and-change-building-manager-says-9.7393537",
-          "image": "https://i.cbc.ca/ais/4893fd34-43f0-48df-8124-7975f46dda26,1792789352032/full/max/0/default.jpg?im=Crop%2Crect%3D%28381%2C233%2C2156%2C1212%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/community-support-program-9.7390469",
-          "title": "St. John's man with disability could become homeless after losing support program",
-          "published": "2026-10-26T08:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/community-support-program-9.7390469",
-          "image": "https://i.cbc.ca/ais/091e7a11-fb2a-4322-add1-5be994052a32,1792610671238/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/reports-show-staffing-shortages-training-lapses-and-care-failures-in-n-l-group-homes-9.7386656",
-          "title": "Reports show staffing shortages, training lapses and care failures in N.L. group homes",
-          "published": "2026-10-26T08:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/reports-show-staffing-shortages-training-lapses-and-care-failures-in-n-l-group-homes-9.7386656",
-          "image": "https://i.cbc.ca/ais/5bb79e89-84cc-4bab-b6b9-df01996ad198,1792756821945/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/health/cancer-drug-costs-daraxonrasib-9.7388727",
-          "title": "A new cancer drug costs as much as a home down payment each month. Doctors say that's greed, not health care",
-          "published": "2026-10-26T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/health/cancer-drug-costs-daraxonrasib-9.7388727",
-          "image": "https://i.cbc.ca/ais/71889735-f06d-4ad1-bf22-65446dfbb891,1792520102488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5512%2C3100%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-26T22:46:53.667Z",
+      "checkedAt": "2026-10-27T05:17:23.809Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
+          "title": "Jay-Z to perform at Super Bowl half-time show",
+          "published": "2026-10-27T05:05:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
+          "title": "Meghan to co-host Junior MasterChef Australia",
+          "published": "2026-10-27T04:43:56.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
+          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+          "published": "2026-10-27T02:40:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "published": "2026-10-27T02:01:27.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o",
+          "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+          "published": "2026-10-27T00:31:11.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c58/live/08f0ea00-d193-11f1-8c41-0bbbeafdc6d4.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo",
           "title": "'Maxxing' selected as Dictionary.com word of the year",
@@ -860,6 +895,13 @@
           "published": "2026-10-26T19:27:21.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
+          "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+          "published": "2026-10-26T18:46:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/180c/live/6ade9ad0-d16d-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo",
@@ -902,48 +944,6 @@
           "published": "2026-10-26T15:46:31.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9660/live/4332a8c0-d148-11f1-9eb5-811878e0f07d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o",
-          "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-          "published": "2026-10-26T15:45:30.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fbc/live/37ee8ce0-d152-11f1-9eb5-811878e0f07d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo",
-          "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-          "published": "2026-10-26T15:37:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bd/live/33178300-d14a-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o",
-          "title": "Part of Antarctica named after former BBC science correspondent",
-          "published": "2026-10-26T14:54:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-          "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-          "published": "2026-10-26T14:34:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
-          "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-          "published": "2026-10-26T14:27:32.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b16/live/de274990-d133-11f1-be77-d1864d279cb0.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo",
-          "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-          "published": "2026-10-26T14:16:09.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fd6/live/13ac2140-d151-11f1-9eb5-811878e0f07d.jpg"
         }
       ]
     }

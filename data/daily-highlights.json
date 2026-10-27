@@ -164,6 +164,34 @@
           "image": "/media/volunteers.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "generatedAt": "2026-10-27T05:17:23.927Z",
+      "items": [
+        {
+          "id": "65745865db95",
+          "kind": "talk",
+          "title": "God's Mercy: The Key to Faith and Love",
+          "summary": "Make time for a recent conversation from Shabir Ally & Let the Quran Speak. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=zDd9P02o3r8",
+          "sourceId": "shabir",
+          "source": "Shabir Ally & Let the Quran Speak",
+          "image": "https://i.ytimg.com/vi/zDd9P02o3r8/hqdefault.jpg",
+          "published": "2026-10-26T18:10:30.000Z"
+        },
+        {
+          "id": "54582949484a",
+          "kind": "news",
+          "title": "Jay-Z to perform at Super Bowl half-time show",
+          "summary": "A recent headline from BBC News · World. Follow the original reporting for the full story and context.",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
+          "sourceId": "bbc-world",
+          "source": "BBC News · World",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg",
+          "published": "2026-10-27T05:05:15.000Z"
+        }
+      ]
     }
   ]
 }
