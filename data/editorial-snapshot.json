@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-28T10:38:31.365Z",
+      "checkedAt": "2026-10-28T13:14:21.234Z",
       "items": [
         {
           "id": "pfXQbVmv8V4",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-28T10:38:31.625Z",
+      "checkedAt": "2026-10-28T13:14:21.492Z",
       "items": [
         {
           "id": "C75mxHXvvGU",
@@ -159,8 +159,15 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-28T10:38:33.310Z",
+      "checkedAt": "2026-10-28T13:14:23.338Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/netanyahu-bloc-trails-as-opposition-and-arab-parties-projected-to-win-66-seats-in-israeli-elections/",
+          "title": "Netanyahu bloc trails as opposition and Arab parties projected to win 66 seats in Israeli elections",
+          "published": "2026-10-28T11:00:44.000Z",
+          "url": "https://www.muslimnetwork.tv/netanyahu-bloc-trails-as-opposition-and-arab-parties-projected-to-win-66-seats-in-israeli-elections/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/08/AA-20230821-31966126-31966122-ISRAELI_PM_VISITS_SHOOTING_SITE_IN_HEBRON.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/jordan-iran-discuss-efforts-to-reach-sustainable-ceasefire-between-us-tehran/",
           "title": "Jordan, Iran discuss efforts to reach sustainable ceasefire between US, Tehran",
@@ -200,8 +207,7 @@
           "id": "https://www.muslimnetwork.tv/high-voter-turnout-boosts-arab-parties-as-israel-election-results-roll-in/",
           "title": "High voter turnout boosts Palestinian parties as Israel election results roll in",
           "published": "2026-10-28T07:00:55.000Z",
-          "url": "https://www.muslimnetwork.tv/high-voter-turnout-boosts-arab-parties-as-israel-election-results-roll-in/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261027-42882504-42882503-ISRAELIS_HEAD_TO_POLLS_IN_PARLIAMENTARY_ELECTIONS.jpg"
+          "url": "https://www.muslimnetwork.tv/high-voter-turnout-boosts-arab-parties-as-israel-election-results-roll-in/"
         },
         {
           "id": "https://www.muslimnetwork.tv/trump-says-meeting-with-putin-zelenskyy-to-be-arranged-very-soon/",
@@ -220,12 +226,6 @@
           "title": "Is the Bank of Canada (BoC) Going to Raise Rates Tomorrow?",
           "published": "2026-10-27T23:37:54.000Z",
           "url": "https://www.muslimnetwork.tv/is-the-bank-of-canada-boc-going-to-raise-rates-tomorrow/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/rights-groups-condemn-israels-detention-of-palestinian-healthcare-workers/",
-          "title": "Rights groups condemn Israel’s detention of Palestinian healthcare workers",
-          "published": "2026-10-27T17:13:14.000Z",
-          "url": "https://www.muslimnetwork.tv/rights-groups-condemn-israels-detention-of-palestinian-healthcare-workers/"
         }
       ]
     },
@@ -302,8 +302,15 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-28T10:38:31.238Z",
+      "checkedAt": "2026-10-28T13:14:21.110Z",
       "items": [
+        {
+          "id": "1WrQ-5BDRGs",
+          "title": "Prayer: Your Shield Against Evil Deeds",
+          "published": "2026-10-28T13:01:55.000Z",
+          "url": "https://www.youtube.com/watch?v=1WrQ-5BDRGs",
+          "image": "https://i.ytimg.com/vi/1WrQ-5BDRGs/hqdefault.jpg"
+        },
         {
           "id": "9wytgVpt9mk",
           "title": "Strengthening Faith: Creating a Muslim-Friendly Environment",
@@ -401,18 +408,11 @@
           "published": "2026-10-19T13:30:11.000Z",
           "url": "https://www.youtube.com/watch?v=69b87-vQ6rA",
           "image": "https://i.ytimg.com/vi/69b87-vQ6rA/hqdefault.jpg"
-        },
-        {
-          "id": "FxSK_I2abHA",
-          "title": "Finding Secure & Supportive Relationships: A Guide revised",
-          "published": "2026-10-19T13:13:31.000Z",
-          "url": "https://www.youtube.com/watch?v=FxSK_I2abHA",
-          "image": "https://i.ytimg.com/vi/FxSK_I2abHA/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-28T10:38:31.775Z",
+      "checkedAt": "2026-10-28T13:14:21.632Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -522,7 +522,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-28T10:38:32.061Z",
+      "checkedAt": "2026-10-28T13:14:21.842Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -632,7 +632,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-28T10:38:32.191Z",
+      "checkedAt": "2026-10-28T13:14:22.014Z",
       "items": [
         {
           "id": "N9j6rfbxWGo",
@@ -742,8 +742,57 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-28T10:38:33.476Z",
+      "checkedAt": "2026-10-28T13:14:23.641Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/business/livestory/bank-of-canada-interest-rate-announcement-oct-28-9.7398140",
+          "title": "Bank of Canada expected to hike interest rate 25 points as inflation ticks upward",
+          "published": "2026-10-28T12:33:56.000Z",
+          "url": "https://www.cbc.ca/news/business/livestory/bank-of-canada-interest-rate-announcement-oct-28-9.7398140",
+          "image": "https://i.cbc.ca/ais/a8f6fedd-8561-465b-b2de-d1abc4dc88d3,1793117732289/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C724%2C8192%2C4608%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/ai-ceo-jobs-ey-survey-9.7398596",
+          "title": "46% of Canadian CEOs eyeing AI-driven growth with smaller staff, poll shows",
+          "published": "2026-10-28T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/business/ai-ceo-jobs-ey-survey-9.7398596",
+          "image": "https://i.cbc.ca/ais/c923f2e9-bd15-41aa-bf2f-6de48beb2d5e,1793139987000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6227%2C3502%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/end-time-change-parti-quebecois-9.7399165",
+          "title": "Parti Québécois promises to abolish time change, starting next year",
+          "published": "2026-10-28T11:49:09.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/end-time-change-parti-quebecois-9.7399165",
+          "image": "https://i.cbc.ca/ais/a5290a68-d986-4986-afe9-2b9bfaf0dc0c,1793190275966/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8256%2C4644%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/books/canisia-lubrin-david-a-robertson-and-miriam-toews-shortlisted-for-25k-governor-general-s-literary-awards-9.7396322",
+          "title": "Canisia Lubrin, David A. Robertson and Miriam Toews shortlisted for $25K Governor General's Literary Awards",
+          "published": "2026-10-28T11:35:00.000Z",
+          "url": "https://www.cbc.ca/books/canisia-lubrin-david-a-robertson-and-miriam-toews-shortlisted-for-25k-governor-general-s-literary-awards-9.7396322",
+          "image": "https://i.cbc.ca/ais/52f44148-521c-4340-b796-ee3a934add32,1793182389579/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3000%2C1687%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/2026-municipal-election-manitoba-9.7397900",
+          "title": "Polls open across Manitoba for general municipal election",
+          "published": "2026-10-28T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/2026-municipal-election-manitoba-9.7397900",
+          "image": "https://i.cbc.ca/ais/1.4875704,1540343934000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C324%2C2800%2C1575%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/jeremy-bray-drug-covered-reimbursed-spinal-muscular-atrophy-9.7398166",
+          "title": "Manitoba man won't lose access to drug slowing degenerative disease's progression after federal shift",
+          "published": "2026-10-28T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/jeremy-bray-drug-covered-reimbursed-spinal-muscular-atrophy-9.7398166",
+          "image": "https://i.cbc.ca/ais/1.7412756,1734459011000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/students-suspended-levis-high-school-ai-images-9.7398634",
+          "title": "10 students suspended at Lévis, Que., high school for posting AI-altered images of staff",
+          "published": "2026-10-28T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/students-suspended-levis-high-school-ai-images-9.7398634",
+          "image": "https://i.cbc.ca/ais/f2f51904-77ec-4e34-af6f-e81aeec8c283,1793138592647/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/health/canada-wildfire-smoke-deaths-climate-change-9.7398902",
           "title": "Deaths associated with wildfire smoke up about 275% in Canada, new report says",
@@ -794,66 +843,24 @@
           "image": "https://i.cbc.ca/ais/736432a3-6026-40eb-bd90-870c5976131b,1793148550736/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/politics/cleveland-cliffs-ceo-says-willing-to-sell-stelco-9.7398895",
-          "title": "Hamilton steel plant owner says he could sell next year after becoming 'persona non grata in Canada'",
-          "published": "2026-10-27T23:34:42.000Z",
-          "url": "https://www.cbc.ca/news/politics/cleveland-cliffs-ceo-says-willing-to-sell-stelco-9.7398895",
-          "image": "https://i.cbc.ca/ais/baac22d4-e4b7-4d37-8352-b0a13a671982,1791578623239/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C218%2C6624%2C3726%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/lytton-next-mayor-random-draw-9.7398797",
-          "title": "Jennifer Thoss named Lytton's mayor after random draw breaks election tie",
-          "published": "2026-10-27T23:20:29.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/lytton-next-mayor-random-draw-9.7398797",
-          "image": "https://i.cbc.ca/ais/d13019fe-19ff-41c0-8ef0-92efc616b08c,1793143803221/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/harshkumar-patel-seeks-supervised-release-9.7398765",
-          "title": "Man convicted after family froze to death at Manitoba-U.S. border wants to earn time toward supervised release",
-          "published": "2026-10-27T23:00:23.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/harshkumar-patel-seeks-supervised-release-9.7398765",
-          "image": "https://i.cbc.ca/ais/1.7152767,1730398237000/full/max/0/default.jpg?im=Crop%2Crect%3D%2821%2C13%2C626%2C352%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/united-conservative-party-board-9.7398736",
-          "title": "UCP board candidates must sign declaration to abide by Alberta's vote to stay in Canada",
-          "published": "2026-10-27T22:46:17.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/united-conservative-party-board-9.7398736",
-          "image": "https://i.cbc.ca/ais/b69d6389-499c-4d45-a840-65be95472217,1793138592316/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C5316%2C2990%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/jesse-adams-bc-animal-rescue-ukraine-9.7398386",
-          "title": "'Puppy angel on earth': B.C. man killed while on volunteer animal rescue mission in Ukraine",
-          "published": "2026-10-27T22:33:50.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/jesse-adams-bc-animal-rescue-ukraine-9.7398386",
-          "image": "https://i.cbc.ca/ais/d0963733-67ce-4705-9228-9064d40ef4e4,1793127585836/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1154%2C649%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/gopublic/transport-minister-questioned-air-canada-deny-compensation-9.7398643",
-          "title": "Transport minister questioned over Air Canada's use of safety exemption to deny compensation",
-          "published": "2026-10-27T22:21:43.000Z",
-          "url": "https://www.cbc.ca/news/gopublic/transport-minister-questioned-air-canada-deny-compensation-9.7398643",
-          "image": "https://i.cbc.ca/ais/39cacfa2-9032-4ad8-b7c6-f6865e4df249,1793134413281/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/science/el-nino-winter-9.7398251",
-          "title": "This year will be a super-duper El Niño. Here's what Canadians can expect this winter",
-          "published": "2026-10-27T22:11:14.000Z",
-          "url": "https://www.cbc.ca/news/science/el-nino-winter-9.7398251",
-          "image": "https://i.cbc.ca/ais/95a87b80-b05a-4351-8575-3c4be314bc9d,1793121921687/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C449%2C4692%2C2639%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/indian-act-abolish-kinew-reactions-9.7398585",
-          "title": "'Healthy' to have conversation on abolishing Indian Act, First Nation chief says",
-          "published": "2026-10-27T21:52:30.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/indian-act-abolish-kinew-reactions-9.7398585",
-          "image": "https://i.cbc.ca/ais/17e9e917-4fb1-485d-bdc9-366572c38ea2,1793132730926/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7917%2C4453%29%3B"
+          "id": "https://www.cbc.ca/player/play/9.7399078",
+          "title": "Halifax's 'Pied Piper' inducted into Ukulele Hall of Fame| The Moment",
+          "published": "2026-10-28T02:05:34.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7399078",
+          "image": "https://i.cbc.ca/ais/6176cb32-1efd-4363-9a31-f51ee2c6126f,1793147856060/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-28T10:38:33.839Z",
+      "checkedAt": "2026-10-28T13:14:23.957Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
+          "title": "What we know so far about deadly Spain train crash",
+          "published": "2026-10-28T12:14:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/c4d7e6f0-d2c5-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o",
           "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
@@ -867,6 +874,27 @@
           "published": "2026-10-28T10:31:22.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo",
+          "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+          "published": "2026-10-28T10:18:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a9d/live/58c194a0-d2ae-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o",
+          "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+          "published": "2026-10-28T10:17:54.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8aa/live/94f66d00-d2b4-11f1-8cf0-c5d120932f9f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmly073ql392o",
+          "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+          "published": "2026-10-28T08:28:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d546/live/12047420-d2a3-11f1-9aa6-4f9b16403e50.png"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o",
@@ -925,39 +953,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo",
-          "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-          "published": "2026-10-27T20:44:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro",
           "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
           "published": "2026-10-27T20:42:38.000Z",
           "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
-          "title": "Dutch zookeeper dies after being mauled by leopard",
-          "published": "2026-10-27T19:30:37.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo",
-          "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-          "published": "2026-10-27T18:43:41.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbe/live/217282b0-d22d-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
-          "title": "Norway and Finland leaders hold rare call with Putin",
-          "published": "2026-10-27T18:28:23.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg"
         }
       ]
     }
