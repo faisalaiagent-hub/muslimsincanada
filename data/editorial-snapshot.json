@@ -152,8 +152,22 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-27T22:25:31.156Z",
+      "checkedAt": "2026-10-28T05:56:18.289Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/how-living-alone-is-one-of-the-most-expensive-choices-you-can-make-in-the-gta/",
+          "title": "How ‘Living Alone’ Is One of the Most Expensive Choices You Can Make in the GTA",
+          "published": "2026-10-27T23:43:05.000Z",
+          "url": "https://www.muslimnetwork.tv/how-living-alone-is-one-of-the-most-expensive-choices-you-can-make-in-the-gta/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/attractive-young-man-office-working-with-documents.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/is-the-bank-of-canada-boc-going-to-raise-rates-tomorrow/",
+          "title": "Is the Bank of Canada (BoC) Going to Raise Rates Tomorrow?",
+          "published": "2026-10-27T23:37:54.000Z",
+          "url": "https://www.muslimnetwork.tv/is-the-bank-of-canada-boc-going-to-raise-rates-tomorrow/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/05b4c8ac2a33e46e381cda62ccfa8e43.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/rights-groups-condemn-israels-detention-of-palestinian-healthcare-workers/",
           "title": "Rights groups condemn Israel’s detention of Palestinian healthcare workers",
@@ -186,15 +200,13 @@
           "id": "https://www.muslimnetwork.tv/israeli-forces-demolish-palestinian-home-during-qalqilya-raid/",
           "title": "Israeli forces demolish Palestinian home during Qalqilya raid",
           "published": "2026-10-27T16:44:05.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-forces-demolish-palestinian-home-during-qalqilya-raid/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/images.jpeg"
+          "url": "https://www.muslimnetwork.tv/israeli-forces-demolish-palestinian-home-during-qalqilya-raid/"
         },
         {
           "id": "https://www.muslimnetwork.tv/amnesty-uk-condemns-israeli-elections-as-apartheid-at-the-ballot-box/",
           "title": "Amnesty UK condemns Israeli elections as ‘apartheid at the ballot box’",
           "published": "2026-10-27T14:39:57.000Z",
-          "url": "https://www.muslimnetwork.tv/amnesty-uk-condemns-israeli-elections-as-apartheid-at-the-ballot-box/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261027-42882020-42882011-YASHAR_PARTY_LEADER_GADI_EISENKOT_CASTS_VOTE_IN_ISRAELI_ELECTIONS.jpg"
+          "url": "https://www.muslimnetwork.tv/amnesty-uk-condemns-israeli-elections-as-apartheid-at-the-ballot-box/"
         },
         {
           "id": "https://www.muslimnetwork.tv/ben-gvir-accuses-netanyahu-of-planning-us-backed-government-without-him/",
@@ -207,18 +219,6 @@
           "title": "Macklemore launches Free Palestine tour after Sheeran split",
           "published": "2026-10-27T09:08:18.000Z",
           "url": "https://www.muslimnetwork.tv/macklemore-launches-free-palestine-tour-after-sheeran-split/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/egypt-authorizes-sisi-to-support-saudi-arabia-against-aggression/",
-          "title": "Egypt authorizes Sisi to support Saudi Arabia against aggression",
-          "published": "2026-10-27T09:06:10.000Z",
-          "url": "https://www.muslimnetwork.tv/egypt-authorizes-sisi-to-support-saudi-arabia-against-aggression/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/un-investigators-document-israeli-extermination-and-torture-in-west-bank/",
-          "title": "UN investigators document Israeli extermination and torture in West Bank",
-          "published": "2026-10-27T09:04:50.000Z",
-          "url": "https://www.muslimnetwork.tv/un-investigators-document-israeli-extermination-and-torture-in-west-bank/"
         }
       ]
     },
@@ -735,8 +735,64 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-27T22:25:31.197Z",
+      "checkedAt": "2026-10-28T05:56:18.365Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/dead-humpback-whale-ferry-strike-9.7398891",
+          "title": "'Very sad development': Dead humpback whale spotted in area of B.C. Ferries collision",
+          "published": "2026-10-28T02:08:09.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/dead-humpback-whale-ferry-strike-9.7398891",
+          "image": "https://i.cbc.ca/ais/736432a3-6026-40eb-bd90-870c5976131b,1793148550736/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/cleveland-cliffs-ceo-says-willing-to-sell-stelco-9.7398895",
+          "title": "Hamilton steel plant owner says he could sell next year after becoming 'persona non grata in Canada'",
+          "published": "2026-10-27T23:34:42.000Z",
+          "url": "https://www.cbc.ca/news/politics/cleveland-cliffs-ceo-says-willing-to-sell-stelco-9.7398895",
+          "image": "https://i.cbc.ca/ais/baac22d4-e4b7-4d37-8352-b0a13a671982,1791578623239/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C218%2C6624%2C3726%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/lytton-next-mayor-random-draw-9.7398797",
+          "title": "Jennifer Thoss named Lytton's mayor after random draw breaks election tie",
+          "published": "2026-10-27T23:20:29.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/lytton-next-mayor-random-draw-9.7398797",
+          "image": "https://i.cbc.ca/ais/d13019fe-19ff-41c0-8ef0-92efc616b08c,1793143803221/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/harshkumar-patel-seeks-supervised-release-9.7398765",
+          "title": "Man convicted after family froze to death at Manitoba-U.S. border wants to earn time toward supervised release",
+          "published": "2026-10-27T23:00:23.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/harshkumar-patel-seeks-supervised-release-9.7398765",
+          "image": "https://i.cbc.ca/ais/1.7152767,1730398237000/full/max/0/default.jpg?im=Crop%2Crect%3D%2821%2C13%2C626%2C352%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/united-conservative-party-board-9.7398736",
+          "title": "UCP board candidates must sign declaration to abide by Alberta's vote to stay in Canada",
+          "published": "2026-10-27T22:46:17.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/united-conservative-party-board-9.7398736",
+          "image": "https://i.cbc.ca/ais/b69d6389-499c-4d45-a840-65be95472217,1793138592316/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C5316%2C2990%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/jesse-adams-bc-animal-rescue-ukraine-9.7398386",
+          "title": "'Puppy angel on earth': B.C. man killed while on volunteer animal rescue mission in Ukraine",
+          "published": "2026-10-27T22:33:50.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/jesse-adams-bc-animal-rescue-ukraine-9.7398386",
+          "image": "https://i.cbc.ca/ais/d0963733-67ce-4705-9228-9064d40ef4e4,1793127585836/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1154%2C649%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/gopublic/transport-minister-questioned-air-canada-deny-compensation-9.7398643",
+          "title": "Transport minister questioned over Air Canada's use of safety exemption to deny compensation",
+          "published": "2026-10-27T22:21:43.000Z",
+          "url": "https://www.cbc.ca/news/gopublic/transport-minister-questioned-air-canada-deny-compensation-9.7398643",
+          "image": "https://i.cbc.ca/ais/39cacfa2-9032-4ad8-b7c6-f6865e4df249,1793134413281/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/science/el-nino-winter-9.7398251",
+          "title": "This year will be a super-duper El Niño. Here's what Canadians can expect this winter",
+          "published": "2026-10-27T22:11:14.000Z",
+          "url": "https://www.cbc.ca/news/science/el-nino-winter-9.7398251",
+          "image": "https://i.cbc.ca/ais/95a87b80-b05a-4351-8575-3c4be314bc9d,1793121921687/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C449%2C4692%2C2639%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/manitoba/indian-act-abolish-kinew-reactions-9.7398585",
           "title": "'Healthy' to have conversation on abolishing Indian Act, First Nation chief says",
@@ -785,81 +841,32 @@
           "published": "2026-10-27T20:39:54.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/lorne-doerkson-danielle-smith-bc-alberta-pipeline-energy-relationship-9.7398329",
           "image": "https://i.cbc.ca/ais/c295789b-f12e-4c70-b587-a59254e27936,1793131682700/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/investigates/privacy-commissioner-canada-crime-stoppers-breach-investigation-9.7398559",
-          "title": "Privacy commissioner to investigate Canadian Crime Stoppers breach",
-          "published": "2026-10-27T20:18:31.000Z",
-          "url": "https://www.cbc.ca/news/investigates/privacy-commissioner-canada-crime-stoppers-breach-investigation-9.7398559",
-          "image": "https://i.cbc.ca/ais/0eb6fa90-b117-4bbf-90a8-81d0b116b713,1793131303472/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C320%2C8308%2C4673%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/mitchell-moise-long-term-offender-warrant-9.7398488",
-          "title": "Warrant out for long-term offender from Sask. who walked away from halfway house in B.C.",
-          "published": "2026-10-27T20:18:08.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/mitchell-moise-long-term-offender-warrant-9.7398488",
-          "image": "https://i.cbc.ca/ais/aa2de05c-22be-4725-a831-83a78cc59bc9,1793125103662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C95%2C800%2C450%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/hockey/nhl/ben-kindel-rejoins-penguins-practice-vasovagal-episode-9.7398534",
-          "title": "Canadian forward Ben Kindel returns to Penguins practice after medical episode",
-          "published": "2026-10-27T20:17:17.000Z",
-          "url": "https://www.cbc.ca/sports/hockey/nhl/ben-kindel-rejoins-penguins-practice-vasovagal-episode-9.7398534",
-          "image": "https://i.cbc.ca/ais/e52cba1e-6812-47b5-8e67-aa1ef24c68a6,1793131545962/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/richard-hubert-jones-rapist-cold-case-guilty-calgary-dna-9.7398435",
-          "title": "Serial Calgary rapist from 1980s convicted of 9 offences against mothers, teen girl",
-          "published": "2026-10-27T19:38:51.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/richard-hubert-jones-rapist-cold-case-guilty-calgary-dna-9.7398435",
-          "image": "https://i.cbc.ca/ais/0a1ea927-32c5-4397-8f75-c7bf12045912,1769551034847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C7008%2C3942%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/ottawa/ottawa-rapid-fc-pulls-merch-van-blurene-parc-9.7391880",
-          "title": "Ottawa Rapid FC pull merch naming nonexistent 'Van Blurené Parc'",
-          "published": "2026-10-27T19:22:25.000Z",
-          "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-rapid-fc-pulls-merch-van-blurene-parc-9.7391880",
-          "image": "https://i.cbc.ca/ais/af1a6ea2-0659-4847-8088-25cf290f0ecf,1793127761140/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C341%2C1136%2C639%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-court-daniel-desmond-crowder-terrorism-plea-9.7398371",
-          "title": "P.E.I. man pleads not guilty to terrorism charges that police say are a 1st for Atlantic Canada",
-          "published": "2026-10-27T19:17:07.000Z",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-court-daniel-desmond-crowder-terrorism-plea-9.7398371",
-          "image": "https://i.cbc.ca/ais/95a3635b-893c-45c8-9980-d14ae6cbca06,1763562177003/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/elections-alberta-referendum-counting-vote-9.7398212",
-          "title": "Q&A:  Elections Alberta explains why the referendum took so long to count",
-          "published": "2026-10-27T18:32:46.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/elections-alberta-referendum-counting-vote-9.7398212",
-          "image": "https://i.cbc.ca/ais/3aeed09f-5ece-48dc-af49-35eaba70a310,1793125886372/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/ontario-election-roundup-toronto-ottawa-hamilton-kw-london-9.7397644",
-          "title": "Big wins, shocking losses, and goodbye to a 46-year mayor: what to know about Ontario's 400+ elections",
-          "published": "2026-10-27T17:23:27.000Z",
-          "url": "https://www.cbc.ca/news/canada/ontario-election-roundup-toronto-ottawa-hamilton-kw-london-9.7397644",
-          "image": "https://i.cbc.ca/ais/bf9ee5bf-3e08-4d31-b13f-edb7aaef50ea,1793114637848/full/max/0/default.jpg?im=Crop%2Crect%3D%28976%2C547%2C3773%2C2122%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-27T22:25:31.430Z",
+      "checkedAt": "2026-10-28T05:56:18.615Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "published": "2026-10-28T04:22:59.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+          "published": "2026-10-28T02:20:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
           "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
           "published": "2026-10-27T22:11:08.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
-          "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-          "published": "2026-10-27T21:12:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo",
@@ -874,6 +881,13 @@
           "published": "2026-10-27T20:44:40.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro",
+          "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+          "published": "2026-10-27T20:42:38.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
@@ -937,20 +951,6 @@
           "published": "2026-10-27T14:29:39.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o",
-          "title": "Trump vs Obama - which president has the star power to get out the vote?",
-          "published": "2026-10-27T13:59:22.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d111/live/2bd85810-d219-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
-          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-          "published": "2026-10-27T13:25:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"
         }
       ]
     }

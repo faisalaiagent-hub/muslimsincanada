@@ -192,6 +192,34 @@
           "published": "2026-10-27T05:05:15.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-10-28",
+      "generatedAt": "2026-10-28T05:56:18.723Z",
+      "items": [
+        {
+          "id": "6ab678b8c694",
+          "kind": "news",
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "summary": "A recent headline from BBC News · World. Follow the original reporting for the full story and context.",
+          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
+          "sourceId": "bbc-world",
+          "source": "BBC News · World",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg",
+          "published": "2026-10-28T04:22:59.000Z"
+        },
+        {
+          "id": "c37bf445cf63",
+          "kind": "talk",
+          "title": "Blessings are preserved through responsibility, gratitude, and the character you build around them.",
+          "summary": "Make time for a recent conversation from Dr. Yasir Qadhi. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=VpnoHQNR1ko",
+          "sourceId": "yasir",
+          "source": "Dr. Yasir Qadhi",
+          "image": "https://i.ytimg.com/vi/VpnoHQNR1ko/hqdefault.jpg",
+          "published": "2026-10-27T09:03:14.000Z"
+        }
+      ]
     }
   ]
 }
