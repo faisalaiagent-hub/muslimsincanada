@@ -159,7 +159,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-28T22:42:32.123Z",
+      "checkedAt": "2026-10-29T06:01:44.486Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/women-win-big-in-municipal-elections-whats-next/",
@@ -742,8 +742,22 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-28T22:42:32.226Z",
+      "checkedAt": "2026-10-29T06:01:44.659Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/winnipeg-votes-2026-mayor-9.7398017",
+          "title": "'It feels fantastic,' Scott Gillingham says after winning another term as Winnipeg mayor",
+          "published": "2026-10-29T00:59:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-votes-2026-mayor-9.7398017",
+          "image": "https://i.cbc.ca/ais/8f489649-388a-4822-bb05-5076d682f17a,1793249070791/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2700%2C1518%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-north-coast-tanker-ban-vote-9.7400350",
+          "title": "B.C. North Coast tanker ban to remain in place after Liberals vote down Tory bill",
+          "published": "2026-10-28T22:56:24.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-north-coast-tanker-ban-vote-9.7400350",
+          "image": "https://i.cbc.ca/ais/e7ad7749-7032-4234-a597-7ab8f12b45fd,1793227462004/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C3169%2C1782%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/indian-act-reform-onion-lake-cree-nation-chief-9.7400214",
           "title": "First Nations must lead Indian Act reform, Onion Lake Cree Nation chief says",
@@ -830,34 +844,27 @@
         },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/carney-st-pierre-plamondon-canada-eu-summit-9.7399713",
-          "title": "Quebec premier wants Carney to 'do the right thing,' let him speak at Canada-EU summit",
+          "title": "Quebec premier officially withdraws from Canada-EU summit, will send chief diplomat",
           "published": "2026-10-28T17:20:17.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/carney-st-pierre-plamondon-canada-eu-summit-9.7399713",
           "image": "https://i.cbc.ca/ais/9fd2292d-ee80-4fc3-9dff-51b715324820,1793206162263/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C7321%2C4118%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578",
-          "title": "EU dropping associate membership title for its closer alliance with Canada",
-          "published": "2026-10-28T16:28:47.000Z",
-          "url": "https://www.cbc.ca/news/politics/european-union-canada-associate-member-9.7399578",
-          "image": "https://i.cbc.ca/ais/ffed6b40-6a28-4557-a01c-919c88aeb01b,1793203286161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C400%2C7679%2C4319%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/government-stelco-lawyers-confessions-9.7399595",
-          "title": "U.S. steel CEO's 'confessions' for buying Stelco prompted government to call its lawyers: industry minister",
-          "published": "2026-10-28T16:11:32.000Z",
-          "url": "https://www.cbc.ca/news/politics/government-stelco-lawyers-confessions-9.7399595",
-          "image": "https://i.cbc.ca/ais/c03b46bd-2748-4c09-a23a-d6d9a9ea1406,1793206463480/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C142%2C5669%2C3188%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-28T22:42:32.614Z",
+      "checkedAt": "2026-10-29T06:01:45.194Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
+          "title": "What we know so far about deadly Spain train crash",
+          "published": "2026-10-29T04:08:28.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f7/live/e4acc800-d302-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
           "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-          "published": "2026-10-28T22:13:35.000Z",
+          "published": "2026-10-29T01:14:01.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"
         },
@@ -897,6 +904,13 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o",
+          "title": "Watch: King dances in the streets of the Bahamas capital",
+          "published": "2026-10-28T20:44:10.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f2/live/2647c7b0-d30d-11f1-a701-fddedf244c16.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
           "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
           "published": "2026-10-28T20:24:39.000Z",
@@ -925,13 +939,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97cd/live/4f78dd50-d2e9-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
-          "title": "What we know so far about deadly Spain train crash",
-          "published": "2026-10-28T15:36:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f7/live/e4acc800-d302-11f1-a701-fddedf244c16.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo",
           "title": "How could Israel break election deadlock? Here are four scenarios",
           "published": "2026-10-28T14:30:31.000Z",
@@ -951,13 +958,6 @@
           "published": "2026-10-28T10:31:22.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo",
-          "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-          "published": "2026-10-28T10:18:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a9d/live/58c194a0-d2ae-11f1-b441-2b33b063138f.png"
         }
       ]
     }

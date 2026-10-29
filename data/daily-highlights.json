@@ -220,6 +220,33 @@
           "published": "2026-10-27T09:03:14.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "generatedAt": "2026-10-29T06:01:45.307Z",
+      "items": [
+        {
+          "id": "fd0350c3d604",
+          "kind": "talk",
+          "title": "Does Your Shaytan Have Hope In You? | Dr. Omar Suleiman",
+          "summary": "Make time for a recent conversation from Dr. Omar Suleiman. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=C75mxHXvvGU",
+          "sourceId": "omar",
+          "source": "Dr. Omar Suleiman",
+          "image": "https://i.ytimg.com/vi/C75mxHXvvGU/hqdefault.jpg",
+          "published": "2026-10-28T01:00:19.000Z"
+        },
+        {
+          "id": "d7a78241ae09",
+          "kind": "guide",
+          "title": "A helping hand for families",
+          "summary": "Explore family and community support resources, with links to the organizations that provide them.",
+          "url": "/resources?category=Family%20%26%20support",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/community-friends.jpg"
+        }
+      ]
     }
   ]
 }
