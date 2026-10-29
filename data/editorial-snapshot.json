@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-29T10:57:01.566Z",
+      "checkedAt": "2026-10-29T13:21:09.913Z",
       "items": [
         {
           "id": "qC-a0IBRZhM",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-29T10:57:01.871Z",
+      "checkedAt": "2026-10-29T13:21:09.935Z",
       "items": [
         {
           "id": "C75mxHXvvGU",
@@ -152,7 +152,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-29T10:57:03.526Z",
+      "checkedAt": "2026-10-29T13:21:12.039Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/israeli-channel-reports-proposed-netanyahu-eisenkot-power-sharing-deal/",
@@ -295,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-29T10:57:01.429Z",
+      "checkedAt": "2026-10-29T13:21:09.648Z",
       "items": [
         {
           "id": "hkKt10R6cxQ",
@@ -405,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-29T10:57:02.007Z",
+      "checkedAt": "2026-10-29T13:21:10.149Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-29T10:57:02.402Z",
+      "checkedAt": "2026-10-29T13:21:10.410Z",
       "items": [
         {
           "id": "DSD7EanurLg",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-29T10:57:02.554Z",
+      "checkedAt": "2026-10-29T13:21:10.641Z",
       "items": [
         {
           "id": "N9j6rfbxWGo",
@@ -735,8 +735,22 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-29T10:57:04.110Z",
+      "checkedAt": "2026-10-29T13:21:12.189Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/home-invasion-investigation-north-york-toronto-police-9.7400796",
+          "title": "4 in hospital as Toronto police investigate shooting in home",
+          "published": "2026-10-29T12:32:41.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/home-invasion-investigation-north-york-toronto-police-9.7400796",
+          "image": "https://i.cbc.ca/ais/b32a1fb1-e3e7-4df9-83ce-197411afd440,1793276168491/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/sudbury/virginiatown-mine-relocation-meeting-9.7400757",
+          "title": "Residents of northern Ontario town frustrated with proposed mine that would force them to relocate",
+          "published": "2026-10-29T12:02:17.000Z",
+          "url": "https://www.cbc.ca/news/canada/sudbury/virginiatown-mine-relocation-meeting-9.7400757",
+          "image": "https://i.cbc.ca/ais/de6be16c-5f35-4320-b530-64b284d2d9b0,1793272606844/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/sports/hockey/pwhl/canada-us-exhibition-womens-hockey-windsor-2026-9.7400724",
           "title": "Canada earns win over U.S. in exhibition game ahead of women's hockey worlds",
@@ -745,11 +759,18 @@
           "image": "https://i.cbc.ca/ais/f32464bf-4c05-4e79-be26-3e9b5ad9ae2c,1793268709849/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C293%2C3650%2C2053%29%3B"
         },
         {
+          "id": "https://www.cbc.ca/news/canada/calgary/danielle-smith-referendum-edmonton-calgary-9.7399988",
+          "title": "Edmonton and Calgary rejected her referendum. Does Danielle Smith have a city problem?",
+          "published": "2026-10-29T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-referendum-edmonton-calgary-9.7399988",
+          "image": "https://i.cbc.ca/ais/1.7102899,1706886621000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C780%2C438%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/nova-scotia/tim-houston-doubles-down-data-centre-sibo-chen-9.7400319",
           "title": "N.S. premier doubles down on complaint to professor over AI data centre comments",
           "published": "2026-10-29T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/nova-scotia/tim-houston-doubles-down-data-centre-sibo-chen-9.7400319",
-          "image": "https://i.cbc.ca/ais/1641c360-6a51-4446-87bd-3e3830af0d68,1792153665281/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
+          "image": "https://i.cbc.ca/ais/1641c360-6a51-4446-87bd-3e3830af0d68,1793274289909/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-byron-carr-murder-case-genetic-genealogy-9.7399812",
@@ -763,14 +784,14 @@
           "title": "Rising water is forcing this French town off Newfoundland to move. Not everyone is ready to leave",
           "published": "2026-10-29T08:30:00.000Z",
           "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/rising-water-is-forcing-this-french-town-off-newfoundland-to-move-not-everyone-is-ready-to-leave-9.7399871",
-          "image": "https://i.cbc.ca/ais/ea280501-9063-44f2-927c-a3f990af840a,1793212762398/full/max/0/default.jpg?im=Crop%2Crect%3D%28320%2C123%2C875%2C492%29%3B"
+          "image": "https://i.cbc.ca/ais/ea280501-9063-44f2-927c-a3f990af840a,1793273801919/full/max/0/default.jpg?im=Crop%2Crect%3D%28320%2C123%2C875%2C492%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/daylight-saving-time-canada-health-9.7399791",
           "title": "More Canadian provinces are ending time changes. What does it mean for your health?",
           "published": "2026-10-29T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/daylight-saving-time-canada-health-9.7399791",
-          "image": "https://i.cbc.ca/ais/1.5825998,1606948484000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C147%2C4032%2C2268%29%3B"
+          "image": "https://i.cbc.ca/ais/1.5825998,1793275654803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C147%2C4032%2C2268%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/ontario-fall-economic-statement-9.7399960",
@@ -788,7 +809,7 @@
         },
         {
           "id": "https://www.cbc.ca/news/science/kutryk-first-spacewalk-9.7399831",
-          "title": "Canadian astronaut Joshua Kutryk to conduct his 1st spacewalk",
+          "title": "Canadian astronaut Joshua Kutryk's 1st spacewalk underway",
           "published": "2026-10-29T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/science/kutryk-first-spacewalk-9.7399831",
           "image": "https://i.cbc.ca/ais/fd4f6c91-4fe5-48bf-a784-987a3ef87ffd,1793209752469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3072%2C1728%29%3B"
@@ -820,46 +841,60 @@
           "published": "2026-10-28T22:22:21.000Z",
           "url": "https://www.cbc.ca/news/indian-act-reform-onion-lake-cree-nation-chief-9.7400214",
           "image": "https://i.cbc.ca/ais/1.6112632,1626962550000/full/max/0/default.jpg?im=Crop%2Crect%3D%28115%2C0%2C1137%2C639%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/appeal-shamattawa-st-theresa-point-first-nations-safe-water-housing-class-action-9.7400255",
-          "title": "Canada 'not a bystander' on First Nations' housing, water issues, lawyer says in class-action appeal",
-          "published": "2026-10-28T22:18:05.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/appeal-shamattawa-st-theresa-point-first-nations-safe-water-housing-class-action-9.7400255",
-          "image": "https://i.cbc.ca/ais/d1e9e232-cf18-4d21-a014-073af52fc47e,1793223390773/full/max/0/default.jpg?im=Crop%2Crect%3D%28357%2C0%2C3285%2C1847%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/calgary-wound-burn-treatment-ukraine-9.7400198",
-          "title": "Calgary-developed wound treatment used on battlefields in Ukraine",
-          "published": "2026-10-28T22:11:23.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/calgary-wound-burn-treatment-ukraine-9.7400198",
-          "image": "https://i.cbc.ca/ais/5d289c50-746c-4a6f-a893-0bf12b467ba5,1793224154563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-fiasal-hussein-death-9.7400117",
-          "title": "Three face murder charges in death of 12-year-old boy found in rural Alberta",
-          "published": "2026-10-28T21:04:24.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-fiasal-hussein-death-9.7400117",
-          "image": "https://i.cbc.ca/ais/1.6581042,1791913576768/full/max/0/default.jpg?im=Crop%2Crect%3D%2889%2C0%2C710%2C399%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-29T10:57:04.319Z",
+      "checkedAt": "2026-10-29T13:21:12.728Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
+          "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+          "published": "2026-10-29T12:49:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo",
+          "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+          "published": "2026-10-29T12:27:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no",
+          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+          "published": "2026-10-29T11:27:05.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo",
+          "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+          "published": "2026-10-29T11:25:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b44/live/af8c7ae0-d35b-11f1-bf17-db0635e21017.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
+          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "published": "2026-10-29T11:22:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o",
+          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+          "published": "2026-10-29T11:07:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26f6/live/810fd9c0-d39a-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
           "title": "What we know so far about deadly Spain train crash",
           "published": "2026-10-29T10:02:37.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe69/live/788ac890-d37d-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo",
-          "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-          "published": "2026-10-29T09:51:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0304/live/98070ac0-d2e8-11f1-8d86-83eebc838351.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo",
@@ -883,13 +918,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6a/live/eef90440-d2d5-11f1-b677-b762d2f83f6e.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o",
-          "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-          "published": "2026-10-29T08:38:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cw78prj801pvo",
           "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
           "published": "2026-10-29T08:23:31.000Z",
@@ -905,10 +933,10 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo",
-          "title": "BBC in the Philippines where Thomas Markle is expected to be investigated",
+          "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
           "published": "2026-10-29T07:28:26.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a90c/live/b93f5b80-d369-11f1-93e1-3b657b665bcf.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f2/live/4437f8b0-d396-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o",
@@ -923,34 +951,6 @@
           "published": "2026-10-29T03:15:35.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9486/live/12deed00-d350-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo",
-          "title": "Details of thousands of US immigration agents leaked in major hack",
-          "published": "2026-10-29T01:30:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
-          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-          "published": "2026-10-29T01:14:01.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o",
-          "title": "Europe's youth take to the streets - they feel locked out of a promising future",
-          "published": "2026-10-29T00:33:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/0f06e8c0-d2e9-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo",
-          "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-          "published": "2026-10-28T23:11:59.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fa1/live/e95162f0-cdf6-11f1-9a39-31b474234113.jpg"
         }
       ]
     }
