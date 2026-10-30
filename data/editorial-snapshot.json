@@ -152,7 +152,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-29T22:51:41.541Z",
+      "checkedAt": "2026-10-30T06:02:16.589Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/40-year-mortgages-for-first-time-homebuyers/",
@@ -735,14 +735,28 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-29T22:51:41.597Z",
+      "checkedAt": "2026-10-30T06:02:16.683Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/metis-first-nations-controversial-comments-9.7401887",
+          "title": "Assembly of First Nations chief's comments on Métis identity 'racist': federation president",
+          "published": "2026-10-30T01:00:24.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/metis-first-nations-controversial-comments-9.7401887",
+          "image": "https://i.cbc.ca/ais/fe5725b9-938e-42e5-ab66-c7b1a268f5b5,1783699306598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C1509%2C848%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-announce-new-interim-leader-9.7401724",
           "title": "B.C. NDP caucus taps Jennifer Whiteside to be new interim leader",
           "published": "2026-10-29T20:52:05.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-announce-new-interim-leader-9.7401724",
           "image": "https://i.cbc.ca/ais/1.7306697,1741827747000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C101%2C3300%2C1856%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/ndp-former-cabinet-ministers-election-blunder-9.7401666",
+          "title": "'No sugar-coating it': NDP ex-ministers admit frustration at snap election blunder",
+          "published": "2026-10-29T19:29:33.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/ndp-former-cabinet-ministers-election-blunder-9.7401666",
+          "image": "https://i.cbc.ca/ais/9ceec928-f725-410a-ad92-21c401794ae4,1793299244827/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/quebec-investigation-batshaw-9.7401010",
@@ -808,13 +822,6 @@
           "image": "https://i.cbc.ca/ais/2a8952db-f299-4af7-a880-91fb5d619926,1790190176094/full/max/0/default.jpg?im=Crop%2Crect%3D%2830%2C0%2C563%2C316%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/hamilton/wildcat-tavern-halloween-costume-9.7400160",
-          "title": "Hamilton bar dresses up as The Simpsons' Moe's Tavern for Halloween",
-          "published": "2026-10-29T14:34:51.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/wildcat-tavern-halloween-costume-9.7400160",
-          "image": "https://i.cbc.ca/ais/04ffa4aa-c9cc-43ec-8d90-10d075e04354,1793284482717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/british-columbia/george-cavey-bc-500-blood-donation-9.7400309",
           "title": "At 71, this B.C. man has donated blood 500 times. He hopes others will consider rolling up their sleeves",
           "published": "2026-10-29T14:00:00.000Z",
@@ -834,19 +841,54 @@
           "published": "2026-10-29T12:32:41.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/home-invasion-investigation-north-york-toronto-police-9.7400796",
           "image": "https://i.cbc.ca/ais/b32a1fb1-e3e7-4df9-83ce-197411afd440,1793284816593/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/sudbury/virginiatown-mine-relocation-meeting-9.7400757",
-          "title": "Residents of northern Ontario town frustrated with proposed mine that would force them to relocate",
-          "published": "2026-10-29T12:02:17.000Z",
-          "url": "https://www.cbc.ca/news/canada/sudbury/virginiatown-mine-relocation-meeting-9.7400757",
-          "image": "https://i.cbc.ca/ais/de6be16c-5f35-4320-b530-64b284d2d9b0,1793272606844/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-29T22:51:41.860Z",
+      "checkedAt": "2026-10-30T06:02:17.291Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+          "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+          "published": "2026-10-30T05:15:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
+          "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+          "published": "2026-10-30T03:24:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cked3p81303yo",
+          "title": "Three dead after two helicopters collide midair near Oregon airport",
+          "published": "2026-10-30T03:05:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/2d7f7270-d408-11f1-88b8-2d5226da0f6b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o",
+          "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+          "published": "2026-10-30T01:35:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd0/live/73fed000-d3fa-11f1-ad77-7dc2f7c343f8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o",
+          "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
+          "published": "2026-10-29T23:03:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a5c/live/1c953ab0-d3fb-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+          "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+          "published": "2026-10-29T22:17:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo",
           "title": "Young athlete and former minister among victims of Spain train crash",
@@ -909,48 +951,6 @@
           "published": "2026-10-29T14:17:35.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9946/live/591e3810-d3b5-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o",
-          "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-          "published": "2026-10-29T13:44:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/563f/live/a8275d60-d3a6-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o",
-          "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-          "published": "2026-10-29T13:25:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a20/live/8e4e0d60-d38f-11f1-b31d-29088a2dcf13.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
-          "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-          "published": "2026-10-29T12:49:17.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo",
-          "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-          "published": "2026-10-29T11:25:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b44/live/af8c7ae0-d35b-11f1-bf17-db0635e21017.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o",
-          "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-          "published": "2026-10-29T11:07:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5421/live/19962d80-d3e5-11f1-9caf-3b69fd8bbd8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo",
-          "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-          "published": "2026-10-29T09:30:03.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af03/live/714dcfb0-d3cc-11f1-93e1-3b657b665bcf.png"
         }
       ]
     }

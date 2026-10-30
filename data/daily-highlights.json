@@ -247,6 +247,34 @@
           "image": "/media/community-friends.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-10-30",
+      "generatedAt": "2026-10-30T06:02:17.383Z",
+      "items": [
+        {
+          "id": "e72427a1abf0",
+          "kind": "talk",
+          "title": "How to Deal with Anger? | Controlling Your Anger in Islam | Dr Haifaa Younis | Jannah Institute",
+          "summary": "Make time for a recent conversation from Dr. Haifaa Younis. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=rf4HKYX4luI",
+          "sourceId": "haifaa",
+          "source": "Dr. Haifaa Younis",
+          "image": "https://i.ytimg.com/vi/rf4HKYX4luI/hqdefault.jpg",
+          "published": "2026-10-18T11:30:13.000Z"
+        },
+        {
+          "id": "7c079948a924",
+          "kind": "news",
+          "title": "40-Year Mortgages for First-Time Homebuyers?",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/40-year-mortgages-for-first-time-homebuyers/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-kindelmedia-7579137.jpg",
+          "published": "2026-10-29T22:43:42.000Z"
+        }
+      ]
     }
   ]
 }
