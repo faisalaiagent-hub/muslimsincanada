@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-30T13:12:34.935Z",
+      "checkedAt": "2026-10-30T22:29:50.082Z",
       "items": [
         {
           "id": "wkiOQbz5PyI",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-30T13:12:35.054Z",
+      "checkedAt": "2026-10-30T22:29:50.256Z",
       "items": [
         {
           "id": "xWRPVuVJk_g",
@@ -152,8 +152,15 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-30T13:12:36.136Z",
+      "checkedAt": "2026-10-30T22:29:51.980Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/turkic-nations-push-middle-corridor-common-alphabets/",
+          "title": "Turkic nations push Middle Corridor common alphabets",
+          "published": "2026-10-30T17:52:58.000Z",
+          "url": "https://www.muslimnetwork.tv/turkic-nations-push-middle-corridor-common-alphabets/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/At-Ankara-summit-leaders-adopt-163-point-declaration-on-trade-defense-and-common-alphabet-while-Aliyevs-absence-exposes-tensions.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/8-things-the-islamophobic-attack-ads-wont-tell-you-about-el-sayed/",
           "title": "8 things Islamophobic attack ads won’t tell you about El-Sayed",
@@ -193,8 +200,7 @@
           "id": "https://www.muslimnetwork.tv/us-fiscal-outlook-likely-to-remain-strained-regardless-of-midterm-results-fitch/",
           "title": "US fiscal outlook likely to remain strained regardless of midterm results: Fitch",
           "published": "2026-10-30T10:09:47.000Z",
-          "url": "https://www.muslimnetwork.tv/us-fiscal-outlook-likely-to-remain-strained-regardless-of-midterm-results-fitch/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/10/AA-20241027-36031544-36031542-EARLY_VOTING_IN_FLORIDA_FOR_2024_US_PRESIDENTIAL_ELECTION.jpg"
+          "url": "https://www.muslimnetwork.tv/us-fiscal-outlook-likely-to-remain-strained-regardless-of-midterm-results-fitch/"
         },
         {
           "id": "https://www.muslimnetwork.tv/myanmar-regime-imprisons-two-islamic-teachers-seizes-mosque/",
@@ -213,12 +219,6 @@
           "title": "Randa Abdel-Fattah to appear at 2027 Adelaide Writers’ Week",
           "published": "2026-10-30T09:54:31.000Z",
           "url": "https://www.muslimnetwork.tv/randa-abdel-fattah-to-appear-at-2027-adelaide-writers-week/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/ex-biden-officials-press-2028-democrats-to-break-on-gaza/",
-          "title": "Ex-Biden officials press 2028 Democrats to break on Gaza",
-          "published": "2026-10-30T09:52:10.000Z",
-          "url": "https://www.muslimnetwork.tv/ex-biden-officials-press-2028-democrats-to-break-on-gaza/"
         }
       ]
     },
@@ -295,8 +295,29 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-30T13:12:34.713Z",
+      "checkedAt": "2026-10-30T22:29:49.943Z",
       "items": [
+        {
+          "id": "NdhWEIjL1Ts",
+          "title": "Quran's Wisdom: Good Deeds Erasing Evil Deeds",
+          "published": "2026-10-30T18:31:07.000Z",
+          "url": "https://www.youtube.com/watch?v=NdhWEIjL1Ts",
+          "image": "https://i.ytimg.com/vi/NdhWEIjL1Ts/hqdefault.jpg"
+        },
+        {
+          "id": "vTSuSgveUvo",
+          "title": "When Hadith Say \"God Said,\" Can We Be Sure? | The Hadith Question Series",
+          "published": "2026-10-30T14:09:34.000Z",
+          "url": "https://www.youtube.com/watch?v=vTSuSgveUvo",
+          "image": "https://i.ytimg.com/vi/vTSuSgveUvo/hqdefault.jpg"
+        },
+        {
+          "id": "TNGqKInMu8E",
+          "title": "God's Mercy vs Punishment: The Quran's True Balance Revealed!",
+          "published": "2026-10-30T13:34:22.000Z",
+          "url": "https://www.youtube.com/watch?v=TNGqKInMu8E",
+          "image": "https://i.ytimg.com/vi/TNGqKInMu8E/hqdefault.jpg"
+        },
         {
           "id": "EftwcHifBZQ",
           "title": "Why Is Dr. Shabir Ally Holding a Whisk?",
@@ -380,32 +401,11 @@
           "published": "2026-10-22T13:57:50.000Z",
           "url": "https://www.youtube.com/watch?v=K_pWJUu6418",
           "image": "https://i.ytimg.com/vi/K_pWJUu6418/hqdefault.jpg"
-        },
-        {
-          "id": "O5yJj_35x_Q",
-          "title": "7 Ajwa Dates and Poison: What Does Medical Science Say",
-          "published": "2026-10-21T16:52:46.000Z",
-          "url": "https://www.youtube.com/watch?v=O5yJj_35x_Q",
-          "image": "https://i.ytimg.com/vi/O5yJj_35x_Q/hqdefault.jpg"
-        },
-        {
-          "id": "nedjadFs-KU",
-          "title": "The Prophet's Night Journey: Why Do The Hadith Contradict Each Other? | The Hadith Question",
-          "published": "2026-10-21T13:30:28.000Z",
-          "url": "https://www.youtube.com/watch?v=nedjadFs-KU",
-          "image": "https://i.ytimg.com/vi/nedjadFs-KU/hqdefault.jpg"
-        },
-        {
-          "id": "i6qpKfaod54",
-          "title": "Prophet’s Wife Question & Quran’s Response",
-          "published": "2026-10-21T13:03:29.000Z",
-          "url": "https://www.youtube.com/watch?v=i6qpKfaod54",
-          "image": "https://i.ytimg.com/vi/i6qpKfaod54/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-30T13:12:35.171Z",
+      "checkedAt": "2026-10-30T22:29:50.361Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-30T13:12:35.300Z",
+      "checkedAt": "2026-10-30T22:29:50.478Z",
       "items": [
         {
           "id": "w2nnHXqua04",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-30T13:12:35.400Z",
+      "checkedAt": "2026-10-30T22:29:50.598Z",
       "items": [
         {
           "id": "TWp_xhm2ck0",
@@ -735,14 +735,98 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-30T13:12:36.249Z",
+      "checkedAt": "2026-10-30T22:29:52.056Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/investigates/crime-stoppers-canada-tips-phone-only-9.7403714",
+          "title": "Canadian Crime Stoppers Association advises chapters to accept tips by phone only",
+          "published": "2026-10-30T21:54:31.000Z",
+          "url": "https://www.cbc.ca/news/investigates/crime-stoppers-canada-tips-phone-only-9.7403714",
+          "image": "https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/roberts-bank-terminal-2-listed-project-national-interest-delta-bc-9.7403297",
+          "title": "Feds tap Delta, B.C., port expansion as 'project of national interest'",
+          "published": "2026-10-30T19:57:03.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/roberts-bank-terminal-2-listed-project-national-interest-delta-bc-9.7403297",
+          "image": "https://i.cbc.ca/ais/1a99dc5f-4d48-4be9-9875-d0ba9cd29681,1793389994191/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/pal-flight-uses-wheel-9.7403236",
+          "title": "WATCH: PAL Airlines flight loses wheel after landing in Wabush, N.L.",
+          "published": "2026-10-30T19:01:47.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pal-flight-uses-wheel-9.7403236",
+          "image": "https://i.cbc.ca/ais/e724cdf0-1b75-4daa-8a33-994e6fa019bb,1793382941728/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C324%2C407%2C228%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/ccaa-proceedings-roman-catholic-episcopal-corporation-st-johns-9.7402855",
+          "title": "Important chapter of Catholic abuse saga comes to close, as N.L. court ends restructuring proceedings",
+          "published": "2026-10-30T17:35:59.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/ccaa-proceedings-roman-catholic-episcopal-corporation-st-johns-9.7402855",
+          "image": "https://i.cbc.ca/ais/1.4700200,1720234059000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C227%2C3080%2C1732%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/churchill-river-wakeham-9.7402423",
+          "title": "Churchill River energy agreement with Quebec not open for renegotiation, says N.L.",
+          "published": "2026-10-30T17:00:58.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/churchill-river-wakeham-9.7402423",
+          "image": "https://i.cbc.ca/ais/295c5dd3-2cec-4e8f-80fd-f8411ae7a62c,1793349197351/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C243%2C4666%2C2624%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/christine-keilback-boulevard-hole-costume-9.7402523",
+          "title": "'The woman from the hole': Winnipegger's comical quandary becomes Halloween costume",
+          "published": "2026-10-30T16:46:58.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/christine-keilback-boulevard-hole-costume-9.7402523",
+          "image": "https://i.cbc.ca/ais/aef6f747-f9b2-40d5-b1f0-dc3accc66a51,1793379215834/full/max/0/default.jpg?im=Crop%2Crect%3D%28963%2C157%2C5095%2C2865%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/vancouver-toddler-killed-crash-new-trial-ocean-9.7402786",
+          "title": "New trial ordered for driver acquitted in crash that killed Vancouver toddler",
+          "published": "2026-10-30T16:12:04.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-toddler-killed-crash-new-trial-ocean-9.7402786",
+          "image": "https://i.cbc.ca/ais/1.6092698,1793376403812/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C613%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-rcmp-second-possible-munition-explosive-found-potato-harvesting-9.7402683",
+          "title": "Another suspected historic mortar found in P.E.I.  potato field, police say",
+          "published": "2026-10-30T14:50:34.000Z",
+          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-rcmp-second-possible-munition-explosive-found-potato-harvesting-9.7402683",
+          "image": "https://i.cbc.ca/ais/1.2891131,1779477264711/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2469%2C1388%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/investigation-domestic-violence-station-39-montreal-nord-9.7402450",
+          "title": "Montreal police officer allegedly deleted domestic violence video evidence, investigation underway",
+          "published": "2026-10-30T13:28:29.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/investigation-domestic-violence-station-39-montreal-nord-9.7402450",
+          "image": "https://i.cbc.ca/ais/54884a17-af7a-4d57-8630-4580d698f388,1793374084968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C238%2C4566%2C2568%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/bc-no-time-change-schools-9.7398493",
           "title": "Schools, officials prepare families for morning darkness after B.C. ditches fall time change",
           "published": "2026-10-30T12:50:27.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/bc-no-time-change-schools-9.7398493",
           "image": "https://i.cbc.ca/ais/335d1352-0c2d-417a-a6f2-b80f4164c651,1793224993414/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1185%2C666%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/pq-school-kids-religious-symbols-9.7402353",
+          "title": "Groups decry Quebec's proposed ban on school kids wearing religious symbols",
+          "published": "2026-10-30T12:30:01.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/pq-school-kids-religious-symbols-9.7402353",
+          "image": "https://i.cbc.ca/ais/9b83873c-f9ca-4c3a-a8d9-a784889eea24,1793325213208/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C4850%2C2728%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/squamish-nation-dead-humpback-whale-b-c-ferries-9.7401953",
+          "title": "Dead humpback whale that was struck by ferry towed to First Nation for ceremony",
+          "published": "2026-10-30T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/squamish-nation-dead-humpback-whale-b-c-ferries-9.7401953",
+          "image": "https://i.cbc.ca/ais/08a5f234-57d4-408e-9d22-b6038979ef9c,1793292112470/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1072%2C1536%2C864%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/suspected-cougar-attack-left-two-horses-injured-outside-raymore-sask-9.7402264",
+          "title": "Suspected cougar attack left two horses injured outside Raymore, Sask.",
+          "published": "2026-10-30T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/suspected-cougar-attack-left-two-horses-injured-outside-raymore-sask-9.7402264",
+          "image": "https://i.cbc.ca/ais/5fd44235-1076-4872-bcee-ffff99e1c7ea,1793320455793/full/max/0/default.jpg?im=Crop%2Crect%3D%28112%2C63%2C1807%2C1016%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/windsor/ontario-junior-b-hockey-team-breaks-streak-9.7402443",
@@ -752,205 +836,121 @@
           "image": "https://i.cbc.ca/ais/95e359d1-e27f-495f-b4da-0f02af8ce001,1793357211116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C33%2C838%2C471%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/toronto/condo-owners-rally-legislative-change-9.7402148",
-          "title": "'We've had enough': Condo owners rally at Queen's Park to call for change in how condo boards operate",
-          "published": "2026-10-30T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/condo-owners-rally-legislative-change-9.7402148",
-          "image": "https://i.cbc.ca/ais/1f08cb06-a3c0-44fe-a32d-faac8e6922f6,1793313524219/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C1905%2C1071%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/richard-neil-trial-woodland-attacker-child-sex-assault-9.7401765",
-          "title": "Accused sex predator Richard Neil disputes DNA link to Ontario crime scenes",
-          "published": "2026-10-30T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/richard-neil-trial-woodland-attacker-child-sex-assault-9.7401765",
-          "image": "https://i.cbc.ca/ais/6dc17f8d-bc81-4d0e-b18e-5631f0ac8332,1793301535795/full/max/0/default.jpg?im=Crop%2Crect%3D%281345%2C1592%2C3522%2C1981%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/missing-boys-in-ontario-lured-drug-trade-across-canada-9.7398832",
-          "title": "'You can't just get out': How 2 boys were recruited into the drug trade at the age of 12",
-          "published": "2026-10-30T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/missing-boys-in-ontario-lured-drug-trade-across-canada-9.7398832",
-          "image": "https://i.cbc.ca/ais/cdcae4c5-73c2-4dfe-b2f0-b5905c03f080,1793312483762/full/max/0/default.jpg?im=Crop%2Crect%3D%2821%2C0%2C2497%2C1404%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/party-boat-ran-aground-tampering-spirit-cruises-9.7402262",
-          "title": "Tampering led to boat carrying North Vancouver students running aground: investigation",
-          "published": "2026-10-30T03:53:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/party-boat-ran-aground-tampering-spirit-cruises-9.7402262",
-          "image": "https://i.cbc.ca/ais/a1d429fe-fd01-4fc2-8e6b-51490fe75c22,1792902937149/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C88%2C921%2C518%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/metis-first-nations-controversial-comments-9.7401887",
-          "title": "Assembly of First Nations chief's comments on Métis identity 'racist': federation president",
-          "published": "2026-10-30T01:00:24.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/metis-first-nations-controversial-comments-9.7401887",
-          "image": "https://i.cbc.ca/ais/fe5725b9-938e-42e5-ab66-c7b1a268f5b5,1783699306598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C1509%2C848%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-announce-new-interim-leader-9.7401724",
-          "title": "B.C. NDP caucus taps Jennifer Whiteside to be new interim leader",
-          "published": "2026-10-29T20:52:05.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ndp-announce-new-interim-leader-9.7401724",
-          "image": "https://i.cbc.ca/ais/1.7306697,1741827747000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C101%2C3300%2C1856%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/ndp-former-cabinet-ministers-election-blunder-9.7401666",
-          "title": "'No sugar-coating it': NDP ex-ministers admit frustration at snap election blunder",
-          "published": "2026-10-29T19:29:33.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/ndp-former-cabinet-ministers-election-blunder-9.7401666",
-          "image": "https://i.cbc.ca/ais/9ceec928-f725-410a-ad92-21c401794ae4,1793299244827/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/quebec-investigation-batshaw-9.7401010",
-          "title": "New details emerge in death of 4-year-old Inuk girl in care of Montreal youth protection",
-          "published": "2026-10-29T18:03:26.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/quebec-investigation-batshaw-9.7401010",
-          "image": "https://i.cbc.ca/ais/1ac6b894-b49b-4db5-ac60-36dd8b71ba4d,1793298228617/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/maya-gebala-released-hopsital-9.7401403",
-          "title": "Tumbler Ridge shooting survivor Maya Gebala being released from hospital, father says",
-          "published": "2026-10-29T18:00:33.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/maya-gebala-released-hopsital-9.7401403",
-          "image": "https://i.cbc.ca/ais/581c423b-92e7-4b58-bb01-0eaacc174839,1793296535290/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C720%2C405%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/ontario-fall-mini-budget-deficit-9.7401193",
-          "title": "U.S. tariffs loom large over Ontario’s annual budget as first look shows $16.9B deficit",
-          "published": "2026-10-29T17:42:47.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/ontario-fall-mini-budget-deficit-9.7401193",
-          "image": "https://i.cbc.ca/ais/d266cfe6-5768-4230-92c1-a52e7f897ff2,1793290555734/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C279%2C5353%2C3011%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/sudbury/staffing-shortage-funding-osap-paramedics-students-personal-support-workers-private-colleges-9.7400111",
-          "title": "Health-care sectors fear staff shortages after OSAP freezes prompt some private college students to drop out",
-          "published": "2026-10-29T17:28:55.000Z",
-          "url": "https://www.cbc.ca/news/canada/sudbury/staffing-shortage-funding-osap-paramedics-students-personal-support-workers-private-colleges-9.7400111",
-          "image": "https://i.cbc.ca/ais/c393af98-e1f8-4a47-884b-e44ab0abecad,1791409585731/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/toronto-municipal-election-two-chows-9.7400114",
-          "title": "A mayoral race with 2 Chows caused ballot confusion in Toronto. Can that be fixed?",
-          "published": "2026-10-29T16:38:06.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/toronto-municipal-election-two-chows-9.7400114",
-          "image": "https://i.cbc.ca/ais/3a5ef401-bd27-4dc3-bc19-e0801b49e635,1793228615821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C851%2C478%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-verdict-9.7401214",
-          "title": "'Crypto King' Aiden Pleterski found guilty of fraud at his jury trial in Toronto",
-          "published": "2026-10-29T16:03:12.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-verdict-9.7401214",
-          "image": "https://i.cbc.ca/ais/c92b28d1-501f-470c-a7d0-68c2d85c9645,1793038841762/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "id": "https://www.cbc.ca/news/canada/manitoba/wild-pigs-invasive-new-technology-9.7401783",
+          "title": "How drones and DNA testing are being used to hunt down invasive wild pigs in Manitoba",
+          "published": "2026-10-30T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/wild-pigs-invasive-new-technology-9.7401783",
+          "image": "https://i.cbc.ca/ais/1.5312500,1570483048000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C38%2C530%2C298%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-30T13:12:36.772Z",
+      "checkedAt": "2026-10-30T22:29:52.319Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
-          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-          "published": "2026-10-30T13:03:34.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "published": "2026-10-30T22:20:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b8/live/5acd5630-8cbd-11f1-b8ee-9b3c26ad07bb.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o",
-          "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-          "published": "2026-10-30T12:36:55.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fe/live/78e57430-d458-11f1-93d9-89af68edb68a.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
+          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+          "published": "2026-10-30T22:11:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
-          "title": "What we know about Binance's $6.3bn hack",
-          "published": "2026-10-30T12:27:28.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "published": "2026-10-30T21:13:14.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "published": "2026-10-30T20:55:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
+          "title": "Police deployed during stand-off over control of top Poland court",
+          "published": "2026-10-30T20:52:01.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmewepdr109do",
+          "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+          "published": "2026-10-30T20:41:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "published": "2026-10-30T20:34:46.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
+          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+          "published": "2026-10-30T17:07:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo",
+          "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+          "published": "2026-10-30T17:00:32.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d6/live/96a5c4c0-d4a3-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-          "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-          "published": "2026-10-30T12:25:53.000Z",
+          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+          "published": "2026-10-30T16:26:11.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61c/live/cae6b6f0-d461-11f1-93e1-3b657b665bcf.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
-          "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-          "published": "2026-10-30T12:04:02.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo",
+          "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+          "published": "2026-10-30T15:17:11.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo",
+          "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+          "published": "2026-10-30T15:09:29.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo",
-          "title": "Helicopter carrying six people crashes in northern Indian state",
-          "published": "2026-10-30T10:07:58.000Z",
+          "title": "Six dead after helicopter crashes in northern Indian state",
+          "published": "2026-10-30T15:06:05.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6da/live/dd357d00-d448-11f1-97f9-27ebf08d99fe.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o",
-          "title": "How Kenyans got caught in $130m US ghost student scam",
-          "published": "2026-10-30T08:32:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9a2/live/3d8d5420-d43a-11f1-9ba3-e16b46d57ce6.png"
+          "id": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
+          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+          "published": "2026-10-30T15:03:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o",
-          "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-          "published": "2026-10-30T07:53:38.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3993/live/eb3645b0-d42f-11f1-af8d-6d06cb91da1d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o",
-          "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
-          "published": "2026-10-30T07:33:27.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/373c/live/e5969800-d450-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
-          "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-          "published": "2026-10-30T06:02:23.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329d/live/be5913a0-d435-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo",
-          "title": "New York police will now investigate Cornell sex complaints, governor says",
-          "published": "2026-10-30T03:32:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907c/live/50611bc0-d3ec-11f1-9b46-0570989d0351.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
-          "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-          "published": "2026-10-30T03:24:12.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cked3p81303yo",
-          "title": "Three dead after two helicopters collide midair near Oregon airport",
-          "published": "2026-10-30T03:05:17.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/2d7f7270-d408-11f1-88b8-2d5226da0f6b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cknv08980d3vo",
-          "title": "Democrats have an identity crisis - it won't be an easy fix",
-          "published": "2026-10-30T02:14:41.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cknv08980d3vo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42df/live/bd536810-d3b4-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko",
-          "title": "More than 43 million ballots cast so far in midterms early voting surge",
-          "published": "2026-10-30T01:44:24.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc0/live/b4358cf0-d3d1-11f1-a701-fddedf244c16.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo",
+          "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+          "published": "2026-10-30T14:48:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg"
         }
       ]
     }
