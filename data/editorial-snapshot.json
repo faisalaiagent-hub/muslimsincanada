@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-30T10:54:39.909Z",
+      "checkedAt": "2026-10-30T13:12:34.935Z",
       "items": [
         {
           "id": "wkiOQbz5PyI",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-30T10:54:39.927Z",
+      "checkedAt": "2026-10-30T13:12:35.054Z",
       "items": [
         {
           "id": "xWRPVuVJk_g",
@@ -152,8 +152,29 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-30T10:54:41.351Z",
+      "checkedAt": "2026-10-30T13:12:36.136Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/8-things-the-islamophobic-attack-ads-wont-tell-you-about-el-sayed/",
+          "title": "8 things Islamophobic attack ads won’t tell you about El-Sayed",
+          "published": "2026-10-30T11:11:10.000Z",
+          "url": "https://www.muslimnetwork.tv/8-things-the-islamophobic-attack-ads-wont-tell-you-about-el-sayed/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_1-1.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/qatari-delegation-visits-tehran-as-diplomatic-efforts-to-secure-us-iran-deal-resume/",
+          "title": "Qatari delegation visits Tehran as diplomatic efforts to secure US-Iran deal resume",
+          "published": "2026-10-30T10:57:02.000Z",
+          "url": "https://www.muslimnetwork.tv/qatari-delegation-visits-tehran-as-diplomatic-efforts-to-secure-us-iran-deal-resume/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260707-41909807-41909791-PREPARATIONS_FOR_FUNERAL_CEREMONY_OF_ALI_KHAMENEI_IN_KARBALA.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/lapid-says-netanyahu-cannot-secure-governing-majority-after-israeli-election/",
+          "title": "Israeli opposition leader says Netanyahu cannot secure governing majority after Israeli election",
+          "published": "2026-10-30T10:54:41.000Z",
+          "url": "https://www.muslimnetwork.tv/lapid-says-netanyahu-cannot-secure-governing-majority-after-israeli-election/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/12/AA-20221229-29864736-29864735-ISRAELI_NEW_GOVERNMENT_IS_SWORN_IN_TO_THE_KNESSET.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/turkic-states-sign-ankara-declaration-turkiye-takes-helm/",
           "title": "Turkic states sign Ankara Declaration, Türkiye takes helm",
@@ -179,46 +200,25 @@
           "id": "https://www.muslimnetwork.tv/myanmar-regime-imprisons-two-islamic-teachers-seizes-mosque/",
           "title": "Myanmar regime imprisons two Islamic teachers, seizes mosque",
           "published": "2026-10-30T09:58:42.000Z",
-          "url": "https://www.muslimnetwork.tv/myanmar-regime-imprisons-two-islamic-teachers-seizes-mosque/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/03/AA-20230318-30604404-30604367-ROHINGYA_PLIGHT_FROM_MYANMAR_FRYING_PAN_INTO_FIRE_IN_BANGLADESH-scaled.jpg"
+          "url": "https://www.muslimnetwork.tv/myanmar-regime-imprisons-two-islamic-teachers-seizes-mosque/"
         },
         {
           "id": "https://www.muslimnetwork.tv/malaysias-trade-with-brics-countries-rises-20-to-114-billion/",
           "title": "Malaysia’s trade with BRICS countries rises 20% to $114 billion",
           "published": "2026-10-30T09:56:02.000Z",
-          "url": "https://www.muslimnetwork.tv/malaysias-trade-with-brics-countries-rises-20-to-114-billion/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260912-42450836-42450834-18TH_BRICS_LEADERS_SUMMIT_IN_INDIA.jpg"
+          "url": "https://www.muslimnetwork.tv/malaysias-trade-with-brics-countries-rises-20-to-114-billion/"
         },
         {
           "id": "https://www.muslimnetwork.tv/randa-abdel-fattah-to-appear-at-2027-adelaide-writers-week/",
           "title": "Randa Abdel-Fattah to appear at 2027 Adelaide Writers’ Week",
           "published": "2026-10-30T09:54:31.000Z",
-          "url": "https://www.muslimnetwork.tv/randa-abdel-fattah-to-appear-at-2027-adelaide-writers-week/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/Randa_Abdel-Fattah_cropped.jpg"
+          "url": "https://www.muslimnetwork.tv/randa-abdel-fattah-to-appear-at-2027-adelaide-writers-week/"
         },
         {
           "id": "https://www.muslimnetwork.tv/ex-biden-officials-press-2028-democrats-to-break-on-gaza/",
           "title": "Ex-Biden officials press 2028 Democrats to break on Gaza",
           "published": "2026-10-30T09:52:10.000Z",
           "url": "https://www.muslimnetwork.tv/ex-biden-officials-press-2028-democrats-to-break-on-gaza/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/2-palestinians-wounded-as-israeli-attacks-continue-in-gaza-despite-ceasefire/",
-          "title": "2 Palestinians wounded as Israeli attacks continue in Gaza despite ceasefire",
-          "published": "2026-10-30T07:18:35.000Z",
-          "url": "https://www.muslimnetwork.tv/2-palestinians-wounded-as-israeli-attacks-continue-in-gaza-despite-ceasefire/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/vessel-reported-on-fire-in-strait-of-hormuz-uk-maritime-agency/",
-          "title": "Vessel reported on fire in Strait of Hormuz: UK maritime agency",
-          "published": "2026-10-30T06:45:18.000Z",
-          "url": "https://www.muslimnetwork.tv/vessel-reported-on-fire-in-strait-of-hormuz-uk-maritime-agency/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/gaza-palestinians-rally-in-support-of-planned-global-port-workers-strike/",
-          "title": "Gaza residents rally in support of planned global port workers’ strike",
-          "published": "2026-10-30T06:42:38.000Z",
-          "url": "https://www.muslimnetwork.tv/gaza-palestinians-rally-in-support-of-planned-global-port-workers-strike/"
         }
       ]
     },
@@ -295,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-30T10:54:39.788Z",
+      "checkedAt": "2026-10-30T13:12:34.713Z",
       "items": [
         {
           "id": "EftwcHifBZQ",
@@ -405,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-30T10:54:40.040Z",
+      "checkedAt": "2026-10-30T13:12:35.171Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-30T10:54:40.056Z",
+      "checkedAt": "2026-10-30T13:12:35.300Z",
       "items": [
         {
           "id": "w2nnHXqua04",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-30T10:54:40.071Z",
+      "checkedAt": "2026-10-30T13:12:35.400Z",
       "items": [
         {
           "id": "TWp_xhm2ck0",
@@ -735,8 +735,29 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-30T10:54:41.566Z",
+      "checkedAt": "2026-10-30T13:12:36.249Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-no-time-change-schools-9.7398493",
+          "title": "Schools, officials prepare families for morning darkness after B.C. ditches fall time change",
+          "published": "2026-10-30T12:50:27.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-no-time-change-schools-9.7398493",
+          "image": "https://i.cbc.ca/ais/335d1352-0c2d-417a-a6f2-b80f4164c651,1793224993414/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1185%2C666%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/windsor/ontario-junior-b-hockey-team-breaks-streak-9.7402443",
+          "title": "Ontario Jr. B hockey team ends historic losing streak",
+          "published": "2026-10-30T10:53:21.000Z",
+          "url": "https://www.cbc.ca/news/canada/windsor/ontario-junior-b-hockey-team-breaks-streak-9.7402443",
+          "image": "https://i.cbc.ca/ais/95e359d1-e27f-495f-b4da-0f02af8ce001,1793357211116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C33%2C838%2C471%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/condo-owners-rally-legislative-change-9.7402148",
+          "title": "'We've had enough': Condo owners rally at Queen's Park to call for change in how condo boards operate",
+          "published": "2026-10-30T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/condo-owners-rally-legislative-change-9.7402148",
+          "image": "https://i.cbc.ca/ais/1f08cb06-a3c0-44fe-a32d-faac8e6922f6,1793313524219/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C1905%2C1071%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/richard-neil-trial-woodland-attacker-child-sex-assault-9.7401765",
           "title": "Accused sex predator Richard Neil disputes DNA link to Ontario crime scenes",
@@ -820,39 +841,46 @@
           "published": "2026-10-29T16:03:12.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-verdict-9.7401214",
           "image": "https://i.cbc.ca/ais/c92b28d1-501f-470c-a7d0-68c2d85c9645,1793038841762/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/ottawa/belleville-police-synagogue-attack-injured-recovery-9.7401022",
-          "title": "Belleville, Ont., police officer who thwarted synagogue attack released from hospital",
-          "published": "2026-10-29T14:49:22.000Z",
-          "url": "https://www.cbc.ca/news/canada/ottawa/belleville-police-synagogue-attack-injured-recovery-9.7401022",
-          "image": "https://i.cbc.ca/ais/2a8952db-f299-4af7-a880-91fb5d619926,1790190176094/full/max/0/default.jpg?im=Crop%2Crect%3D%2830%2C0%2C563%2C316%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/george-cavey-bc-500-blood-donation-9.7400309",
-          "title": "At 71, this B.C. man has donated blood 500 times. He hopes others will consider rolling up their sleeves",
-          "published": "2026-10-29T14:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/george-cavey-bc-500-blood-donation-9.7400309",
-          "image": "https://i.cbc.ca/ais/a592cf08-0910-485d-a2cf-3ea7d29eca20,1793225397936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/business/joly-stelco-workers-meeting-cleveland-cliffs-9.7400907",
-          "title": "Joly says she'll meet with Stelco owner if company gives 'concrete' plan to bring workers back",
-          "published": "2026-10-29T13:55:47.000Z",
-          "url": "https://www.cbc.ca/news/business/joly-stelco-workers-meeting-cleveland-cliffs-9.7400907",
-          "image": "https://i.cbc.ca/ais/8544e3d4-25c2-48df-9cb7-79c5804bb7ea,1793283246433/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C863%2C8297%2C4667%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-30T10:54:41.910Z",
+      "checkedAt": "2026-10-30T13:12:36.772Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
+          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+          "published": "2026-10-30T13:03:34.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o",
+          "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+          "published": "2026-10-30T12:36:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fe/live/78e57430-d458-11f1-93d9-89af68edb68a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
+          "title": "What we know about Binance's $6.3bn hack",
+          "published": "2026-10-30T12:27:28.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
           "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-          "published": "2026-10-30T10:32:06.000Z",
+          "published": "2026-10-30T12:25:53.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61c/live/cae6b6f0-d461-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+          "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+          "published": "2026-10-30T12:04:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo",
@@ -869,13 +897,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9a2/live/3d8d5420-d43a-11f1-9ba3-e16b46d57ce6.png"
         },
         {
-          "id": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
-          "title": "What we know about Binance's $6.3bn hack",
-          "published": "2026-10-30T08:02:02.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf2/live/c8fa3060-d439-11f1-b441-2b33b063138f.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o",
           "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
           "published": "2026-10-30T07:53:38.000Z",
@@ -887,7 +908,7 @@
           "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
           "published": "2026-10-30T07:33:27.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c240/live/2b6f2c10-d434-11f1-b610-e9c472d2c97b.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/373c/live/e5969800-d450-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
@@ -930,27 +951,6 @@
           "published": "2026-10-30T01:44:24.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc0/live/b4358cf0-d3d1-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o",
-          "title": "Watch: Why Australia's mushroom murderer may now die in prison",
-          "published": "2026-10-30T01:38:54.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e86c/live/220a00a0-d402-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o",
-          "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-          "published": "2026-10-30T01:35:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd0/live/73fed000-d3fa-11f1-ad77-7dc2f7c343f8.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo",
-          "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
-          "published": "2026-10-30T00:43:04.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/dc6c6420-d2e9-11f1-8d86-83eebc838351.jpg"
         }
       ]
     }
