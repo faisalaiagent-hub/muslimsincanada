@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-31T10:25:57.669Z",
+      "checkedAt": "2026-10-31T12:48:53.599Z",
       "items": [
         {
           "id": "C4VX6lJdXeQ",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-31T10:25:57.771Z",
+      "checkedAt": "2026-10-31T12:48:53.843Z",
       "items": [
         {
           "id": "nnz7hIVdxtc",
@@ -152,7 +152,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-31T10:25:59.043Z",
+      "checkedAt": "2026-10-31T12:48:55.849Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/gta-traffic-alert-downtown-church-street-to-host-80000-visitors-for-annual-festival/",
@@ -295,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-31T10:25:57.577Z",
+      "checkedAt": "2026-10-31T12:48:53.469Z",
       "items": [
         {
           "id": "NdhWEIjL1Ts",
@@ -405,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-31T10:25:57.873Z",
+      "checkedAt": "2026-10-31T12:48:54.028Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-31T10:25:57.973Z",
+      "checkedAt": "2026-10-31T12:48:54.262Z",
       "items": [
         {
           "id": "w2nnHXqua04",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-31T10:25:58.064Z",
+      "checkedAt": "2026-10-31T12:48:54.435Z",
       "items": [
         {
           "id": "y670P_o9aAA",
@@ -735,8 +735,36 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-31T10:25:59.100Z",
+      "checkedAt": "2026-10-31T12:48:55.985Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/parks-canada-wardens-law-enforcement-budget-cuts-9.7398925",
+          "title": "Parks Canada set to slash warden detachments, officers across national parks",
+          "published": "2026-10-31T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/parks-canada-wardens-law-enforcement-budget-cuts-9.7398925",
+          "image": "https://i.cbc.ca/ais/47ea13b6-5241-40a1-ac0c-bb154c85397d,1793387305453/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C17%2C1896%2C1066%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/adeline-c-halifax-drug-smuggling-chris-murray-rhode-island-9.7325827",
+          "title": "Drug runner? Arms dealer? The Adeline-C made waves in Halifax and beyond",
+          "published": "2026-10-31T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/adeline-c-halifax-drug-smuggling-chris-murray-rhode-island-9.7325827",
+          "image": "https://i.cbc.ca/ais/055b9e2b-278f-449c-a679-7c9fe649b91c,1792173290336/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C154%2C1169%2C657%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/cocaine-smuggler-could-avoid-prison-as-judge-fears-incarceration-would-orphan-7-year-old-son-9.7403223",
+          "title": "Cocaine smuggler could avoid prison as judge fears incarceration would orphan 7-year-old son",
+          "published": "2026-10-31T08:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/cocaine-smuggler-could-avoid-prison-as-judge-fears-incarceration-would-orphan-7-year-old-son-9.7403223",
+          "image": "https://i.cbc.ca/ais/1.4262961,1503689342000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C851%2C478%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/how-witchcraft-lore-encouraged-kindness-among-neighbours-in-newfoundland-and-labrador-9.7402746",
+          "title": "How witchcraft lore encouraged kindness among neighbours in Newfoundland and Labrador",
+          "published": "2026-10-31T08:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/how-witchcraft-lore-encouraged-kindness-among-neighbours-in-newfoundland-and-labrador-9.7402746",
+          "image": "https://i.cbc.ca/ais/eb7ce7ba-6cd1-46d9-83d0-85009c7b5511,1793374111125/full/max/0/default.jpg?im=Crop%2Crect%3D%28103%2C186%2C1313%2C738%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/hamilton/salah-bachir-funeral-philanthropy-9.7387470",
           "title": "Canadian philanthropist Salah Bachir remembered for gifts to health care, 2SLGBTQ+ causes, education",
@@ -813,53 +841,32 @@
           "published": "2026-10-30T16:46:58.000Z",
           "url": "https://www.cbc.ca/news/canada/manitoba/christine-keilback-boulevard-hole-costume-9.7402523",
           "image": "https://i.cbc.ca/ais/aef6f747-f9b2-40d5-b1f0-dc3accc66a51,1793379215834/full/max/0/default.jpg?im=Crop%2Crect%3D%28963%2C157%2C5095%2C2865%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/vancouver-toddler-killed-crash-new-trial-ocean-9.7402786",
-          "title": "New trial ordered for driver acquitted in crash that killed Vancouver toddler",
-          "published": "2026-10-30T16:12:04.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-toddler-killed-crash-new-trial-ocean-9.7402786",
-          "image": "https://i.cbc.ca/ais/1.6092698,1793376403812/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C613%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-rcmp-second-possible-munition-explosive-found-potato-harvesting-9.7402683",
-          "title": "Another suspected historic mortar found in P.E.I.  potato field, police say",
-          "published": "2026-10-30T14:50:34.000Z",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-rcmp-second-possible-munition-explosive-found-potato-harvesting-9.7402683",
-          "image": "https://i.cbc.ca/ais/1.2891131,1779477264711/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2469%2C1388%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/investigation-domestic-violence-station-39-montreal-nord-9.7402450",
-          "title": "Montreal police officer allegedly deleted domestic violence video evidence, investigation underway",
-          "published": "2026-10-30T13:28:29.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/investigation-domestic-violence-station-39-montreal-nord-9.7402450",
-          "image": "https://i.cbc.ca/ais/54884a17-af7a-4d57-8630-4580d698f388,1793374084968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C238%2C4566%2C2568%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-no-time-change-schools-9.7398493",
-          "title": "Schools, officials prepare families for morning darkness after B.C. ditches fall time change",
-          "published": "2026-10-30T12:50:27.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-no-time-change-schools-9.7398493",
-          "image": "https://i.cbc.ca/ais/335d1352-0c2d-417a-a6f2-b80f4164c651,1793224993414/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1185%2C666%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-31T10:25:59.409Z",
+      "checkedAt": "2026-10-31T12:48:56.294Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "published": "2026-10-31T12:21:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
+          "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+          "published": "2026-10-31T12:05:04.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
           "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
           "published": "2026-10-31T09:16:14.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e67/live/634d7ac0-d46a-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "published": "2026-10-31T08:49:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
@@ -877,7 +884,7 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
-          "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+          "title": "The fight to save Canadian town threatened by Trump's tariffs",
           "published": "2026-10-31T02:39:25.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"
@@ -916,13 +923,6 @@
           "published": "2026-10-31T01:11:43.000Z",
           "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/308f/live/f44b1080-d50c-11f1-9db5-95ff6e967be3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "published": "2026-10-31T00:40:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
