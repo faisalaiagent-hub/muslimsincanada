@@ -152,8 +152,22 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-30T22:29:51.980Z",
+      "checkedAt": "2026-10-31T05:57:39.097Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/gta-traffic-alert-downtown-church-street-to-host-80000-visitors-for-annual-festival/",
+          "title": "GTA Traffic Alert: Downtown Church Street to Host 80,000 Visitors for Annual Festival.",
+          "published": "2026-10-31T00:00:22.000Z",
+          "url": "https://www.muslimnetwork.tv/gta-traffic-alert-downtown-church-street-to-host-80000-visitors-for-annual-festival/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/pexels-vincent-albos-322257-1750754.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/islamicfamily-launches-an-affordable-housing-project-to-serve-larger-families-in-edmonton/",
+          "title": "IslamicFamily Launches an Affordable Housing Project to Serve Larger Families in Edmonton.",
+          "published": "2026-10-30T23:57:45.000Z",
+          "url": "https://www.muslimnetwork.tv/islamicfamily-launches-an-affordable-housing-project-to-serve-larger-families-in-edmonton/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/modern-urban-townhouses-illuminated-dusk.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/turkic-nations-push-middle-corridor-common-alphabets/",
           "title": "Turkic nations push Middle Corridor common alphabets",
@@ -186,15 +200,13 @@
           "id": "https://www.muslimnetwork.tv/turkic-states-sign-ankara-declaration-turkiye-takes-helm/",
           "title": "Turkic states sign Ankara Declaration, Türkiye takes helm",
           "published": "2026-10-30T10:52:13.000Z",
-          "url": "https://www.muslimnetwork.tv/turkic-states-sign-ankara-declaration-turkiye-takes-helm/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261030-42913743-42913742-13TH_SUMMIT_OF_THE_COUNCIL_OF_HEADS_OF_STATE_OF_THE_ORGANIZATION_OF_TURKIC_STATES.jpg"
+          "url": "https://www.muslimnetwork.tv/turkic-states-sign-ankara-declaration-turkiye-takes-helm/"
         },
         {
           "id": "https://www.muslimnetwork.tv/key-midterm-races-where-cost-of-living-social-justice-and-gaza-come-together/",
           "title": "Key midterm races where cost of living, social justice, and Gaza come together",
           "published": "2026-10-30T10:42:18.000Z",
-          "url": "https://www.muslimnetwork.tv/key-midterm-races-where-cost-of-living-social-justice-and-gaza-come-together/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/01/Rep._Ilhan_Omar_-_Press_Conference_Ahead_of_August_Primary_Election_50196131897.jpg"
+          "url": "https://www.muslimnetwork.tv/key-midterm-races-where-cost-of-living-social-justice-and-gaza-come-together/"
         },
         {
           "id": "https://www.muslimnetwork.tv/us-fiscal-outlook-likely-to-remain-strained-regardless-of-midterm-results-fitch/",
@@ -207,18 +219,6 @@
           "title": "Myanmar regime imprisons two Islamic teachers, seizes mosque",
           "published": "2026-10-30T09:58:42.000Z",
           "url": "https://www.muslimnetwork.tv/myanmar-regime-imprisons-two-islamic-teachers-seizes-mosque/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/malaysias-trade-with-brics-countries-rises-20-to-114-billion/",
-          "title": "Malaysia’s trade with BRICS countries rises 20% to $114 billion",
-          "published": "2026-10-30T09:56:02.000Z",
-          "url": "https://www.muslimnetwork.tv/malaysias-trade-with-brics-countries-rises-20-to-114-billion/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/randa-abdel-fattah-to-appear-at-2027-adelaide-writers-week/",
-          "title": "Randa Abdel-Fattah to appear at 2027 Adelaide Writers’ Week",
-          "published": "2026-10-30T09:54:31.000Z",
-          "url": "https://www.muslimnetwork.tv/randa-abdel-fattah-to-appear-at-2027-adelaide-writers-week/"
         }
       ]
     },
@@ -735,7 +735,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-30T22:29:52.056Z",
+      "checkedAt": "2026-10-31T05:57:39.253Z",
       "items": [
         {
           "id": "https://www.cbc.ca/news/investigates/crime-stoppers-canada-tips-phone-only-9.7403714",
@@ -743,6 +743,20 @@
           "published": "2026-10-30T21:54:31.000Z",
           "url": "https://www.cbc.ca/news/investigates/crime-stoppers-canada-tips-phone-only-9.7403714",
           "image": "https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/bridle-path-home-invasion-family-speaks-out-9.7403647",
+          "title": "Victim of violent home invasion in Toronto's Bridle Path neighbourhood says family is 'traumatized'",
+          "published": "2026-10-30T21:48:03.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/bridle-path-home-invasion-family-speaks-out-9.7403647",
+          "image": "https://i.cbc.ca/ais/9e1b2923-ad8e-4a9f-8a7d-8eed381132df,1793397300349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416",
+          "title": "Montreal police chief defends push to change force's culture, weed out bad apples",
+          "published": "2026-10-30T20:27:47.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416",
+          "image": "https://i.cbc.ca/ais/d3fa9b0f-914d-4302-898b-725a3aa007c5,1793389205852/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/roberts-bank-terminal-2-listed-project-national-interest-delta-bc-9.7403297",
@@ -827,32 +841,102 @@
           "published": "2026-10-30T11:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/saskatchewan/suspected-cougar-attack-left-two-horses-injured-outside-raymore-sask-9.7402264",
           "image": "https://i.cbc.ca/ais/5fd44235-1076-4872-bcee-ffff99e1c7ea,1793320455793/full/max/0/default.jpg?im=Crop%2Crect%3D%28112%2C63%2C1807%2C1016%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/windsor/ontario-junior-b-hockey-team-breaks-streak-9.7402443",
-          "title": "Ontario Jr. B hockey team ends historic losing streak",
-          "published": "2026-10-30T10:53:21.000Z",
-          "url": "https://www.cbc.ca/news/canada/windsor/ontario-junior-b-hockey-team-breaks-streak-9.7402443",
-          "image": "https://i.cbc.ca/ais/95e359d1-e27f-495f-b4da-0f02af8ce001,1793357211116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C33%2C838%2C471%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/wild-pigs-invasive-new-technology-9.7401783",
-          "title": "How drones and DNA testing are being used to hunt down invasive wild pigs in Manitoba",
-          "published": "2026-10-30T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/wild-pigs-invasive-new-technology-9.7401783",
-          "image": "https://i.cbc.ca/ais/1.5312500,1570483048000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C38%2C530%2C298%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-30T22:29:52.319Z",
+      "checkedAt": "2026-10-31T05:57:39.595Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
+          "title": "Spain train disaster clouds Sánchez chances of re-election",
+          "published": "2026-10-31T05:44:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo",
+          "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+          "published": "2026-10-31T04:32:07.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/5a0952f0-d487-11f1-80bc-6d398902272f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
+          "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+          "published": "2026-10-31T02:39:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "published": "2026-10-31T02:12:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crm941n0413o",
+          "title": "The Indian chef who brought curry to America - then vanished",
+          "published": "2026-10-31T02:02:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crm941n0413o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/8bcbfe20-acc6-11f1-997d-cbb0a29e3293.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckreypn92w49o",
+          "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+          "published": "2026-10-31T01:32:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce2/live/961bb030-d482-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo",
+          "title": "Global nature talks reach deal but money remains an issue",
+          "published": "2026-10-31T01:27:05.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
+          "title": "Police deployed during stand-off over control of top Poland court",
+          "published": "2026-10-31T01:11:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
           "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "published": "2026-10-30T22:20:52.000Z",
+          "published": "2026-10-31T00:40:43.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b8/live/5acd5630-8cbd-11f1-b8ee-9b3c26ad07bb.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "published": "2026-10-31T00:29:58.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o",
+          "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+          "published": "2026-10-31T00:16:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23a/live/e2d76eb0-d3a5-11f1-a701-fddedf244c16.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o",
+          "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+          "published": "2026-10-30T23:26:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o",
+          "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+          "published": "2026-10-30T23:19:17.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc6f/live/ee8a8a40-d4b2-11f1-88a4-835788f4f80e.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
@@ -867,90 +951,6 @@
           "published": "2026-10-30T21:13:14.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
-          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-          "published": "2026-10-30T20:55:18.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
-          "title": "Police deployed during stand-off over control of top Poland court",
-          "published": "2026-10-30T20:52:01.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmewepdr109do",
-          "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-          "published": "2026-10-30T20:41:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-          "published": "2026-10-30T20:34:46.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
-          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-          "published": "2026-10-30T17:07:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo",
-          "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-          "published": "2026-10-30T17:00:32.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d6/live/96a5c4c0-d4a3-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "published": "2026-10-30T16:26:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo",
-          "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-          "published": "2026-10-30T15:17:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo",
-          "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-          "published": "2026-10-30T15:09:29.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo",
-          "title": "Six dead after helicopter crashes in northern Indian state",
-          "published": "2026-10-30T15:06:05.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6da/live/dd357d00-d448-11f1-97f9-27ebf08d99fe.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
-          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-          "published": "2026-10-30T15:03:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo",
-          "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-          "published": "2026-10-30T14:48:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg"
         }
       ]
     }
