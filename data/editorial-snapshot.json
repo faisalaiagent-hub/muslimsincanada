@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-30T22:29:50.082Z",
+      "checkedAt": "2026-10-31T10:25:57.669Z",
       "items": [
+        {
+          "id": "C4VX6lJdXeQ",
+          "title": "707 - Sura al-Furqan - 12 - 17 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-10-30T22:43:57.000Z",
+          "url": "https://www.youtube.com/watch?v=C4VX6lJdXeQ",
+          "image": "https://i.ytimg.com/vi/C4VX6lJdXeQ/hqdefault.jpg"
+        },
         {
           "id": "wkiOQbz5PyI",
           "title": "706 - Sura al-Furqan - 07 - 11 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
@@ -101,19 +108,19 @@
           "published": "2026-10-15T01:52:42.000Z",
           "url": "https://www.youtube.com/watch?v=d3IEoUCw6gE",
           "image": "https://i.ytimg.com/vi/d3IEoUCw6gE/hqdefault.jpg"
-        },
-        {
-          "id": "3fTBiJx30Jk",
-          "title": "32 - Categories 33–35: Musalsal, Nasikh, and Musahhaf - Shaykh Ilyas Patel",
-          "published": "2026-10-13T02:05:13.000Z",
-          "url": "https://www.youtube.com/watch?v=3fTBiJx30Jk",
-          "image": "https://i.ytimg.com/vi/3fTBiJx30Jk/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-30T22:29:50.256Z",
+      "checkedAt": "2026-10-31T10:25:57.771Z",
       "items": [
+        {
+          "id": "nnz7hIVdxtc",
+          "title": "What Would You Tell A Racist | Ebro Ahmed and Dr. Omar Suleiman",
+          "published": "2026-10-31T03:23:56.000Z",
+          "url": "https://www.youtube.com/watch?v=nnz7hIVdxtc",
+          "image": "https://i.ytimg.com/vi/nnz7hIVdxtc/hqdefault.jpg"
+        },
         {
           "id": "xWRPVuVJk_g",
           "title": "What Would You Regret On Your Last Day? | Dr. Omar Suleiman",
@@ -141,18 +148,11 @@
           "published": "2026-10-27T00:42:04.000Z",
           "url": "https://www.youtube.com/watch?v=esvCgoH4V7I",
           "image": "https://i.ytimg.com/vi/esvCgoH4V7I/hqdefault.jpg"
-        },
-        {
-          "id": "ZEtMUqIic2U",
-          "title": "When Parents Aren't The Priority Anymore | Dr. Omar Suleiman",
-          "published": "2026-10-25T17:16:11.000Z",
-          "url": "https://www.youtube.com/watch?v=ZEtMUqIic2U",
-          "image": "https://i.ytimg.com/vi/ZEtMUqIic2U/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-31T05:57:39.097Z",
+      "checkedAt": "2026-10-31T10:25:59.043Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/gta-traffic-alert-downtown-church-street-to-host-80000-visitors-for-annual-festival/",
@@ -295,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-30T22:29:49.943Z",
+      "checkedAt": "2026-10-31T10:25:57.577Z",
       "items": [
         {
           "id": "NdhWEIjL1Ts",
@@ -405,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-30T22:29:50.361Z",
+      "checkedAt": "2026-10-31T10:25:57.873Z",
       "items": [
         {
           "id": "fgPOkhK6CJk",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-30T22:29:50.478Z",
+      "checkedAt": "2026-10-31T10:25:57.973Z",
       "items": [
         {
           "id": "w2nnHXqua04",
@@ -625,8 +625,22 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-30T22:29:50.598Z",
+      "checkedAt": "2026-10-31T10:25:58.064Z",
       "items": [
+        {
+          "id": "y670P_o9aAA",
+          "title": "Are people who celebrate Halloween committing Shirk?",
+          "published": "2026-10-31T05:48:18.000Z",
+          "url": "https://www.youtube.com/watch?v=y670P_o9aAA",
+          "image": "https://i.ytimg.com/vi/y670P_o9aAA/hqdefault.jpg"
+        },
+        {
+          "id": "CWRBqT_42_U",
+          "title": "Voting in America: Haram or Wajib?",
+          "published": "2026-10-30T23:00:11.000Z",
+          "url": "https://www.youtube.com/watch?v=CWRBqT_42_U",
+          "image": "https://i.ytimg.com/vi/CWRBqT_42_U/hqdefault.jpg"
+        },
         {
           "id": "TWp_xhm2ck0",
           "title": "The Land, the Wars, and the Failed Peace",
@@ -717,26 +731,26 @@
           "published": "2026-10-08T17:45:06.000Z",
           "url": "https://www.youtube.com/watch?v=Au8cgMsXQNc",
           "image": "https://i.ytimg.com/vi/Au8cgMsXQNc/hqdefault.jpg"
-        },
-        {
-          "id": "i61PKjmsHpg",
-          "title": "Don’t let America get brainwashed!",
-          "published": "2026-10-06T08:15:06.000Z",
-          "url": "https://www.youtube.com/watch?v=i61PKjmsHpg",
-          "image": "https://i.ytimg.com/vi/i61PKjmsHpg/hqdefault.jpg"
-        },
-        {
-          "id": "mlwVbx137sg",
-          "title": "Your Ancestors Followed Traditions...",
-          "published": "2026-10-05T17:00:07.000Z",
-          "url": "https://www.youtube.com/watch?v=mlwVbx137sg",
-          "image": "https://i.ytimg.com/vi/mlwVbx137sg/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-31T05:57:39.253Z",
+      "checkedAt": "2026-10-31T10:25:59.100Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/salah-bachir-funeral-philanthropy-9.7387470",
+          "title": "Canadian philanthropist Salah Bachir remembered for gifts to health care, 2SLGBTQ+ causes, education",
+          "published": "2026-10-31T08:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/salah-bachir-funeral-philanthropy-9.7387470",
+          "image": "https://i.cbc.ca/ais/a612bb45-00f0-4817-97e0-26656abb73a0,1793384786308/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C960%2C540%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/paralympics/summer/para-cycling/mel-pemble-silver-time-trial-para-cycling-track-world-championships-9.7403904",
+          "title": "Canadian Para cyclist Mel Pemble earns track worlds silver with time trial personal best",
+          "published": "2026-10-30T23:49:58.000Z",
+          "url": "https://www.cbc.ca/sports/paralympics/summer/para-cycling/mel-pemble-silver-time-trial-para-cycling-track-world-championships-9.7403904",
+          "image": "https://i.cbc.ca/ais/f1b95913-559c-495b-9d9e-06758a23a5c1,1793403136581/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/investigates/crime-stoppers-canada-tips-phone-only-9.7403714",
           "title": "Canadian Crime Stoppers Association advises chapters to accept tips by phone only",
@@ -757,6 +771,13 @@
           "published": "2026-10-30T20:27:47.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416",
           "image": "https://i.cbc.ca/ais/d3fa9b0f-914d-4302-898b-725a3aa007c5,1793389205852/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/michael-helen-lee-indignity-body-court-appearance-9.7403389",
+          "title": "Body parts found in storage containers, documents show as Calgary couple appears in court",
+          "published": "2026-10-30T20:18:02.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/michael-helen-lee-indignity-body-court-appearance-9.7403389",
+          "image": "https://i.cbc.ca/ais/d84bd4af-bd69-49f7-b9c4-74c6d13ca79e,1793398810695/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/roberts-bank-terminal-2-listed-project-national-interest-delta-bc-9.7403297",
@@ -820,33 +841,26 @@
           "published": "2026-10-30T12:50:27.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/bc-no-time-change-schools-9.7398493",
           "image": "https://i.cbc.ca/ais/335d1352-0c2d-417a-a6f2-b80f4164c651,1793224993414/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1185%2C666%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/pq-school-kids-religious-symbols-9.7402353",
-          "title": "Groups decry Quebec's proposed ban on school kids wearing religious symbols",
-          "published": "2026-10-30T12:30:01.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/pq-school-kids-religious-symbols-9.7402353",
-          "image": "https://i.cbc.ca/ais/9b83873c-f9ca-4c3a-a8d9-a784889eea24,1793325213208/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C4850%2C2728%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/squamish-nation-dead-humpback-whale-b-c-ferries-9.7401953",
-          "title": "Dead humpback whale that was struck by ferry towed to First Nation for ceremony",
-          "published": "2026-10-30T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/squamish-nation-dead-humpback-whale-b-c-ferries-9.7401953",
-          "image": "https://i.cbc.ca/ais/08a5f234-57d4-408e-9d22-b6038979ef9c,1793292112470/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1072%2C1536%2C864%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/suspected-cougar-attack-left-two-horses-injured-outside-raymore-sask-9.7402264",
-          "title": "Suspected cougar attack left two horses injured outside Raymore, Sask.",
-          "published": "2026-10-30T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/suspected-cougar-attack-left-two-horses-injured-outside-raymore-sask-9.7402264",
-          "image": "https://i.cbc.ca/ais/5fd44235-1076-4872-bcee-ffff99e1c7ea,1793320455793/full/max/0/default.jpg?im=Crop%2Crect%3D%28112%2C63%2C1807%2C1016%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-31T05:57:39.595Z",
+      "checkedAt": "2026-10-31T10:25:59.409Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
+          "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+          "published": "2026-10-31T09:16:14.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e67/live/634d7ac0-d46a-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
+          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+          "published": "2026-10-31T08:49:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
           "title": "Spain train disaster clouds Sánchez chances of re-election",
@@ -901,7 +915,7 @@
           "title": "Police deployed during stand-off over control of top Poland court",
           "published": "2026-10-31T01:11:43.000Z",
           "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/308f/live/f44b1080-d50c-11f1-9db5-95ff6e967be3.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
@@ -937,20 +951,6 @@
           "published": "2026-10-30T23:19:17.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc6f/live/ee8a8a40-d4b2-11f1-88a4-835788f4f80e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
-          "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-          "published": "2026-10-30T22:11:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-          "published": "2026-10-30T21:13:14.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"
         }
       ]
     }
