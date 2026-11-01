@@ -302,6 +302,33 @@
           "image": "/media/prayer-space.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-01",
+      "generatedAt": "2026-11-01T06:26:04.439Z",
+      "items": [
+        {
+          "id": "5a7ad270d01b",
+          "kind": "guide",
+          "title": "Give your skills and small business a community home",
+          "summary": "A practical guide to creating a community marketplace offering and what happens after you submit it.",
+          "url": "/guides/share-your-business-on-mic",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/shared-table.jpg"
+        },
+        {
+          "id": "5cf647987c0f",
+          "kind": "talk",
+          "title": "Are people who celebrate Halloween committing Shirk?",
+          "summary": "Make time for a recent conversation from Dr. Yasir Qadhi. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=y670P_o9aAA",
+          "sourceId": "yasir",
+          "source": "Dr. Yasir Qadhi",
+          "image": "https://i.ytimg.com/vi/y670P_o9aAA/hqdefault.jpg",
+          "published": "2026-10-31T05:48:18.000Z"
+        }
+      ]
     }
   ]
 }

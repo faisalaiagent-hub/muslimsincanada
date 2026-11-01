@@ -152,7 +152,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-10-31T21:44:51.469Z",
+      "checkedAt": "2026-11-01T06:26:03.641Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/gta-traffic-alert-downtown-church-street-to-host-80000-visitors-for-annual-festival/",
@@ -735,8 +735,29 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-10-31T21:44:51.735Z",
+      "checkedAt": "2026-11-01T06:26:03.921Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/sports/olympics/winter/figure-skating/skate-canada-international-pairs-recap-9.7404141",
+          "title": "Canada's Lia Pereira, Trennt Michaud win pairs gold at Skate Canada International",
+          "published": "2026-11-01T03:29:11.000Z",
+          "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/skate-canada-international-pairs-recap-9.7404141",
+          "image": "https://i.cbc.ca/ais/0982bb14-3ab2-4d3b-b496-62e6149eb628,1793505969457/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C6500%2C3656%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/football/cfl/cfl-playoffs-saskatchewan-roughriders-bc-lions-9.7403260",
+          "title": "Rourke leads Lions past Roughriders in CFL West semifinal",
+          "published": "2026-11-01T01:41:31.000Z",
+          "url": "https://www.cbc.ca/sports/football/cfl/cfl-playoffs-saskatchewan-roughriders-bc-lions-9.7403260",
+          "image": "https://i.cbc.ca/ais/42559676-890e-4164-845d-b2cde7090af5,1793497124989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C185%2C3600%2C2025%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-montreal-recap-oct-31-9.7404344",
+          "title": "Canada's Roussel, Laoun finish 1-2 in men's 500m at short track World Tour in Montreal",
+          "published": "2026-10-31T21:05:41.000Z",
+          "url": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-montreal-recap-oct-31-9.7404344",
+          "image": "https://i.cbc.ca/ais/2f0a16cf-3906-4862-999e-269180377b12,1793486303079/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C368%2C2381%2C1339%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/calgary/alexa-suitor-sexual-assault-trial-jury-verdict-9.7404371",
           "title": "Alberta woman accused of sex with 15-year-old guilty of sexual assault",
@@ -820,33 +841,68 @@
           "published": "2026-10-31T08:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/hamilton/salah-bachir-funeral-philanthropy-9.7387470",
           "image": "https://i.cbc.ca/ais/a612bb45-00f0-4817-97e0-26656abb73a0,1793384786308/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C960%2C540%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/paralympics/summer/para-cycling/mel-pemble-silver-time-trial-para-cycling-track-world-championships-9.7403904",
-          "title": "Canadian Para cyclist Mel Pemble earns track worlds silver with time trial personal best",
-          "published": "2026-10-30T23:49:58.000Z",
-          "url": "https://www.cbc.ca/sports/paralympics/summer/para-cycling/mel-pemble-silver-time-trial-para-cycling-track-world-championships-9.7403904",
-          "image": "https://i.cbc.ca/ais/f1b95913-559c-495b-9d9e-06758a23a5c1,1793403136581/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/investigates/crime-stoppers-canada-tips-phone-only-9.7403714",
-          "title": "Canadian Crime Stoppers Association advises chapters to accept tips by phone only",
-          "published": "2026-10-30T21:54:31.000Z",
-          "url": "https://www.cbc.ca/news/investigates/crime-stoppers-canada-tips-phone-only-9.7403714",
-          "image": "https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/bridle-path-home-invasion-family-speaks-out-9.7403647",
-          "title": "Victim of violent home invasion in Toronto's Bridle Path neighbourhood says family is 'traumatized'",
-          "published": "2026-10-30T21:48:03.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/bridle-path-home-invasion-family-speaks-out-9.7403647",
-          "image": "https://i.cbc.ca/ais/9e1b2923-ad8e-4a9f-8a7d-8eed381132df,1793397300349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-10-31T21:44:52.214Z",
+      "checkedAt": "2026-11-01T06:26:04.325Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo",
+          "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+          "published": "2026-11-01T06:03:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f303/live/84cce500-d54b-11f1-bcb7-8f812b44c2e5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+          "title": "Shops looted as German cost of living protests turn violent",
+          "published": "2026-11-01T01:59:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+          "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+          "published": "2026-11-01T01:37:26.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c893z699q401o",
+          "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+          "published": "2026-11-01T00:55:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c893z699q401o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+          "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+          "published": "2026-11-01T00:12:07.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
+          "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+          "published": "2026-10-31T23:06:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cf/live/411e4740-d433-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "published": "2026-10-31T22:11:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "published": "2026-10-31T21:29:01.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
           "title": "Thousands demonstrate in Paris as protests spread across Europe",
@@ -876,13 +932,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "published": "2026-10-31T16:32:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo",
           "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
           "published": "2026-10-31T15:16:20.000Z",
@@ -902,55 +951,6 @@
           "published": "2026-10-31T12:50:45.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6e/live/d3851b40-d528-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
-          "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-          "published": "2026-10-31T09:16:14.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e67/live/634d7ac0-d46a-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
-          "title": "Spain train disaster clouds Sánchez chances of re-election",
-          "published": "2026-10-31T05:44:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo",
-          "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-          "published": "2026-10-31T04:32:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/5a0952f0-d487-11f1-80bc-6d398902272f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
-          "title": "The fight to save Canadian town threatened by Trump's tariffs",
-          "published": "2026-10-31T02:39:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
-          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-          "published": "2026-10-31T02:12:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crm941n0413o",
-          "title": "The Indian chef who brought curry to America - then vanished",
-          "published": "2026-10-31T02:02:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crm941n0413o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/8bcbfe20-acc6-11f1-997d-cbb0a29e3293.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckreypn92w49o",
-          "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-          "published": "2026-10-31T01:32:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce2/live/961bb030-d482-11f1-b441-2b33b063138f.png"
         }
       ]
     }
