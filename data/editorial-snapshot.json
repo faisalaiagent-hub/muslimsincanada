@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-01T11:20:05.988Z",
+      "checkedAt": "2026-11-01T17:59:01.246Z",
       "items": [
         {
           "id": "opbfWcscdn4",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-01T11:20:06.144Z",
+      "checkedAt": "2026-11-01T17:59:01.262Z",
       "items": [
         {
           "id": "nnz7hIVdxtc",
@@ -137,7 +137,7 @@
         },
         {
           "id": "PUaq6dSejTI",
-          "title": "When Exposing Yourself Is “Empowerment” | Signs of the Hour Ep. 23 | Dr. Omar Suleiman",
+          "title": "The Disappearance of Haya (Modesty) | Signs of the Hour Ep. 23 | Dr. Omar Suleiman",
           "published": "2026-10-27T14:00:06.000Z",
           "url": "https://www.youtube.com/watch?v=PUaq6dSejTI",
           "image": "https://i.ytimg.com/vi/PUaq6dSejTI/hqdefault.jpg"
@@ -152,8 +152,29 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-01T11:20:08.311Z",
+      "checkedAt": "2026-11-01T17:59:03.973Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/muslim-candidates-gaza-and-mamdani-test-boundaries-of-us-politics-former-pakistan-envoy-says/",
+          "title": "Muslim candidates, Gaza and Mamdani test boundaries of US politics, former Pakistan envoy says",
+          "published": "2026-11-01T14:14:13.000Z",
+          "url": "https://www.muslimnetwork.tv/muslim-candidates-gaza-and-mamdani-test-boundaries-of-us-politics-former-pakistan-envoy-says/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/01/AA-20251230-40118288-40118264-MAMDANI_NAMES_DE_BLASIO_VETERAN_AS_TOP_CITY_LAWYER_ELMHURST_CEO_AS_HEALTH_DEPUTY.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/profile-sheikh-rahman-from-bangladesh-war-prisoner-to-georgias-first-muslim-senator/",
+          "title": "Profile: Sheikh Rahman, from Bangladesh war prisoner to Georgia’s first Muslim senator",
+          "published": "2026-11-01T14:03:31.000Z",
+          "url": "https://www.muslimnetwork.tv/profile-sheikh-rahman-from-bangladesh-war-prisoner-to-georgias-first-muslim-senator/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Member_of_the_Georgia_State_Senate_Sheikh_Rahman.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/profile-zaynab-mohameds-rapid-rise-from-community-organizer-to-legislator/",
+          "title": "Profile: Zaynab Mohamed’s rapid rise from community organizer to legislator",
+          "published": "2026-11-01T14:00:46.000Z",
+          "url": "https://www.muslimnetwork.tv/profile-zaynab-mohameds-rapid-rise-from-community-organizer-to-legislator/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/1280px-thumbnail.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/gta-traffic-alert-downtown-church-street-to-host-80000-visitors-for-annual-festival/",
           "title": "GTA Traffic Alert: Downtown Church Street to Host 80,000 Visitors for Annual Festival.",
@@ -179,46 +200,25 @@
           "id": "https://www.muslimnetwork.tv/8-things-the-islamophobic-attack-ads-wont-tell-you-about-el-sayed/",
           "title": "8 things Islamophobic attack ads won’t tell you about El-Sayed",
           "published": "2026-10-30T11:11:10.000Z",
-          "url": "https://www.muslimnetwork.tv/8-things-the-islamophobic-attack-ads-wont-tell-you-about-el-sayed/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_1-1.jpg"
+          "url": "https://www.muslimnetwork.tv/8-things-the-islamophobic-attack-ads-wont-tell-you-about-el-sayed/"
         },
         {
           "id": "https://www.muslimnetwork.tv/qatari-delegation-visits-tehran-as-diplomatic-efforts-to-secure-us-iran-deal-resume/",
           "title": "Qatari delegation visits Tehran as diplomatic efforts to secure US-Iran deal resume",
           "published": "2026-10-30T10:57:02.000Z",
-          "url": "https://www.muslimnetwork.tv/qatari-delegation-visits-tehran-as-diplomatic-efforts-to-secure-us-iran-deal-resume/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260707-41909807-41909791-PREPARATIONS_FOR_FUNERAL_CEREMONY_OF_ALI_KHAMENEI_IN_KARBALA.jpg"
+          "url": "https://www.muslimnetwork.tv/qatari-delegation-visits-tehran-as-diplomatic-efforts-to-secure-us-iran-deal-resume/"
         },
         {
           "id": "https://www.muslimnetwork.tv/lapid-says-netanyahu-cannot-secure-governing-majority-after-israeli-election/",
           "title": "Israeli opposition leader says Netanyahu cannot secure governing majority after Israeli election",
           "published": "2026-10-30T10:54:41.000Z",
-          "url": "https://www.muslimnetwork.tv/lapid-says-netanyahu-cannot-secure-governing-majority-after-israeli-election/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/12/AA-20221229-29864736-29864735-ISRAELI_NEW_GOVERNMENT_IS_SWORN_IN_TO_THE_KNESSET.jpg"
+          "url": "https://www.muslimnetwork.tv/lapid-says-netanyahu-cannot-secure-governing-majority-after-israeli-election/"
         },
         {
           "id": "https://www.muslimnetwork.tv/turkic-states-sign-ankara-declaration-turkiye-takes-helm/",
           "title": "Turkic states sign Ankara Declaration, Türkiye takes helm",
           "published": "2026-10-30T10:52:13.000Z",
           "url": "https://www.muslimnetwork.tv/turkic-states-sign-ankara-declaration-turkiye-takes-helm/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/key-midterm-races-where-cost-of-living-social-justice-and-gaza-come-together/",
-          "title": "Key midterm races where cost of living, social justice, and Gaza come together",
-          "published": "2026-10-30T10:42:18.000Z",
-          "url": "https://www.muslimnetwork.tv/key-midterm-races-where-cost-of-living-social-justice-and-gaza-come-together/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/us-fiscal-outlook-likely-to-remain-strained-regardless-of-midterm-results-fitch/",
-          "title": "US fiscal outlook likely to remain strained regardless of midterm results: Fitch",
-          "published": "2026-10-30T10:09:47.000Z",
-          "url": "https://www.muslimnetwork.tv/us-fiscal-outlook-likely-to-remain-strained-regardless-of-midterm-results-fitch/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/myanmar-regime-imprisons-two-islamic-teachers-seizes-mosque/",
-          "title": "Myanmar regime imprisons two Islamic teachers, seizes mosque",
-          "published": "2026-10-30T09:58:42.000Z",
-          "url": "https://www.muslimnetwork.tv/myanmar-regime-imprisons-two-islamic-teachers-seizes-mosque/"
         }
       ]
     },
@@ -295,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-01T11:20:05.866Z",
+      "checkedAt": "2026-11-01T17:59:01.053Z",
       "items": [
         {
           "id": "NdhWEIjL1Ts",
@@ -405,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-01T11:20:06.290Z",
+      "checkedAt": "2026-11-01T17:59:01.459Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-01T11:20:06.430Z",
+      "checkedAt": "2026-11-01T17:59:01.637Z",
       "items": [
         {
           "id": "w2nnHXqua04",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-01T11:20:06.539Z",
+      "checkedAt": "2026-11-01T17:59:01.863Z",
       "items": [
         {
           "id": "y670P_o9aAA",
@@ -735,8 +735,57 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-01T11:20:08.644Z",
+      "checkedAt": "2026-11-01T17:59:04.200Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/kitchener-waterloo/puslinch-fatal-car-crash-youths-9.7404772",
+          "title": "Crash that killed 4 teens in Puslinch, Ont., an 'unimaginable tragedy': police",
+          "published": "2026-11-01T15:19:50.000Z",
+          "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/puslinch-fatal-car-crash-youths-9.7404772",
+          "image": "https://i.cbc.ca/ais/1.3662307,1778427866700/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C620%2C348%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/thenational/silver-cross-mother-2026-9.7402837",
+          "title": "In wake of Wainwright tragedy, this year's Silver Cross Mother has a message for grieving families",
+          "published": "2026-11-01T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/thenational/silver-cross-mother-2026-9.7402837",
+          "image": "https://i.cbc.ca/ais/ff89abb5-5360-4ad5-b595-4221e7fe9235,1793481327074/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/n-s-lobster-fishers-face-mounting-pressure-from-soaring-fuel-prices-9.7402881",
+          "title": "N.S. lobster fishers face mounting pressure from soaring fuel prices",
+          "published": "2026-11-01T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/n-s-lobster-fishers-face-mounting-pressure-from-soaring-fuel-prices-9.7402881",
+          "image": "https://i.cbc.ca/ais/714b9e41-60bc-44e1-84d9-d62b164b36e1,1793379835128/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C29%2C2055%2C1155%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/date-change-british-empire-1752-11-days-9.7404255",
+          "title": "Don't like daylight saving time? Nova Scotia once lost 11 days in a single night",
+          "published": "2026-11-01T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/date-change-british-empire-1752-11-days-9.7404255",
+          "image": "https://i.cbc.ca/ais/ca7f3ecb-fbf7-4cbb-ab1c-4e5c1f6eaa9b,1793461080625/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1289%2C725%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/tallulah-salmonier-park-9.7393355",
+          "title": "Tallulah's tale: Salmonier Nature Park otter faces uncertain future after attack, escape from 'Alcatraz'",
+          "published": "2026-11-01T09:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/tallulah-salmonier-park-9.7393355",
+          "image": "https://i.cbc.ca/ais/1.3851932,1479235979000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3996%2C2247%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/hamilton-burn-specialists-cfb-wainwright-support-victims-9.7403328",
+          "title": "Hamilton burn centre sends 9 specialists to help care for soldiers injured in Wainwright fire",
+          "published": "2026-11-01T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-burn-specialists-cfb-wainwright-support-victims-9.7403328",
+          "image": "https://i.cbc.ca/ais/bc1070bb-171a-45f7-a292-81df2ac0b263,1793378144785/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C300%2C1600%2C900%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/niagara-flooding-sewage-storms-insurance-9.7403255",
+          "title": "After estimated $360 million in flood damage, why is province saying Niagara residents don't qualify for aid?",
+          "published": "2026-11-01T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/niagara-flooding-sewage-storms-insurance-9.7403255",
+          "image": "https://i.cbc.ca/ais/c2ce05c3-06c3-4993-a38e-181f35b09fc7,1793389707191/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C1286%2C723%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/player/play/9.7401013",
           "title": "Want to catch a Quebec-made film for just $3? Check out these theatres on select Sundays",
@@ -792,74 +841,32 @@
           "published": "2026-10-31T15:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/stuffed-mr-pg-mount-everest-base-camp-9.7401507",
           "image": "https://i.cbc.ca/ais/64ae53f2-cb99-49ab-89cc-c010e98f9892,1793300183877/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C490%2C1536%2C864%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/parks-canada-wardens-law-enforcement-budget-cuts-9.7398925",
-          "title": "Parks Canada set to slash warden detachments, officers across national parks",
-          "published": "2026-10-31T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/parks-canada-wardens-law-enforcement-budget-cuts-9.7398925",
-          "image": "https://i.cbc.ca/ais/47ea13b6-5241-40a1-ac0c-bb154c85397d,1793387305453/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C17%2C1896%2C1066%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/north/number-of-unqualified-nunavut-teachers-nearly-doubled-in-5-years-9.7403298",
-          "title": "Number of unqualified Nunavut teachers nearly doubled in 5 years",
-          "published": "2026-10-31T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/north/number-of-unqualified-nunavut-teachers-nearly-doubled-in-5-years-9.7403298",
-          "image": "https://i.cbc.ca/ais/82bb2c44-cdd4-4b2f-8860-6442ecedb32c,1781547885932/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C1671%2C939%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/adeline-c-halifax-drug-smuggling-chris-murray-rhode-island-9.7325827",
-          "title": "Drug runner? Arms dealer? The Adeline-C made waves in Halifax and beyond",
-          "published": "2026-10-31T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/adeline-c-halifax-drug-smuggling-chris-murray-rhode-island-9.7325827",
-          "image": "https://i.cbc.ca/ais/055b9e2b-278f-449c-a679-7c9fe649b91c,1792173290336/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C154%2C1169%2C657%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-municipal-election-2026-candidate-acclamation-challenges-harassment-9.7401138",
-          "title": "Many P.E.I. municipalities are seeing uncontested elections this year. Why aren't more people running?",
-          "published": "2026-10-31T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-municipal-election-2026-candidate-acclamation-challenges-harassment-9.7401138",
-          "image": "https://i.cbc.ca/ais/a9dda5ab-8938-4ab1-8a45-08c9a03ab9a3,1793287149456/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C278%2C4208%2C2367%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/new-brunswick/new-adult-womens-hockey-league-in-fredericton-9.7401529",
-          "title": "From sidelines to centre ice, a new women’s hockey league faces off in Fredericton",
-          "published": "2026-10-31T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/new-brunswick/new-adult-womens-hockey-league-in-fredericton-9.7401529",
-          "image": "https://i.cbc.ca/ais/1b263b81-f4c5-4447-930d-8bc27fb6c8c0,1793293787275/full/max/0/default.jpg?im=Crop%2Crect%3D%2846%2C44%2C1800%2C1012%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/cocaine-smuggler-could-avoid-prison-as-judge-fears-incarceration-would-orphan-7-year-old-son-9.7403223",
-          "title": "Cocaine smuggler could avoid prison as judge fears incarceration would orphan 7-year-old son",
-          "published": "2026-10-31T08:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/cocaine-smuggler-could-avoid-prison-as-judge-fears-incarceration-would-orphan-7-year-old-son-9.7403223",
-          "image": "https://i.cbc.ca/ais/1.4262961,1503689342000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C851%2C478%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/how-witchcraft-lore-encouraged-kindness-among-neighbours-in-newfoundland-and-labrador-9.7402746",
-          "title": "How witchcraft lore encouraged kindness among neighbours in Newfoundland and Labrador",
-          "published": "2026-10-31T08:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/how-witchcraft-lore-encouraged-kindness-among-neighbours-in-newfoundland-and-labrador-9.7402746",
-          "image": "https://i.cbc.ca/ais/eb7ce7ba-6cd1-46d9-83d0-85009c7b5511,1793374111125/full/max/0/default.jpg?im=Crop%2Crect%3D%28103%2C186%2C1313%2C738%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-01T11:20:08.976Z",
+      "checkedAt": "2026-11-01T17:59:04.331Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
-          "title": "Shops looted as German cost of living protests turn violent",
-          "published": "2026-11-01T11:03:36.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
+          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+          "published": "2026-11-01T17:06:32.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
           "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "published": "2026-11-01T09:28:06.000Z",
+          "published": "2026-11-01T13:11:37.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+          "title": "Shops looted as German cost-of-living protests turn violent",
+          "published": "2026-11-01T11:57:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
@@ -922,7 +929,7 @@
           "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
           "published": "2026-10-31T23:06:13.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cf/live/411e4740-d433-11f1-93e1-3b657b665bcf.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef77/live/2c7e9f50-d5ec-11f1-bfdd-73f39e6db31d.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
@@ -944,13 +951,6 @@
           "published": "2026-10-31T17:53:35.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo",
-          "title": "Emotional reunions with loved ones for Oleshky evacuees",
-          "published": "2026-10-31T16:55:47.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg"
         }
       ]
     }
