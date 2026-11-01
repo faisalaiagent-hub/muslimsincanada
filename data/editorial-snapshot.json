@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-10-31T21:44:48.120Z",
+      "checkedAt": "2026-11-01T11:20:05.988Z",
       "items": [
         {
           "id": "opbfWcscdn4",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-10-31T21:44:48.293Z",
+      "checkedAt": "2026-11-01T11:20:06.144Z",
       "items": [
         {
           "id": "nnz7hIVdxtc",
@@ -152,7 +152,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-01T06:26:03.641Z",
+      "checkedAt": "2026-11-01T11:20:08.311Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/gta-traffic-alert-downtown-church-street-to-host-80000-visitors-for-annual-festival/",
@@ -295,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-10-31T21:44:47.939Z",
+      "checkedAt": "2026-11-01T11:20:05.866Z",
       "items": [
         {
           "id": "NdhWEIjL1Ts",
@@ -405,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-10-31T21:44:48.502Z",
+      "checkedAt": "2026-11-01T11:20:06.290Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-10-31T21:44:48.687Z",
+      "checkedAt": "2026-11-01T11:20:06.430Z",
       "items": [
         {
           "id": "w2nnHXqua04",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-10-31T21:44:48.822Z",
+      "checkedAt": "2026-11-01T11:20:06.539Z",
       "items": [
         {
           "id": "y670P_o9aAA",
@@ -735,8 +735,15 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-01T06:26:03.921Z",
+      "checkedAt": "2026-11-01T11:20:08.644Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/player/play/9.7401013",
+          "title": "Want to catch a Quebec-made film for just $3? Check out these theatres on select Sundays",
+          "published": "2026-11-01T09:00:00.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7401013",
+          "image": "https://i.cbc.ca/ais/49563796-46cb-48e4-884f-f0396020a512,1793285592159/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/sports/olympics/winter/figure-skating/skate-canada-international-pairs-recap-9.7404141",
           "title": "Canada's Lia Pereira, Trennt Michaud win pairs gold at Skate Canada International",
@@ -834,19 +841,33 @@
           "published": "2026-10-31T08:30:00.000Z",
           "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/how-witchcraft-lore-encouraged-kindness-among-neighbours-in-newfoundland-and-labrador-9.7402746",
           "image": "https://i.cbc.ca/ais/eb7ce7ba-6cd1-46d9-83d0-85009c7b5511,1793374111125/full/max/0/default.jpg?im=Crop%2Crect%3D%28103%2C186%2C1313%2C738%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/salah-bachir-funeral-philanthropy-9.7387470",
-          "title": "Canadian philanthropist Salah Bachir remembered for gifts to health care, 2SLGBTQ+ causes, education",
-          "published": "2026-10-31T08:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/salah-bachir-funeral-philanthropy-9.7387470",
-          "image": "https://i.cbc.ca/ais/a612bb45-00f0-4817-97e0-26656abb73a0,1793384786308/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C960%2C540%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-01T06:26:04.325Z",
+      "checkedAt": "2026-11-01T11:20:08.976Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+          "title": "Shops looted as German cost of living protests turn violent",
+          "published": "2026-11-01T11:03:36.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "published": "2026-11-01T09:28:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+          "title": "India's opposition holds mega rally seeking election chief's resignation",
+          "published": "2026-11-01T07:00:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo",
           "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
@@ -855,11 +876,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f303/live/84cce500-d54b-11f1-bcb7-8f812b44c2e5.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
-          "title": "Shops looted as German cost of living protests turn violent",
-          "published": "2026-11-01T01:59:57.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg"
+          "id": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo",
+          "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+          "published": "2026-11-01T05:26:02.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5b/live/57cc5ff0-d5b3-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
@@ -876,11 +897,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
-          "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-          "published": "2026-11-01T00:12:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "published": "2026-11-01T00:46:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
+          "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+          "published": "2026-11-01T00:41:24.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
+          "title": "Judge orders Trump administration to stop threatening US election officials",
+          "published": "2026-11-01T00:27:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
@@ -888,20 +923,6 @@
           "published": "2026-10-31T23:06:13.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cf/live/411e4740-d433-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "published": "2026-10-31T22:11:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "published": "2026-10-31T21:29:01.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
@@ -930,27 +951,6 @@
           "published": "2026-10-31T16:55:47.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo",
-          "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-          "published": "2026-10-31T15:16:20.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o",
-          "title": "Ethiopian PM puts ministers through military training",
-          "published": "2026-10-31T14:28:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmze42el49d9o",
-          "title": "Watch: Blood donors get a Halloween fright in Thailand",
-          "published": "2026-10-31T12:50:45.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6e/live/d3851b40-d528-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     }
