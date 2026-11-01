@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-01T17:59:01.246Z",
+      "checkedAt": "2026-11-01T22:11:58.596Z",
       "items": [
         {
           "id": "opbfWcscdn4",
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-01T17:59:01.262Z",
+      "checkedAt": "2026-11-01T22:11:58.745Z",
       "items": [
+        {
+          "id": "ezThSnI6K_0",
+          "title": "Would You Cheat Your Sibling? | Dr. Omar Suleiman",
+          "published": "2026-11-01T18:29:34.000Z",
+          "url": "https://www.youtube.com/watch?v=ezThSnI6K_0",
+          "image": "https://i.ytimg.com/vi/ezThSnI6K_0/hqdefault.jpg"
+        },
         {
           "id": "nnz7hIVdxtc",
           "title": "What Would You Tell A Racist | Ebro Ahmed and Dr. Omar Suleiman",
@@ -152,7 +159,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-01T17:59:03.973Z",
+      "checkedAt": "2026-11-01T22:12:00.057Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/muslim-candidates-gaza-and-mamdani-test-boundaries-of-us-politics-former-pakistan-envoy-says/",
@@ -295,7 +302,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-01T17:59:01.053Z",
+      "checkedAt": "2026-11-01T22:11:58.497Z",
       "items": [
         {
           "id": "NdhWEIjL1Ts",
@@ -405,7 +412,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-01T17:59:01.459Z",
+      "checkedAt": "2026-11-01T22:11:58.843Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -515,7 +522,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-01T17:59:01.637Z",
+      "checkedAt": "2026-11-01T22:11:58.956Z",
       "items": [
         {
           "id": "w2nnHXqua04",
@@ -625,8 +632,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-01T17:59:01.863Z",
+      "checkedAt": "2026-11-01T22:11:59.056Z",
       "items": [
+        {
+          "id": "ZCpq-SUW-ig",
+          "title": "When Your Faith Is Tested...",
+          "published": "2026-11-01T21:09:44.000Z",
+          "url": "https://www.youtube.com/watch?v=ZCpq-SUW-ig",
+          "image": "https://i.ytimg.com/vi/ZCpq-SUW-ig/hqdefault.jpg"
+        },
         {
           "id": "y670P_o9aAA",
           "title": "Are people who celebrate Halloween committing Shirk?",
@@ -724,25 +738,32 @@
           "published": "2026-10-09T06:55:12.000Z",
           "url": "https://www.youtube.com/watch?v=Z2fnGd1X7S8",
           "image": "https://i.ytimg.com/vi/Z2fnGd1X7S8/hqdefault.jpg"
-        },
-        {
-          "id": "Au8cgMsXQNc",
-          "title": "The Fight Over Islam in American Schools",
-          "published": "2026-10-08T17:45:06.000Z",
-          "url": "https://www.youtube.com/watch?v=Au8cgMsXQNc",
-          "image": "https://i.ytimg.com/vi/Au8cgMsXQNc/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-01T17:59:04.200Z",
+      "checkedAt": "2026-11-01T22:12:00.166Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/brandon-medical-oncologist-doctor-cancer-9.7403937",
+          "title": "Medical oncologist based in Brandon, Man., says he's leaving his 'dream job' over lack of support",
+          "published": "2026-11-01T17:23:27.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/brandon-medical-oncologist-doctor-cancer-9.7403937",
+          "image": "https://i.cbc.ca/ais/67cebfdc-7201-48f6-af3e-a62c191f8ed7,1793402801256/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C43%2C469%2C263%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/kitchener-waterloo/puslinch-fatal-car-crash-youths-9.7404772",
           "title": "Crash that killed 4 teens in Puslinch, Ont., an 'unimaginable tragedy': police",
           "published": "2026-11-01T15:19:50.000Z",
           "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/puslinch-fatal-car-crash-youths-9.7404772",
-          "image": "https://i.cbc.ca/ais/1.3662307,1778427866700/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C620%2C348%29%3B"
+          "image": "https://i.cbc.ca/ais/53030306-c6b8-4782-9db4-ed30a38527e8,1793552720338/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/wonder-valley-slcn-court-physicist-9.7403677",
+          "title": "Proposed data centre would release ‘23 Hiroshima-sized atomic bombs worth of energy’ a day, physicist says",
+          "published": "2026-11-01T15:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/wonder-valley-slcn-court-physicist-9.7403677",
+          "image": "https://i.cbc.ca/ais/f744e9eb-a858-42a3-8830-2edcc8a955f0,1780092291031/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1535%2C863%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/thenational/silver-cross-mother-2026-9.7402837",
@@ -764,13 +785,6 @@
           "published": "2026-11-01T10:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/nova-scotia/date-change-british-empire-1752-11-days-9.7404255",
           "image": "https://i.cbc.ca/ais/ca7f3ecb-fbf7-4cbb-ab1c-4e5c1f6eaa9b,1793461080625/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1289%2C725%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/tallulah-salmonier-park-9.7393355",
-          "title": "Tallulah's tale: Salmonier Nature Park otter faces uncertain future after attack, escape from 'Alcatraz'",
-          "published": "2026-11-01T09:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/tallulah-salmonier-park-9.7393355",
-          "image": "https://i.cbc.ca/ais/1.3851932,1479235979000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3996%2C2247%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/hamilton/hamilton-burn-specialists-cfb-wainwright-support-victims-9.7403328",
@@ -808,13 +822,6 @@
           "image": "https://i.cbc.ca/ais/42559676-890e-4164-845d-b2cde7090af5,1793497124989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C185%2C3600%2C2025%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-montreal-recap-oct-31-9.7404344",
-          "title": "Canada's Roussel, Laoun finish 1-2 in men's 500m at short track World Tour in Montreal",
-          "published": "2026-10-31T21:05:41.000Z",
-          "url": "https://www.cbc.ca/sports/olympics/winter/short-track-speed-skating/short-track-world-tour-montreal-recap-oct-31-9.7404344",
-          "image": "https://i.cbc.ca/ais/2f0a16cf-3906-4862-999e-269180377b12,1793486303079/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C368%2C2381%2C1339%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/calgary/alexa-suitor-sexual-assault-trial-jury-verdict-9.7404371",
           "title": "Alberta woman accused of sex with 15-year-old guilty of sexual assault",
           "published": "2026-10-31T20:55:45.000Z",
@@ -845,14 +852,56 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-01T17:59:04.331Z",
+      "checkedAt": "2026-11-01T22:12:00.514Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "published": "2026-11-01T21:55:01.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "published": "2026-11-01T21:16:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo",
+          "title": "Peaceful protests in Germany spiral into violence and looting",
+          "published": "2026-11-01T18:51:56.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro",
+          "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+          "published": "2026-11-01T17:56:47.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o",
+          "title": "Lindsay Clancy is back in court - where will her case go next?",
+          "published": "2026-11-01T17:29:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f436/live/1948f1a0-d255-11f1-bb20-4320a74e5db1.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
           "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
           "published": "2026-11-01T17:06:32.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o",
+          "title": "University of Cambridge scientist among those who died in Spanish train crash",
+          "published": "2026-11-01T17:05:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
@@ -909,48 +958,6 @@
           "published": "2026-11-01T00:46:12.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
-          "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-          "published": "2026-11-01T00:41:24.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
-          "title": "Judge orders Trump administration to stop threatening US election officials",
-          "published": "2026-11-01T00:27:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
-          "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-          "published": "2026-10-31T23:06:13.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef77/live/2c7e9f50-d5ec-11f1-bfdd-73f39e6db31d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "published": "2026-10-31T21:29:01.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
-          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-          "published": "2026-10-31T19:22:26.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
-          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-          "published": "2026-10-31T17:53:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
         }
       ]
     }
