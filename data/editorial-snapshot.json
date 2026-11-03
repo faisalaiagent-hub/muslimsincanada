@@ -2,21 +2,21 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-02T21:49:16.680Z",
+      "checkedAt": "2026-11-03T11:59:37.461Z",
       "items": [
+        {
+          "id": "nfLpV2--DO4",
+          "title": "35 - Category: 40-42 - Knowing the Followers, Seniors from Juniors Narrations, & Mutual Narrations",
+          "published": "2026-11-03T02:52:54.000Z",
+          "url": "https://www.youtube.com/watch?v=nfLpV2--DO4",
+          "image": "https://i.ytimg.com/vi/nfLpV2--DO4/hqdefault.jpg"
+        },
         {
           "id": "myPaLrTU5CA",
           "title": "709 - Sura al-Furqan - 21 - 26 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
           "published": "2026-11-02T20:00:36.000Z",
           "url": "https://www.youtube.com/watch?v=myPaLrTU5CA",
           "image": "https://i.ytimg.com/vi/myPaLrTU5CA/hqdefault.jpg"
-        },
-        {
-          "id": "nfLpV2--DO4",
-          "title": "35 - Category: 40-42 - Knowing the Followers, Seniors from Juniors Narrations, & Mutual Narrations",
-          "published": "2026-11-02T14:00:40.000Z",
-          "url": "https://www.youtube.com/watch?v=nfLpV2--DO4",
-          "image": "https://i.ytimg.com/vi/nfLpV2--DO4/hqdefault.jpg"
         },
         {
           "id": "opbfWcscdn4",
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-02T21:49:16.812Z",
+      "checkedAt": "2026-11-03T11:59:37.598Z",
       "items": [
+        {
+          "id": "1dPLDwF5ydA",
+          "title": "“Who Am I To Judge?” Has A Limit | Signs of the Hour Ep. 24 | Dr. Omar Suleiman",
+          "published": "2026-11-03T04:02:00.000Z",
+          "url": "https://www.youtube.com/watch?v=1dPLDwF5ydA",
+          "image": "https://i.ytimg.com/vi/1dPLDwF5ydA/hqdefault.jpg"
+        },
         {
           "id": "P6c_Dsw_-2U",
           "title": "Qatada ibn al-Nu'man (ra): The Shield of the Prophet ﷺ | The Firsts | Dr. Omar Suleiman",
@@ -141,19 +148,33 @@
           "published": "2026-10-29T23:00:31.000Z",
           "url": "https://www.youtube.com/watch?v=xWRPVuVJk_g",
           "image": "https://i.ytimg.com/vi/xWRPVuVJk_g/hqdefault.jpg"
-        },
-        {
-          "id": "C75mxHXvvGU",
-          "title": "Does Your Shaytan Have Hope In You? | Dr. Omar Suleiman",
-          "published": "2026-10-28T01:00:19.000Z",
-          "url": "https://www.youtube.com/watch?v=C75mxHXvvGU",
-          "image": "https://i.ytimg.com/vi/C75mxHXvvGU/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-03T06:59:44.893Z",
+      "checkedAt": "2026-11-03T11:59:39.369Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/icc-chief-condemns-us-sanctions-presses-netanyahu-warrants/",
+          "title": "ICC chief condemns US sanctions, presses Netanyahu warrants",
+          "published": "2026-11-03T11:33:35.000Z",
+          "url": "https://www.muslimnetwork.tv/icc-chief-condemns-us-sanctions-presses-netanyahu-warrants/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/10/AFP-TV_20241011_CLJ_NLD_ProsecutorIcc_36J77NB_en.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/us-midterm-elections-get-underway-as-voters-decide-control-of-congress-governorships/",
+          "title": "US midterm elections get underway as voters decide control of Congress, governorships",
+          "published": "2026-11-03T11:20:55.000Z",
+          "url": "https://www.muslimnetwork.tv/us-midterm-elections-get-underway-as-voters-decide-control-of-congress-governorships/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261103-42946787-42946780-CAMPAIGN_RALLY_HELD_AHEAD_OF_US_MIDTERM_ELECTIONS.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/north-korea-rejects-us-allegations-over-binance-crypto-theft-warns-of-response/",
+          "title": "North Korea rejects US allegations over Binance crypto theft, warns of response",
+          "published": "2026-11-03T07:22:59.000Z",
+          "url": "https://www.muslimnetwork.tv/north-korea-rejects-us-allegations-over-binance-crypto-theft-warns-of-response/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-shutter-speed-9169177.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/irans-revolutionary-guard-says-it-downed-2-us-drones-in-strait-of-hormuz/",
           "title": "Iran’s Revolutionary Guard says it downed 2 US drones in Strait of Hormuz",
@@ -179,15 +200,13 @@
           "id": "https://www.muslimnetwork.tv/israeli-army-twisted-truth-on-gaza-says-former-military-press-staffer/",
           "title": "Israeli army twisted truth on Gaza, says former military press staffer",
           "published": "2026-11-03T06:05:10.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-army-twisted-truth-on-gaza-says-former-military-press-staffer/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_ab87254aeab8095e54d0cb82964a9deb.webp"
+          "url": "https://www.muslimnetwork.tv/israeli-army-twisted-truth-on-gaza-says-former-military-press-staffer/"
         },
         {
           "id": "https://www.muslimnetwork.tv/qa-senator-iman-jodeh-on-gaza-aurora-and-muslim-moment/",
           "title": "Q&A: Senator Iman Jodeh on Gaza, Aurora and Muslim moment",
           "published": "2026-11-03T03:35:34.000Z",
-          "url": "https://www.muslimnetwork.tv/qa-senator-iman-jodeh-on-gaza-aurora-and-muslim-moment/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-8.34.47-AM.png"
+          "url": "https://www.muslimnetwork.tv/qa-senator-iman-jodeh-on-gaza-aurora-and-muslim-moment/"
         },
         {
           "id": "https://www.muslimnetwork.tv/grief-grit-and-historic-seat-senator-iman-jodehs-hardest-year/",
@@ -201,24 +220,6 @@
           "title": "GTA Temperatures to Reach 20°C This Week After a Record-Breaking October",
           "published": "2026-11-02T23:51:17.000Z",
           "url": "https://www.muslimnetwork.tv/gta-temperatures-to-reach-20c-this-week-after-a-record-breaking-october/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/how-is-carneys-masters-of-our-destiny-different-from-other-budgets/",
-          "title": "How is Carney’s “Masters of Our Destiny” Different from Other Budgets?",
-          "published": "2026-11-02T23:48:27.000Z",
-          "url": "https://www.muslimnetwork.tv/how-is-carneys-masters-of-our-destiny-different-from-other-budgets/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/palestinian-parties-hold-leverage-over-israels-political-future/",
-          "title": "Palestinian parties hold leverage over Israel’s political future",
-          "published": "2026-11-02T20:28:23.000Z",
-          "url": "https://www.muslimnetwork.tv/palestinian-parties-hold-leverage-over-israels-political-future/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-forces-fire-tear-gas-at-palestinian-schoolchildren/",
-          "title": "Israeli forces fire tear gas at Palestinian schoolchildren",
-          "published": "2026-11-02T20:27:01.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-forces-fire-tear-gas-at-palestinian-schoolchildren/"
         }
       ]
     },
@@ -295,7 +296,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-02T21:49:16.405Z",
+      "checkedAt": "2026-11-03T11:59:37.246Z",
       "items": [
         {
           "id": "mYEhAJ_bBRA",
@@ -405,7 +406,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-02T21:49:17.026Z",
+      "checkedAt": "2026-11-03T11:59:37.829Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -515,7 +516,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-02T21:49:17.199Z",
+      "checkedAt": "2026-11-03T11:59:38.053Z",
       "items": [
         {
           "id": "w2nnHXqua04",
@@ -625,8 +626,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-02T21:49:17.445Z",
+      "checkedAt": "2026-11-03T11:59:38.185Z",
       "items": [
+        {
+          "id": "FdWuQCSz7SU",
+          "title": "Monday is named for the moon god. Is it haram to say Monday?",
+          "published": "2026-11-03T06:58:12.000Z",
+          "url": "https://www.youtube.com/watch?v=FdWuQCSz7SU",
+          "image": "https://i.ytimg.com/vi/FdWuQCSz7SU/hqdefault.jpg"
+        },
         {
           "id": "ZCpq-SUW-ig",
           "title": "When Your Faith Is Tested...",
@@ -724,19 +732,26 @@
           "published": "2026-10-11T04:50:32.000Z",
           "url": "https://www.youtube.com/watch?v=-u3bZhyIMJE",
           "image": "https://i.ytimg.com/vi/-u3bZhyIMJE/hqdefault.jpg"
-        },
-        {
-          "id": "Z2fnGd1X7S8",
-          "title": "HOW TO FIGHT BACK AS A MUSLIM",
-          "published": "2026-10-09T06:55:12.000Z",
-          "url": "https://www.youtube.com/watch?v=Z2fnGd1X7S8",
-          "image": "https://i.ytimg.com/vi/Z2fnGd1X7S8/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-03T06:59:44.977Z",
+      "checkedAt": "2026-11-03T11:59:39.624Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/world/uk-emergency-preparedness-stockpile-canada-9.7406408",
+          "title": "Ottawa wants us all to have emergency supplies for 3 days. The good news is, that number hasn't changed",
+          "published": "2026-11-03T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/world/uk-emergency-preparedness-stockpile-canada-9.7406408",
+          "image": "https://i.cbc.ca/ais/ae9e0ae5-8584-49ea-8239-d313b706a14b,1793664925413/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C166%2C3000%2C1687%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/mark-carney-commonwealth-summit-november-2026-9.7406728",
+          "title": "24 hours in Antigua: Mark Carney's priorities at this year's Commonwealth Summit",
+          "published": "2026-11-03T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/mark-carney-commonwealth-summit-november-2026-9.7406728",
+          "image": "https://i.cbc.ca/ais/0db1ebcf-655c-423c-861d-06acb54ad8f0,1793671692063/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3872%2C2178%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/blackstone-pension-funds-lng-canada-9.7406504",
           "title": "Canadian pension funds and U.S. company Blackstone invest $3.1B US in LNG Canada stake",
@@ -827,39 +842,74 @@
           "published": "2026-11-02T20:31:52.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-firing-spvm-9.7406135",
           "image": "https://i.cbc.ca/ais/d0d57e1e-25f5-4509-b67c-8a0fd39bd971,1781633641046/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/n-s-minor-hockey-player-accused-of-sex-assault-pleads-guilty-to-3-charges-9.7406078",
-          "title": "N.S. minor hockey player accused of sex assault pleads guilty to 3 charges",
-          "published": "2026-11-02T19:40:16.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/n-s-minor-hockey-player-accused-of-sex-assault-pleads-guilty-to-3-charges-9.7406078",
-          "image": "https://i.cbc.ca/ais/611479a5-b6b2-478c-b4d8-ebc038184526,1770344212449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/air-ambulance-investigation-update-9.7405973",
-          "title": "Cockpit recorder of Hamilton-based air ambulance recovered after fatal crash off Massachusetts coast",
-          "published": "2026-11-02T19:13:01.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/air-ambulance-investigation-update-9.7405973",
-          "image": "https://i.cbc.ca/ais/bebc78ea-ad67-402e-a470-0d9d14f902e7,1793652537600/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C3000%2C1687%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-03T06:59:45.314Z",
+      "checkedAt": "2026-11-03T11:59:39.881Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+          "title": "US strikes Iranian island ahead of midterm elections",
+          "published": "2026-11-03T11:33:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
+          "title": "Trump to remove Rwanda and South Africa from US trade deal",
+          "published": "2026-11-03T10:26:26.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro",
+          "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+          "published": "2026-11-03T10:02:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo",
+          "title": "Tenerife striker De Miguel dies after on-field collision",
+          "published": "2026-11-03T09:09:18.000Z",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
           "title": "North Korea denies being behind record $6.3bn Binance hack",
-          "published": "2026-11-03T06:22:29.000Z",
+          "published": "2026-11-03T08:33:20.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
-          "title": "US strikes Iran ahead of midterm elections",
-          "published": "2026-11-03T03:39:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
+          "title": "Major test for Australia's social media ban begins in High Court",
+          "published": "2026-11-03T07:53:38.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/69114010-d75b-11f1-8f6b-d71817972456.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro",
+          "title": "Why a US-Russia showdown left Morocco celebrating",
+          "published": "2026-11-03T07:29:46.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3276/live/8e9ad0f0-d6c8-11f1-ac20-7783925c811f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+          "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+          "published": "2026-11-03T07:24:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o",
+          "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+          "published": "2026-11-03T07:15:17.000Z",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9647/live/0ce22d10-d754-11f1-8bf4-5f3ca896096e.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko",
@@ -869,27 +919,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo",
-          "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
-          "published": "2026-11-03T03:30:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a969/live/dd51e9c0-d729-11f1-9b56-c9b433d51ba8.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
-          "title": "Trump to remove Rwanda and South Africa from US trade deal",
-          "published": "2026-11-03T03:00:36.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-          "published": "2026-11-03T01:56:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no",
           "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
           "published": "2026-11-03T00:09:13.000Z",
@@ -897,25 +926,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
-          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-          "published": "2026-11-03T00:08:14.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po",
           "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
           "published": "2026-11-03T00:07:05.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
-          "title": "Legal challenge to Australia's social media ban to start in High Court",
-          "published": "2026-11-02T23:37:31.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e34/live/47a8cf70-d75a-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o",
@@ -926,10 +941,10 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
-          "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+          "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
           "published": "2026-11-02T20:54:44.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7007/live/c8ea35c0-d6f5-11f1-b441-2b33b063138f.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2968/live/e7b09290-d76a-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo",
@@ -937,20 +952,6 @@
           "published": "2026-11-02T20:08:51.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6f/live/1399f160-d6fa-11f1-b983-c357054e4d1e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o",
-          "title": "What Florida jet audio and flight data tells us about its final moments",
-          "published": "2026-11-02T19:49:22.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/f2671810-d6ea-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
-          "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-          "published": "2026-11-02T18:34:24.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg"
         }
       ]
     }
