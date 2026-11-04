@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-04T12:14:01.588Z",
+      "checkedAt": "2026-11-04T19:54:24.276Z",
       "items": [
+        {
+          "id": "8TG5JaGY7yc",
+          "title": "39 - Book of Purification - [Hadith 418-429] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "published": "2026-11-04T14:01:27.000Z",
+          "url": "https://www.youtube.com/watch?v=8TG5JaGY7yc",
+          "image": "https://i.ytimg.com/vi/8TG5JaGY7yc/hqdefault.jpg"
+        },
         {
           "id": "hudKjLpYACE",
           "title": "38 - Book of Purification - [Hadith 401-417] - Mishkat al-Masabih - Shaykh Ilyas Patel",
@@ -101,18 +108,11 @@
           "published": "2026-10-21T13:58:15.000Z",
           "url": "https://www.youtube.com/watch?v=21YayVSC5QY",
           "image": "https://i.ytimg.com/vi/21YayVSC5QY/hqdefault.jpg"
-        },
-        {
-          "id": "iYNHtpy-9Ww",
-          "title": "34 - Book of Purification - [Hadith 356-368] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-10-21T02:00:38.000Z",
-          "url": "https://www.youtube.com/watch?v=iYNHtpy-9Ww",
-          "image": "https://i.ytimg.com/vi/iYNHtpy-9Ww/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-04T12:14:01.808Z",
+      "checkedAt": "2026-11-04T19:54:24.419Z",
       "items": [
         {
           "id": "1dPLDwF5ydA",
@@ -152,8 +152,36 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-04T12:14:03.322Z",
+      "checkedAt": "2026-11-04T19:54:26.145Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/democrats-plan-scrutiny-of-trumps-iran-war-decisions/",
+          "title": "Democrats plan scrutiny of Trump’s Iran war decisions",
+          "published": "2026-11-04T14:26:11.000Z",
+          "url": "https://www.muslimnetwork.tv/democrats-plan-scrutiny-of-trumps-iran-war-decisions/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_02689430326b2ec80fc8d7a2bde9dc3b.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/meet-the-muslim-women-who-made-history-this-election/",
+          "title": "Meet the Muslim women who made history this election",
+          "published": "2026-11-04T14:15:19.000Z",
+          "url": "https://www.muslimnetwork.tv/meet-the-muslim-women-who-made-history-this-election/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/01/Ilhan_Omar_02.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/democrats-prepare-to-challenge-trumps-tariff-agenda/",
+          "title": "Democrats prepare to challenge Trump’s tariff agenda",
+          "published": "2026-11-04T14:12:41.000Z",
+          "url": "https://www.muslimnetwork.tv/democrats-prepare-to-challenge-trumps-tariff-agenda/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_d91bdb5fb8f9462bc525bc1761591168.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/at-least-36-muslim-candidates-win-or-lead-races-in-2026-us-midterm-elections/",
+          "title": "At least 36 Muslim candidates win or lead races in 2026 US midterm elections",
+          "published": "2026-11-04T13:21:10.000Z",
+          "url": "https://www.muslimnetwork.tv/at-least-36-muslim-candidates-win-or-lead-races-in-2026-us-midterm-elections/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261102-42938796-42938793-ABDUL_ELSAYED_HOLDS_CAMPAIGN_EVENT_IN_DETROIT.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/us-aid-to-israel-exceeds-300b-since-1948/",
           "title": "US aid to Israel exceeds $300B since 1948",
@@ -166,59 +194,31 @@
           "title": "New Democratic senators challenge US arms support for Israel",
           "published": "2026-11-04T11:44:29.000Z",
           "url": "https://www.muslimnetwork.tv/new-democratic-senators-challenge-us-arms-support-for-israel/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_5e81031619c646d15ed82eab090848ed.webp"
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/10/AA-20241020-35965969-35965933-PROPALESTINE_AND_LEBANON_PROTEST_IN_BRUSSELS.jpg"
         },
         {
           "id": "https://www.muslimnetwork.tv/kansas-elects-democrat-to-senate-after-94-year-republican-hold/",
           "title": "Kansas elects Democrat to Senate after 94-year Republican hold",
           "published": "2026-11-04T11:42:34.000Z",
-          "url": "https://www.muslimnetwork.tv/kansas-elects-democrat-to-senate-after-94-year-republican-hold/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Screenshot-2026-11-04-at-4.41.35-PM.png"
+          "url": "https://www.muslimnetwork.tv/kansas-elects-democrat-to-senate-after-94-year-republican-hold/"
         },
         {
           "id": "https://www.muslimnetwork.tv/abdul-el-sayeds-historic-us-victory-brings-joy-to-indian-coastal-town/",
           "title": "Abdul El-Sayed’s historic US victory brings joy to Indian coastal town",
           "published": "2026-11-04T10:50:42.000Z",
-          "url": "https://www.muslimnetwork.tv/abdul-el-sayeds-historic-us-victory-brings-joy-to-indian-coastal-town/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261104-42962018-42962002-ABDUL_ELSAYED_BECOMES_1ST_MUSLIM_ELECTED_TO_US_SENATE_IN_MICHIGAN_WIN.jpg"
+          "url": "https://www.muslimnetwork.tv/abdul-el-sayeds-historic-us-victory-brings-joy-to-indian-coastal-town/"
         },
         {
           "id": "https://www.muslimnetwork.tv/iran-cheers-allies-reassure-as-democrats-sweep-congress/",
           "title": "Iran cheers, allies reassure as Democrats sweep Congress",
           "published": "2026-11-04T09:17:51.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-cheers-allies-reassure-as-democrats-sweep-congress/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261104-42959348-42959342-2026_US_MIDTERM_ELECTIONS.jpg"
+          "url": "https://www.muslimnetwork.tv/iran-cheers-allies-reassure-as-democrats-sweep-congress/"
         },
         {
           "id": "https://www.muslimnetwork.tv/many-firsts-muslim-senator-and-historic-governors/",
           "title": "Many firsts: Muslim senator and historic governors",
           "published": "2026-11-04T07:10:38.000Z",
-          "url": "https://www.muslimnetwork.tv/many-firsts-muslim-senator-and-historic-governors/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261030-42910073-42910071-ABDUL_ELSAYED_AND_ELISSA_SLOTKIN_HOLD_RALLY_IN_KALAMAZOO.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/el-sayed-set-to-become-first-muslim-us-senator/",
-          "title": "El-Sayed becomes first Muslim elected to US Senate",
-          "published": "2026-11-04T06:56:54.000Z",
-          "url": "https://www.muslimnetwork.tv/el-sayed-set-to-become-first-muslim-us-senator/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/nabeela-syed-flips-republican-held-illinois-senate-seat/",
-          "title": "Nabeela Syed flips Republican-held Illinois Senate seat",
-          "published": "2026-11-04T06:47:27.000Z",
-          "url": "https://www.muslimnetwork.tv/nabeela-syed-flips-republican-held-illinois-senate-seat/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/blue-wave-rocks-trumps-america/",
-          "title": "EARLY ANALYSIS: Blue wave rocks Trump’s America",
-          "published": "2026-11-04T06:45:38.000Z",
-          "url": "https://www.muslimnetwork.tv/blue-wave-rocks-trumps-america/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/democrat-amy-acton-wins-ohio-governor-race/",
-          "title": "Democrat Amy Acton wins Ohio governor race",
-          "published": "2026-11-04T06:01:10.000Z",
-          "url": "https://www.muslimnetwork.tv/democrat-amy-acton-wins-ohio-governor-race/"
+          "url": "https://www.muslimnetwork.tv/many-firsts-muslim-senator-and-historic-governors/"
         }
       ]
     },
@@ -295,8 +295,22 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-04T12:14:01.488Z",
+      "checkedAt": "2026-11-04T19:54:24.099Z",
       "items": [
+        {
+          "id": "E_nXnTE-36Q",
+          "title": "God's Forbearance: The Meaning of Abdul Haleem",
+          "published": "2026-11-04T17:55:55.000Z",
+          "url": "https://www.youtube.com/watch?v=E_nXnTE-36Q",
+          "image": "https://i.ytimg.com/vi/E_nXnTE-36Q/hqdefault.jpg"
+        },
+        {
+          "id": "ffjO4WHggVY",
+          "title": "We've Questioned the Hadith. Now What? | The Hadith Question | Series Finale",
+          "published": "2026-11-04T14:30:04.000Z",
+          "url": "https://www.youtube.com/watch?v=ffjO4WHggVY",
+          "image": "https://i.ytimg.com/vi/ffjO4WHggVY/hqdefault.jpg"
+        },
         {
           "id": "uFgMooDd6vs",
           "title": "Women's Rights: Laws Shaped by Past Societies",
@@ -387,25 +401,11 @@
           "published": "2026-10-27T13:32:15.000Z",
           "url": "https://www.youtube.com/watch?v=uEOEIG1lQCw",
           "image": "https://i.ytimg.com/vi/uEOEIG1lQCw/hqdefault.jpg"
-        },
-        {
-          "id": "zDd9P02o3r8",
-          "title": "God's Mercy: The Key to Faith and Love",
-          "published": "2026-10-26T18:10:30.000Z",
-          "url": "https://www.youtube.com/watch?v=zDd9P02o3r8",
-          "image": "https://i.ytimg.com/vi/zDd9P02o3r8/hqdefault.jpg"
-        },
-        {
-          "id": "nkJTXzgaWnM",
-          "title": "Serve God & Others: Your Purpose in Life",
-          "published": "2026-10-26T13:31:58.000Z",
-          "url": "https://www.youtube.com/watch?v=nkJTXzgaWnM",
-          "image": "https://i.ytimg.com/vi/nkJTXzgaWnM/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-04T12:14:01.907Z",
+      "checkedAt": "2026-11-04T19:54:24.566Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-04T12:14:01.917Z",
+      "checkedAt": "2026-11-04T19:54:24.699Z",
       "items": [
         {
           "id": "RlTs-fUs-Cs",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-04T12:14:02.025Z",
+      "checkedAt": "2026-11-04T19:54:24.855Z",
       "items": [
         {
           "id": "FdWuQCSz7SU",
@@ -735,14 +735,84 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-04T12:14:03.373Z",
+      "checkedAt": "2026-11-04T19:54:26.395Z",
       "items": [
         {
+          "id": "https://www.cbc.ca/news/canada/manitoba/kinew-midterms-trump-tariffs-9.7409261",
+          "title": "Manitoba Premier Wab Kinew calls for end of U.S. tariffs after Trump rebuked in midterms",
+          "published": "2026-11-04T19:20:51.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/kinew-midterms-trump-tariffs-9.7409261",
+          "image": "https://i.cbc.ca/ais/51cf2dd5-f965-485b-a5fb-2ace0a56db74,1793818281734/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C225%2C4000%2C2250%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/indigenous/afn-budget-2026-press-conference-9.7408800",
+          "title": "Infrastructure gap and specific claims top issues for Assembly of First Nations for federal budget",
+          "published": "2026-11-04T19:19:43.000Z",
+          "url": "https://www.cbc.ca/news/indigenous/afn-budget-2026-press-conference-9.7408800",
+          "image": "https://i.cbc.ca/ais/89809ea7-8ee3-4630-a3ed-70e8d8a00deb,1793807383817/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C361%2C7902%2C4444%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/ford-reaction-u-s-midterms-9.7409100",
+          "title": "Ford 'happy as punch' about U.S. midterm results",
+          "published": "2026-11-04T18:38:36.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/ford-reaction-u-s-midterms-9.7409100",
+          "image": "https://i.cbc.ca/ais/12052c90-8549-4313-bf03-2d4288323b6a,1793813206605/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/pspp-to-launch-diplomatic-offensive-south-of-the-border-9.7409119",
+          "title": "After U.S. midterms, Quebec premier sets sight on 'diplomatic offensive' south of the border",
+          "published": "2026-11-04T18:02:14.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/pspp-to-launch-diplomatic-offensive-south-of-the-border-9.7409119",
+          "image": "https://i.cbc.ca/ais/d7c39a22-6769-4a6e-bbd0-5ddec1edafe5,1793814202354/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C280%2C5381%2C3026%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/shaun-farrell-funeral-wainwright-fire-military-9.7407582",
+          "title": "Funeral service held for Sask. soldier killed in CFB Wainwright fire",
+          "published": "2026-11-04T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/shaun-farrell-funeral-wainwright-fire-military-9.7407582",
+          "image": "https://i.cbc.ca/ais/e44602e1-be74-4e83-a16f-e1941ff48e46,1793718070432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/jean-teillet-metis-dispute-9.7407181",
+          "title": "'Confusing' definition of Métis identity fuelling bitter Indigenous rights dispute: retired lawyer",
+          "published": "2026-11-04T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/jean-teillet-metis-dispute-9.7407181",
+          "image": "https://i.cbc.ca/ais/1c7c44fc-53da-44a2-b442-31cef89c257c,1793740236803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C266%2C4928%2C2772%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/two-wharfs-closing-safety-concerns-9.7407576",
+          "title": "Future of N.S. 'quaint fishing village' uncertain as DFO plans to block off wharfs",
+          "published": "2026-11-04T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/two-wharfs-closing-safety-concerns-9.7407576",
+          "image": "https://i.cbc.ca/ais/376d40c5-c130-440c-be5d-dfcd55e7a161,1793737211689/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/hamilton-binbrook-farmer-harvest-season-rising-costs-9.7407579",
+          "title": "What 'cost us $1,000 ... is now $2,000': Hamilton farmer takes stock of future as fuel, equipment costs rise",
+          "published": "2026-11-04T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-binbrook-farmer-harvest-season-rising-costs-9.7407579",
+          "image": "https://i.cbc.ca/ais/74628a60-5646-4bda-9d20-dee2973f39df,1793736955779/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C341%2C4032%2C2268%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-riding-boundaries-oferrall-naheed-nenshi-danielle-smith-9.7407907",
-          "title": "The give and take (and partisan wrangling) in Alberta's urban-rural hybrid riding maps",
+          "title": "Province's last boundary panel chair urged new panellists not to alter southern Alberta ridings. They did.",
           "published": "2026-11-04T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-riding-boundaries-oferrall-naheed-nenshi-danielle-smith-9.7407907",
           "image": "https://i.cbc.ca/ais/bdfa1598-6b5a-480a-8e40-9adcfd2d4559,1793743416892/full/max/0/default.jpg?im=Crop%2Crect%3D%28184%2C44%2C1509%2C848%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/osap-freeze-trillium-college-niagara-9.7405881",
+          "title": "Ford government's OSAP freeze 'ruined my life,' says Niagara student living in a shelter",
+          "published": "2026-11-04T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/osap-freeze-trillium-college-niagara-9.7405881",
+          "image": "https://i.cbc.ca/ais/b79826b5-391b-4b6c-a2ad-ea1586c617bb,1793811397377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C156%2C4981%2C2801%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/clarington-council-tom-dingwall-corinna-traill-9.7407649",
+          "title": "Clarington's new mayor will serve with a councillor charged for allegedly threatening him",
+          "published": "2026-11-04T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/clarington-council-tom-dingwall-corinna-traill-9.7407649",
+          "image": "https://i.cbc.ca/ais/fdceb20b-7942-421b-9b54-4332990d9bae,1793749236496/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/politics/canada-germany-submarines-defence-industry-economy-9.7407952",
@@ -771,88 +841,95 @@
           "published": "2026-11-04T00:06:21.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/oipc-investigates-crime-stoppers-data-breach-9.7407791",
           "image": "https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-tribunal-x-intimate-image-delete-9.7407994",
-          "title": "$100K penalty against X for not deleting intimate image reversed",
-          "published": "2026-11-03T23:41:45.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-tribunal-x-intimate-image-delete-9.7407994",
-          "image": "https://i.cbc.ca/ais/a7ee4df1-974a-46bd-a6c7-8778ec33239d,1793745646847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C819%2C7873%2C4428%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/darla-oja-sexual-assault-trial-9.7408029",
-          "title": "Military reservist accuses now-retired senior officer of sexual assault at 2023 Winnipeg work event",
-          "published": "2026-11-03T23:30:51.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/darla-oja-sexual-assault-trial-9.7408029",
-          "image": "https://i.cbc.ca/ais/1.7166045,1719603576000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C339%2C6720%2C3780%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-premier-pc-party-step-down-pressure-9.7407987",
-          "title": "P.E.I. Premier Rob Lantz facing pressure to step down",
-          "published": "2026-11-03T23:24:11.000Z",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-premier-pc-party-step-down-pressure-9.7407987",
-          "image": "https://i.cbc.ca/ais/4b7a8eed-6351-4852-8210-6c22da8460b2,1793743804779/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/elections-canada-artificial-intelligence-9.7407854",
-          "title": "AI is making it harder for voters to get accurate information: Elections Canada chief",
-          "published": "2026-11-03T23:21:29.000Z",
-          "url": "https://www.cbc.ca/news/politics/elections-canada-artificial-intelligence-9.7407854",
-          "image": "https://i.cbc.ca/ais/28aff182-3356-4c84-aab3-4862ebc77e24,1793747417105/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C689%2C7616%2C4284%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/north/auditor-general-issues-damning-report-on-nunavut-s-family-services-again-9.7407701",
-          "title": "Auditor general issues damning report on Nunavut's family services, again",
-          "published": "2026-11-03T23:05:05.000Z",
-          "url": "https://www.cbc.ca/news/canada/north/auditor-general-issues-damning-report-on-nunavut-s-family-services-again-9.7407701",
-          "image": "https://i.cbc.ca/ais/1.7367551,1736984941000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4240%2C2385%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatoon/northern-rcmp-dogs-aggressive-mauling-crime-police-pets-north-9.7407898",
-          "title": "Young woman critically injured after 2nd dog attack in 3 days in Pelican Narrows, Sask.",
-          "published": "2026-11-03T22:29:37.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatoon/northern-rcmp-dogs-aggressive-mauling-crime-police-pets-north-9.7407898",
-          "image": "https://i.cbc.ca/ais/1.7020314,1699310791000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-38-neutrality-9.7407929",
-          "title": "New Alberta bill would compel ‘neutrality’ for post-secondary institutions on political issues",
-          "published": "2026-11-03T22:10:36.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-38-neutrality-9.7407929",
-          "image": "https://i.cbc.ca/ais/120c9c9b-8b47-4c8d-990e-f3a9a017f604,1793743128832/full/max/0/default.jpg?im=Crop%2Crect%3D%28728%2C534%2C3303%2C1857%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/spvm-brotherhood-police-9.7407879",
-          "title": "Montreal police brotherhood to contest SPVM decision to fire 7 officers for misconduct",
-          "published": "2026-11-03T21:38:55.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/spvm-brotherhood-police-9.7407879",
-          "image": "https://i.cbc.ca/ais/e6a5f378-31be-4f5b-b718-c0e85097c282,1793741147563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/correction-reporting-charges-tyler-king-9.7407537",
-          "title": "Correction on our previous reporting on charges faced by Alberta hockey executive",
-          "published": "2026-11-03T20:21:08.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/correction-reporting-charges-tyler-king-9.7407537",
-          "image": "https://i.cbc.ca/ais/1.470050,1779228420409/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bella-coola-grizzly-attack-9.7407640",
-          "title": "Mother and daughter dead in suspected grizzly bear attack near Bella Coola",
-          "published": "2026-11-03T19:35:06.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bella-coola-grizzly-attack-9.7407640",
-          "image": "https://i.cbc.ca/ais/1f036423-9948-43e0-91d1-765be41fbb8e,1793753826579/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C937%2C527%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-04T12:14:03.941Z",
+      "checkedAt": "2026-11-04T19:54:26.921Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
+          "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+          "published": "2026-11-04T18:01:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "published": "2026-11-04T17:45:58.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+          "title": "Iran's chief negotiator says Americans voted 'no to war'",
+          "published": "2026-11-04T16:59:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o",
+          "title": "'Most difficult days of my life' for keeper Owono",
+          "published": "2026-11-04T16:40:38.000Z",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo",
+          "title": "The young politicians with African roots making history in the US midterms",
+          "published": "2026-11-04T16:34:32.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0fe/live/3a869c80-d85b-11f1-94f3-cf7d1e52bb8c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
+          "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+          "published": "2026-11-04T16:26:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
+          "title": "Israel's president begins consultations with parties after election deadlock",
+          "published": "2026-11-04T16:18:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
+          "title": "Secret police files released in Hungary, 37 years after fall of communism",
+          "published": "2026-11-04T15:28:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
           "title": "Everything you need to know from the US midterm elections",
-          "published": "2026-11-04T12:01:07.000Z",
+          "published": "2026-11-04T14:05:42.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e914/live/bd858720-d83f-11f1-b441-2b33b063138f.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bcf/live/c31f31d0-d854-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
+          "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+          "published": "2026-11-04T13:33:30.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo",
+          "title": "Nadal set to join Real Madrid board of directors",
+          "published": "2026-11-04T13:21:01.000Z",
+          "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo",
+          "title": "Sharp objects found in Halloween sweets in three European nations",
+          "published": "2026-11-04T12:34:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b20/live/14aead80-d83e-11f1-9a87-07a62b4549a2.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
@@ -869,88 +946,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o",
-          "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-          "published": "2026-11-04T10:35:03.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa5/live/65242520-d810-11f1-bc0e-b5a9e0785e4b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
-          "title": "Iran's chief negotiator says Americans voted 'no to war'",
-          "published": "2026-11-04T10:11:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
           "title": "How America voted in maps and charts",
           "published": "2026-11-04T09:53:18.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
-          "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-          "published": "2026-11-04T07:39:38.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
-          "title": "South Carolina elects Democratic senator for first time in almost three decades",
-          "published": "2026-11-04T07:32:02.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/caaae0c0-d822-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
-          "title": "Florida Republicans fend off Democrats as state elects first black governor",
-          "published": "2026-11-04T07:12:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
-          "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-          "published": "2026-11-04T06:53:56.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4923/live/c29a9fb0-d82c-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
-          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-          "published": "2026-11-04T05:39:36.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o",
-          "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-          "published": "2026-11-04T03:46:10.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fb/live/ecd52fb0-d800-11f1-b851-6586c863d7ea.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo",
-          "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-          "published": "2026-11-04T02:11:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c5/live/aa0e52d0-d7f9-11f1-afc1-71ff3c391379.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro",
-          "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
-          "published": "2026-11-04T00:52:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8325/live/8fce9a20-d785-11f1-9440-953b82c8f55a.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo",
-          "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-          "published": "2026-11-03T23:58:36.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b6/live/6d128820-d7cb-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     }
