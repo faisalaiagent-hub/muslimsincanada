@@ -2,14 +2,21 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-03T19:38:56.822Z",
+      "checkedAt": "2026-11-04T12:14:01.588Z",
       "items": [
         {
           "id": "hudKjLpYACE",
           "title": "38 - Book of Purification - [Hadith 401-417] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-11-03T14:04:37.000Z",
+          "published": "2026-11-04T03:16:22.000Z",
           "url": "https://www.youtube.com/watch?v=hudKjLpYACE",
           "image": "https://i.ytimg.com/vi/hudKjLpYACE/hqdefault.jpg"
+        },
+        {
+          "id": "PGl9JOFiHfI",
+          "title": "710 - Sura al-Furqan - 27 - 32 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-11-04T01:20:17.000Z",
+          "url": "https://www.youtube.com/watch?v=PGl9JOFiHfI",
+          "image": "https://i.ytimg.com/vi/PGl9JOFiHfI/hqdefault.jpg"
         },
         {
           "id": "nfLpV2--DO4",
@@ -101,18 +108,11 @@
           "published": "2026-10-21T02:00:38.000Z",
           "url": "https://www.youtube.com/watch?v=iYNHtpy-9Ww",
           "image": "https://i.ytimg.com/vi/iYNHtpy-9Ww/hqdefault.jpg"
-        },
-        {
-          "id": "qZ3ZbqL7uAA",
-          "title": "701 - Sura al-Nur - 59-60 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
-          "published": "2026-10-20T15:18:28.000Z",
-          "url": "https://www.youtube.com/watch?v=qZ3ZbqL7uAA",
-          "image": "https://i.ytimg.com/vi/qZ3ZbqL7uAA/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-03T19:38:56.939Z",
+      "checkedAt": "2026-11-04T12:14:01.808Z",
       "items": [
         {
           "id": "1dPLDwF5ydA",
@@ -152,73 +152,73 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-04T06:42:36.690Z",
+      "checkedAt": "2026-11-04T12:14:03.322Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/us-aid-to-israel-exceeds-300b-since-1948/",
+          "title": "US aid to Israel exceeds $300B since 1948",
+          "published": "2026-11-04T11:50:36.000Z",
+          "url": "https://www.muslimnetwork.tv/us-aid-to-israel-exceeds-300b-since-1948/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_eac486f5cfdb16ef130addeeb3423953.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/new-democratic-senators-challenge-us-arms-support-for-israel/",
+          "title": "New Democratic senators challenge US arms support for Israel",
+          "published": "2026-11-04T11:44:29.000Z",
+          "url": "https://www.muslimnetwork.tv/new-democratic-senators-challenge-us-arms-support-for-israel/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_5e81031619c646d15ed82eab090848ed.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/kansas-elects-democrat-to-senate-after-94-year-republican-hold/",
+          "title": "Kansas elects Democrat to Senate after 94-year Republican hold",
+          "published": "2026-11-04T11:42:34.000Z",
+          "url": "https://www.muslimnetwork.tv/kansas-elects-democrat-to-senate-after-94-year-republican-hold/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Screenshot-2026-11-04-at-4.41.35-PM.png"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/abdul-el-sayeds-historic-us-victory-brings-joy-to-indian-coastal-town/",
+          "title": "Abdul El-Sayed’s historic US victory brings joy to Indian coastal town",
+          "published": "2026-11-04T10:50:42.000Z",
+          "url": "https://www.muslimnetwork.tv/abdul-el-sayeds-historic-us-victory-brings-joy-to-indian-coastal-town/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261104-42962018-42962002-ABDUL_ELSAYED_BECOMES_1ST_MUSLIM_ELECTED_TO_US_SENATE_IN_MICHIGAN_WIN.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/iran-cheers-allies-reassure-as-democrats-sweep-congress/",
+          "title": "Iran cheers, allies reassure as Democrats sweep Congress",
+          "published": "2026-11-04T09:17:51.000Z",
+          "url": "https://www.muslimnetwork.tv/iran-cheers-allies-reassure-as-democrats-sweep-congress/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261104-42959348-42959342-2026_US_MIDTERM_ELECTIONS.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/many-firsts-muslim-senator-and-historic-governors/",
+          "title": "Many firsts: Muslim senator and historic governors",
+          "published": "2026-11-04T07:10:38.000Z",
+          "url": "https://www.muslimnetwork.tv/many-firsts-muslim-senator-and-historic-governors/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261030-42910073-42910071-ABDUL_ELSAYED_AND_ELISSA_SLOTKIN_HOLD_RALLY_IN_KALAMAZOO.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/el-sayed-set-to-become-first-muslim-us-senator/",
+          "title": "El-Sayed becomes first Muslim elected to US Senate",
+          "published": "2026-11-04T06:56:54.000Z",
+          "url": "https://www.muslimnetwork.tv/el-sayed-set-to-become-first-muslim-us-senator/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/nabeela-syed-flips-republican-held-illinois-senate-seat/",
+          "title": "Nabeela Syed flips Republican-held Illinois Senate seat",
+          "published": "2026-11-04T06:47:27.000Z",
+          "url": "https://www.muslimnetwork.tv/nabeela-syed-flips-republican-held-illinois-senate-seat/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/blue-wave-rocks-trumps-america/",
+          "title": "EARLY ANALYSIS: Blue wave rocks Trump’s America",
+          "published": "2026-11-04T06:45:38.000Z",
+          "url": "https://www.muslimnetwork.tv/blue-wave-rocks-trumps-america/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/democrat-amy-acton-wins-ohio-governor-race/",
           "title": "Democrat Amy Acton wins Ohio governor race",
           "published": "2026-11-04T06:01:10.000Z",
-          "url": "https://www.muslimnetwork.tv/democrat-amy-acton-wins-ohio-governor-race/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/08/AFP-TV_20230522_POL_USA_PoliticsRamaswamy_33FW2E2_en.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/trump-links-midterm-defeat-to-voter-unhappiness-over-fuel-costs/",
-          "title": "Trump links midterm defeat to voter unhappiness over fuel costs",
-          "published": "2026-11-04T05:53:25.000Z",
-          "url": "https://www.muslimnetwork.tv/trump-links-midterm-defeat-to-voter-unhappiness-over-fuel-costs/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260708-41927370-41927355-NATO_ANKARA_SUMMIT.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/darializa-avila-chevalier-wins-us-house-seat-in-new-york/",
-          "title": "Darializa Avila Chevalier wins US House seat in New York",
-          "published": "2026-11-04T05:51:02.000Z",
-          "url": "https://www.muslimnetwork.tv/darializa-avila-chevalier-wins-us-house-seat-in-new-york/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/JD26_DarializaAvilaChevalier_NY13_1476x1204_1.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/trump-blames-fox-news-for-republican-losses-in-us-midterm-elections/",
-          "title": "Trump blames Fox News for Republican losses in midterm elections",
-          "published": "2026-11-04T05:32:41.000Z",
-          "url": "https://www.muslimnetwork.tv/trump-blames-fox-news-for-republican-losses-in-us-midterm-elections/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260912-42449871-42449870-US_PRESIDENT_TRUMP_IN_DUBLIN.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/texas-gov-abbott-concedes-defeat-to-democrat-gina-hinojosa/",
-          "title": "Texas Gov. Abbott concedes defeat to Democrat Gina Hinojosa",
-          "published": "2026-11-04T05:04:39.000Z",
-          "url": "https://www.muslimnetwork.tv/texas-gov-abbott-concedes-defeat-to-democrat-gina-hinojosa/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/02/Greg_Abbott_at_NASA_2024_cropped.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/us-democrats-set-to-take-house-majority-wresting-control-from-republicans/",
-          "title": "US Democrats set to take House majority, wresting control from Republicans",
-          "published": "2026-11-04T04:26:34.000Z",
-          "url": "https://www.muslimnetwork.tv/us-democrats-set-to-take-house-majority-wresting-control-from-republicans/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261104-42959092-42959075-VOTING_CONTINUES_IN_US_MIDTERM_ELECTIONS_IN_ILLINOIS.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/us-has-no-immediate-plans-to-strike-iran-trump/",
-          "title": "US has no immediate plans to strike Iran: Trump",
-          "published": "2026-11-04T04:09:36.000Z",
-          "url": "https://www.muslimnetwork.tv/us-has-no-immediate-plans-to-strike-iran-trump/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israel-plans-to-set-aside-nearly-2350-acres-of-west-bank-land-for-occupiers-livestock/",
-          "title": "Israel plans to set aside nearly 2,350 acres of West Bank land for occupiers’ livestock",
-          "published": "2026-11-04T04:05:42.000Z",
-          "url": "https://www.muslimnetwork.tv/israel-plans-to-set-aside-nearly-2350-acres-of-west-bank-land-for-occupiers-livestock/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/egypts-sisi-warns-of-catastrophic-fallout-if-us-iran-war-resumes/",
-          "title": "Egypt’s Sisi warns of ‘catastrophic’ fallout if US-Iran war resumes",
-          "published": "2026-11-04T04:03:49.000Z",
-          "url": "https://www.muslimnetwork.tv/egypts-sisi-warns-of-catastrophic-fallout-if-us-iran-war-resumes/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/democrat-adam-hamawy-becomes-new-jerseys-1st-muslim-member-of-congress/",
-          "title": "Democrat Adam Hamawy becomes New Jersey’s 1st Muslim member of Congress",
-          "published": "2026-11-04T03:44:37.000Z",
-          "url": "https://www.muslimnetwork.tv/democrat-adam-hamawy-becomes-new-jerseys-1st-muslim-member-of-congress/"
+          "url": "https://www.muslimnetwork.tv/democrat-amy-acton-wins-ohio-governor-race/"
         }
       ]
     },
@@ -295,8 +295,15 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-03T19:38:56.705Z",
+      "checkedAt": "2026-11-04T12:14:01.488Z",
       "items": [
+        {
+          "id": "uFgMooDd6vs",
+          "title": "Women's Rights: Laws Shaped by Past Societies",
+          "published": "2026-11-03T19:59:13.000Z",
+          "url": "https://www.youtube.com/watch?v=uFgMooDd6vs",
+          "image": "https://i.ytimg.com/vi/uFgMooDd6vs/hqdefault.jpg"
+        },
         {
           "id": "2YclOkxbHNo",
           "title": "Forgetting Yourself",
@@ -394,18 +401,11 @@
           "published": "2026-10-26T13:31:58.000Z",
           "url": "https://www.youtube.com/watch?v=nkJTXzgaWnM",
           "image": "https://i.ytimg.com/vi/nkJTXzgaWnM/hqdefault.jpg"
-        },
-        {
-          "id": "3I664DH2vKg",
-          "title": "God Is One",
-          "published": "2026-10-24T00:47:27.000Z",
-          "url": "https://www.youtube.com/watch?v=3I664DH2vKg",
-          "image": "https://i.ytimg.com/vi/3I664DH2vKg/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-03T19:38:57.074Z",
+      "checkedAt": "2026-11-04T12:14:01.907Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-03T19:38:57.198Z",
+      "checkedAt": "2026-11-04T12:14:01.917Z",
       "items": [
         {
           "id": "RlTs-fUs-Cs",
@@ -625,7 +625,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-03T19:38:57.335Z",
+      "checkedAt": "2026-11-04T12:14:02.025Z",
       "items": [
         {
           "id": "FdWuQCSz7SU",
@@ -735,8 +735,22 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-04T06:42:36.794Z",
+      "checkedAt": "2026-11-04T12:14:03.373Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-riding-boundaries-oferrall-naheed-nenshi-danielle-smith-9.7407907",
+          "title": "The give and take (and partisan wrangling) in Alberta's urban-rural hybrid riding maps",
+          "published": "2026-11-04T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/analysis-alberta-riding-boundaries-oferrall-naheed-nenshi-danielle-smith-9.7407907",
+          "image": "https://i.cbc.ca/ais/bdfa1598-6b5a-480a-8e40-9adcfd2d4559,1793743416892/full/max/0/default.jpg?im=Crop%2Crect%3D%28184%2C44%2C1509%2C848%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/canada-germany-submarines-defence-industry-economy-9.7407952",
+          "title": "Canada looking to Germany for 8 submarines up front and 4 later: sources",
+          "published": "2026-11-04T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/canada-germany-submarines-defence-industry-economy-9.7407952",
+          "image": "https://i.cbc.ca/ais/b4aa780a-98f1-4b79-bbe6-04208f35cbda,1793749608585/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C114%2C8155%2C4587%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/bc-florida-same-time-9.7408214",
           "title": "A part of B.C. now observes the same time as a part of Florida",
@@ -827,60 +841,88 @@
           "published": "2026-11-03T19:35:06.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/bella-coola-grizzly-attack-9.7407640",
           "image": "https://i.cbc.ca/ais/1f036423-9948-43e0-91d1-765be41fbb8e,1793753826579/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C937%2C527%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/alberta-premier-danielle-smith-ndp-boundary-report-keith-archer-9.7407430",
-          "title": "Alberta to lawyer up if NDP challenges electoral boundary report: Smith",
-          "published": "2026-11-03T18:59:26.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/alberta-premier-danielle-smith-ndp-boundary-report-keith-archer-9.7407430",
-          "image": "https://i.cbc.ca/ais/7450e433-d35b-4cd3-b94f-32a9be8e46b9,1793730038103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/windsor/amherstburg-renovations-police-seeking-contractor-9.7407157",
-          "title": "Home in Amherstburg, Ont., unlivable after family spent $155K on renovations, police looking for contractor",
-          "published": "2026-11-03T18:18:59.000Z",
-          "url": "https://www.cbc.ca/news/canada/windsor/amherstburg-renovations-police-seeking-contractor-9.7407157",
-          "image": "https://i.cbc.ca/ais/577ce90c-43d2-429a-9819-8da65a2f1b7f,1793728105524/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C62%2C5712%2C3213%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-04T06:42:37.324Z",
+      "checkedAt": "2026-11-04T12:14:03.941Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
-          "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
-          "published": "2026-11-04T06:14:20.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f263/live/3f174b00-d815-11f1-b441-2b33b063138f.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
+          "title": "Everything you need to know from the US midterm elections",
+          "published": "2026-11-04T12:01:07.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e914/live/bd858720-d83f-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
-          "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
-          "published": "2026-11-04T06:13:09.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/878f/live/f3346690-d810-11f1-bc0e-b5a9e0785e4b.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
+          "title": "ANC under pressure to reverse South Africa decline",
+          "published": "2026-11-04T11:47:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo",
+          "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+          "published": "2026-11-04T11:46:09.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o",
+          "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+          "published": "2026-11-04T10:35:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa5/live/65242520-d810-11f1-bc0e-b5a9e0785e4b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+          "title": "Iran's chief negotiator says Americans voted 'no to war'",
+          "published": "2026-11-04T10:11:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
+          "title": "How America voted in maps and charts",
+          "published": "2026-11-04T09:53:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
+          "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+          "published": "2026-11-04T07:39:38.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
+          "title": "South Carolina elects Democratic senator for first time in almost three decades",
+          "published": "2026-11-04T07:32:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/caaae0c0-d822-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
+          "title": "Florida Republicans fend off Democrats as state elects first black governor",
+          "published": "2026-11-04T07:12:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
+          "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+          "published": "2026-11-04T06:53:56.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4923/live/c29a9fb0-d82c-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
           "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
           "published": "2026-11-04T05:39:36.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3c/live/a1b3d4e0-d7ac-11f1-9092-abeae3cab3b1.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
-          "title": "Florida Republicans fend off Democrats as state elects first black governor",
-          "published": "2026-11-04T05:04:46.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/138d4020-d80b-11f1-915d-779ac405bbbc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
-          "title": "How America voted in maps and charts",
-          "published": "2026-11-04T04:47:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o",
@@ -888,20 +930,6 @@
           "published": "2026-11-04T03:46:10.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fb/live/ecd52fb0-d800-11f1-b851-6586c863d7ea.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
-          "title": "South Carolina elects Democratic senator for first time in almost three decades",
-          "published": "2026-11-04T03:24:34.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e5f/live/0aeeffa0-d804-11f1-85f7-474f0be56cef.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo",
-          "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-          "published": "2026-11-04T02:38:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dde/live/6d838380-d7f9-11f1-afc1-71ff3c391379.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo",
@@ -918,39 +946,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8325/live/8fce9a20-d785-11f1-9440-953b82c8f55a.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
-          "title": "ANC under pressure to reverse South Africa decline",
-          "published": "2026-11-04T00:03:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo",
           "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
           "published": "2026-11-03T23:58:36.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b6/live/6d128820-d7cb-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "published": "2026-11-03T22:45:59.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no",
-          "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-          "published": "2026-11-03T21:53:38.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c38/live/b5b1d720-d7cb-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "published": "2026-11-03T20:42:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"
         }
       ]
     }
