@@ -384,6 +384,34 @@
           "published": "2026-11-03T06:53:58.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "generatedAt": "2026-11-04T06:42:37.458Z",
+      "items": [
+        {
+          "id": "c791b3ea11bc",
+          "kind": "news",
+          "title": "Democrat Amy Acton wins Ohio governor race",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/democrat-amy-acton-wins-ohio-governor-race/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/08/AFP-TV_20230522_POL_USA_PoliticsRamaswamy_33FW2E2_en.jpg",
+          "published": "2026-11-04T06:01:10.000Z"
+        },
+        {
+          "id": "3cb50ceaf6b3",
+          "kind": "talk",
+          "title": "“Who Am I To Judge?” Has A Limit | Signs of the Hour Ep. 24 | Dr. Omar Suleiman",
+          "summary": "Make time for a recent conversation from Dr. Omar Suleiman. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=1dPLDwF5ydA",
+          "sourceId": "omar",
+          "source": "Dr. Omar Suleiman",
+          "image": "https://i.ytimg.com/vi/1dPLDwF5ydA/hqdefault.jpg",
+          "published": "2026-11-03T15:00:07.000Z"
+        }
+      ]
     }
   ]
 }
