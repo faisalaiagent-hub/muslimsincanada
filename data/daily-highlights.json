@@ -412,6 +412,33 @@
           "published": "2026-11-03T15:00:07.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-05",
+      "generatedAt": "2026-11-05T07:01:35.724Z",
+      "items": [
+        {
+          "id": "c37bf445cf63",
+          "kind": "talk",
+          "title": "Blessings are preserved through responsibility, gratitude, and the character you build around them.",
+          "summary": "Make time for a recent conversation from Dr. Yasir Qadhi. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=VpnoHQNR1ko",
+          "sourceId": "yasir",
+          "source": "Dr. Yasir Qadhi",
+          "image": "https://i.ytimg.com/vi/VpnoHQNR1ko/hqdefault.jpg",
+          "published": "2026-10-27T09:03:14.000Z"
+        },
+        {
+          "id": "3e0f6dfc4438",
+          "kind": "guide",
+          "title": "A practical starting point for newcomers",
+          "summary": "Explore named settlement and community-service providers. Confirm current services and eligibility directly with each provider.",
+          "url": "/resources?category=Newcomers",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/volunteers.jpg"
+        }
+      ]
     }
   ]
 }
