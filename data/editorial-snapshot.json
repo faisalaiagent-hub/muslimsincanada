@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-05T12:27:34.844Z",
+      "checkedAt": "2026-11-05T20:07:04.468Z",
       "items": [
         {
           "id": "8TG5JaGY7yc",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-05T12:27:34.900Z",
+      "checkedAt": "2026-11-05T20:07:04.696Z",
       "items": [
         {
           "id": "1dPLDwF5ydA",
@@ -145,7 +145,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-05T12:27:35.976Z",
+      "checkedAt": "2026-11-05T20:07:07.659Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/israeli-president-resumes-consultations-with-parties-on-picking-next-prime-minister/",
@@ -163,7 +163,7 @@
         },
         {
           "id": "https://www.muslimnetwork.tv/gaza-genocide-iran-war-shaped-american-muslim-vote-cair-report/",
-          "title": "Gaza genocide, Iran war shaped American Muslim vote: CAIR report",
+          "title": "Israel’s genocide in Gaza, US-Israel war on Iran shaped American Muslim vote: CAIR report",
           "published": "2026-11-05T08:11:02.000Z",
           "url": "https://www.muslimnetwork.tv/gaza-genocide-iran-war-shaped-american-muslim-vote-cair-report/",
           "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/cair-wa-social.gif"
@@ -288,8 +288,15 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-05T12:27:34.713Z",
+      "checkedAt": "2026-11-05T20:07:04.258Z",
       "items": [
+        {
+          "id": "nrt--7gj3-M",
+          "title": "An Invitation from Dr. Shabir: Join Us for the MMH Fundraising Gala",
+          "published": "2026-11-05T13:59:24.000Z",
+          "url": "https://www.youtube.com/watch?v=nrt--7gj3-M",
+          "image": "https://i.ytimg.com/vi/nrt--7gj3-M/hqdefault.jpg"
+        },
         {
           "id": "E_nXnTE-36Q",
           "title": "God's Forbearance: The Meaning of Abdul Haleem",
@@ -387,18 +394,11 @@
           "published": "2026-10-27T18:08:06.000Z",
           "url": "https://www.youtube.com/watch?v=9wytgVpt9mk",
           "image": "https://i.ytimg.com/vi/9wytgVpt9mk/hqdefault.jpg"
-        },
-        {
-          "id": "uEOEIG1lQCw",
-          "title": "The Quran on Neglecting Prayer",
-          "published": "2026-10-27T13:32:15.000Z",
-          "url": "https://www.youtube.com/watch?v=uEOEIG1lQCw",
-          "image": "https://i.ytimg.com/vi/uEOEIG1lQCw/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-05T12:27:35.039Z",
+      "checkedAt": "2026-11-05T20:07:04.822Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -508,8 +508,15 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-05T12:27:35.243Z",
+      "checkedAt": "2026-11-05T20:07:05.082Z",
       "items": [
+        {
+          "id": "iseuyCGETgs",
+          "title": "THE BARZAKH (Part 3) I Rewards of the Grave I Dr. Haifaa Younis I Jannah Institute",
+          "published": "2026-11-05T20:00:25.000Z",
+          "url": "https://www.youtube.com/watch?v=iseuyCGETgs",
+          "image": "https://i.ytimg.com/vi/iseuyCGETgs/hqdefault.jpg"
+        },
         {
           "id": "rspoLMvkacM",
           "title": "Washing the Deceased: Would You Know How to Do It? | Dr Haifaa Younis | Jannah Institute",
@@ -607,19 +614,19 @@
           "published": "2026-10-08T11:30:07.000Z",
           "url": "https://www.youtube.com/watch?v=6CC4MRKqW5I",
           "image": "https://i.ytimg.com/vi/6CC4MRKqW5I/hqdefault.jpg"
-        },
-        {
-          "id": "y8kMSjMJtgU",
-          "title": "What Makes Allah Accept Your Ibadah? Remember This Principle! #ibadah #principles #drhaifaayounis",
-          "published": "2026-10-08T11:01:38.000Z",
-          "url": "https://www.youtube.com/watch?v=y8kMSjMJtgU",
-          "image": "https://i.ytimg.com/vi/y8kMSjMJtgU/hqdefault.jpg"
         }
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-05T12:27:35.338Z",
+      "checkedAt": "2026-11-05T20:07:05.234Z",
       "items": [
+        {
+          "id": "kg5bEhCpKKE",
+          "title": "Will Our Generation Save Islam's Legacy?",
+          "published": "2026-11-05T18:30:07.000Z",
+          "url": "https://www.youtube.com/watch?v=kg5bEhCpKKE",
+          "image": "https://i.ytimg.com/vi/kg5bEhCpKKE/hqdefault.jpg"
+        },
         {
           "id": "FdWuQCSz7SU",
           "title": "Monday is named for the moon god. Is it haram to say Monday?",
@@ -717,19 +724,61 @@
           "published": "2026-10-12T17:00:09.000Z",
           "url": "https://www.youtube.com/watch?v=-74-kLHOxkA",
           "image": "https://i.ytimg.com/vi/-74-kLHOxkA/hqdefault.jpg"
-        },
-        {
-          "id": "-u3bZhyIMJE",
-          "title": "The greatest tragedy can lead to worse decisions if we act out of fear.",
-          "published": "2026-10-11T04:50:32.000Z",
-          "url": "https://www.youtube.com/watch?v=-u3bZhyIMJE",
-          "image": "https://i.ytimg.com/vi/-u3bZhyIMJE/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-05T12:27:36.256Z",
+      "checkedAt": "2026-11-05T20:07:07.875Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/student-walkout-protest-osap-tuition-ontario-9.7410724",
+          "title": "Post-secondary students across Ontario walk out of classrooms to protest OSAP changes, tuition hike",
+          "published": "2026-11-05T19:15:28.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/student-walkout-protest-osap-tuition-ontario-9.7410724",
+          "image": "https://i.cbc.ca/ais/7c949f3d-a005-411b-9f67-6c159357128a,1793899435315/full/max/0/default.jpg?im=Crop%2Crect%3D%28918%2C0%2C4793%2C2696%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/windsor/america-canada-democratic-midterms-auto-industry-impact-9.7410608",
+          "title": "How will a resounding U.S. political shift impact the cross-border auto industry?",
+          "published": "2026-11-05T17:49:01.000Z",
+          "url": "https://www.cbc.ca/news/canada/windsor/america-canada-democratic-midterms-auto-industry-impact-9.7410608",
+          "image": "https://i.cbc.ca/ais/cab190fa-9e9f-4b3f-8665-cde28f303df9,1793896500332/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/medical-association-apology-ontario-high-volume-billings-letter-doctors-9.7410462",
+          "title": "Ontario doctors demand apology from province for letters flagging high number of days worked, patients seen",
+          "published": "2026-11-05T16:37:12.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/medical-association-apology-ontario-high-volume-billings-letter-doctors-9.7410462",
+          "image": "https://i.cbc.ca/ais/aa327c31-af4f-4456-aadd-78bac0b550cd,1793891937706/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C372%2C4099%2C2305%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/telus-outage-quebec-ontario-9.7410552",
+          "title": "Telus outage disrupting phone, wireless services across parts of Ontario, Alberta and B.C.",
+          "published": "2026-11-05T16:10:27.000Z",
+          "url": "https://www.cbc.ca/news/business/telus-outage-quebec-ontario-9.7410552",
+          "image": "https://i.cbc.ca/ais/a4f3bbfb-4214-40b5-bd0f-55d19b044a2b,1793895274444/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C405%2C7785%2C4379%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/men-involved-in-old-montreal-fire-that-killed-2-plead-guilty-to-reduced-manslaughter-charge-9.7410461",
+          "title": "Men involved in Old Montreal fire that killed 2 plead guilty to reduced manslaughter charge",
+          "published": "2026-11-05T15:50:12.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/men-involved-in-old-montreal-fire-that-killed-2-plead-guilty-to-reduced-manslaughter-charge-9.7410461",
+          "image": "https://i.cbc.ca/ais/a0c9380d-827d-426c-a0c5-a9d3f5b739c6,1793893773200/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C760%2C6336%2C3564%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/us-cda-midterms-alta-9.7410234",
+          "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith",
+          "published": "2026-11-05T15:46:36.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/us-cda-midterms-alta-9.7410234",
+          "image": "https://i.cbc.ca/ais/ef40a913-ffd7-4298-b596-4e3a10911ae2,1793883037195/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5624%2C3163%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/shell-newfoundland-exploration-9.7410166",
+          "title": "Shell drives spike in oil exploration bids off the coast of Newfoundland",
+          "published": "2026-11-05T15:42:24.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/shell-newfoundland-exploration-9.7410166",
+          "image": "https://i.cbc.ca/ais/1.4930228,1543857341000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C345%2C3500%2C1968%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/politics/carney-second-federal-budget-lookahead-9.7409464",
           "title": "What to watch for as Carney introduces his 2nd federal budget",
@@ -785,67 +834,88 @@
           "published": "2026-11-05T00:04:04.000Z",
           "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-health-minister-recruitment-underwhelming-9.7409862",
           "image": "https://i.cbc.ca/ais/f744c53c-ea5a-4eee-8554-6fb01b5ad3bd,1793833806574/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/darla-oja-sexual-assault-trial-ends-9.7409867",
-          "title": "Now-retired senior military officer denies sex assault allegation as Winnipeg trial wraps up",
-          "published": "2026-11-04T23:52:47.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/darla-oja-sexual-assault-trial-ends-9.7409867",
-          "image": "https://i.cbc.ca/ais/1.7166045,1719603576000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C339%2C6720%2C3780%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/menopause-impacts-on-productivity-cost-economy-over-3-billion-annually-experts-9.7409850",
-          "title": "Unmanaged menopause symptoms cost Canada's economy $3.5B, experts tell MPs",
-          "published": "2026-11-04T23:48:54.000Z",
-          "url": "https://www.cbc.ca/news/politics/menopause-impacts-on-productivity-cost-economy-over-3-billion-annually-experts-9.7409850",
-          "image": "https://i.cbc.ca/ais/1.6702855,1672849133000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/william-barker-statue-unveiled-9.7409742",
-          "title": "Canadian military flying ace William Barker commemorated with new statue on Yonge Street",
-          "published": "2026-11-04T23:18:35.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/william-barker-statue-unveiled-9.7409742",
-          "image": "https://i.cbc.ca/ais/71b39d0f-3613-48f2-b95c-c2815d8aa81a,1793831676458/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/radio/asithappens/afghan-girls-study-permits-9.7409510",
-          "title": "An Afghan teen won a full scholarship to a B.C. school. But Canada denied her study permit",
-          "published": "2026-11-04T22:38:11.000Z",
-          "url": "https://www.cbc.ca/radio/asithappens/afghan-girls-study-permits-9.7409510",
-          "image": "https://i.cbc.ca/ais/02dd64ed-8d99-4c5d-be80-b4839facf557,1793825788845/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C376%2C7219%2C4060%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-potato-wart-fields-purchased-9.7409396",
-          "title": "15 fields where potato wart was discovered purchased by P.E.I. government for $9M",
-          "published": "2026-11-04T22:00:19.000Z",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-potato-wart-fields-purchased-9.7409396",
-          "image": "https://i.cbc.ca/ais/1.7539250,1747765751000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-bus-crash-prince-george-mackenzie-9.7409574",
-          "title": "About 20 people injured, several seriously, in northern B.C. bus crash: police",
-          "published": "2026-11-04T21:23:09.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-bus-crash-prince-george-mackenzie-9.7409574",
-          "image": "https://i.cbc.ca/ais/cf4c7420-7854-4588-9074-03e322e378fa,1793831489285/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C380%2C900%2C506%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-remembrance-ceremony-wainwright-9.7408863",
-          "title": "Alberta government hosts remembrance ceremony as country mourns CFB Wainwright victims",
-          "published": "2026-11-04T21:22:07.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-remembrance-ceremony-wainwright-9.7408863",
-          "image": "https://i.cbc.ca/ais/d0f1191f-df7d-4d42-833a-58f709c6ef2d,1793814637094/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-05T12:27:36.700Z",
+      "checkedAt": "2026-11-05T20:07:08.272Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
-          "title": "Ronaldo retires from Portugal duty",
-          "published": "2026-11-05T11:56:02.000Z",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo",
+          "title": "Who could be behind hoax bomb threats to European air travel?",
+          "published": "2026-11-05T19:58:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
+          "title": "Eight killed in series of shootings in western Turkey",
+          "published": "2026-11-05T19:32:54.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a9/live/afaf1b30-d947-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
+          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "published": "2026-11-05T19:08:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec63/live/102786c0-d946-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "published": "2026-11-05T17:59:53.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo",
+          "title": "Paraguay President Santiago Peña resigns after bank collapse",
+          "published": "2026-11-05T17:40:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
+          "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+          "published": "2026-11-05T17:39:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7423/live/1976bf00-d911-11f1-94c6-3f8050561bf5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o",
+          "title": "Russell Brand is being investigated over two new rape complaints, police say",
+          "published": "2026-11-05T15:44:49.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecb3/live/33e07d40-d92a-11f1-af74-e735e628ea98.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo",
+          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+          "published": "2026-11-05T14:29:40.000Z",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo",
+          "title": "Watch: How rapist Brand was never far from controversy",
+          "published": "2026-11-05T14:28:21.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385f/live/1cce7ae0-d924-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+          "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+          "published": "2026-11-05T13:51:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o",
+          "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+          "published": "2026-11-05T11:21:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a84/live/13273f90-d901-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo",
@@ -853,27 +923,6 @@
           "published": "2026-11-05T10:33:21.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272e/live/d04750e0-d903-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-          "title": "France gears up for strikes and protests as unions promise national mobilisation",
-          "published": "2026-11-05T10:26:03.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o",
-          "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-          "published": "2026-11-05T09:04:42.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/434b/live/650744e0-d8ed-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
-          "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-          "published": "2026-11-05T08:07:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
@@ -890,60 +939,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063d/live/7f72f330-d8eb-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko",
-          "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
-          "published": "2026-11-05T00:30:37.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bf/live/d304fb40-d848-11f1-b870-55415e6a9944.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o",
-          "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-          "published": "2026-11-04T23:50:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/6fd142d0-d8a3-11f1-b29d-fbcd9d61c58e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo",
-          "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-          "published": "2026-11-04T23:12:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
-          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "published": "2026-11-04T22:48:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
-          "title": "What Democrats can and can't do with their new power after taking Congress",
-          "published": "2026-11-04T18:01:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
-          "title": "Everything you need to know from the US midterm elections",
-          "published": "2026-11-04T14:05:42.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/883e/live/60c11c10-d8b3-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
-          "title": "ANC under pressure to reverse South Africa decline",
-          "published": "2026-11-04T11:47:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
-          "title": "How America voted in maps and charts",
-          "published": "2026-11-04T09:53:18.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
+          "id": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo",
+          "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+          "published": "2026-11-05T00:32:09.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612f/live/694ca970-d86e-11f1-b441-2b33b063138f.jpg"
         }
       ]
     }
