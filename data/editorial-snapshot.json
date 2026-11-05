@@ -2,12 +2,12 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-04T19:54:24.276Z",
+      "checkedAt": "2026-11-05T12:27:34.844Z",
       "items": [
         {
           "id": "8TG5JaGY7yc",
           "title": "39 - Book of Purification - [Hadith 418-429] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-11-04T14:01:27.000Z",
+          "published": "2026-11-05T02:47:08.000Z",
           "url": "https://www.youtube.com/watch?v=8TG5JaGY7yc",
           "image": "https://i.ytimg.com/vi/8TG5JaGY7yc/hqdefault.jpg"
         },
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-04T19:54:24.419Z",
+      "checkedAt": "2026-11-05T12:27:34.900Z",
       "items": [
         {
           "id": "1dPLDwF5ydA",
@@ -141,84 +141,77 @@
           "published": "2026-10-31T03:23:56.000Z",
           "url": "https://www.youtube.com/watch?v=nnz7hIVdxtc",
           "image": "https://i.ytimg.com/vi/nnz7hIVdxtc/hqdefault.jpg"
-        },
-        {
-          "id": "xWRPVuVJk_g",
-          "title": "What Would You Regret On Your Last Day? | Dr. Omar Suleiman",
-          "published": "2026-10-29T23:00:31.000Z",
-          "url": "https://www.youtube.com/watch?v=xWRPVuVJk_g",
-          "image": "https://i.ytimg.com/vi/xWRPVuVJk_g/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-05T07:01:35.086Z",
+      "checkedAt": "2026-11-05T12:27:35.976Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-president-resumes-consultations-with-parties-on-picking-next-prime-minister/",
+          "title": "Israeli president resumes consultations with parties on picking next prime minister",
+          "published": "2026-11-05T08:22:17.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-president-resumes-consultations-with-parties-on-picking-next-prime-minister/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/05/AFP-TV_20220310_POL_TUR_JudaismHerzog_324U9Q6_en.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/trump-advisers-joked-about-seeking-asylum-in-israel-ahead-of-midterm-defeat-report/",
+          "title": "Trump advisers joked about seeking asylum in Israel ahead of midterm defeat: report",
+          "published": "2026-11-05T08:18:19.000Z",
+          "url": "https://www.muslimnetwork.tv/trump-advisers-joked-about-seeking-asylum-in-israel-ahead-of-midterm-defeat-report/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_d2251371dddef9f1221fd28d11808042.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/gaza-genocide-iran-war-shaped-american-muslim-vote-cair-report/",
+          "title": "Gaza genocide, Iran war shaped American Muslim vote: CAIR report",
+          "published": "2026-11-05T08:11:02.000Z",
+          "url": "https://www.muslimnetwork.tv/gaza-genocide-iran-war-shaped-american-muslim-vote-cair-report/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/cair-wa-social.gif"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-drone-strike-kills-palestinian-wounds-another-at-displacement-tent-in-gaza/",
+          "title": "Israeli drone strike kills Palestinian, wounds another at displacement tent in Gaza",
+          "published": "2026-11-05T07:55:40.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-drone-strike-kills-palestinian-wounds-another-at-displacement-tent-in-gaza/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261104-42962391-42962387-RELATIVES_MOURN_17YEAROLD_GIRL_KILLED_IN_ISRAELI_STRIKE_ON_GAZA_CITY.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/world-court-to-rule-nov-19-on-myanmar-genocide-case-over-rohingya/",
+          "title": "World court to rule November 19 on Burma genocide case over Rohingya",
+          "published": "2026-11-05T07:49:40.000Z",
+          "url": "https://www.muslimnetwork.tv/world-court-to-rule-nov-19-on-myanmar-genocide-case-over-rohingya/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_bac24df8de227c75d57c98f3e3172e0b.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/iran-says-3-vessels-catch-fire-in-strait-of-hormuz/",
+          "title": "Iran says 3 vessels catch fire in Strait of Hormuz",
+          "published": "2026-11-05T07:43:31.000Z",
+          "url": "https://www.muslimnetwork.tv/iran-says-3-vessels-catch-fire-in-strait-of-hormuz/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_28cccc46cbd2c1ad252a5796014a4da0.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/vance-says-war-against-iran-was-the-reason-republicans-lost-us-midterm-elections/",
           "title": "Vance says war against Iran was ‘the reason’ Republicans lost US midterm elections",
           "published": "2026-11-05T06:33:15.000Z",
-          "url": "https://www.muslimnetwork.tv/vance-says-war-against-iran-was-the-reason-republicans-lost-us-midterm-elections/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260618-41715108-41715086-US_VICE_PRESIDENT_JD_VANCE_HOLDS_PRESS_BRIEFING_AT_WHITE_HOUSE.jpg"
+          "url": "https://www.muslimnetwork.tv/vance-says-war-against-iran-was-the-reason-republicans-lost-us-midterm-elections/"
         },
         {
           "id": "https://www.muslimnetwork.tv/israeli-army-detains-45-palestinians-including-2-journalists-in-west-bank-raids/",
           "title": "Israeli army detains 45 Palestinians, including 2 journalists, in West Bank raids",
           "published": "2026-11-05T06:28:21.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-army-detains-45-palestinians-including-2-journalists-in-west-bank-raids/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/AA-20260809-42174892-42174888-ISRAELI_FORCES_RAID_THE_CITY_OF_NABLUS.jpg"
+          "url": "https://www.muslimnetwork.tv/israeli-army-detains-45-palestinians-including-2-journalists-in-west-bank-raids/"
         },
         {
           "id": "https://www.muslimnetwork.tv/us-republican-lawmaker-to-force-house-vote-on-hegseths-impeachment-unless-he-resigns/",
           "title": "Republican lawmaker to force House vote on Hegseth’s impeachment unless he resigns",
           "published": "2026-11-05T06:24:30.000Z",
-          "url": "https://www.muslimnetwork.tv/us-republican-lawmaker-to-force-house-vote-on-hegseths-impeachment-unless-he-resigns/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/04/AA-20260406-41034571-41034567-UNITED_STATES_SECRETARY_OF_WAR_PETE_HEGSETH.jpg"
+          "url": "https://www.muslimnetwork.tv/us-republican-lawmaker-to-force-house-vote-on-hegseths-impeachment-unless-he-resigns/"
         },
         {
           "id": "https://www.muslimnetwork.tv/safe-spaces-for-buyers-and-sellers-coming-soon-courtesy-of-toronto-police/",
           "title": "“Safe Spaces” for Buyers and Sellers Coming Soon, Courtesy of Toronto Police",
           "published": "2026-11-05T01:47:14.000Z",
-          "url": "https://www.muslimnetwork.tv/safe-spaces-for-buyers-and-sellers-coming-soon-courtesy-of-toronto-police/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/20945729.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/they-are-calling-it-a-blue-nami-and-american-muslims-are-riding-its-crest/",
-          "title": "They Are Calling it a “Blue-Nami”! And American Muslims Are Riding Its Crest.",
-          "published": "2026-11-05T01:42:47.000Z",
-          "url": "https://www.muslimnetwork.tv/they-are-calling-it-a-blue-nami-and-american-muslims-are-riding-its-crest/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/muslim-winners.png"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/muslim-families-face-displacement-as-india-bulldozes-haryana-settlements/",
-          "title": "Muslim families face displacement as India bulldozes Haryana settlements",
-          "published": "2026-11-04T21:35:44.000Z",
-          "url": "https://www.muslimnetwork.tv/muslim-families-face-displacement-as-india-bulldozes-haryana-settlements/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-tonyzebastian-7586391.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/muslim-rights-group-demands-action-against-cow-vigilantes-in-india/",
-          "title": "Muslim rights group demands action against cow vigilantes in India",
-          "published": "2026-11-04T21:33:59.000Z",
-          "url": "https://www.muslimnetwork.tv/muslim-rights-group-demands-action-against-cow-vigilantes-in-india/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/burma-junta-denies-rohingya-identity-despite-decades-of-persecution/",
-          "title": "Burma junta denies Rohingya identity despite decades of persecution",
-          "published": "2026-11-04T21:32:39.000Z",
-          "url": "https://www.muslimnetwork.tv/burma-junta-denies-rohingya-identity-despite-decades-of-persecution/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/bangladesh-pledges-130m-to-expand-eye-care-nationwide/",
-          "title": "Bangladesh pledges $130M to expand eye care nationwide",
-          "published": "2026-11-04T21:31:34.000Z",
-          "url": "https://www.muslimnetwork.tv/bangladesh-pledges-130m-to-expand-eye-care-nationwide/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/democrats-plan-scrutiny-of-trumps-iran-war-decisions/",
-          "title": "Democrats plan scrutiny of Trump’s Iran war decisions",
-          "published": "2026-11-04T14:26:11.000Z",
-          "url": "https://www.muslimnetwork.tv/democrats-plan-scrutiny-of-trumps-iran-war-decisions/"
+          "url": "https://www.muslimnetwork.tv/safe-spaces-for-buyers-and-sellers-coming-soon-courtesy-of-toronto-police/"
         }
       ]
     },
@@ -295,7 +288,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-04T19:54:24.099Z",
+      "checkedAt": "2026-11-05T12:27:34.713Z",
       "items": [
         {
           "id": "E_nXnTE-36Q",
@@ -405,7 +398,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-04T19:54:24.566Z",
+      "checkedAt": "2026-11-05T12:27:35.039Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -515,8 +508,15 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-04T19:54:24.699Z",
+      "checkedAt": "2026-11-05T12:27:35.243Z",
       "items": [
+        {
+          "id": "rspoLMvkacM",
+          "title": "Washing the Deceased: Would You Know How to Do It? | Dr Haifaa Younis | Jannah Institute",
+          "published": "2026-11-05T05:00:34.000Z",
+          "url": "https://www.youtube.com/watch?v=rspoLMvkacM",
+          "image": "https://i.ytimg.com/vi/rspoLMvkacM/hqdefault.jpg"
+        },
         {
           "id": "RlTs-fUs-Cs",
           "title": "How to Be Detached from Materialism | Dr Haifaa Younis | Jannah Institute",
@@ -614,18 +614,11 @@
           "published": "2026-10-08T11:01:38.000Z",
           "url": "https://www.youtube.com/watch?v=y8kMSjMJtgU",
           "image": "https://i.ytimg.com/vi/y8kMSjMJtgU/hqdefault.jpg"
-        },
-        {
-          "id": "fv2mud7XjzQ",
-          "title": "Before you blame someone else, look at yourself first! #selfreminder #tazkiyah #drhaifaayounis",
-          "published": "2026-10-07T21:49:05.000Z",
-          "url": "https://www.youtube.com/watch?v=fv2mud7XjzQ",
-          "image": "https://i.ytimg.com/vi/fv2mud7XjzQ/hqdefault.jpg"
         }
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-04T19:54:24.855Z",
+      "checkedAt": "2026-11-05T12:27:35.338Z",
       "items": [
         {
           "id": "FdWuQCSz7SU",
@@ -735,8 +728,22 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-05T07:01:35.245Z",
+      "checkedAt": "2026-11-05T12:27:36.256Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/politics/carney-second-federal-budget-lookahead-9.7409464",
+          "title": "What to watch for as Carney introduces his 2nd federal budget",
+          "published": "2026-11-05T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/carney-second-federal-budget-lookahead-9.7409464",
+          "image": "https://i.cbc.ca/ais/a5acd5e0-78ff-4cbc-bfc2-ddd7c3077951,1793824041003/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C5351%2C3009%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/investigates/sickkids-doctor-csaem-charges-license-suspension-delay-9.7402720",
+          "title": "Pediatrician accused of uploading illicit video of young girl remained licensed for months",
+          "published": "2026-11-05T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/investigates/sickkids-doctor-csaem-charges-license-suspension-delay-9.7402720",
+          "image": "https://i.cbc.ca/ais/58ea6564-78e3-49f8-b7a5-23ebe92ff0b3,1793374302875/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/edmonton/alberta-ucp-ndp-electoral-boundary-changes-ridings-election-9.7410092",
           "title": "Alberta's governing UCP endorses proposed riding boundary changes as NDP reiterates concerns",
@@ -827,30 +834,44 @@
           "published": "2026-11-04T21:22:07.000Z",
           "url": "https://www.cbc.ca/news/canada/edmonton/alberta-remembrance-ceremony-wainwright-9.7408863",
           "image": "https://i.cbc.ca/ais/d0f1191f-df7d-4d42-833a-58f709c6ef2d,1793814637094/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/cindy-woodhouse-nepinak-metis-remarks-9.7409157",
-          "title": "National chief didn't mean to 'hurt anybody' with remarks on Métis identity",
-          "published": "2026-11-04T20:48:59.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/cindy-woodhouse-nepinak-metis-remarks-9.7409157",
-          "image": "https://i.cbc.ca/ais/25e33b7b-2414-4e70-be81-a8d1e6fedeee,1793814831807/full/max/0/default.jpg?im=Crop%2Crect%3D%281506%2C1367%2C6725%2C3782%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/innu-nation-grand-chief-says-n-l-premier-has-more-work-to-do-after-meeting-in-st-john-s-9.7408572",
-          "title": "Innu Nation grand chief says N.L. premier has more work to do to repair relationship with Innu people",
-          "published": "2026-11-04T20:48:08.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/innu-nation-grand-chief-says-n-l-premier-has-more-work-to-do-after-meeting-in-st-john-s-9.7408572",
-          "image": "https://i.cbc.ca/ais/ba6ef297-37d9-4ce1-81ef-380bd4676995,1793822606287/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C512%2C288%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-05T07:01:35.631Z",
+      "checkedAt": "2026-11-05T12:27:36.700Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
+          "title": "Ronaldo retires from Portugal duty",
+          "published": "2026-11-05T11:56:02.000Z",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo",
+          "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+          "published": "2026-11-05T10:33:21.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272e/live/d04750e0-d903-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+          "title": "France gears up for strikes and protests as unions promise national mobilisation",
+          "published": "2026-11-05T10:26:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3334/live/45a99230-d909-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o",
+          "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+          "published": "2026-11-05T09:04:42.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/434b/live/650744e0-d8ed-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
           "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-          "published": "2026-11-05T06:35:25.000Z",
+          "published": "2026-11-05T08:07:22.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg"
         },
@@ -866,7 +887,14 @@
           "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
           "published": "2026-11-05T02:09:23.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfbd/live/91275ec0-d8b6-11f1-a51b-9f26c18566b3.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063d/live/7f72f330-d8eb-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko",
+          "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+          "published": "2026-11-05T00:30:37.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bf/live/d304fb40-d848-11f1-b870-55415e6a9944.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o",
@@ -890,13 +918,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png"
         },
         {
-          "id": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o",
-          "title": "'Hopefully things get done': Americans react to historic political shift",
-          "published": "2026-11-04T22:34:08.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e6/live/144f7f70-d89f-11f1-a701-fddedf244c16.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
           "title": "What Democrats can and can't do with their new power after taking Congress",
           "published": "2026-11-04T18:01:27.000Z",
@@ -904,53 +925,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
-          "title": "Iran's chief negotiator says Americans voted 'no to war'",
-          "published": "2026-11-04T16:59:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o",
-          "title": "'Most difficult days of my life' for keeper Owono",
-          "published": "2026-11-04T16:40:38.000Z",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo",
-          "title": "The young politicians with African roots making history in the US midterms",
-          "published": "2026-11-04T16:34:32.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0fe/live/3a869c80-d85b-11f1-94f3-cf7d1e52bb8c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
-          "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-          "published": "2026-11-04T16:26:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
-          "title": "Israel's president begins consultations with parties after election deadlock",
-          "published": "2026-11-04T16:18:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
-          "title": "Secret police files released in Hungary, 37 years after fall of communism",
-          "published": "2026-11-04T15:28:18.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
           "title": "Everything you need to know from the US midterm elections",
           "published": "2026-11-04T14:05:42.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/883e/live/60c11c10-d8b3-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
+          "title": "ANC under pressure to reverse South Africa decline",
+          "published": "2026-11-04T11:47:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
+          "title": "How America voted in maps and charts",
+          "published": "2026-11-04T09:53:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
         }
       ]
     }
