@@ -439,6 +439,34 @@
           "image": "/media/volunteers.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-06",
+      "generatedAt": "2026-11-06T07:00:29.721Z",
+      "items": [
+        {
+          "id": "0a526f07e5c6",
+          "kind": "talk",
+          "title": "An Invitation from Dr. Shabir: Join Us for the MMH Fundraising Gala",
+          "summary": "Make time for a recent conversation from Shabir Ally & Let the Quran Speak. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=nrt--7gj3-M",
+          "sourceId": "shabir",
+          "source": "Shabir Ally & Let the Quran Speak",
+          "image": "https://i.ytimg.com/vi/nrt--7gj3-M/hqdefault.jpg",
+          "published": "2026-11-05T13:59:24.000Z"
+        },
+        {
+          "id": "afbca1cca2b5",
+          "kind": "news",
+          "title": "Trump considering possible replacements for Defense Secretary Pete Hegseth: report",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/trump-considering-possible-replacements-for-defense-secretary-pete-hegseth-report/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/President-Donald-Trump-threatened-to-bomb-Oman-if-it-obstructs-US-efforts-to-end-the-Iran-war-as-peace-talks-remain-stalled.webp",
+          "published": "2026-11-06T05:04:09.000Z"
+        }
+      ]
     }
   ]
 }
