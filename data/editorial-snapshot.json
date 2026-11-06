@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-05T20:07:04.468Z",
+      "checkedAt": "2026-11-06T12:11:20.530Z",
       "items": [
+        {
+          "id": "2p2kAUm57Gk",
+          "title": "711 - Sura al-Furqan - 33 - 38 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-11-06T01:36:53.000Z",
+          "url": "https://www.youtube.com/watch?v=2p2kAUm57Gk",
+          "image": "https://i.ytimg.com/vi/2p2kAUm57Gk/hqdefault.jpg"
+        },
         {
           "id": "8TG5JaGY7yc",
           "title": "39 - Book of Purification - [Hadith 418-429] - Mishkat al-Masabih - Shaykh Ilyas Patel",
@@ -101,18 +108,11 @@
           "published": "2026-10-22T01:57:34.000Z",
           "url": "https://www.youtube.com/watch?v=RaUwec-4fMY",
           "image": "https://i.ytimg.com/vi/RaUwec-4fMY/hqdefault.jpg"
-        },
-        {
-          "id": "21YayVSC5QY",
-          "title": "702 - Sura al-Nur - 61 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
-          "published": "2026-10-21T13:58:15.000Z",
-          "url": "https://www.youtube.com/watch?v=21YayVSC5QY",
-          "image": "https://i.ytimg.com/vi/21YayVSC5QY/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-05T20:07:04.696Z",
+      "checkedAt": "2026-11-06T12:11:20.548Z",
       "items": [
         {
           "id": "1dPLDwF5ydA",
@@ -134,84 +134,77 @@
           "published": "2026-11-01T18:29:34.000Z",
           "url": "https://www.youtube.com/watch?v=ezThSnI6K_0",
           "image": "https://i.ytimg.com/vi/ezThSnI6K_0/hqdefault.jpg"
-        },
-        {
-          "id": "nnz7hIVdxtc",
-          "title": "What Would You Tell A Racist | Ebro Ahmed and Dr. Omar Suleiman",
-          "published": "2026-10-31T03:23:56.000Z",
-          "url": "https://www.youtube.com/watch?v=nnz7hIVdxtc",
-          "image": "https://i.ytimg.com/vi/nnz7hIVdxtc/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-06T07:00:29.014Z",
+      "checkedAt": "2026-11-06T12:11:21.483Z",
       "items": [
         {
-          "id": "https://www.muslimnetwork.tv/trump-considering-possible-replacements-for-defense-secretary-pete-hegseth-report/",
-          "title": "Trump considering possible replacements for Defense Secretary Pete Hegseth: report",
-          "published": "2026-11-06T05:04:09.000Z",
-          "url": "https://www.muslimnetwork.tv/trump-considering-possible-replacements-for-defense-secretary-pete-hegseth-report/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/President-Donald-Trump-threatened-to-bomb-Oman-if-it-obstructs-US-efforts-to-end-the-Iran-war-as-peace-talks-remain-stalled.webp"
+          "id": "https://www.muslimnetwork.tv/christian-democrats-challenge-republican-religious-politics-in-us-midterm-victories/",
+          "title": "Christian Democrats challenge Republican religious politics in US midterm victories",
+          "published": "2026-11-06T10:24:38.000Z",
+          "url": "https://www.muslimnetwork.tv/christian-democrats-challenge-republican-religious-politics-in-us-midterm-victories/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/James_TFA.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/trump-warns-iran-could-face-destruction/",
-          "title": "Trump warns Iran could face destruction",
-          "published": "2026-11-06T04:59:11.000Z",
-          "url": "https://www.muslimnetwork.tv/trump-warns-iran-could-face-destruction/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_02689430326b2ec80fc8d7a2bde9dc3b.webp"
+          "id": "https://www.muslimnetwork.tv/record-97-muslim-americans-elected-in-2026-midterms/",
+          "title": "Record 97 Muslim Americans elected in 2026 midterms",
+          "published": "2026-11-06T10:17:34.000Z",
+          "url": "https://www.muslimnetwork.tv/record-97-muslim-americans-elected-in-2026-midterms/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/11/AFP-TV_20190815_POL_USA_PrimaryTlaib_1JK0KL_en.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/gta-news-canada-post-will-stop-delivering-mail-to-your-door-but-when/",
-          "title": "GTA News: Canada Post Will Stop Delivering Mail to Your Door – But When?",
-          "published": "2026-11-05T23:18:59.000Z",
-          "url": "https://www.muslimnetwork.tv/gta-news-canada-post-will-stop-delivering-mail-to-your-door-but-when/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-introspectivedsgn-16053126.jpg"
+          "id": "https://www.muslimnetwork.tv/report-economic-populism-us-israel-war-on-iran-fueled-democratic-sweep/",
+          "title": "Report: Economic populism, US-Israel war on Iran fueled Democratic sweep",
+          "published": "2026-11-06T10:08:57.000Z",
+          "url": "https://www.muslimnetwork.tv/report-economic-populism-us-israel-war-on-iran-fueled-democratic-sweep/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261103-42953832-42953826-VOTERS_CAST_THEIR_BALLOTS_FOR_US_MIDTERM_ELECTIONS_IN_CHICAGO.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/gta-gas-prices-expected-to-dip-on-november-7/",
-          "title": "GTA Gas Prices Expected to Dip on November 7",
-          "published": "2026-11-05T23:16:22.000Z",
-          "url": "https://www.muslimnetwork.tv/gta-gas-prices-expected-to-dip-on-november-7/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/car-refueling-fuel-station.jpg"
+          "id": "https://www.muslimnetwork.tv/turkiye-says-makkah-defense-alliance-open-to-other-regional-countries/",
+          "title": "Türkiye says Makkah defense alliance open to other regional countries",
+          "published": "2026-11-06T10:02:00.000Z",
+          "url": "https://www.muslimnetwork.tv/turkiye-says-makkah-defense-alliance-open-to-other-regional-countries/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/AA-20260831-42349636-42349635-TURKIYE_PAKISTAN_AND_SAUDI_ARABIA_HOLD_STRATEGIC_POLITICAL_AND_DEFENSE_COMMITTEE_MEETING_IN_ISTANBUL.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/israel-advances-e1-settlement-plan-amid-un-condemnation/",
-          "title": "Israel advances E1 settlement plan amid UN condemnation",
-          "published": "2026-11-05T21:49:26.000Z",
-          "url": "https://www.muslimnetwork.tv/israel-advances-e1-settlement-plan-amid-un-condemnation/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/UN-warns-settlement-expansion-threatens-Palestinian-statehood-as-settlers-seize-eight-homes-in-occupied-West-Bank-village-.webp"
+          "id": "https://www.muslimnetwork.tv/canada-denies-study-permit-to-afghan-girl-on-scholarship/",
+          "title": "Canada denies study permit to Afghan girl on scholarship",
+          "published": "2026-11-06T09:54:35.000Z",
+          "url": "https://www.muslimnetwork.tv/canada-denies-study-permit-to-afghan-girl-on-scholarship/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/04/AA-20220323-27333715-27333711-SCHOOLS_START_EDUCATION_IN_AFGHANISTAN-scaled.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/israel-kills-four-palestinians-injure-11-across-gaza/",
-          "title": "Israel kills four Palestinians, injure 11 across Gaza",
-          "published": "2026-11-05T21:43:42.000Z",
-          "url": "https://www.muslimnetwork.tv/israel-kills-four-palestinians-injure-11-across-gaza/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_858a476908e65cfaccbdca2b33467b0d.webp"
+          "id": "https://www.muslimnetwork.tv/us-judge-blocks-planned-deportations-of-afghans-through-pakistan/",
+          "title": "US judge blocks planned deportations of Afghans through Pakistan",
+          "published": "2026-11-06T09:52:44.000Z",
+          "url": "https://www.muslimnetwork.tv/us-judge-blocks-planned-deportations-of-afghans-through-pakistan/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/04/AA-20250410-37594149-37594113-AFGHAN_REFUGEES_SURGE_AT_TORKHAM_BORDER_AFTER_DEPORTATIONS_FROM_PAKISTAN.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/india-villagers-demand-probe-into-40-churches-over-conversion-claims/",
-          "title": "India villagers demand probe into 40 churches over conversion claims",
-          "published": "2026-11-05T21:31:15.000Z",
-          "url": "https://www.muslimnetwork.tv/india-villagers-demand-probe-into-40-churches-over-conversion-claims/"
+          "id": "https://www.muslimnetwork.tv/hindu-council-of-australia-accused-of-spreading-hate-against-muslims/",
+          "title": "Hindu Council of Australia accused of spreading hate against Muslims",
+          "published": "2026-11-06T09:50:05.000Z",
+          "url": "https://www.muslimnetwork.tv/hindu-council-of-australia-accused-of-spreading-hate-against-muslims/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/imam-appeals-against-demolition-of-century-old-qadeemi-masjid-in-india/",
-          "title": "Imam appeals against demolition of century-old Qadeemi Masjid in India",
-          "published": "2026-11-05T21:27:57.000Z",
-          "url": "https://www.muslimnetwork.tv/imam-appeals-against-demolition-of-century-old-qadeemi-masjid-in-india/"
+          "id": "https://www.muslimnetwork.tv/pakistani-educationist-receives-kings-award-for-enterprise/",
+          "title": "Pakistani educationist receives King’s Award for Enterprise",
+          "published": "2026-11-06T09:48:32.000Z",
+          "url": "https://www.muslimnetwork.tv/pakistani-educationist-receives-kings-award-for-enterprise/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/ai-could-boost-maldives-economy-by-112m-in-decade/",
-          "title": "AI could boost Maldives economy by $112M in decade",
-          "published": "2026-11-05T21:26:09.000Z",
-          "url": "https://www.muslimnetwork.tv/ai-could-boost-maldives-economy-by-112m-in-decade/"
+          "id": "https://www.muslimnetwork.tv/syria-expands-regional-partnerships-through-saudi-reconstruction-agreements/",
+          "title": "Syria expands regional partnerships through Saudi reconstruction agreements",
+          "published": "2026-11-06T09:47:59.000Z",
+          "url": "https://www.muslimnetwork.tv/syria-expands-regional-partnerships-through-saudi-reconstruction-agreements/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/arakan-army-restricts-rohingya-medical-travel-to-bangladesh/",
-          "title": "Arakan Army restricts Rohingya medical travel to Bangladesh",
-          "published": "2026-11-05T21:24:25.000Z",
-          "url": "https://www.muslimnetwork.tv/arakan-army-restricts-rohingya-medical-travel-to-bangladesh/"
+          "id": "https://www.muslimnetwork.tv/baghdad-opens-first-jewish-museum-to-preserve-community-heritage/",
+          "title": "Baghdad opens first Jewish museum to preserve community heritage",
+          "published": "2026-11-06T09:44:18.000Z",
+          "url": "https://www.muslimnetwork.tv/baghdad-opens-first-jewish-museum-to-preserve-community-heritage/"
         }
       ]
     },
@@ -288,7 +281,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-05T20:07:04.258Z",
+      "checkedAt": "2026-11-06T12:11:20.394Z",
       "items": [
         {
           "id": "nrt--7gj3-M",
@@ -398,7 +391,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-05T20:07:04.822Z",
+      "checkedAt": "2026-11-06T12:11:20.640Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -508,7 +501,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-05T20:07:05.082Z",
+      "checkedAt": "2026-11-06T12:11:20.717Z",
       "items": [
         {
           "id": "iseuyCGETgs",
@@ -618,7 +611,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-05T20:07:05.234Z",
+      "checkedAt": "2026-11-06T12:11:20.804Z",
       "items": [
         {
           "id": "kg5bEhCpKKE",
@@ -728,8 +721,29 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-06T07:00:29.274Z",
+      "checkedAt": "2026-11-06T12:11:21.541Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/accessibility-barriers-restaurants-9.7410440",
+          "title": "Hidden cameras reveal accessibility barriers at leading restaurants",
+          "published": "2026-11-06T09:04:06.000Z",
+          "url": "https://www.cbc.ca/news/canada/accessibility-barriers-restaurants-9.7410440",
+          "image": "https://i.cbc.ca/ais/93fba392-c360-4ced-8513-a96e95b0c910,1793920667275/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/armstrong-canada-budget-2026-economy-risks-9.7411557",
+          "title": "Carney's bet on economic growth — and the risks that come with it",
+          "published": "2026-11-06T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/business/armstrong-canada-budget-2026-economy-risks-9.7411557",
+          "image": "https://i.cbc.ca/ais/b5520968-5d5d-49b6-9d29-be2fbaa311b0,1793927145762/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C443%2C7927%2C4458%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/sidhu-beef-prices-finally-stabilizing-9.7409526",
+          "title": "Worst of beef price hikes may be over, but don’t expect cheaper steak anytime soon",
+          "published": "2026-11-06T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/sidhu-beef-prices-finally-stabilizing-9.7409526",
+          "image": "https://i.cbc.ca/ais/8ed72ecc-4dee-427c-9d2e-d4a48a13c3c3,1793901425645/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/saskatchewan/protesters-regina-oppose-bell-data-centre-expansion-approved-rm-sherwood-9.7411279",
           "title": "Expansion of Bell Canada's AI data centre near Regina clears final vote, despite protest",
@@ -813,33 +827,68 @@
           "published": "2026-11-05T16:10:27.000Z",
           "url": "https://www.cbc.ca/news/business/telus-outage-quebec-ontario-9.7410552",
           "image": "https://i.cbc.ca/ais/a4f3bbfb-4214-40b5-bd0f-55d19b044a2b,1793895274444/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C405%2C7785%2C4379%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/men-involved-in-old-montreal-fire-that-killed-2-plead-guilty-to-reduced-manslaughter-charge-9.7410461",
-          "title": "Men involved in Old Montreal fire that killed 2 plead guilty to reduced manslaughter charge",
-          "published": "2026-11-05T15:50:12.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/men-involved-in-old-montreal-fire-that-killed-2-plead-guilty-to-reduced-manslaughter-charge-9.7410461",
-          "image": "https://i.cbc.ca/ais/a0c9380d-827d-426c-a0c5-a9d3f5b739c6,1793893773200/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C760%2C6336%2C3564%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/us-cda-midterms-alta-9.7410234",
-          "title": "U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith",
-          "published": "2026-11-05T15:46:36.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/us-cda-midterms-alta-9.7410234",
-          "image": "https://i.cbc.ca/ais/ef40a913-ffd7-4298-b596-4e3a10911ae2,1793883037195/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5624%2C3163%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/shell-newfoundland-exploration-9.7410166",
-          "title": "Shell drives spike in oil exploration bids off the coast of Newfoundland",
-          "published": "2026-11-05T15:42:24.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/shell-newfoundland-exploration-9.7410166",
-          "image": "https://i.cbc.ca/ais/1.4930228,1543857341000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C345%2C3500%2C1968%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-06T07:00:29.611Z",
+      "checkedAt": "2026-11-06T12:11:21.917Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
+          "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+          "published": "2026-11-06T11:54:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/03fb9610-d857-11f1-8ac8-af8395a95d7d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
+          "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+          "published": "2026-11-06T11:36:14.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bed/live/8fde0dd0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+          "title": "Two dead after bus crashes in France, officials say",
+          "published": "2026-11-06T11:21:20.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "published": "2026-11-06T09:57:04.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/ff7af2d0-d9bd-11f1-a00c-673f8daaffd9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
+          "title": "Trump signs order to preserve Oval Office as national monument",
+          "published": "2026-11-06T09:19:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ff/live/e5957760-d9b2-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
+          "title": "Somalia's top court rejects president's term extension amid political crisis",
+          "published": "2026-11-06T08:18:10.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/679b/live/77438af0-d9b1-11f1-bbc7-9574ed12e2df.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
+          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "published": "2026-11-06T07:56:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro",
+          "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+          "published": "2026-11-06T07:33:41.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o",
           "title": "Macau jails pro-democracy campaigner in city's first national security case",
@@ -849,38 +898,24 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o",
-          "title": "Did a data centre revolt affect the US mid-term election results?",
+          "title": "Did a data centre revolt affect the US midterm election results?",
           "published": "2026-11-06T06:01:13.000Z",
           "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66b/live/909d6da0-d90b-11f1-b72c-d16cdc75f35f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-          "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-          "published": "2026-11-06T06:00:59.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o",
           "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
           "published": "2026-11-06T06:00:46.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/424f/live/eb19eb30-d9ad-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
-          "title": "Trump signs order preventing future presidents from changing Oval Office",
-          "published": "2026-11-06T04:29:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/330b/live/697ff880-d9ad-11f1-a701-fddedf244c16.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a8/live/101312f0-d9cb-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
           "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
           "published": "2026-11-06T02:08:57.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69dd/live/60312250-d9ca-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
@@ -902,48 +937,6 @@
           "published": "2026-11-05T23:16:53.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
-          "title": "California governor commutes sentences for state's 548 death row inmates",
-          "published": "2026-11-05T23:09:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6243/live/f34ef550-d982-11f1-9367-d509fddfe31c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo",
-          "title": "Who could be behind hoax bomb threats to European air travel?",
-          "published": "2026-11-05T19:58:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
-          "title": "Eight killed in series of shootings in western Turkey",
-          "published": "2026-11-05T19:32:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a9/live/afaf1b30-d947-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o",
-          "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-          "published": "2026-11-05T19:08:48.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2811/live/420fe4c0-d8c9-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o",
-          "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-          "published": "2026-11-05T19:08:48.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2811/live/420fe4c0-d8c9-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
-          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-          "published": "2026-11-05T19:08:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg"
         }
       ]
     }
