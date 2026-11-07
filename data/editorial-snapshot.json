@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-06T19:33:37.087Z",
+      "checkedAt": "2026-11-07T11:08:20.970Z",
       "items": [
         {
           "id": "2p2kAUm57Gk",
@@ -112,26 +112,26 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-06T19:33:37.188Z",
+      "checkedAt": "2026-11-07T11:08:21.086Z",
       "items": [
+        {
+          "id": "97Dd5E60j_g",
+          "title": "He Gave His Eye for the Prophet ﷺ | Dr. Omar Suleiman",
+          "published": "2026-11-07T00:00:37.000Z",
+          "url": "https://www.youtube.com/watch?v=97Dd5E60j_g",
+          "image": "https://i.ytimg.com/vi/97Dd5E60j_g/hqdefault.jpg"
+        },
         {
           "id": "1dPLDwF5ydA",
           "title": "“Who Am I To Judge?” Has A Limit | Signs of the Hour Ep. 24 | Dr. Omar Suleiman",
           "published": "2026-11-03T15:00:07.000Z",
           "url": "https://www.youtube.com/watch?v=1dPLDwF5ydA",
           "image": "https://i.ytimg.com/vi/1dPLDwF5ydA/hqdefault.jpg"
-        },
-        {
-          "id": "P6c_Dsw_-2U",
-          "title": "Qatada ibn al-Nu'man (ra): The Shield of the Prophet ﷺ | The Firsts | Dr. Omar Suleiman",
-          "published": "2026-11-02T15:00:06.000Z",
-          "url": "https://www.youtube.com/watch?v=P6c_Dsw_-2U",
-          "image": "https://i.ytimg.com/vi/P6c_Dsw_-2U/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-07T06:14:25.118Z",
+      "checkedAt": "2026-11-07T11:08:23.343Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/budget-2026-five-changes-to-how-you-file-your-taxes/",
@@ -274,7 +274,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-07T06:14:22.889Z",
+      "checkedAt": "2026-11-07T11:08:20.864Z",
       "items": [
         {
           "id": "i1Y-mPtr68M",
@@ -384,7 +384,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-06T19:33:37.305Z",
+      "checkedAt": "2026-11-07T11:08:21.196Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -494,7 +494,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-06T19:33:37.663Z",
+      "checkedAt": "2026-11-07T11:08:21.439Z",
       "items": [
         {
           "id": "iseuyCGETgs",
@@ -604,7 +604,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-06T19:33:38.053Z",
+      "checkedAt": "2026-11-07T11:08:21.593Z",
       "items": [
         {
           "id": "kg5bEhCpKKE",
@@ -714,7 +714,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-07T06:14:25.282Z",
+      "checkedAt": "2026-11-07T11:08:23.505Z",
       "items": [
         {
           "id": "https://www.cbc.ca/news/indigenous/budget-mmf-mnc-afn-itk-9.7413041",
@@ -824,14 +824,21 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-07T06:14:25.514Z",
+      "checkedAt": "2026-11-07T11:08:23.804Z",
       "items": [
         {
           "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-          "title": "Paraguay's President Santiago Peña impeached and arrested",
-          "published": "2026-11-07T03:25:00.000Z",
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "published": "2026-11-07T07:20:00.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
+          "title": "Pope in 'pretty good health' as he starts Latin America tour",
+          "published": "2026-11-07T06:59:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cx5ynly549njo",
@@ -883,18 +890,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o",
-          "title": "Nigerian court rules opposition candidate cannot stand in elections",
-          "published": "2026-11-06T17:35:55.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dde/live/68066ef0-d94c-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
           "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
           "published": "2026-11-06T16:51:01.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo",
+          "title": "Spate of bomb threats poses serious challenge to airline industry",
+          "published": "2026-11-06T16:18:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f23/live/39514eb0-d9f9-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
@@ -923,13 +930,6 @@
           "published": "2026-11-06T15:25:35.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo",
-          "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-          "published": "2026-11-06T15:02:03.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbf/live/c3a237d0-d9f1-11f1-bb10-cdca6001fbcf.jpg"
         }
       ]
     }
