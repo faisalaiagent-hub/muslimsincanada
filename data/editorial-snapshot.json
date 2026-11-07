@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-07T13:17:54.029Z",
+      "checkedAt": "2026-11-07T22:01:44.673Z",
       "items": [
         {
           "id": "2p2kAUm57Gk",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-07T13:17:54.045Z",
+      "checkedAt": "2026-11-07T22:01:44.905Z",
       "items": [
         {
           "id": "97Dd5E60j_g",
@@ -120,19 +120,19 @@
           "published": "2026-11-07T00:00:37.000Z",
           "url": "https://www.youtube.com/watch?v=97Dd5E60j_g",
           "image": "https://i.ytimg.com/vi/97Dd5E60j_g/hqdefault.jpg"
-        },
-        {
-          "id": "1dPLDwF5ydA",
-          "title": "“Who Am I To Judge?” Has A Limit | Signs of the Hour Ep. 24 | Dr. Omar Suleiman",
-          "published": "2026-11-03T15:00:07.000Z",
-          "url": "https://www.youtube.com/watch?v=1dPLDwF5ydA",
-          "image": "https://i.ytimg.com/vi/1dPLDwF5ydA/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-07T13:17:55.468Z",
+      "checkedAt": "2026-11-07T22:01:47.023Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/netanyahus-rival-eisenkot-receives-mandate-to-form-israels-next-government/",
+          "title": "Netanyahu’s rival, Eisenkot, receives mandate to form Israel’s next government",
+          "published": "2026-11-07T20:40:41.000Z",
+          "url": "https://www.muslimnetwork.tv/netanyahus-rival-eisenkot-receives-mandate-to-form-israels-next-government/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_5113b187c89debe5227e856fee08dcbf.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/budget-2026-five-changes-to-how-you-file-your-taxes/",
           "title": "Budget 2026: Five Changes to How You File Your Taxes",
@@ -172,8 +172,7 @@
           "id": "https://www.muslimnetwork.tv/bangladesh-turns-to-turkiye-for-green-industrial-technology/",
           "title": "Bangladesh turns to Türkiye for green industrial technology",
           "published": "2026-11-06T18:08:27.000Z",
-          "url": "https://www.muslimnetwork.tv/bangladesh-turns-to-turkiye-for-green-industrial-technology/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-anntarazevich-5963132.jpg"
+          "url": "https://www.muslimnetwork.tv/bangladesh-turns-to-turkiye-for-green-industrial-technology/"
         },
         {
           "id": "https://www.muslimnetwork.tv/bangladesh-rescues-57-rohingya-and-local-trafficking-hostages/",
@@ -192,12 +191,6 @@
           "title": "Israel kills two more Palestinians in Gaza",
           "published": "2026-11-06T18:03:45.000Z",
           "url": "https://www.muslimnetwork.tv/israel-kills-two-more-palestinians-in-gaza/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-settlers-burn-palestinian-olive-grove-near-ramallah/",
-          "title": "Israeli settlers burn Palestinian olive grove near Ramallah",
-          "published": "2026-11-06T18:02:34.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-settlers-burn-palestinian-olive-grove-near-ramallah/"
         }
       ]
     },
@@ -274,7 +267,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-07T13:17:53.948Z",
+      "checkedAt": "2026-11-07T22:01:44.565Z",
       "items": [
         {
           "id": "i1Y-mPtr68M",
@@ -384,7 +377,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-07T13:17:54.137Z",
+      "checkedAt": "2026-11-07T22:01:45.019Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -494,7 +487,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-07T13:17:54.225Z",
+      "checkedAt": "2026-11-07T22:01:45.263Z",
       "items": [
         {
           "id": "iseuyCGETgs",
@@ -604,7 +597,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-07T13:17:54.232Z",
+      "checkedAt": "2026-11-07T22:01:45.372Z",
       "items": [
         {
           "id": "kg5bEhCpKKE",
@@ -714,8 +707,57 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-07T13:17:55.609Z",
+      "checkedAt": "2026-11-07T22:01:47.210Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-reaction-federal-homelessness-plan-9.7412841",
+          "title": "'Absolutely' possible: Vancouver, Victoria mayors back Ottawa's bid to end homelessness",
+          "published": "2026-11-07T19:58:16.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-reaction-federal-homelessness-plan-9.7412841",
+          "image": "https://i.cbc.ca/ais/03f229b5-fe0f-49cd-9871-801c14c61ccf,1765930060116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638",
+          "title": "Protests across Nova Scotia oppose AI data centres",
+          "published": "2026-11-07T18:02:19.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638",
+          "image": "https://i.cbc.ca/ais/6f81196b-1f62-4eb8-80db-ef670174810e,1794071539356/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-south-coast-wind-warnings-9.7413548",
+          "title": "Outages expected, more ferries cancelled amid wind warnings for B.C.'s South Coast",
+          "published": "2026-11-07T16:54:36.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-south-coast-wind-warnings-9.7413548",
+          "image": "https://i.cbc.ca/ais/70ed2e33-7131-4421-85ef-92f27fcfd315,1793053233370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C61%2C4000%2C2250%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-american-style-gerrymandering-9.7412790",
+          "title": "Is the Alberta government engaging in American-style gerrymandering?",
+          "published": "2026-11-07T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-american-style-gerrymandering-9.7412790",
+          "image": "https://i.cbc.ca/ais/58788765-ad3d-4601-916a-e2d29a6dd230,1793997862395/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C290%2C5295%2C2978%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/mackenzie-bus-crash-rescue-9.7413067",
+          "title": "He quit firefighting for his mental health. Then he came to the rescue after a horrific bus crash",
+          "published": "2026-11-07T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/mackenzie-bus-crash-rescue-9.7413067",
+          "image": "https://i.cbc.ca/ais/93ff3b25-62c8-4088-abe2-1d6c1c0e5f7a,1794008459680/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/avalanche-search-rescue-dog-parks-canada-9.7412536",
+          "title": "Avalanche search dog associations warn of public safety risk after Parks Canada cuts Banff K9 program",
+          "published": "2026-11-07T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/avalanche-search-rescue-dog-parks-canada-9.7412536",
+          "image": "https://i.cbc.ca/ais/294fba5c-b8f3-4721-9891-6205ed360f29,1793997491587/full/max/0/default.jpg?im=Crop%2Crect%3D%2815%2C0%2C2966%2C1668%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554",
+          "title": "Northern, remote RCMP detachments chronically and critically understaffed: internal report",
+          "published": "2026-11-07T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554",
+          "image": "https://i.cbc.ca/ais/b6054d48-b01e-4a22-82ee-b4cf1004889e,1793991717728/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C203%2C4522%2C2543%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/indigenous/budget-mmf-mnc-afn-itk-9.7413041",
           "title": "Federal budget's lack of Métis-specific funding concerns Métis leaders",
@@ -771,64 +813,71 @@
           "published": "2026-11-06T18:43:25.000Z",
           "url": "https://www.cbc.ca/news/canada/hamilton/norfolk-country-councillor-name-pulled-from-hat-9.7412431",
           "image": "https://i.cbc.ca/ais/b818338a-50f5-477f-9e46-b87704a08ae2,1793990298789/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/zeballos-landslide-evacuation-order-9.7412402",
-          "title": "Landslide prompts evacuation order for Zeballos on Vancouver Island",
-          "published": "2026-11-06T18:13:39.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/zeballos-landslide-evacuation-order-9.7412402",
-          "image": "https://i.cbc.ca/ais/f0ee9b06-be75-40f8-9666-b6692e24d73f,1793995117554/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C2048%2C1152%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/thunder-bay/neskantaga-first-nation-ontario-proposal-9.7412047",
-          "title": "First Nation sounds alarm over Ontario proposal to prevent 'obstruction' to development",
-          "published": "2026-11-06T18:05:22.000Z",
-          "url": "https://www.cbc.ca/news/canada/thunder-bay/neskantaga-first-nation-ontario-proposal-9.7412047",
-          "image": "https://i.cbc.ca/ais/b9f07fe0-7d1f-44f1-8703-f9c3ef00fb74,1793982653465/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatoon/melanie-osoup-criminal-negligence-death-baby-sentence-9.7412341",
-          "title": "Saskatoon mother sentenced for baby's drowning death in bathtub",
-          "published": "2026-11-06T17:40:52.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatoon/melanie-osoup-criminal-negligence-death-baby-sentence-9.7412341",
-          "image": "https://i.cbc.ca/ais/1.7140244,1710175115000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/father-leonard-kelly-southdown-institute-guardian-insurance-9.7412026",
-          "title": "Court action halted after clergy therapy centre reveals destruction of records related to abusive priest",
-          "published": "2026-11-06T15:32:51.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/father-leonard-kelly-southdown-institute-guardian-insurance-9.7412026",
-          "image": "https://i.cbc.ca/ais/f8af2a05-b18e-4496-acb6-8e280271222f,1787675205913/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C713%2C401%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/business/canada-jobs-report-oct-2026-statscan-9.7411830",
-          "title": "Canadian economy lost 4,700 jobs in October as unemployment rate ticked up to 6.7%",
-          "published": "2026-11-06T13:40:12.000Z",
-          "url": "https://www.cbc.ca/news/business/canada-jobs-report-oct-2026-statscan-9.7411830",
-          "image": "https://i.cbc.ca/ais/9b17620f-6c07-4d74-9426-cf3e4a274870,1793976335988/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-rules-optometrists-surgeries-9.7411677",
-          "title": "Alberta becomes 1st province to allow optometrists to perform minor surgeries",
-          "published": "2026-11-06T13:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-rules-optometrists-surgeries-9.7411677",
-          "image": "https://i.cbc.ca/ais/52fc3261-459e-4266-ac75-fe9f0fe1575e,1793936743939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C72%2C1737%2C977%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-first-nation-pipeline-challenges-9.7411621",
-          "title": "First Nations challenging Pacific Link pipeline’s national-interest designation",
-          "published": "2026-11-06T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-first-nation-pipeline-challenges-9.7411621",
-          "image": "https://i.cbc.ca/ais/9c0f8c52-43c0-4f87-85b1-cb2192b6fe55,1792204945940/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C194%2C3691%2C2076%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-07T13:17:55.939Z",
+      "checkedAt": "2026-11-07T22:01:47.602Z",
       "items": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+          "title": "What we know so far after Krakow gun attack",
+          "published": "2026-11-07T21:13:24.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+          "title": "Paraguay's former president charged after bank collapse",
+          "published": "2026-11-07T19:17:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+          "title": "US offers $20m reward for information about Iran's nuclear programme",
+          "published": "2026-11-07T18:14:38.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
+          "title": "Gaza wedding festival sees 250 couples married at the same time",
+          "published": "2026-11-07T17:58:41.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+          "title": "Houthis say at least 25 killed in Saudi air strike",
+          "published": "2026-11-07T17:09:24.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
+          "title": "Italian foreign minister says hackers leaked his personal data",
+          "published": "2026-11-07T16:50:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
+          "title": "No clear winner after tight New Zealand general election",
+          "published": "2026-11-07T15:56:28.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
+          "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+          "published": "2026-11-07T15:19:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
-          "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+          "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
           "published": "2026-11-07T12:49:36.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"
@@ -841,11 +890,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-          "title": "Paraguay's president impeached and under house arrest after bank collapse",
-          "published": "2026-11-07T07:20:00.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
+          "title": "Texas mayor instructs police to limit co-operation with ICE",
+          "published": "2026-11-07T08:15:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4095/live/09b20f70-da4c-11f1-ad69-611c5b2ed04a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo",
+          "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+          "published": "2026-11-07T07:27:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
@@ -867,69 +923,6 @@
           "published": "2026-11-07T01:19:49.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0273/live/640a38d0-da01-11f1-84c1-dbcae60402d7.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go",
-          "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-          "published": "2026-11-06T23:46:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd6/live/ad29b050-da2d-11f1-ab60-69d917fc430c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
-          "title": "With Stephen Miller pick, Trump readies for a battle",
-          "published": "2026-11-06T23:24:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "published": "2026-11-06T21:49:50.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-          "title": "AI stocks climb after trillions wiped from market values",
-          "published": "2026-11-06T21:06:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o",
-          "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-          "published": "2026-11-06T17:44:02.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
-          "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-          "published": "2026-11-06T16:51:01.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo",
-          "title": "Spate of bomb threats poses serious challenge to airline industry",
-          "published": "2026-11-06T16:18:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f23/live/39514eb0-d9f9-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-          "title": "Two dead after bus crashes in France, officials say",
-          "published": "2026-11-06T15:33:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko",
-          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-          "published": "2026-11-06T15:30:42.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg"
         }
       ]
     }
