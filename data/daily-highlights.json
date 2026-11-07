@@ -467,6 +467,33 @@
           "published": "2026-11-06T05:04:09.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-07",
+      "generatedAt": "2026-11-07T06:14:25.631Z",
+      "items": [
+        {
+          "id": "be598de6f5ea",
+          "kind": "news",
+          "title": "Paraguay's President Santiago Peña impeached and arrested",
+          "summary": "A recent headline from BBC News · World. Follow the original reporting for the full story and context.",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+          "sourceId": "bbc-world",
+          "source": "BBC News · World",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+          "published": "2026-11-07T03:25:00.000Z"
+        },
+        {
+          "id": "d7a78241ae09",
+          "kind": "guide",
+          "title": "A helping hand for families",
+          "summary": "Explore family and community support resources, with links to the organizations that provide them.",
+          "url": "/resources?category=Family%20%26%20support",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/community-friends.jpg"
+        }
+      ]
     }
   ]
 }
