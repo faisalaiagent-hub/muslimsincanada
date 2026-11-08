@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-07T22:01:44.673Z",
+      "checkedAt": "2026-11-08T11:20:51.639Z",
       "items": [
         {
           "id": "2p2kAUm57Gk",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-07T22:01:44.905Z",
+      "checkedAt": "2026-11-08T11:20:51.888Z",
       "items": [
         {
           "id": "97Dd5E60j_g",
@@ -124,7 +124,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-08T06:20:28.705Z",
+      "checkedAt": "2026-11-08T11:20:54.545Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/netanyahus-rival-eisenkot-receives-mandate-to-form-israels-next-government/",
@@ -267,7 +267,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-07T22:01:44.565Z",
+      "checkedAt": "2026-11-08T11:20:51.406Z",
       "items": [
         {
           "id": "i1Y-mPtr68M",
@@ -377,7 +377,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-07T22:01:45.019Z",
+      "checkedAt": "2026-11-08T11:20:52.004Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -487,7 +487,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-07T22:01:45.263Z",
+      "checkedAt": "2026-11-08T11:20:52.180Z",
       "items": [
         {
           "id": "iseuyCGETgs",
@@ -597,8 +597,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-07T22:01:45.372Z",
+      "checkedAt": "2026-11-08T11:20:52.352Z",
       "items": [
+        {
+          "id": "N2XmCL2L_S8",
+          "title": "Do you only remember Allah when things go wrong?",
+          "published": "2026-11-08T07:06:55.000Z",
+          "url": "https://www.youtube.com/watch?v=N2XmCL2L_S8",
+          "image": "https://i.ytimg.com/vi/N2XmCL2L_S8/hqdefault.jpg"
+        },
         {
           "id": "kg5bEhCpKKE",
           "title": "Will Our Generation Save Islam's Legacy?",
@@ -696,19 +703,19 @@
           "published": "2026-10-13T09:15:48.000Z",
           "url": "https://www.youtube.com/watch?v=NTwJggpwplI",
           "image": "https://i.ytimg.com/vi/NTwJggpwplI/hqdefault.jpg"
-        },
-        {
-          "id": "-74-kLHOxkA",
-          "title": "Can We Get Along?",
-          "published": "2026-10-12T17:00:09.000Z",
-          "url": "https://www.youtube.com/watch?v=-74-kLHOxkA",
-          "image": "https://i.ytimg.com/vi/-74-kLHOxkA/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-08T06:20:28.822Z",
+      "checkedAt": "2026-11-08T11:20:54.723Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/player/play/9.7412068",
+          "title": "Birds of a feather: Human speech and birdsong have a lot in common, McGill study finds",
+          "published": "2026-11-08T09:00:00.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7412068",
+          "image": "https://i.cbc.ca/ais/800b3b0e-05dc-45f6-86c8-756754c8381c,1793990981331/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/player/play/9.7413922",
           "title": "Kahnawà:ke honours veterans at annual Remembrance Day parade",
@@ -780,13 +787,6 @@
           "image": "https://i.cbc.ca/ais/fe5725b9-938e-42e5-ab66-c7b1a268f5b5,1783699306598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C1509%2C848%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/windsor/windsor-residents-elbows-up-down-us-midterms-9.7412733",
-          "title": "Windsor residents not ready to return to U.S. despite Democratic midterm wins",
-          "published": "2026-11-06T22:43:38.000Z",
-          "url": "https://www.cbc.ca/news/canada/windsor/windsor-residents-elbows-up-down-us-midterms-9.7412733",
-          "image": "https://i.cbc.ca/ais/481d1b0e-d03d-480d-8fcb-913bfaf15fa1,1793996318547/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C520%2C9979%2C5613%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/british-columbia/bear-captured-grizzly-dna-bella-coola-attack-9.7412821",
           "title": "In B.C.'s Great Bear Rainforest, DNA testing crucial to finding grizzly behind deadly attack",
           "published": "2026-11-06T22:21:35.000Z",
@@ -817,8 +817,22 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-08T06:20:29.188Z",
+      "checkedAt": "2026-11-08T11:20:55.194Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo",
+          "title": "How the deadly shooting in Krakow unfolded",
+          "published": "2026-11-08T09:29:24.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+          "title": "What we know so far after Krakow gun attack",
+          "published": "2026-11-08T07:52:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
           "title": "Houthis say at least 33 killed in Saudi air strike",
@@ -827,11 +841,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-          "title": "What we know so far after Krakow gun attack",
-          "published": "2026-11-08T01:47:41.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
+          "title": "The Trump coalition is shattered - what will Republicans do now?",
+          "published": "2026-11-08T00:52:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko",
+          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+          "published": "2026-11-08T00:48:59.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
@@ -839,6 +860,13 @@
           "published": "2026-11-07T22:19:59.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo",
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "published": "2026-11-07T21:36:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
@@ -869,13 +897,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
-          "title": "No clear winner after tight New Zealand general election",
-          "published": "2026-11-07T15:56:28.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
           "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
           "published": "2026-11-07T15:19:35.000Z",
@@ -890,13 +911,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
-          "title": "Four things we learned this week about 2028 White House race",
-          "published": "2026-11-07T12:23:28.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
           "title": "Texas mayor instructs police to limit co-operation with ICE",
           "published": "2026-11-07T08:15:55.000Z",
@@ -909,20 +923,6 @@
           "published": "2026-11-07T07:27:44.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
-          "title": "Pope in 'pretty good health' as he starts Latin America tour",
-          "published": "2026-11-07T06:59:48.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx5ynly549njo",
-          "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-          "published": "2026-11-07T01:27:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dd/live/b21e0c00-d9ce-11f1-a701-fddedf244c16.jpg"
         }
       ]
     }
