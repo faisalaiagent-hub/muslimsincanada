@@ -124,7 +124,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-07T22:01:47.023Z",
+      "checkedAt": "2026-11-08T06:20:28.705Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/netanyahus-rival-eisenkot-receives-mandate-to-form-israels-next-government/",
@@ -707,8 +707,15 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-07T22:01:47.210Z",
+      "checkedAt": "2026-11-08T06:20:28.822Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/player/play/9.7413922",
+          "title": "Kahnawà:ke honours veterans at annual Remembrance Day parade",
+          "published": "2026-11-08T02:12:32.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7413922",
+          "image": "https://i.cbc.ca/ais/b18eac7b-56e9-422d-aaef-cbae4bf085ec,1794103864851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C657%2C3869%2C2176%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/bc-reaction-federal-homelessness-plan-9.7412841",
           "title": "'Absolutely' possible: Vancouver, Victoria mayors back Ottawa's bid to end homelessness",
@@ -750,6 +757,13 @@
           "published": "2026-11-07T11:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/avalanche-search-rescue-dog-parks-canada-9.7412536",
           "image": "https://i.cbc.ca/ais/294fba5c-b8f3-4721-9891-6205ed360f29,1793997491587/full/max/0/default.jpg?im=Crop%2Crect%3D%2815%2C0%2C2966%2C1668%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/a-new-game-plan/canada-safe-sport-new-game-plan-9.7410834",
+          "title": "Regional gaps in safe sport rules remain a 'major' concern for Canada's sport integrity agency",
+          "published": "2026-11-07T09:00:00.000Z",
+          "url": "https://www.cbc.ca/sports/a-new-game-plan/canada-safe-sport-new-game-plan-9.7410834",
+          "image": "https://i.cbc.ca/ais/70a8cc2b-2aae-433a-b2fe-5d79a6515c43,1793904404000/full/max/0/default.jpg?im=Crop%2Crect%3D%2865%2C10%2C427%2C240%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554",
@@ -799,32 +813,32 @@
           "published": "2026-11-06T22:06:50.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/duran-ross-buffalo-dangerous-offender-hearing-sexual-assault-9.7412901",
           "image": "https://i.cbc.ca/ais/0a1ea927-32c5-4397-8f75-c7bf12045912,1769551034847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C7008%2C3942%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/lotto-max-largest-ever-win-9.7412668",
-          "title": "Calgary friends win $90M in country's largest-ever lotto jackpot",
-          "published": "2026-11-06T20:49:31.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/lotto-max-largest-ever-win-9.7412668",
-          "image": "https://i.cbc.ca/ais/ddfffcc5-4b9d-4b0d-adcf-0f6c03640237,1793994904713/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/norfolk-country-councillor-name-pulled-from-hat-9.7412431",
-          "title": "Council seat in Norfolk County, Ont., finally decided by a draw out of a top hat",
-          "published": "2026-11-06T18:43:25.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/norfolk-country-councillor-name-pulled-from-hat-9.7412431",
-          "image": "https://i.cbc.ca/ais/b818338a-50f5-477f-9e46-b87704a08ae2,1793990298789/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C4032%2C2268%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-07T22:01:47.602Z",
+      "checkedAt": "2026-11-08T06:20:29.188Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+          "title": "Houthis say at least 33 killed in Saudi air strike",
+          "published": "2026-11-08T04:03:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
           "title": "What we know so far after Krakow gun attack",
-          "published": "2026-11-07T21:13:24.000Z",
+          "published": "2026-11-08T01:47:41.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "published": "2026-11-07T22:19:59.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
@@ -846,13 +860,6 @@
           "published": "2026-11-07T17:58:41.000Z",
           "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
-          "title": "Houthis say at least 25 killed in Saudi air strike",
-          "published": "2026-11-07T17:09:24.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
@@ -916,13 +923,6 @@
           "published": "2026-11-07T01:27:47.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dd/live/b21e0c00-d9ce-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o",
-          "title": "The young Somali woman changing how the world sees Mogadishu",
-          "published": "2026-11-07T01:19:49.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0273/live/640a38d0-da01-11f1-84c1-dbcae60402d7.jpg"
         }
       ]
     }

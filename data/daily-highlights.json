@@ -494,6 +494,33 @@
           "image": "/media/community-friends.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-08",
+      "generatedAt": "2026-11-08T06:20:29.300Z",
+      "items": [
+        {
+          "id": "69a06e9f5c25",
+          "kind": "guide",
+          "title": "Find mosques and halal food near you",
+          "summary": "Use MIC’s area search and optional location to discover nearby places, starting in the GTA.",
+          "url": "/guides/find-mosques-halal-food-near-you",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/prayer-space.jpg"
+        },
+        {
+          "id": "972a48e14d42",
+          "kind": "talk",
+          "title": "Understanding Hadith Through Islam’s Universal Principles of Justice",
+          "summary": "Make time for a recent conversation from Shabir Ally & Let the Quran Speak. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=i1Y-mPtr68M",
+          "sourceId": "shabir",
+          "source": "Shabir Ally & Let the Quran Speak",
+          "image": "https://i.ytimg.com/vi/i1Y-mPtr68M/hqdefault.jpg",
+          "published": "2026-11-06T17:52:53.000Z"
+        }
+      ]
     }
   ]
 }
