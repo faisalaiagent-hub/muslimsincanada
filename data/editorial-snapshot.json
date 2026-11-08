@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-08T11:20:51.639Z",
+      "checkedAt": "2026-11-08T13:40:35.541Z",
       "items": [
         {
           "id": "2p2kAUm57Gk",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-08T11:20:51.888Z",
+      "checkedAt": "2026-11-08T13:40:35.560Z",
       "items": [
         {
           "id": "97Dd5E60j_g",
@@ -124,7 +124,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-08T11:20:54.545Z",
+      "checkedAt": "2026-11-08T13:40:37.803Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/netanyahus-rival-eisenkot-receives-mandate-to-form-israels-next-government/",
@@ -267,7 +267,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-08T11:20:51.406Z",
+      "checkedAt": "2026-11-08T13:40:35.443Z",
       "items": [
         {
           "id": "i1Y-mPtr68M",
@@ -377,7 +377,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-08T11:20:52.004Z",
+      "checkedAt": "2026-11-08T13:40:35.719Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -487,7 +487,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-08T11:20:52.180Z",
+      "checkedAt": "2026-11-08T13:40:35.733Z",
       "items": [
         {
           "id": "iseuyCGETgs",
@@ -597,7 +597,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-08T11:20:52.352Z",
+      "checkedAt": "2026-11-08T13:40:35.746Z",
       "items": [
         {
           "id": "N2XmCL2L_S8",
@@ -707,7 +707,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-08T11:20:54.723Z",
+      "checkedAt": "2026-11-08T13:40:38.029Z",
       "items": [
         {
           "id": "https://www.cbc.ca/player/play/9.7412068",
@@ -817,21 +817,21 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-08T11:20:55.194Z",
+      "checkedAt": "2026-11-08T13:40:38.288Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+          "title": "What we know so far after Krakow gun attack",
+          "published": "2026-11-08T11:22:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo",
           "title": "How the deadly shooting in Krakow unfolded",
           "published": "2026-11-08T09:29:24.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-          "title": "What we know so far after Krakow gun attack",
-          "published": "2026-11-08T07:52:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
