@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-08T22:17:04.287Z",
+      "checkedAt": "2026-11-09T12:57:46.749Z",
       "items": [
         {
           "id": "2p2kAUm57Gk",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-08T22:17:04.416Z",
+      "checkedAt": "2026-11-09T12:57:46.951Z",
       "items": [
         {
           "id": "97Dd5E60j_g",
@@ -124,7 +124,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-09T06:53:37.018Z",
+      "checkedAt": "2026-11-09T12:57:48.888Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/diplomatic-agreement-with-iran-may-not-be-possible-says-rubio/",
@@ -267,7 +267,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-08T22:17:04.007Z",
+      "checkedAt": "2026-11-09T12:57:46.616Z",
       "items": [
         {
           "id": "i1Y-mPtr68M",
@@ -377,7 +377,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-08T22:17:04.613Z",
+      "checkedAt": "2026-11-09T12:57:47.049Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -487,7 +487,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-08T22:17:04.753Z",
+      "checkedAt": "2026-11-09T12:57:47.167Z",
       "items": [
         {
           "id": "iseuyCGETgs",
@@ -597,7 +597,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-08T22:17:04.910Z",
+      "checkedAt": "2026-11-09T12:57:47.187Z",
       "items": [
         {
           "id": "vEF-JNikjOs",
@@ -707,7 +707,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-09T06:53:37.078Z",
+      "checkedAt": "2026-11-09T12:57:49.160Z",
       "items": [
         {
           "id": "https://www.cbc.ca/sports/soccer/nsl-playoffs-montreal-roses-vancouver-rise-november-8-9.7412674",
@@ -817,18 +817,53 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-09T06:53:37.280Z",
+      "checkedAt": "2026-11-09T12:57:49.511Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
+          "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+          "published": "2026-11-09T12:33:24.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
           "title": "Krakow shooting suspect has died in hospital, police say",
-          "published": "2026-11-09T06:50:09.000Z",
+          "published": "2026-11-09T11:56:25.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/707b/live/625f7400-dc3b-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
+          "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+          "published": "2026-11-09T10:59:26.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o",
+          "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+          "published": "2026-11-09T10:41:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c7/live/fc845070-dc20-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
+          "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+          "published": "2026-11-09T08:49:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbb/live/2fcfac50-dc11-11f1-a631-078d47c5aafb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko",
+          "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+          "published": "2026-11-09T07:10:11.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e2/live/f1cb1e30-dc24-11f1-93e1-3b657b665bcf.png"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-          "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+          "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
           "published": "2026-11-09T06:01:52.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
@@ -838,7 +873,7 @@
           "title": "Inside the French drug gangs recruiting children to kill",
           "published": "2026-11-09T06:00:26.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/111155a0-dc27-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo",
@@ -852,7 +887,7 @@
           "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
           "published": "2026-11-09T02:50:13.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc95/live/fa87f0c0-dc0b-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
@@ -883,46 +918,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o",
-          "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-          "published": "2026-11-08T16:05:57.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6f/live/0d4d1a90-db8b-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
-          "title": "Homes and temples glow across India to mark Diwali",
-          "published": "2026-11-08T14:42:09.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
-          "title": "Iran executes three men for 'armed unrest' after January protests",
-          "published": "2026-11-08T13:37:50.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo",
-          "title": "How the deadly shooting in Krakow unfolded",
-          "published": "2026-11-08T09:29:24.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
-          "title": "The Trump coalition is shattered - what will Republicans do now?",
-          "published": "2026-11-08T00:52:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko",
-          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-          "published": "2026-11-08T00:48:59.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo",
+          "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
+          "published": "2026-11-08T17:51:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2630/live/78c708a0-db5c-11f1-adda-c54f54e3ce6a.jpg"
         }
       ]
     }
