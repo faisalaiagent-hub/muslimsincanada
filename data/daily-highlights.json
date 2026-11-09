@@ -521,6 +521,33 @@
           "published": "2026-11-06T17:52:53.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "generatedAt": "2026-11-09T06:53:37.403Z",
+      "items": [
+        {
+          "id": "9d08af5453ff",
+          "kind": "news",
+          "title": "Roses advance to face AFC Toronto in NSL final after winning semifinal series against Rise",
+          "summary": "A recent headline from CBC News · Canada. Follow the original reporting for the full story and context.",
+          "url": "https://www.cbc.ca/sports/soccer/nsl-playoffs-montreal-roses-vancouver-rise-november-8-9.7412674",
+          "sourceId": "cbc-canada",
+          "source": "CBC News · Canada",
+          "image": "https://i.cbc.ca/ais/082c3333-f38a-4ba7-b8e5-fc7ba20ab014,1794183814961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
+          "published": "2026-11-09T00:23:51.000Z"
+        },
+        {
+          "id": "5a7ad270d01b",
+          "kind": "guide",
+          "title": "Give your skills and small business a community home",
+          "summary": "A practical guide to creating a community marketplace offering and what happens after you submit it.",
+          "url": "/guides/share-your-business-on-mic",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/shared-table.jpg"
+        }
+      ]
     }
   ]
 }
