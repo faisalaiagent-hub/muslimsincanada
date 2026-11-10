@@ -548,6 +548,34 @@
           "image": "/media/shared-table.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "generatedAt": "2026-11-10T07:30:27.206Z",
+      "items": [
+        {
+          "id": "14dfd698b709",
+          "kind": "talk",
+          "title": "Tracing the Narration: What Historical Sources Can Confirm",
+          "summary": "Make time for a recent conversation from Shabir Ally & Let the Quran Speak. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=MOku7BNEpmc",
+          "sourceId": "shabir",
+          "source": "Shabir Ally & Let the Quran Speak",
+          "image": "https://i.ytimg.com/vi/MOku7BNEpmc/hqdefault.jpg",
+          "published": "2026-11-09T18:14:21.000Z"
+        },
+        {
+          "id": "a010d4b5bba8",
+          "kind": "news",
+          "title": "Transfer Money Between Accounts in Seconds, Not Minutes!",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/transfer-money-between-accounts-in-seconds-not-minutes/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/3d-render-money-transfer-mobile-banking-online.jpg",
+          "published": "2026-11-09T23:08:41.000Z"
+        }
+      ]
     }
   ]
 }
