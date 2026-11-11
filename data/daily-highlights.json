@@ -576,6 +576,34 @@
           "published": "2026-11-09T23:08:41.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "generatedAt": "2026-11-11T06:47:57.043Z",
+      "items": [
+        {
+          "id": "76c389ef0c9d",
+          "kind": "news",
+          "title": "El-Sayed urges Hegseth to resign",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/us-senator-elect-el-sayed-urges-hegseth-to-resign/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261103-42946787-42946786-CAMPAIGN_RALLY_HELD_AHEAD_OF_US_MIDTERM_ELECTIONS.jpg",
+          "published": "2026-11-11T05:19:48.000Z"
+        },
+        {
+          "id": "1cb3abef8def",
+          "kind": "talk",
+          "title": "Īmān will not stop you from being human. It changes how you respond in the first moment.",
+          "summary": "Make time for a recent conversation from Dr. Yasir Qadhi. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=9mBGtx9uGQI",
+          "sourceId": "yasir",
+          "source": "Dr. Yasir Qadhi",
+          "image": "https://i.ytimg.com/vi/9mBGtx9uGQI/hqdefault.jpg",
+          "published": "2026-11-10T18:02:30.000Z"
+        }
+      ]
     }
   ]
 }
