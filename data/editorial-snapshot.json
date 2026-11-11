@@ -2,12 +2,12 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-10T19:52:01.937Z",
+      "checkedAt": "2026-11-11T11:55:24.844Z",
       "items": [
         {
           "id": "egVKSpiQHuU",
           "title": "40 - Book of Purification - [Hadith 430-436] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-11-10T14:00:37.000Z",
+          "published": "2026-11-11T02:37:58.000Z",
           "url": "https://www.youtube.com/watch?v=egVKSpiQHuU",
           "image": "https://i.ytimg.com/vi/egVKSpiQHuU/hqdefault.jpg"
         },
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-10T19:52:02.084Z",
+      "checkedAt": "2026-11-11T11:55:24.858Z",
       "items": [
         {
           "id": "U0PRFP0fWBU",
@@ -138,7 +138,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-11T06:47:55.160Z",
+      "checkedAt": "2026-11-11T11:55:27.786Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/us-senator-elect-el-sayed-urges-hegseth-to-resign/",
@@ -209,7 +209,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-11T06:47:56.875Z",
+      "checkedAt": "2026-11-11T11:55:28.703Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -281,7 +281,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-10T19:52:01.779Z",
+      "checkedAt": "2026-11-11T11:55:24.551Z",
       "items": [
         {
           "id": "l-a24llpfl0",
@@ -391,7 +391,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-10T19:52:02.195Z",
+      "checkedAt": "2026-11-11T11:55:25.023Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -501,7 +501,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-10T19:52:02.311Z",
+      "checkedAt": "2026-11-11T11:55:25.389Z",
       "items": [
         {
           "id": "iseuyCGETgs",
@@ -611,7 +611,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-10T19:52:02.405Z",
+      "checkedAt": "2026-11-11T11:55:25.548Z",
       "items": [
         {
           "id": "9mBGtx9uGQI",
@@ -721,7 +721,7 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-11T06:47:55.246Z",
+      "checkedAt": "2026-11-11T11:55:27.878Z",
       "items": [
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/galloway-defamation-trial-defendant-closes-case-9.7417578",
@@ -831,21 +831,42 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-11T06:47:56.919Z",
+      "checkedAt": "2026-11-11T11:55:28.797Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "published": "2026-11-11T11:47:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro",
+          "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+          "published": "2026-11-11T11:15:00.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/9b20f540-ddba-11f1-9582-1b529d725aaf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno",
+          "title": "Tearful Smith switches allegiance to Netherlands",
+          "published": "2026-11-11T09:45:14.000Z",
+          "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377b/live/67ea3a00-dda2-11f1-9300-17f869f4b225.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo",
+          "title": "US warns Madagascar over growing military ties with Russia",
+          "published": "2026-11-11T07:30:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3696/live/b0bad660-dd9b-11f1-b1d6-c7ac657a5d26.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o",
           "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
           "published": "2026-11-11T03:44:06.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
-          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-          "published": "2026-11-11T03:26:42.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo",
@@ -860,6 +881,13 @@
           "published": "2026-11-11T02:41:16.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do",
+          "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+          "published": "2026-11-11T01:18:09.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4d6/live/94373140-dd60-11f1-b9df-c32eeeb3cb8f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
@@ -877,7 +905,7 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o",
-          "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+          "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
           "published": "2026-11-11T00:19:42.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eec/live/34923590-d870-11f1-a701-fddedf244c16.jpg"
@@ -890,18 +918,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
-          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-          "published": "2026-11-10T22:52:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-          "title": "First day of Ukraine peace talks constructive, Zelensky says",
-          "published": "2026-11-10T21:21:55.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo",
+          "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+          "published": "2026-11-11T00:17:42.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o",
@@ -916,27 +937,6 @@
           "published": "2026-11-10T20:46:40.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o",
-          "title": "US federal authorities could have prevented Epstein crimes, report finds",
-          "published": "2026-11-10T20:36:58.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0579/live/42e0a7e0-dd1f-11f1-8806-aded7f09be16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o",
-          "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
-          "published": "2026-11-10T20:31:17.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3af/live/ccebdc00-dd44-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
-          "title": "US Army soldier suspected of spying for Russia arrested in UK",
-          "published": "2026-11-10T20:20:04.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
         }
       ]
     }
