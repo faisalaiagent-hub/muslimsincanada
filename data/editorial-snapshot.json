@@ -2,21 +2,21 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-11T19:43:37.642Z",
+      "checkedAt": "2026-11-12T12:50:39.897Z",
       "items": [
+        {
+          "id": "GdquAukg9iM",
+          "title": "41 - Book of Purification - [Hadith 437-450] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "published": "2026-11-12T02:52:20.000Z",
+          "url": "https://www.youtube.com/watch?v=GdquAukg9iM",
+          "image": "https://i.ytimg.com/vi/GdquAukg9iM/hqdefault.jpg"
+        },
         {
           "id": "NjQvoIPiyew",
           "title": "713 - Sura al-Furqan - 44 - 48 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
           "published": "2026-11-11T17:49:49.000Z",
           "url": "https://www.youtube.com/watch?v=NjQvoIPiyew",
           "image": "https://i.ytimg.com/vi/NjQvoIPiyew/hqdefault.jpg"
-        },
-        {
-          "id": "GdquAukg9iM",
-          "title": "41 - Book of Purification - [Hadith 437-450] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-11-11T13:59:36.000Z",
-          "url": "https://www.youtube.com/watch?v=GdquAukg9iM",
-          "image": "https://i.ytimg.com/vi/GdquAukg9iM/hqdefault.jpg"
         },
         {
           "id": "egVKSpiQHuU",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-11T19:43:37.773Z",
+      "checkedAt": "2026-11-12T12:50:39.998Z",
       "items": [
         {
           "id": "U0PRFP0fWBU",
@@ -138,78 +138,78 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-12T07:26:03.141Z",
+      "checkedAt": "2026-11-12T12:50:41.528Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/jewish-voters-maintain-democratic-preference-amid-shifting-political-attitudes/",
+          "title": "Jewish voters maintain Democratic preference amid shifting political attitudes",
+          "published": "2026-11-12T11:30:29.000Z",
+          "url": "https://www.muslimnetwork.tv/jewish-voters-maintain-democratic-preference-amid-shifting-political-attitudes/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_54f87765c604b52479790a59e3d1aae6.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/muslim-filipinos-press-college-to-allow-hijab-for-students/",
+          "title": "Muslim Filipinos press college to allow hijab for students",
+          "published": "2026-11-12T08:39:20.000Z",
+          "url": "https://www.muslimnetwork.tv/muslim-filipinos-press-college-to-allow-hijab-for-students/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-ihsanaditya-19133315.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/uyghur-womans-reported-prison-death-renews-detainee-fears/",
+          "title": "Uyghur woman’s reported prison death renews detainee fears",
+          "published": "2026-11-12T08:37:26.000Z",
+          "url": "https://www.muslimnetwork.tv/uyghur-womans-reported-prison-death-renews-detainee-fears/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/08/AFP-TV_20211002_POL_FRA_DemonstrationUyghurs_9NY9GB_en.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/court-orders-mamdani-to-hand-migrant-records-to-ice/",
+          "title": "Court orders Mamdani to hand migrant records to ICE",
+          "published": "2026-11-12T08:31:11.000Z",
+          "url": "https://www.muslimnetwork.tv/court-orders-mamdani-to-hand-migrant-records-to-ice/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/10/AA-20251027-39530809-39530798-NEW_YORK_IS_NOT_FOR_SALE_RALLY_AT_FOREST_HILLS_STADIUM.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/mamdani-signs-tenant-law-to-curb-wall-street-landlords/",
+          "title": "Mamdani signs tenant law to curb Wall Street landlords",
+          "published": "2026-11-12T08:29:20.000Z",
+          "url": "https://www.muslimnetwork.tv/mamdani-signs-tenant-law-to-curb-wall-street-landlords/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/10/AA-20251024-39503613-39503583-MAMDANI_STANDS_FOR_JUSTICE_FOR_NEW_YORK_ATTORNEY_GENERAL_JAMES.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/texas-muslims-see-hope-after-sweep-but-warn-on-islamophobia/",
+          "title": "Texas Muslims see hope after sweep, but warn on Islamophobia",
+          "published": "2026-11-12T08:28:14.000Z",
+          "url": "https://www.muslimnetwork.tv/texas-muslims-see-hope-after-sweep-but-warn-on-islamophobia/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261104-42959092-42959075-VOTING_CONTINUES_IN_US_MIDTERM_ELECTIONS_IN_ILLINOIS.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/12-senators-move-to-strip-israel-provisions-from-defense-bill/",
+          "title": "12 senators move to strip Israel provisions from defense bill",
+          "published": "2026-11-12T08:25:56.000Z",
+          "url": "https://www.muslimnetwork.tv/12-senators-move-to-strip-israel-provisions-from-defense-bill/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/congresswoman-ramirez-presses-jeffries-for-vote-on-arms-to-genocidal-israel/",
+          "title": "Congresswoman Ramirez presses Jeffries for vote on arms to genocidal Israel",
+          "published": "2026-11-12T08:23:29.000Z",
+          "url": "https://www.muslimnetwork.tv/congresswoman-ramirez-presses-jeffries-for-vote-on-arms-to-genocidal-israel/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/israeli-occupiers-attack-palestinian-town-in-west-bank-under-army-protection/",
           "title": "Israeli occupiers attack Palestinian town in West Bank under army protection",
           "published": "2026-11-12T07:08:15.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-occupiers-attack-palestinian-town-in-west-bank-under-army-protection/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260905-42393034-42393021-ISRAELI_SETTLERS_RAID_HEBRON.jpg"
+          "url": "https://www.muslimnetwork.tv/israeli-occupiers-attack-palestinian-town-in-west-bank-under-army-protection/"
         },
         {
           "id": "https://www.muslimnetwork.tv/2-killed-several-injured-in-building-collapse-in-brooklyn/",
           "title": "2 killed, several injured in building collapse in Brooklyn",
           "published": "2026-11-12T06:04:39.000Z",
-          "url": "https://www.muslimnetwork.tv/2-killed-several-injured-in-building-collapse-in-brooklyn/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_3830e26aa42dafa71efbc2d4195f1907.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-airstrike-kills-6-palestinians-at-nasser-hospital-in-southern-gaza/",
-          "title": "Israeli airstrike kills 6 Palestinians at Nasser Hospital in southern Gaza",
-          "published": "2026-11-12T06:01:56.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-airstrike-kills-6-palestinians-at-nasser-hospital-in-southern-gaza/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261006-42666020-42666011-FOUR_PALESTINIANS_INJURED_IN_ATTACKS_BY_ISRAELI_SETTLERS_IN_NABLUS.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/eisenkots-bloc-seeks-to-repeal-5-netanyahu-era-laws-before-new-israeli-government-is-formed/",
-          "title": "Eisenkot’s bloc seeks to repeal 5 Netanyahu-era laws before new Israeli government is formed",
-          "published": "2026-11-12T06:00:28.000Z",
-          "url": "https://www.muslimnetwork.tv/eisenkots-bloc-seeks-to-repeal-5-netanyahu-era-laws-before-new-israeli-government-is-formed/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_acf11a8109d62fe490ba89552ac76973.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-security-cabinet-orders-military-to-prepare-for-possible-attack-on-iran-report/",
-          "title": "Israeli security cabinet orders military to prepare for possible attack on Iran: report",
-          "published": "2026-11-12T05:58:08.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-security-cabinet-orders-military-to-prepare-for-possible-attack-on-iran-report/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_792dbd2c0402bea6ac2a639443b8cd11.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iranian-army-warns-us-military-bases-beyond-region-could-be-targeted-in-renewed-war/",
-          "title": "Iranian army warns US military bases beyond region could be targeted in renewed war",
-          "published": "2026-11-12T05:56:13.000Z",
-          "url": "https://www.muslimnetwork.tv/iranian-army-warns-us-military-bases-beyond-region-could-be-targeted-in-renewed-war/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/Iran-war-has-depleted-American-interceptor-supplies-raising-concerns-over-NATOs-ability-to-counter-potential-Russian-missile-attack.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/vancouver-bc-hijabi-student-wins-major-legal-battle/",
-          "title": "Vancouver, BC: Hijabi Student Wins Major Legal Battle.",
-          "published": "2026-11-11T22:30:56.000Z",
-          "url": "https://www.muslimnetwork.tv/vancouver-bc-hijabi-student-wins-major-legal-battle/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/scam-alert-authorities-warn-ontario-drivers-to-beware-of-fake-auto-insurance/",
-          "title": "Scam Alert! Authorities Warn Ontario Drivers to Beware of Fake Auto Insurance.",
-          "published": "2026-11-11T22:27:12.000Z",
-          "url": "https://www.muslimnetwork.tv/scam-alert-authorities-warn-ontario-drivers-to-beware-of-fake-auto-insurance/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/indian-school-skit-sparks-outrage-over-islamophobic-portrayal-of-muslims/",
-          "title": "Indian school skit sparks outrage over Islamophobic portrayal of Muslims",
-          "published": "2026-11-11T20:26:24.000Z",
-          "url": "https://www.muslimnetwork.tv/indian-school-skit-sparks-outrage-over-islamophobic-portrayal-of-muslims/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/india-records-322-anti-minority-hate-crimes-and-54-deaths/",
-          "title": "India records 322 anti-minority hate crimes and 54 deaths",
-          "published": "2026-11-11T20:22:44.000Z",
-          "url": "https://www.muslimnetwork.tv/india-records-322-anti-minority-hate-crimes-and-54-deaths/"
+          "url": "https://www.muslimnetwork.tv/2-killed-several-injured-in-building-collapse-in-brooklyn/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-12T07:26:04.845Z",
+      "checkedAt": "2026-11-12T12:50:42.585Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -281,7 +281,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-11T19:43:37.627Z",
+      "checkedAt": "2026-11-12T12:50:39.743Z",
       "items": [
         {
           "id": "lpCIId6UoT8",
@@ -391,7 +391,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-11T19:43:37.886Z",
+      "checkedAt": "2026-11-12T12:50:40.178Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -501,8 +501,15 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-11T19:43:37.986Z",
+      "checkedAt": "2026-11-12T12:50:40.295Z",
       "items": [
+        {
+          "id": "qYMFkXmpXo8",
+          "title": "Minor Signs of the Day of Judgement (Part 1) I Dr. Haifaa Younis I Jannah Institute",
+          "published": "2026-11-11T20:21:27.000Z",
+          "url": "https://www.youtube.com/watch?v=qYMFkXmpXo8",
+          "image": "https://i.ytimg.com/vi/qYMFkXmpXo8/hqdefault.jpg"
+        },
         {
           "id": "iseuyCGETgs",
           "title": "THE BARZAKH (Part 3) I Rewards of the Grave I Dr. Haifaa Younis I Jannah Institute",
@@ -600,19 +607,19 @@
           "published": "2026-10-09T09:15:22.000Z",
           "url": "https://www.youtube.com/watch?v=rmSkUV_n-FI",
           "image": "https://i.ytimg.com/vi/rmSkUV_n-FI/hqdefault.jpg"
-        },
-        {
-          "id": "6CC4MRKqW5I",
-          "title": "What Does It Mean to Love Allah ﷻ? | Dr Haifaa Younis | Jannah Institute",
-          "published": "2026-10-08T11:30:07.000Z",
-          "url": "https://www.youtube.com/watch?v=6CC4MRKqW5I",
-          "image": "https://i.ytimg.com/vi/6CC4MRKqW5I/hqdefault.jpg"
         }
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-11T19:43:38.092Z",
+      "checkedAt": "2026-11-12T12:50:40.461Z",
       "items": [
+        {
+          "id": "UAMjU5zCdsQ",
+          "title": "Money can buy ads. It can't buy the outcome Allah writes.",
+          "published": "2026-11-12T08:31:31.000Z",
+          "url": "https://www.youtube.com/watch?v=UAMjU5zCdsQ",
+          "image": "https://i.ytimg.com/vi/UAMjU5zCdsQ/hqdefault.jpg"
+        },
         {
           "id": "9mBGtx9uGQI",
           "title": "Īmān will not stop you from being human. It changes how you respond in the first moment.",
@@ -710,19 +717,47 @@
           "published": "2026-10-22T17:00:10.000Z",
           "url": "https://www.youtube.com/watch?v=h4GBquq5fDw",
           "image": "https://i.ytimg.com/vi/h4GBquq5fDw/hqdefault.jpg"
-        },
-        {
-          "id": "pkhGoYn2vlM",
-          "title": "How The Texas Governor and Attorney General Trumped up Fraud Charges Against EPIC",
-          "published": "2026-10-16T03:15:09.000Z",
-          "url": "https://www.youtube.com/watch?v=pkhGoYn2vlM",
-          "image": "https://i.ytimg.com/vi/pkhGoYn2vlM/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-12T07:26:03.445Z",
+      "checkedAt": "2026-11-12T12:50:41.806Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733",
+          "title": "Halifax-area hospitals see pest control budgets soar amid mice, pigeon infestations",
+          "published": "2026-11-12T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733",
+          "image": "https://i.cbc.ca/ais/f3203b57-fab3-4a06-98bd-d2ac24d330be,1794335437187/full/max/0/default.jpg?im=Crop%2Crect%3D%28268%2C642%2C860%2C483%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953",
+          "title": "Canada has the opportunity to become a global LNG leader, new report says",
+          "published": "2026-11-12T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953",
+          "image": "https://i.cbc.ca/ais/1.7516694,1746231528000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/norgate-apartments-owners-tenants-standoff-hot-water-electricity-9.7417438",
+          "title": "Montreal tenants without hot water, electricity during heated dispute over renovations",
+          "published": "2026-11-12T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/norgate-apartments-owners-tenants-standoff-hot-water-electricity-9.7417438",
+          "image": "https://i.cbc.ca/ais/61ba4df6-8fbb-416b-8fec-1d21a9dd5ac1,1794438334228/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320",
+          "title": "Shelter workers raise alarm as severe stomach bug hits Montreal's homeless population",
+          "published": "2026-11-12T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320",
+          "image": "https://i.cbc.ca/ais/9f8ec592-880a-4433-8704-f595ca5587f1,1794426846169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C263%2C5043%2C2836%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/thunder-bay/naps-border-control-pilot-program-9.7418064",
+          "title": "Border control pilot launched to stem drug smuggling into 5 First Nations in northern Ontario",
+          "published": "2026-11-12T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/thunder-bay/naps-border-control-pilot-program-9.7418064",
+          "image": "https://i.cbc.ca/ais/8c6cb055-98c4-4918-983f-4e6ef7fddf64,1794418089753/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C181%2C2048%2C1152%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624",
           "title": "Series of storms leaves B.C. woman with tree stuck on her house for days",
@@ -750,6 +785,13 @@
           "published": "2026-11-11T23:11:21.000Z",
           "url": "https://www.cbc.ca/player/play/9.7418524",
           "image": "https://i.cbc.ca/ais/8b19646f-9fe2-4b06-a0e8-a79652df7f27,1794438668652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528",
+          "title": "Canadian government says Russian players with visas will still be barred from WJC",
+          "published": "2026-11-11T23:09:18.000Z",
+          "url": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528",
+          "image": "https://i.cbc.ca/ais/93afb7d9-70b1-45cf-93d0-032938ab5bf2,1794438551864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C5518%2C3103%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/blue-jays-anthony-santander-anti-muslim-posts-9.7418477",
@@ -785,102 +827,95 @@
           "published": "2026-11-11T21:35:14.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373",
           "image": "https://i.cbc.ca/ais/f56f2377-42b5-4e80-8f90-7588bce7cdb2,1794430914705/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4500%2C2531%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/princeton-search-and-rescue-scent-detecting-mule-sonny-9.7415519",
-          "title": "B.C. search-and-rescue mule using his nose to help solve Arizona cold case",
-          "published": "2026-11-11T20:29:32.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/princeton-search-and-rescue-scent-detecting-mule-sonny-9.7415519",
-          "image": "https://i.cbc.ca/ais/1043389f-3e4e-45e0-ad00-52c92ece3247,1794262109681/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C29%2C1401%2C788%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/aircraft-crash-beuce-saint-georges-qc-9.7418143",
-          "title": "Pilot killed in plane crash during Remembrance Day event in Quebec's Beauce region",
-          "published": "2026-11-11T18:03:55.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/aircraft-crash-beuce-saint-georges-qc-9.7418143",
-          "image": "https://i.cbc.ca/ais/c1712566-3f8b-41e3-93c9-870a872f87aa,1794422750884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/watson-veteran-swift-current-9.7417219",
-          "title": "Sask. WW II vet says laughter helped him live to 100",
-          "published": "2026-11-11T17:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/watson-veteran-swift-current-9.7417219",
-          "image": "https://i.cbc.ca/ais/5d8d92ff-1324-4415-ae8d-3e94fb891255,1794351150899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C111%2C2048%2C1152%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/ottawa/self-driving-vehicle-ottawa-highway-417-9.7417941",
-          "title": "Sleeping driver in self-driving vehicle woken up, stopped and charged in Ottawa",
-          "published": "2026-11-11T15:59:29.000Z",
-          "url": "https://www.cbc.ca/news/canada/ottawa/self-driving-vehicle-ottawa-highway-417-9.7417941",
-          "image": "https://i.cbc.ca/ais/691af024-3e94-43cf-afa6-9971a6ff54df,1794412336076/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C359%2C1536%2C864%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/livestory/remembrance-day-alberta-ceremonies-9.7417704",
-          "title": "Solemn Remembrance Day ceremonies in Alberta pay tribute to Wainwright's fallen soldiers",
-          "published": "2026-11-11T15:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/livestory/remembrance-day-alberta-ceremonies-9.7417704",
-          "image": "https://i.cbc.ca/ais/d14c33ac-6c9a-4d11-ba04-4dc206c31504,1794413782676/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C870%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/remembrance-day-ottawa-ceremony-9.7417795",
-          "title": "Remembrance Day 2026: Canadians remember veterans, fallen soldiers in shadow of Wainwright tragedy",
-          "published": "2026-11-11T14:56:29.000Z",
-          "url": "https://www.cbc.ca/news/politics/remembrance-day-ottawa-ceremony-9.7417795",
-          "image": "https://i.cbc.ca/ais/61cee1da-685c-41f5-997a-50c8bba67579,1794418162878/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C3993%2C2246%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-12T07:26:05.186Z",
+      "checkedAt": "2026-11-12T12:50:42.735Z",
       "items": [
         {
           "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-          "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-          "published": "2026-11-12T06:12:05.000Z",
+          "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+          "published": "2026-11-12T12:26:01.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
-          "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-          "published": "2026-11-12T05:59:18.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
-          "title": "New York building collapse kills at least two, officials say",
-          "published": "2026-11-12T05:12:56.000Z",
+          "title": "New York City building collapse kills several people",
+          "published": "2026-11-12T12:17:47.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
-          "title": "Famed ship SS United States sunk off coast of Florida",
-          "published": "2026-11-12T04:03:13.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+          "published": "2026-11-12T12:14:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
+          "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+          "published": "2026-11-12T11:21:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
+          "title": "British woman missing from cruise ship in Atlantic",
+          "published": "2026-11-12T10:13:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-          "published": "2026-11-12T04:00:30.000Z",
+          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+          "published": "2026-11-12T10:02:32.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
+          "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+          "published": "2026-11-12T08:46:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddfe/live/c33427d0-de93-11f1-9afe-1f03bfe02283.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
+          "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+          "published": "2026-11-12T07:59:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo",
+          "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+          "published": "2026-11-12T07:45:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
+          "title": "Can Nigeria's president regain voters' trust after painful first term?",
+          "published": "2026-11-12T07:30:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
+          "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+          "published": "2026-11-12T04:03:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo",
           "title": "Australian teen missing in bush for six days rescued alive",
           "published": "2026-11-12T02:40:18.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
-          "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-          "published": "2026-11-12T00:36:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5218/live/acdfe640-de84-11f1-93e1-3b657b665bcf.png"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
@@ -890,53 +925,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo",
+          "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+          "published": "2026-11-11T21:43:35.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
           "title": "African writing award probe finds 'no evidence' winning story was AI generated",
           "published": "2026-11-11T20:00:54.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
-          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-          "published": "2026-11-11T18:38:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o",
-          "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-          "published": "2026-11-11T18:10:57.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed5/live/f16d2a80-ddf7-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
-          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "published": "2026-11-11T18:04:58.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "published": "2026-11-11T16:59:34.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o",
-          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-          "published": "2026-11-11T16:45:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274f/live/14e2f1f0-dde6-11f1-9204-cdcddf7d901c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
-          "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-          "published": "2026-11-11T16:38:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
         }
       ]
     }
