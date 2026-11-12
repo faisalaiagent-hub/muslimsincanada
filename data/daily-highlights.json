@@ -604,6 +604,33 @@
           "published": "2026-11-10T18:02:30.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "generatedAt": "2026-11-12T07:26:05.286Z",
+      "items": [
+        {
+          "id": "ecff7c5400b6",
+          "kind": "talk",
+          "title": "Can We Trust Classical Interpretations (Tafsir) of the Quran? | Dr. Shabir Ally & Dr. Safiyyah Ally",
+          "summary": "Make time for a recent conversation from Shabir Ally & Let the Quran Speak. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=vFTB567yQGs",
+          "sourceId": "shabir",
+          "source": "Shabir Ally & Let the Quran Speak",
+          "image": "https://i.ytimg.com/vi/vFTB567yQGs/hqdefault.jpg",
+          "published": "2026-11-11T14:30:02.000Z"
+        },
+        {
+          "id": "77ef24f11cd7",
+          "kind": "guide",
+          "title": "A little more community in your everyday life",
+          "summary": "Explore MIC’s local discovery, marketplace, community voices, news and practical resources.",
+          "url": "/guides/discover-mic-community-features",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/community-friends.jpg"
+        }
+      ]
     }
   ]
 }
