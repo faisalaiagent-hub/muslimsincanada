@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-12T12:50:39.897Z",
+      "checkedAt": "2026-11-12T20:08:26.258Z",
       "items": [
         {
           "id": "GdquAukg9iM",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-12T12:50:39.998Z",
+      "checkedAt": "2026-11-12T20:08:26.416Z",
       "items": [
         {
           "id": "U0PRFP0fWBU",
@@ -138,8 +138,15 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-12T12:50:41.528Z",
+      "checkedAt": "2026-11-12T20:08:27.351Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/five-shot-in-washington-shooting-as-suspect-dies-by-suicide/",
+          "title": "Five shot in Washington shooting as suspect dies by suicide",
+          "published": "2026-11-12T18:00:41.000Z",
+          "url": "https://www.muslimnetwork.tv/five-shot-in-washington-shooting-as-suspect-dies-by-suicide/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_c543908643d18a376e81c85ae654f6eb.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/jewish-voters-maintain-democratic-preference-amid-shifting-political-attitudes/",
           "title": "Jewish voters maintain Democratic preference amid shifting political attitudes",
@@ -179,8 +186,7 @@
           "id": "https://www.muslimnetwork.tv/texas-muslims-see-hope-after-sweep-but-warn-on-islamophobia/",
           "title": "Texas Muslims see hope after sweep, but warn on Islamophobia",
           "published": "2026-11-12T08:28:14.000Z",
-          "url": "https://www.muslimnetwork.tv/texas-muslims-see-hope-after-sweep-but-warn-on-islamophobia/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261104-42959092-42959075-VOTING_CONTINUES_IN_US_MIDTERM_ELECTIONS_IN_ILLINOIS.jpg"
+          "url": "https://www.muslimnetwork.tv/texas-muslims-see-hope-after-sweep-but-warn-on-islamophobia/"
         },
         {
           "id": "https://www.muslimnetwork.tv/12-senators-move-to-strip-israel-provisions-from-defense-bill/",
@@ -199,17 +205,11 @@
           "title": "Israeli occupiers attack Palestinian town in West Bank under army protection",
           "published": "2026-11-12T07:08:15.000Z",
           "url": "https://www.muslimnetwork.tv/israeli-occupiers-attack-palestinian-town-in-west-bank-under-army-protection/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/2-killed-several-injured-in-building-collapse-in-brooklyn/",
-          "title": "2 killed, several injured in building collapse in Brooklyn",
-          "published": "2026-11-12T06:04:39.000Z",
-          "url": "https://www.muslimnetwork.tv/2-killed-several-injured-in-building-collapse-in-brooklyn/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-12T12:50:42.585Z",
+      "checkedAt": "2026-11-12T20:08:28.442Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -281,8 +281,22 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-12T12:50:39.743Z",
+      "checkedAt": "2026-11-12T20:08:26.148Z",
       "items": [
+        {
+          "id": "qUJ4WnitVbA",
+          "title": "Are Humans Truly Free: The Muslim View of God’s Control",
+          "published": "2026-11-12T19:20:25.000Z",
+          "url": "https://www.youtube.com/watch?v=qUJ4WnitVbA",
+          "image": "https://i.ytimg.com/vi/qUJ4WnitVbA/hqdefault.jpg"
+        },
+        {
+          "id": "MnYAvU6PAJE",
+          "title": "Who Is Al-Masih Ad-Dajjal: The Islamic Antichrist Explained",
+          "published": "2026-11-12T14:53:09.000Z",
+          "url": "https://www.youtube.com/watch?v=MnYAvU6PAJE",
+          "image": "https://i.ytimg.com/vi/MnYAvU6PAJE/hqdefault.jpg"
+        },
         {
           "id": "lpCIId6UoT8",
           "title": "Divine Revelation or Companion Opinion: Rethinking the Assumption",
@@ -373,25 +387,11 @@
           "published": "2026-11-03T13:52:52.000Z",
           "url": "https://www.youtube.com/watch?v=2YclOkxbHNo",
           "image": "https://i.ytimg.com/vi/2YclOkxbHNo/hqdefault.jpg"
-        },
-        {
-          "id": "mYEhAJ_bBRA",
-          "title": "Judgment Day Prayer vs. Character: What Matters Most?",
-          "published": "2026-11-02T18:38:31.000Z",
-          "url": "https://www.youtube.com/watch?v=mYEhAJ_bBRA",
-          "image": "https://i.ytimg.com/vi/mYEhAJ_bBRA/hqdefault.jpg"
-        },
-        {
-          "id": "ZsPL1PmWDmA",
-          "title": "Quran vs Hadith: Understanding Islamic Hierarchy",
-          "published": "2026-11-02T14:25:04.000Z",
-          "url": "https://www.youtube.com/watch?v=ZsPL1PmWDmA",
-          "image": "https://i.ytimg.com/vi/ZsPL1PmWDmA/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-12T12:50:40.178Z",
+      "checkedAt": "2026-11-12T20:08:26.569Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -501,7 +501,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-12T12:50:40.295Z",
+      "checkedAt": "2026-11-12T20:08:26.659Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -611,8 +611,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-12T12:50:40.461Z",
+      "checkedAt": "2026-11-12T20:08:26.670Z",
       "items": [
+        {
+          "id": "SnbyuHPRLCU",
+          "title": "The Seerah We Celebrate, But Fail to Live",
+          "published": "2026-11-12T18:30:11.000Z",
+          "url": "https://www.youtube.com/watch?v=SnbyuHPRLCU",
+          "image": "https://i.ytimg.com/vi/SnbyuHPRLCU/hqdefault.jpg"
+        },
         {
           "id": "UAMjU5zCdsQ",
           "title": "Money can buy ads. It can't buy the outcome Allah writes.",
@@ -710,25 +717,25 @@
           "published": "2026-10-27T01:00:09.000Z",
           "url": "https://www.youtube.com/watch?v=vfk88Xb7Qnk",
           "image": "https://i.ytimg.com/vi/vfk88Xb7Qnk/hqdefault.jpg"
-        },
-        {
-          "id": "h4GBquq5fDw",
-          "title": "The History They Don't Teach You",
-          "published": "2026-10-22T17:00:10.000Z",
-          "url": "https://www.youtube.com/watch?v=h4GBquq5fDw",
-          "image": "https://i.ytimg.com/vi/h4GBquq5fDw/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-12T12:50:41.806Z",
+      "checkedAt": "2026-11-12T20:08:27.632Z",
       "items": [
         {
+          "id": "https://www.cbc.ca/news/canada/montreal/children-lockers-mille-iles-9.7419194",
+          "title": "Report of children confined in locker at Quebec school draws minister's condemnation",
+          "published": "2026-11-12T17:15:42.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/children-lockers-mille-iles-9.7419194",
+          "image": "https://i.cbc.ca/ais/1.7539858,1794504132433/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733",
-          "title": "Halifax-area hospitals see pest control budgets soar amid mice, pigeon infestations",
+          "title": "Mice, pigeon infestations at Halifax-area hospitals lead to soaring pest-control costs",
           "published": "2026-11-12T10:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733",
-          "image": "https://i.cbc.ca/ais/f3203b57-fab3-4a06-98bd-d2ac24d330be,1794335437187/full/max/0/default.jpg?im=Crop%2Crect%3D%28268%2C642%2C860%2C483%29%3B"
+          "image": "https://i.cbc.ca/ais/b3461431-4960-4ba4-96c2-02a2113f7277,1794506614406/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953",
@@ -746,7 +753,7 @@
         },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320",
-          "title": "Shelter workers raise alarm as severe stomach bug hits Montreal's homeless population",
+          "title": "Severe stomach bug hits Montreal’s homeless population, shelter workers raise alarm",
           "published": "2026-11-12T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320",
           "image": "https://i.cbc.ca/ais/9f8ec592-880a-4433-8704-f595ca5587f1,1794426846169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C263%2C5043%2C2836%29%3B"
@@ -766,13 +773,6 @@
           "image": "https://i.cbc.ca/ais/c3fe644b-bbb9-43bf-94bd-6dc78c61c7c5,1794443225536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1603%2C4284%2C2409%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/toronto/port-perry-poppy-project-9.7418589",
-          "title": "Thousands of handmade poppies blanket Port Perry, Ont., township office for Remembrance Day",
-          "published": "2026-11-11T23:52:41.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/port-perry-poppy-project-9.7418589",
-          "image": "https://i.cbc.ca/ais/8d2a6803-1a7e-4be0-b4b3-f15fcba2f976,1794439343879/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/politics/federal-government-knew-about-stellantis-deal-9.7418567",
           "title": "Ottawa had been aware of Stellantis-Roshel talks for months, source says",
           "published": "2026-11-11T23:37:27.000Z",
@@ -784,7 +784,7 @@
           "title": "Heritage Minute filmed in Wainwright honours fallen Canadian soldier",
           "published": "2026-11-11T23:11:21.000Z",
           "url": "https://www.cbc.ca/player/play/9.7418524",
-          "image": "https://i.cbc.ca/ais/8b19646f-9fe2-4b06-a0e8-a79652df7f27,1794438668652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "image": "https://i.cbc.ca/ais/8b19646f-9fe2-4b06-a0e8-a79652df7f27,1794507195068/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
           "id": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528",
@@ -831,35 +831,98 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-12T12:50:42.735Z",
+      "checkedAt": "2026-11-12T20:08:28.658Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo",
+          "title": "Jensen Huang has resigned, what's next for Nvidia?",
+          "published": "2026-11-12T19:33:37.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
+          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+          "published": "2026-11-12T19:23:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
+          "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+          "published": "2026-11-12T18:47:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+          "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+          "published": "2026-11-12T18:28:59.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
+          "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+          "published": "2026-11-12T17:11:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83b/live/928866f0-deac-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
           "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-          "published": "2026-11-12T12:26:01.000Z",
+          "published": "2026-11-12T16:54:12.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
-          "title": "New York City building collapse kills several people",
-          "published": "2026-11-12T12:17:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
+          "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+          "published": "2026-11-12T15:18:20.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-          "published": "2026-11-12T12:14:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmde1y19g19do",
+          "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+          "published": "2026-11-12T14:12:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
-          "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-          "published": "2026-11-12T11:21:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno",
+          "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+          "published": "2026-11-12T13:58:49.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/b6195780-de9a-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo",
+          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "published": "2026-11-12T13:02:46.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo",
+          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "published": "2026-11-12T13:02:46.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+          "published": "2026-11-12T12:56:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko",
+          "title": "Five new miniature frog species found in eastern Himalayas",
+          "published": "2026-11-12T11:07:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6413/live/e56f4d60-de76-11f1-9115-cfe6d179af3a.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
@@ -869,74 +932,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-          "published": "2026-11-12T10:02:32.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
           "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
           "published": "2026-11-12T08:46:57.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddfe/live/c33427d0-de93-11f1-9afe-1f03bfe02283.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
-          "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-          "published": "2026-11-12T07:59:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo",
-          "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-          "published": "2026-11-12T07:45:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
-          "title": "Can Nigeria's president regain voters' trust after painful first term?",
-          "published": "2026-11-12T07:30:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
-          "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-          "published": "2026-11-12T04:03:13.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo",
-          "title": "Australian teen missing in bush for six days rescued alive",
-          "published": "2026-11-12T02:40:18.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5218/live/acdfe640-de84-11f1-93e1-3b657b665bcf.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
-          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-          "published": "2026-11-11T22:07:37.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo",
-          "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-          "published": "2026-11-11T21:43:35.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff27/live/573e7b50-de18-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
-          "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-          "published": "2026-11-11T20:00:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg"
         }
       ]
     }
