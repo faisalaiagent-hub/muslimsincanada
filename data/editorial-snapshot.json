@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-13T12:18:32.824Z",
+      "checkedAt": "2026-11-13T19:52:44.046Z",
       "items": [
         {
           "id": "mT9HL2I5pic",
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-13T12:18:33.048Z",
+      "checkedAt": "2026-11-13T19:52:44.221Z",
       "items": [
+        {
+          "id": "PnbHjBjD_O4",
+          "title": "Transform Your Worst Mistake Into Your BEST Deed | LATEST Khutbah by Dr. Omar Suleiman",
+          "published": "2026-11-13T18:57:08.000Z",
+          "url": "https://www.youtube.com/watch?v=PnbHjBjD_O4",
+          "image": "https://i.ytimg.com/vi/PnbHjBjD_O4/hqdefault.jpg"
+        },
         {
           "id": "U0PRFP0fWBU",
           "title": "When The Strong Devour The Weak | Signs of the Hour Ep. 25 | Dr. Omar Suleiman",
@@ -138,7 +145,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-13T12:18:35.003Z",
+      "checkedAt": "2026-11-13T19:52:46.159Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/lebanon-launches-maak-platform-for-digital-security-services/",
@@ -209,7 +216,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-13T12:18:36.111Z",
+      "checkedAt": "2026-11-13T19:52:47.874Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -281,8 +288,22 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-13T12:18:32.563Z",
+      "checkedAt": "2026-11-13T19:52:43.946Z",
       "items": [
+        {
+          "id": "c5BsK5k1uwY",
+          "title": "Dajjal Prophecies: Why Modern-Day Conspiracy Theories Go Too Far",
+          "published": "2026-11-13T16:23:17.000Z",
+          "url": "https://www.youtube.com/watch?v=c5BsK5k1uwY",
+          "image": "https://i.ytimg.com/vi/c5BsK5k1uwY/hqdefault.jpg"
+        },
+        {
+          "id": "3srhVCV8K4k",
+          "title": "What Does Islam Really Teach About the Holy Spirit? | Dr. Shabir Ally",
+          "published": "2026-11-13T15:49:21.000Z",
+          "url": "https://www.youtube.com/watch?v=3srhVCV8K4k",
+          "image": "https://i.ytimg.com/vi/3srhVCV8K4k/hqdefault.jpg"
+        },
         {
           "id": "qUJ4WnitVbA",
           "title": "Are Humans Truly Free: The Muslim View of God’s Control",
@@ -373,25 +394,11 @@
           "published": "2026-11-04T14:30:04.000Z",
           "url": "https://www.youtube.com/watch?v=ffjO4WHggVY",
           "image": "https://i.ytimg.com/vi/ffjO4WHggVY/hqdefault.jpg"
-        },
-        {
-          "id": "uFgMooDd6vs",
-          "title": "Women's Rights: Laws Shaped by Past Societies",
-          "published": "2026-11-03T19:59:13.000Z",
-          "url": "https://www.youtube.com/watch?v=uFgMooDd6vs",
-          "image": "https://i.ytimg.com/vi/uFgMooDd6vs/hqdefault.jpg"
-        },
-        {
-          "id": "2YclOkxbHNo",
-          "title": "Forgetting Yourself",
-          "published": "2026-11-03T13:52:52.000Z",
-          "url": "https://www.youtube.com/watch?v=2YclOkxbHNo",
-          "image": "https://i.ytimg.com/vi/2YclOkxbHNo/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-13T12:18:33.244Z",
+      "checkedAt": "2026-11-13T19:52:44.320Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -501,7 +508,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-13T12:18:33.513Z",
+      "checkedAt": "2026-11-13T19:52:44.428Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -611,7 +618,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-13T12:18:33.632Z",
+      "checkedAt": "2026-11-13T19:52:44.533Z",
       "items": [
         {
           "id": "SnbyuHPRLCU",
@@ -721,8 +728,43 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-13T12:18:35.382Z",
+      "checkedAt": "2026-11-13T19:52:46.423Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/2-dead-1-missing-squamish-boating-incident-9.7420872",
+          "title": "2 dead, 1 missing after boating incident near Squamish, B.C.",
+          "published": "2026-11-13T18:14:19.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/2-dead-1-missing-squamish-boating-incident-9.7420872",
+          "image": "https://i.cbc.ca/ais/56dda563-645d-4662-a962-5d4c7ffe33c8,1794593587184/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/joly-fedeli-stellantis-brampton-plant-package-9.7420849",
+          "title": "Feds, Ontario offering Stellantis 'aggressive package' to keep Brampton auto plant open",
+          "published": "2026-11-13T18:04:27.000Z",
+          "url": "https://www.cbc.ca/news/politics/joly-fedeli-stellantis-brampton-plant-package-9.7420849",
+          "image": "https://i.cbc.ca/ais/d39dd66c-98b9-496d-b996-d5d9ca6b97b0,1794597165432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3500%2C1968%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-weather-nov-13-2026-9.7420385",
+          "title": "More stormy weather forecast for B.C. with warnings for flooding, heavy rain, fog",
+          "published": "2026-11-13T13:37:10.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-weather-nov-13-2026-9.7420385",
+          "image": "https://i.cbc.ca/ais/1.6713482,1794576602086/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C107%2C4935%2C2775%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-extortion-baweja-atip-9.7415879",
+          "title": "Guns, swords and pepper spray: Bishnoi-linked extortionists attacked in apparent retaliation",
+          "published": "2026-11-13T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-extortion-baweja-atip-9.7415879",
+          "image": "https://i.cbc.ca/ais/95fe5df3-ead5-4931-a1b0-f2197804bfb3,1794268709377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C328%2C184%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/investigates/hacks-non-profit-canada-crime-stoppers-9.7419936",
+          "title": "Why experts fear Canada's not-for-profits are prime targets for hackers",
+          "published": "2026-11-13T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/investigates/hacks-non-profit-canada-crime-stoppers-9.7419936",
+          "image": "https://i.cbc.ca/ais/9e616fc5-860a-4704-b1db-1f65d422f5ec,1794523877949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C549%2C2995%2C1684%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/hamilton/car-fire-driveway-brantford-9.7418322",
           "title": "Brantford, Ont., man seeks answers after car catches fire in family home's driveway",
@@ -753,7 +795,7 @@
         },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/squamish-missing-river-fatal-boating-incident-9.7420190",
-          "title": "'Several' people involved in fatal boating incident near Squamish: RCMP",
+          "title": "Several people involved in fatal boating incident near Squamish: RCMP",
           "published": "2026-11-13T02:38:19.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/squamish-missing-river-fatal-boating-incident-9.7420190",
           "image": "https://i.cbc.ca/ais/3059c1e5-836e-409f-a4ae-05bede5142ad,1794533491772/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
@@ -792,53 +834,102 @@
           "published": "2026-11-12T19:13:45.000Z",
           "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-airport-emergency-9.7419519",
           "image": "https://i.cbc.ca/ais/931fe98f-9656-462f-aef9-5c144203c189,1794513021301/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/children-lockers-mille-iles-9.7419194",
-          "title": "Report of children confined in locker at Quebec school draws minister's condemnation",
-          "published": "2026-11-12T17:15:42.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/children-lockers-mille-iles-9.7419194",
-          "image": "https://i.cbc.ca/ais/1.7539858,1794504132433/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-storm-nov-12-9.7418790",
-          "title": "Shelter-in-place advisory issued for B.C.'s Pemberton Valley, parts of Squamish as flooding closes roads",
-          "published": "2026-11-12T14:28:59.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-storm-nov-12-9.7418790",
-          "image": "https://i.cbc.ca/ais/d5365923-91d5-46c6-b070-ec353a8c9863,1794525421111/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C2048%2C1152%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733",
-          "title": "Mice, pigeon infestations at Halifax-area hospitals lead to soaring pest-control costs",
-          "published": "2026-11-12T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733",
-          "image": "https://i.cbc.ca/ais/b3461431-4960-4ba4-96c2-02a2113f7277,1794521305202/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953",
-          "title": "Canada has the opportunity to become a global LNG leader, new report says",
-          "published": "2026-11-12T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953",
-          "image": "https://i.cbc.ca/ais/1.7516694,1746231528000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/norgate-apartments-owners-tenants-standoff-hot-water-electricity-9.7417438",
-          "title": "Montreal tenants without hot water, electricity during heated dispute over renovations",
-          "published": "2026-11-12T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/norgate-apartments-owners-tenants-standoff-hot-water-electricity-9.7417438",
-          "image": "https://i.cbc.ca/ais/61ba4df6-8fbb-416b-8fec-1d21a9dd5ac1,1794438334228/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-13T12:18:36.142Z",
+      "checkedAt": "2026-11-13T19:52:48.027Z",
       "items": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+          "title": "Democratic Senate leader Schumer set to face leadership challenge",
+          "published": "2026-11-13T19:03:10.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-          "title": "What we know about the global Microsoft outage",
-          "published": "2026-11-13T12:09:57.000Z",
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "published": "2026-11-13T18:36:57.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
+          "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+          "published": "2026-11-13T18:34:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
+          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+          "published": "2026-11-13T16:40:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
+          "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+          "published": "2026-11-13T15:42:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "published": "2026-11-13T15:40:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo",
+          "title": "At least 24 killed after bus collides with truck in north-east India",
+          "published": "2026-11-13T15:16:50.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo",
+          "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+          "published": "2026-11-13T15:09:40.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0b/live/165af990-df73-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo",
+          "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+          "published": "2026-11-13T13:11:23.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "published": "2026-11-13T12:22:30.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cqzjr903n01po",
+          "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+          "published": "2026-11-13T11:43:27.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o",
+          "title": "Rosalía scoops historic third best album award at Latin Grammys",
+          "published": "2026-11-13T11:38:54.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
+          "title": "Nigerian university in mourning after four students die at post-exam party",
+          "published": "2026-11-13T11:37:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f3/live/b4c3ec80-df51-11f1-8364-2717a13d3b08.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
@@ -848,95 +939,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
-          "title": "Watch: How Microsoft services went down around the world",
-          "published": "2026-11-13T07:18:17.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf55/live/6c53e480-df49-11f1-b441-2b33b063138f.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
           "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
           "published": "2026-11-13T07:01:43.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c93/live/2288e9c0-df28-11f1-b396-2b394d1b806d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-          "published": "2026-11-13T03:57:01.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
-          "title": "Australian footballers will not be charged after hotel incident, police say",
-          "published": "2026-11-13T03:02:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
-          "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-          "published": "2026-11-13T02:48:29.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro",
-          "title": "Will the Eurovision Song Contest succeed in Asia?",
-          "published": "2026-11-13T02:24:11.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f20/live/af01cfe0-df08-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
-          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "published": "2026-11-13T02:01:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o",
-          "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-          "published": "2026-11-13T00:20:24.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go",
-          "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-          "published": "2026-11-12T23:42:52.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
-          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-          "published": "2026-11-12T20:09:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo",
-          "title": "Jensen Huang has resigned, what's next for Nvidia?",
-          "published": "2026-11-12T19:33:37.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
-          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-          "published": "2026-11-12T19:23:02.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
-          "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-          "published": "2026-11-12T18:47:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg"
         }
       ]
     }
