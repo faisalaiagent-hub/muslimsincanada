@@ -631,6 +631,34 @@
           "image": "/media/community-friends.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "generatedAt": "2026-11-13T06:57:36.536Z",
+      "items": [
+        {
+          "id": "dac651b8b8a4",
+          "kind": "talk",
+          "title": "From stuck to serene.",
+          "summary": "Make time for a recent conversation from Yasmin Mogahed. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=15mYIFBrR7A",
+          "sourceId": "yasmin",
+          "source": "Yasmin Mogahed",
+          "image": "https://i.ytimg.com/vi/15mYIFBrR7A/hqdefault.jpg",
+          "published": "2026-10-31T14:35:53.000Z"
+        },
+        {
+          "id": "ea69af6eeadf",
+          "kind": "news",
+          "title": "Board of Peace urges ‘immediate’ implementation of Trump’s Gaza plan after Israeli strike on hospital",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/board-of-peace-urges-immediate-implementation-of-trumps-gaza-plan-after-israeli-strike-on-hospital/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260918-42508054-42508052-WOUNDED_PALESTINIANS_BROUGHT_TO_HOSPITAL_AFTER_GAZA_AIRSTRIKE.jpg",
+          "published": "2026-11-13T06:20:05.000Z"
+        }
+      ]
     }
   ]
 }
