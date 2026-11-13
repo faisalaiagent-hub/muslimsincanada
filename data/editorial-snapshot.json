@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-12T20:08:26.258Z",
+      "checkedAt": "2026-11-13T12:18:32.824Z",
       "items": [
+        {
+          "id": "mT9HL2I5pic",
+          "title": "714 - Sura al-Furqan - 49 - 55 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-11-13T01:25:36.000Z",
+          "url": "https://www.youtube.com/watch?v=mT9HL2I5pic",
+          "image": "https://i.ytimg.com/vi/mT9HL2I5pic/hqdefault.jpg"
+        },
         {
           "id": "GdquAukg9iM",
           "title": "41 - Book of Purification - [Hadith 437-450] - Mishkat al-Masabih - Shaykh Ilyas Patel",
@@ -101,18 +108,11 @@
           "published": "2026-10-30T01:47:34.000Z",
           "url": "https://www.youtube.com/watch?v=wkiOQbz5PyI",
           "image": "https://i.ytimg.com/vi/wkiOQbz5PyI/hqdefault.jpg"
-        },
-        {
-          "id": "qC-a0IBRZhM",
-          "title": "37 - Book of Purification - [Hadith 391-400] -Mishkat al-Masabih -Shaykh Ilyas Patel",
-          "published": "2026-10-29T02:48:29.000Z",
-          "url": "https://www.youtube.com/watch?v=qC-a0IBRZhM",
-          "image": "https://i.ytimg.com/vi/qC-a0IBRZhM/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-12T20:08:26.416Z",
+      "checkedAt": "2026-11-13T12:18:33.048Z",
       "items": [
         {
           "id": "U0PRFP0fWBU",
@@ -138,8 +138,29 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-13T06:57:34.489Z",
+      "checkedAt": "2026-11-13T12:18:35.003Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/lebanon-launches-maak-platform-for-digital-security-services/",
+          "title": "Lebanon launches Maak platform for digital security services",
+          "published": "2026-11-13T08:43:53.000Z",
+          "url": "https://www.muslimnetwork.tv/lebanon-launches-maak-platform-for-digital-security-services/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-dtsoft-official-798352825-19125851.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/muslim-world-league-celebrates-ibn-rushd-legacy-in-spain/",
+          "title": "Muslim World League celebrates Ibn Rushd legacy in Spain",
+          "published": "2026-11-13T08:41:29.000Z",
+          "url": "https://www.muslimnetwork.tv/muslim-world-league-celebrates-ibn-rushd-legacy-in-spain/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-1.41.07-PM.png"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/saudi-airstrikes-intensify-yemen-fighting-displacing-thousands/",
+          "title": "Saudi airstrikes intensify Yemen fighting, displacing thousands",
+          "published": "2026-11-13T08:38:21.000Z",
+          "url": "https://www.muslimnetwork.tv/saudi-airstrikes-intensify-yemen-fighting-displacing-thousands/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Saudi-led-coalition-launches-repeated-air-raids-alongside-government-offensives-as-civilian-casualties-mount-and-more-than-320000-people-flee-fighting.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/board-of-peace-urges-immediate-implementation-of-trumps-gaza-plan-after-israeli-strike-on-hospital/",
           "title": "Board of Peace urges ‘immediate’ implementation of Trump’s Gaza plan after Israeli strike on hospital",
@@ -165,51 +186,30 @@
           "id": "https://www.muslimnetwork.tv/israel-orders-removal-of-almond-trees-and-wild-vegetation-from-land-in-hebron/",
           "title": "Israel orders removal of almond trees and wild vegetation from land in Hebron",
           "published": "2026-11-13T06:09:44.000Z",
-          "url": "https://www.muslimnetwork.tv/israel-orders-removal-of-almond-trees-and-wild-vegetation-from-land-in-hebron/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_b4bcc0a1d54ca34f8f79e31ef79dc610.webp"
+          "url": "https://www.muslimnetwork.tv/israel-orders-removal-of-almond-trees-and-wild-vegetation-from-land-in-hebron/"
         },
         {
           "id": "https://www.muslimnetwork.tv/toronto-university-acknowledges-discrimination-against-muslims-arabs-palestinians/",
           "title": "Toronto University acknowledges discrimination against Muslims",
           "published": "2026-11-13T06:05:47.000Z",
-          "url": "https://www.muslimnetwork.tv/toronto-university-acknowledges-discrimination-against-muslims-arabs-palestinians/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_17a7e9788a6b6daa45654a2c4ba5095d.webp"
+          "url": "https://www.muslimnetwork.tv/toronto-university-acknowledges-discrimination-against-muslims-arabs-palestinians/"
         },
         {
           "id": "https://www.muslimnetwork.tv/southern-irans-sirik-county-near-strait-of-hormuz-hit-by-enemy-strike-state-media/",
           "title": "Southern Iran’s Sirik County near Strait of Hormuz hit by ‘enemy’ strike: state media",
           "published": "2026-11-13T06:02:52.000Z",
-          "url": "https://www.muslimnetwork.tv/southern-irans-sirik-county-near-strait-of-hormuz-hit-by-enemy-strike-state-media/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/kuwait-iran-us.webp"
+          "url": "https://www.muslimnetwork.tv/southern-irans-sirik-county-near-strait-of-hormuz-hit-by-enemy-strike-state-media/"
         },
         {
           "id": "https://www.muslimnetwork.tv/gta-weather-today-thursday-was-cold-but-can-we-expect-some-flurries-tomorrow/",
           "title": "GTA Weather: Today (Thursday) Was Cold, But Can We Expect Some Flurries Tomorrow?",
           "published": "2026-11-13T00:44:13.000Z",
           "url": "https://www.muslimnetwork.tv/gta-weather-today-thursday-was-cold-but-can-we-expect-some-flurries-tomorrow/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/arabs-and-muslims-are-over-policed-and-under-protected-at-the-university-of-toronto-says-a-recent-report/",
-          "title": "Arabs and Muslims Are “Over-policed” and “Under-protected” At the University of Toronto, Says a Recent Report.",
-          "published": "2026-11-13T00:39:13.000Z",
-          "url": "https://www.muslimnetwork.tv/arabs-and-muslims-are-over-policed-and-under-protected-at-the-university-of-toronto-says-a-recent-report/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/five-shot-in-washington-shooting-as-suspect-dies-by-suicide/",
-          "title": "Five shot in Washington shooting as suspect dies by suicide",
-          "published": "2026-11-12T18:00:41.000Z",
-          "url": "https://www.muslimnetwork.tv/five-shot-in-washington-shooting-as-suspect-dies-by-suicide/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/jewish-voters-maintain-democratic-preference-amid-shifting-political-attitudes/",
-          "title": "Jewish voters maintain Democratic preference amid shifting political attitudes",
-          "published": "2026-11-12T11:30:29.000Z",
-          "url": "https://www.muslimnetwork.tv/jewish-voters-maintain-democratic-preference-amid-shifting-political-attitudes/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-13T06:57:36.263Z",
+      "checkedAt": "2026-11-13T12:18:36.111Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -281,7 +281,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-12T20:08:26.148Z",
+      "checkedAt": "2026-11-13T12:18:32.563Z",
       "items": [
         {
           "id": "qUJ4WnitVbA",
@@ -391,7 +391,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-12T20:08:26.569Z",
+      "checkedAt": "2026-11-13T12:18:33.244Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -501,7 +501,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-12T20:08:26.659Z",
+      "checkedAt": "2026-11-13T12:18:33.513Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -611,7 +611,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-12T20:08:26.670Z",
+      "checkedAt": "2026-11-13T12:18:33.632Z",
       "items": [
         {
           "id": "SnbyuHPRLCU",
@@ -721,8 +721,36 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-13T06:57:34.587Z",
+      "checkedAt": "2026-11-13T12:18:35.382Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/car-fire-driveway-brantford-9.7418322",
+          "title": "Brantford, Ont., man seeks answers after car catches fire in family home's driveway",
+          "published": "2026-11-13T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/car-fire-driveway-brantford-9.7418322",
+          "image": "https://i.cbc.ca/ais/18c0c80c-b84e-446a-8d53-7ea6e4839fda,1794501453862/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2304%2C1296%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591",
+          "title": "An AI agent pitched a story to CBC Quebec. We replied to see what would happen",
+          "published": "2026-11-13T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591",
+          "image": "https://i.cbc.ca/ais/b439dba9-3254-47d2-a4f8-7e0dc8e34e3a,1794512681123/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/u-of-t-professor-turns-100-mary-morrison-9.7420019",
+          "title": "U of T music community celebrates beloved professor Mary Morrison's 100th birthday",
+          "published": "2026-11-13T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/u-of-t-professor-turns-100-mary-morrison-9.7420019",
+          "image": "https://i.cbc.ca/ais/c4c4fb47-6829-4406-a3ee-ab401970e06c,1794528004828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/niagara-falls-historic-hydro-station-350-million-tourism-9.7419801",
+          "title": "After $350M investment, historic Niagara Falls, Ont. hydro plant to become tourist destination, 5-star hotel",
+          "published": "2026-11-13T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/niagara-falls-historic-hydro-station-350-million-tourism-9.7419801",
+          "image": "https://i.cbc.ca/ais/bfd58aaa-4b48-4cd2-86d9-82fc8f0437bd,1794518714551/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1582%2C889%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/squamish-missing-river-fatal-boating-incident-9.7420190",
           "title": "'Several' people involved in fatal boating incident near Squamish: RCMP",
@@ -799,40 +827,40 @@
           "published": "2026-11-12T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/norgate-apartments-owners-tenants-standoff-hot-water-electricity-9.7417438",
           "image": "https://i.cbc.ca/ais/61ba4df6-8fbb-416b-8fec-1d21a9dd5ac1,1794438334228/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320",
-          "title": "Severe stomach bug hits Montreal’s homeless population, shelter workers raise alarm",
-          "published": "2026-11-12T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320",
-          "image": "https://i.cbc.ca/ais/9f8ec592-880a-4433-8704-f595ca5587f1,1794426846169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C263%2C5043%2C2836%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/thunder-bay/naps-border-control-pilot-program-9.7418064",
-          "title": "Border control pilot launched to stem drug smuggling into 5 First Nations in northern Ontario",
-          "published": "2026-11-12T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/thunder-bay/naps-border-control-pilot-program-9.7418064",
-          "image": "https://i.cbc.ca/ais/8c6cb055-98c4-4918-983f-4e6ef7fddf64,1794418089753/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C181%2C2048%2C1152%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624",
-          "title": "Series of storms leaves B.C. woman with tree stuck on her house for days",
-          "published": "2026-11-12T00:47:39.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624",
-          "image": "https://i.cbc.ca/ais/c3fe644b-bbb9-43bf-94bd-6dc78c61c7c5,1794443225536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1603%2C4284%2C2409%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/federal-government-knew-about-stellantis-deal-9.7418567",
-          "title": "Ottawa had been aware of Stellantis-Roshel talks for months, source says",
-          "published": "2026-11-11T23:37:27.000Z",
-          "url": "https://www.cbc.ca/news/politics/federal-government-knew-about-stellantis-deal-9.7418567",
-          "image": "https://i.cbc.ca/ais/d717e7e7-e1ce-4957-a49c-1a7885cb205c,1794439060822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C432%2C5610%2C3155%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-13T06:57:36.413Z",
+      "checkedAt": "2026-11-13T12:18:36.142Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+          "title": "What we know about the global Microsoft outage",
+          "published": "2026-11-13T12:09:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
+          "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+          "published": "2026-11-13T08:20:28.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
+          "title": "Watch: How Microsoft services went down around the world",
+          "published": "2026-11-13T07:18:17.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf55/live/6c53e480-df49-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
+          "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+          "published": "2026-11-13T07:01:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c93/live/2288e9c0-df28-11f1-b396-2b394d1b806d.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
           "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -855,6 +883,13 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro",
+          "title": "Will the Eurovision Song Contest succeed in Asia?",
+          "published": "2026-11-13T02:24:11.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f20/live/af01cfe0-df08-11f1-a701-fddedf244c16.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
           "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
           "published": "2026-11-13T02:01:35.000Z",
@@ -874,13 +909,6 @@
           "published": "2026-11-12T23:42:52.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
-          "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-          "published": "2026-11-12T21:27:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/477b/live/13c10780-def4-11f1-a80a-b5f2d117704d.png"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
@@ -909,34 +937,6 @@
           "published": "2026-11-12T18:47:35.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
-          "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-          "published": "2026-11-12T17:11:48.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83b/live/928866f0-deac-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-          "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-          "published": "2026-11-12T16:54:12.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
-          "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-          "published": "2026-11-12T15:18:20.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmde1y19g19do",
-          "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-          "published": "2026-11-12T14:12:55.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png"
         }
       ]
     }
