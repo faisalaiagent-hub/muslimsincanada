@@ -145,8 +145,22 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-13T19:52:46.159Z",
+      "checkedAt": "2026-11-14T06:45:06.100Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/eisenkot-secured-his-government-but-what-did-the-arab-parties-gain-from-their-support/",
+          "title": "Eisenkot Secured His Government, But What Did the Arab Parties Gain from Their Support?",
+          "published": "2026-11-14T00:45:47.000Z",
+          "url": "https://www.muslimnetwork.tv/eisenkot-secured-his-government-but-what-did-the-arab-parties-gain-from-their-support/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/79913686_605.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/on-paper-canada-has-outlawed-illegal-settlements-in-the-west-bank-in-reality/",
+          "title": "On Paper, Canada has Outlawed Illegal Settlements in the West Bank. In Reality…",
+          "published": "2026-11-14T00:41:32.000Z",
+          "url": "https://www.muslimnetwork.tv/on-paper-canada-has-outlawed-illegal-settlements-in-the-west-bank-in-reality/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/264A0161-copy.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/lebanon-launches-maak-platform-for-digital-security-services/",
           "title": "Lebanon launches Maak platform for digital security services",
@@ -179,15 +193,13 @@
           "id": "https://www.muslimnetwork.tv/ukraine-russia-to-hold-largest-ever-prisoner-exchange-zelenskyy/",
           "title": "Ukraine, Russia to hold largest-ever prisoner exchange: Zelenskyy",
           "published": "2026-11-13T06:16:34.000Z",
-          "url": "https://www.muslimnetwork.tv/ukraine-russia-to-hold-largest-ever-prisoner-exchange-zelenskyy/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/04/AFP-TV_20230405_FIN_POL_AgricultureZelensky_33CP8BQ_en.jpg"
+          "url": "https://www.muslimnetwork.tv/ukraine-russia-to-hold-largest-ever-prisoner-exchange-zelenskyy/"
         },
         {
           "id": "https://www.muslimnetwork.tv/trump-says-he-may-use-force-against-iran-right-now-if-us-allies-and-ships-are-threatened/",
           "title": "Trump says he may use force against Iran ‘right now’ if US allies and ships are threatened",
           "published": "2026-11-13T06:12:52.000Z",
-          "url": "https://www.muslimnetwork.tv/trump-says-he-may-use-force-against-iran-right-now-if-us-allies-and-ships-are-threatened/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/10/AA-20261005-42660885-42660858-PRESIDENT_TRUMP_DEPARTS_WHITE_HOUSE_FOR_NEBRASKA_MIDTERM_CAMPAIGN_RALLY.jpg"
+          "url": "https://www.muslimnetwork.tv/trump-says-he-may-use-force-against-iran-right-now-if-us-allies-and-ships-are-threatened/"
         },
         {
           "id": "https://www.muslimnetwork.tv/israel-orders-removal-of-almond-trees-and-wild-vegetation-from-land-in-hebron/",
@@ -200,23 +212,11 @@
           "title": "Toronto University acknowledges discrimination against Muslims",
           "published": "2026-11-13T06:05:47.000Z",
           "url": "https://www.muslimnetwork.tv/toronto-university-acknowledges-discrimination-against-muslims-arabs-palestinians/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/southern-irans-sirik-county-near-strait-of-hormuz-hit-by-enemy-strike-state-media/",
-          "title": "Southern Iran’s Sirik County near Strait of Hormuz hit by ‘enemy’ strike: state media",
-          "published": "2026-11-13T06:02:52.000Z",
-          "url": "https://www.muslimnetwork.tv/southern-irans-sirik-county-near-strait-of-hormuz-hit-by-enemy-strike-state-media/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/gta-weather-today-thursday-was-cold-but-can-we-expect-some-flurries-tomorrow/",
-          "title": "GTA Weather: Today (Thursday) Was Cold, But Can We Expect Some Flurries Tomorrow?",
-          "published": "2026-11-13T00:44:13.000Z",
-          "url": "https://www.muslimnetwork.tv/gta-weather-today-thursday-was-cold-but-can-we-expect-some-flurries-tomorrow/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-13T19:52:47.874Z",
+      "checkedAt": "2026-11-14T06:45:08.268Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -728,13 +728,76 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-13T19:52:46.423Z",
+      "checkedAt": "2026-11-14T06:45:06.279Z",
       "items": [
         {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/2-dead-1-missing-squamish-boating-incident-9.7420872",
-          "title": "2 dead, 1 missing after boating incident near Squamish, B.C.",
+          "id": "https://www.cbc.ca/news/canada/edmonton/rovere-homicide-sentencing-manslaughter-9.7421713",
+          "title": "Sentencing delayed for Edmonton man who left beaten girlfriend to drown, believing she was already dead",
+          "published": "2026-11-14T01:18:08.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/rovere-homicide-sentencing-manslaughter-9.7421713",
+          "image": "https://i.cbc.ca/ais/1.7354561,1794618231087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C7%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mosque-defaced-9.7421550",
+          "title": "Alleged vandal who defaced Vancouver's oldest mosque 'meant to intimidate': police",
+          "published": "2026-11-14T00:55:47.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-mosque-defaced-9.7421550",
+          "image": "https://i.cbc.ca/ais/d6b31652-ae71-44d8-af89-8373df9e7bc4,1794615617773/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/amazon-union-contract-b-c-first-north-america-9.7421834",
+          "title": "B.C. arbitrator imposes 1st union contract for Amazon workers in North America",
+          "published": "2026-11-14T00:39:44.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/amazon-union-contract-b-c-first-north-america-9.7421834",
+          "image": "https://i.cbc.ca/ais/d2a746ce-43f9-48e5-88ae-a7eb29a64299,1794615637178/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C449%2C8633%2C4856%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/pandemic-learning-loss-report-9.7420000",
+          "title": "COVID-19 school disruptions still impacting students today, learning loss report finds",
+          "published": "2026-11-13T23:25:25.000Z",
+          "url": "https://www.cbc.ca/news/canada/pandemic-learning-loss-report-9.7420000",
+          "image": "https://i.cbc.ca/ais/289a0576-7b9c-4e3b-bec4-18b7a46cbbca,1794525522095/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C429%2C6720%2C3780%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-kidnapping-trial-9.7421121",
+          "title": "'Crypto King' Aiden Pleterski testifies he was beaten, tortured during alleged kidnapping",
+          "published": "2026-11-13T22:44:26.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-kidnapping-trial-9.7421121",
+          "image": "https://i.cbc.ca/ais/6f805e35-1a56-4879-bb15-37a72d0f391b,1791233269722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C5343%2C3005%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-sovereignty-act-court-challenge-first-nation-9.7421573",
+          "title": "Alberta government asks judge to dismiss First Nation’s challenge of its sovereignty act",
+          "published": "2026-11-13T22:31:50.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-sovereignty-act-court-challenge-first-nation-9.7421573",
+          "image": "https://i.cbc.ca/ais/f67a70f8-6848-4c4f-a787-11e723661e61,1794608646432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C5316%2C2990%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/indigenous/dorothy-myo-indigenous-languages-commissioner-9.7421064",
+          "title": "Canada appoints new Indigenous languages commissioner",
+          "published": "2026-11-13T21:10:36.000Z",
+          "url": "https://www.cbc.ca/news/indigenous/dorothy-myo-indigenous-languages-commissioner-9.7421064",
+          "image": "https://i.cbc.ca/ais/1cae2579-5d28-4b31-a865-4a644dfe71a8,1794601265126/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-oilsands-royalties-9.7421165",
+          "title": "Alberta announces royalty program as part of plan to double oilsands production",
+          "published": "2026-11-13T20:20:12.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-oilsands-royalties-9.7421165",
+          "image": "https://i.cbc.ca/ais/5a2c76c2-ee33-46f8-9a72-bfca633c7a8a,1794599617084/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/a-new-game-plan/new-game-plan-nso-sports-future-funding-participation-nov13-9.7421104",
+          "title": "With increase of funding, Canada's sports leaders know there is expectation to increase participation",
+          "published": "2026-11-13T20:16:06.000Z",
+          "url": "https://www.cbc.ca/sports/a-new-game-plan/new-game-plan-nso-sports-future-funding-participation-nov13-9.7421104",
+          "image": "https://i.cbc.ca/ais/c39a19df-a2f3-4e26-9344-317cf861139c,1794600051083/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C214%2C4096%2C2304%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/3-dead-squamish-boating-incident-9.7420872",
+          "title": "3 dead after boat crash in flooded river near Squamish, B.C.",
           "published": "2026-11-13T18:14:19.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/2-dead-1-missing-squamish-boating-incident-9.7420872",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/3-dead-squamish-boating-incident-9.7420872",
           "image": "https://i.cbc.ca/ais/56dda563-645d-4662-a962-5d4c7ffe33c8,1794593587184/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
@@ -746,7 +809,7 @@
         },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/bc-weather-nov-13-2026-9.7420385",
-          "title": "More stormy weather forecast for B.C. with warnings for flooding, heavy rain, fog",
+          "title": "More stormy weather forecast for B.C., but alerts and warnings downgraded",
           "published": "2026-11-13T13:37:10.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/bc-weather-nov-13-2026-9.7420385",
           "image": "https://i.cbc.ca/ais/1.6713482,1794576602086/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C107%2C4935%2C2775%29%3B"
@@ -771,88 +834,102 @@
           "published": "2026-11-13T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/hamilton/car-fire-driveway-brantford-9.7418322",
           "image": "https://i.cbc.ca/ais/18c0c80c-b84e-446a-8d53-7ea6e4839fda,1794501453862/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2304%2C1296%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591",
-          "title": "An AI agent pitched a story to CBC Quebec. We replied to see what would happen",
-          "published": "2026-11-13T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/ai-autonomous-agent-independent-journalism-pitching-story-cbc-quebec-9.7419591",
-          "image": "https://i.cbc.ca/ais/b439dba9-3254-47d2-a4f8-7e0dc8e34e3a,1794512681123/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/u-of-t-professor-turns-100-mary-morrison-9.7420019",
-          "title": "U of T music community celebrates beloved professor Mary Morrison's 100th birthday",
-          "published": "2026-11-13T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/u-of-t-professor-turns-100-mary-morrison-9.7420019",
-          "image": "https://i.cbc.ca/ais/c4c4fb47-6829-4406-a3ee-ab401970e06c,1794528004828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/niagara-falls-historic-hydro-station-350-million-tourism-9.7419801",
-          "title": "After $350M investment, historic Niagara Falls, Ont. hydro plant to become tourist destination, 5-star hotel",
-          "published": "2026-11-13T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/niagara-falls-historic-hydro-station-350-million-tourism-9.7419801",
-          "image": "https://i.cbc.ca/ais/bfd58aaa-4b48-4cd2-86d9-82fc8f0437bd,1794518714551/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1582%2C889%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/squamish-missing-river-fatal-boating-incident-9.7420190",
-          "title": "Several people involved in fatal boating incident near Squamish: RCMP",
-          "published": "2026-11-13T02:38:19.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/squamish-missing-river-fatal-boating-incident-9.7420190",
-          "image": "https://i.cbc.ca/ais/3059c1e5-836e-409f-a4ae-05bede5142ad,1794533491772/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-elks-grey-cup-week-coach-beard-9.7420094",
-          "title": "Ahead of Grey Cup game, Elks explain why coach’s change in facial hair symbolizes commitment to team",
-          "published": "2026-11-13T00:12:24.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-elks-grey-cup-week-coach-beard-9.7420094",
-          "image": "https://i.cbc.ca/ais/0c036283-2639-432b-b6ef-1d3b5e42b4f5,1794527283886/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C407%2C6500%2C3656%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/allistair-chapman-conspiracy-murder-extradition-ryan-wedding-disclosure-9.7420008",
-          "title": "Sovereignty 'abdicated' if U.S. extradition allowed in case of Calgarian allegedly working for cartel: lawyers",
-          "published": "2026-11-13T00:10:33.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/allistair-chapman-conspiracy-murder-extradition-ryan-wedding-disclosure-9.7420008",
-          "image": "https://i.cbc.ca/ais/cd1f1467-c6e5-4694-bacd-61e3f3aaeed9,1771616166529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C25%2C904%2C508%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/educationplanner-bc-cybersecurity-incident-9.7419937",
-          "title": "B.C. post-secondary application portal affected by data breach",
-          "published": "2026-11-12T23:45:43.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/educationplanner-bc-cybersecurity-incident-9.7419937",
-          "image": "https://i.cbc.ca/ais/1.5043940,1655405380000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C602%2C5760%2C3240%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/player/play/9.7419970",
-          "title": "Report of children confined in locker at Quebec school draws education minister’s condemnation",
-          "published": "2026-11-12T23:45:40.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7419970",
-          "image": "https://i.cbc.ca/ais/07c3b6ec-2f50-4813-9f09-263f89ec7905,1794527338278/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-airport-emergency-9.7419519",
-          "title": "A PAL Airlines flight lost a wheel less than 2 weeks ago. It's happened again — to the same plane",
-          "published": "2026-11-12T19:13:45.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-airport-emergency-9.7419519",
-          "image": "https://i.cbc.ca/ais/931fe98f-9656-462f-aef9-5c144203c189,1794513021301/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-13T19:52:48.027Z",
+      "checkedAt": "2026-11-14T06:45:08.511Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "title": "Microsoft says services fully restored after for day-long global outage",
+          "published": "2026-11-14T06:42:27.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "published": "2026-11-14T05:52:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "title": "What we know about the longest ground stop since 9/11",
+          "published": "2026-11-14T03:45:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o",
+          "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+          "published": "2026-11-14T01:47:36.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
+          "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+          "published": "2026-11-14T00:03:56.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo",
+          "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+          "published": "2026-11-14T00:03:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "published": "2026-11-14T00:01:01.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+          "published": "2026-11-13T23:40:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo",
+          "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+          "published": "2026-11-13T23:11:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+          "published": "2026-11-13T23:00:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
+          "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+          "published": "2026-11-13T21:15:24.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "published": "2026-11-13T19:53:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
           "title": "Democratic Senate leader Schumer set to face leadership challenge",
           "published": "2026-11-13T19:03:10.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "published": "2026-11-13T18:36:57.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
@@ -867,83 +944,6 @@
           "published": "2026-11-13T16:40:31.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
-          "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-          "published": "2026-11-13T15:42:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "published": "2026-11-13T15:40:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo",
-          "title": "At least 24 killed after bus collides with truck in north-east India",
-          "published": "2026-11-13T15:16:50.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo",
-          "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-          "published": "2026-11-13T15:09:40.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0b/live/165af990-df73-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo",
-          "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-          "published": "2026-11-13T13:11:23.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
-          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-          "published": "2026-11-13T12:22:30.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cqzjr903n01po",
-          "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-          "published": "2026-11-13T11:43:27.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o",
-          "title": "Rosalía scoops historic third best album award at Latin Grammys",
-          "published": "2026-11-13T11:38:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
-          "title": "Nigerian university in mourning after four students die at post-exam party",
-          "published": "2026-11-13T11:37:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f3/live/b4c3ec80-df51-11f1-8364-2717a13d3b08.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
-          "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-          "published": "2026-11-13T08:20:28.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
-          "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-          "published": "2026-11-13T07:01:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c93/live/2288e9c0-df28-11f1-b396-2b394d1b806d.jpg"
         }
       ]
     }

@@ -659,6 +659,33 @@
           "published": "2026-11-13T06:20:05.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "generatedAt": "2026-11-14T06:45:08.609Z",
+      "items": [
+        {
+          "id": "3f14eb51d149",
+          "kind": "news",
+          "title": "Eisenkot Secured His Government, But What Did the Arab Parties Gain from Their Support?",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/eisenkot-secured-his-government-but-what-did-the-arab-parties-gain-from-their-support/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/79913686_605.jpg",
+          "published": "2026-11-14T00:45:47.000Z"
+        },
+        {
+          "id": "3e0f6dfc4438",
+          "kind": "guide",
+          "title": "A practical starting point for newcomers",
+          "summary": "Explore named settlement and community-service providers. Confirm current services and eligibility directly with each provider.",
+          "url": "/resources?category=Newcomers",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/volunteers.jpg"
+        }
+      ]
     }
   ]
 }
