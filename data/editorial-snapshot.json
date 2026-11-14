@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-13T19:52:44.046Z",
+      "checkedAt": "2026-11-14T11:34:11.638Z",
       "items": [
+        {
+          "id": "SGRXasbwlxw",
+          "title": "715 - Sura al-Furqan - 56 - 60 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-11-13T21:42:37.000Z",
+          "url": "https://www.youtube.com/watch?v=SGRXasbwlxw",
+          "image": "https://i.ytimg.com/vi/SGRXasbwlxw/hqdefault.jpg"
+        },
         {
           "id": "mT9HL2I5pic",
           "title": "714 - Sura al-Furqan - 49 - 55 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
@@ -101,19 +108,19 @@
           "published": "2026-10-30T22:43:57.000Z",
           "url": "https://www.youtube.com/watch?v=C4VX6lJdXeQ",
           "image": "https://i.ytimg.com/vi/C4VX6lJdXeQ/hqdefault.jpg"
-        },
-        {
-          "id": "wkiOQbz5PyI",
-          "title": "706 - Sura al-Furqan - 07 - 11 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
-          "published": "2026-10-30T01:47:34.000Z",
-          "url": "https://www.youtube.com/watch?v=wkiOQbz5PyI",
-          "image": "https://i.ytimg.com/vi/wkiOQbz5PyI/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-13T19:52:44.221Z",
+      "checkedAt": "2026-11-14T11:34:11.652Z",
       "items": [
+        {
+          "id": "p4iXuM4bJVM",
+          "title": "Will We Be Destroyed? | Dr. Omar Suleiman",
+          "published": "2026-11-13T23:37:30.000Z",
+          "url": "https://www.youtube.com/watch?v=p4iXuM4bJVM",
+          "image": "https://i.ytimg.com/vi/p4iXuM4bJVM/hqdefault.jpg"
+        },
         {
           "id": "PnbHjBjD_O4",
           "title": "Transform Your Worst Mistake Into Your BEST Deed | LATEST Khutbah by Dr. Omar Suleiman",
@@ -134,89 +141,82 @@
           "published": "2026-11-09T15:30:08.000Z",
           "url": "https://www.youtube.com/watch?v=aHMO6e5LIZU",
           "image": "https://i.ytimg.com/vi/aHMO6e5LIZU/hqdefault.jpg"
-        },
-        {
-          "id": "97Dd5E60j_g",
-          "title": "He Gave His Eye for the Prophet ﷺ | Dr. Omar Suleiman",
-          "published": "2026-11-07T00:00:37.000Z",
-          "url": "https://www.youtube.com/watch?v=97Dd5E60j_g",
-          "image": "https://i.ytimg.com/vi/97Dd5E60j_g/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-14T06:45:06.100Z",
+      "checkedAt": "2026-11-14T11:34:12.803Z",
       "items": [
         {
-          "id": "https://www.muslimnetwork.tv/eisenkot-secured-his-government-but-what-did-the-arab-parties-gain-from-their-support/",
-          "title": "Eisenkot Secured His Government, But What Did the Arab Parties Gain from Their Support?",
-          "published": "2026-11-14T00:45:47.000Z",
-          "url": "https://www.muslimnetwork.tv/eisenkot-secured-his-government-but-what-did-the-arab-parties-gain-from-their-support/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/79913686_605.jpg"
+          "id": "https://www.muslimnetwork.tv/doha-film-festival-announces-international-cultural-partnerships/",
+          "title": "Doha Film Festival announces international cultural partnerships",
+          "published": "2026-11-14T10:33:11.000Z",
+          "url": "https://www.muslimnetwork.tv/doha-film-festival-announces-international-cultural-partnerships/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-sajjad-naqvi-1348573-38941832.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/on-paper-canada-has-outlawed-illegal-settlements-in-the-west-bank-in-reality/",
-          "title": "On Paper, Canada has Outlawed Illegal Settlements in the West Bank. In Reality…",
-          "published": "2026-11-14T00:41:32.000Z",
-          "url": "https://www.muslimnetwork.tv/on-paper-canada-has-outlawed-illegal-settlements-in-the-west-bank-in-reality/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/264A0161-copy.jpg"
+          "id": "https://www.muslimnetwork.tv/saudi-and-pakistani-artists-showcase-shared-cultural-heritage/",
+          "title": "Saudi and Pakistani artists showcase shared cultural heritage",
+          "published": "2026-11-14T10:31:38.000Z",
+          "url": "https://www.muslimnetwork.tv/saudi-and-pakistani-artists-showcase-shared-cultural-heritage/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-muhlis-baysal-99815948-38303659.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/lebanon-launches-maak-platform-for-digital-security-services/",
-          "title": "Lebanon launches Maak platform for digital security services",
-          "published": "2026-11-13T08:43:53.000Z",
-          "url": "https://www.muslimnetwork.tv/lebanon-launches-maak-platform-for-digital-security-services/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-dtsoft-official-798352825-19125851.jpg"
+          "id": "https://www.muslimnetwork.tv/palestine-book-awards-celebrate-writers-preserving-national-history/",
+          "title": "Palestine Book Awards celebrate writers preserving national history",
+          "published": "2026-11-14T10:30:12.000Z",
+          "url": "https://www.muslimnetwork.tv/palestine-book-awards-celebrate-writers-preserving-national-history/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/generic-book-awards-banner.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/muslim-world-league-celebrates-ibn-rushd-legacy-in-spain/",
-          "title": "Muslim World League celebrates Ibn Rushd legacy in Spain",
-          "published": "2026-11-13T08:41:29.000Z",
-          "url": "https://www.muslimnetwork.tv/muslim-world-league-celebrates-ibn-rushd-legacy-in-spain/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-1.41.07-PM.png"
+          "id": "https://www.muslimnetwork.tv/un-warns-israeli-attacks-threaten-gaza-health-system-collapse/",
+          "title": "UN warns Israeli attacks threaten Gaza health system collapse",
+          "published": "2026-11-14T10:28:28.000Z",
+          "url": "https://www.muslimnetwork.tv/un-warns-israeli-attacks-threaten-gaza-health-system-collapse/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Latest-strike-on-Nasser-Medical-Complex-kills-six-Palestinians-as-medical-facilities-struggle-amid-prolonged-destruction.webp"
         },
         {
-          "id": "https://www.muslimnetwork.tv/saudi-airstrikes-intensify-yemen-fighting-displacing-thousands/",
-          "title": "Saudi airstrikes intensify Yemen fighting, displacing thousands",
-          "published": "2026-11-13T08:38:21.000Z",
-          "url": "https://www.muslimnetwork.tv/saudi-airstrikes-intensify-yemen-fighting-displacing-thousands/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Saudi-led-coalition-launches-repeated-air-raids-alongside-government-offensives-as-civilian-casualties-mount-and-more-than-320000-people-flee-fighting.webp"
+          "id": "https://www.muslimnetwork.tv/france-condemns-israels-entry-ban-on-opposition-leaders/",
+          "title": "France condemns Israel’s entry ban on opposition leaders",
+          "published": "2026-11-14T10:27:00.000Z",
+          "url": "https://www.muslimnetwork.tv/france-condemns-israels-entry-ban-on-opposition-leaders/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_c5d5faf767a138ed0a5b1f95b3a049ae.webp"
         },
         {
-          "id": "https://www.muslimnetwork.tv/board-of-peace-urges-immediate-implementation-of-trumps-gaza-plan-after-israeli-strike-on-hospital/",
-          "title": "Board of Peace urges ‘immediate’ implementation of Trump’s Gaza plan after Israeli strike on hospital",
-          "published": "2026-11-13T06:20:05.000Z",
-          "url": "https://www.muslimnetwork.tv/board-of-peace-urges-immediate-implementation-of-trumps-gaza-plan-after-israeli-strike-on-hospital/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260918-42508054-42508052-WOUNDED_PALESTINIANS_BROUGHT_TO_HOSPITAL_AFTER_GAZA_AIRSTRIKE.jpg"
+          "id": "https://www.muslimnetwork.tv/saudi-researchers-examine-mysterious-stone-circles-in-hali/",
+          "title": "Saudi researchers examine mysterious stone circles in Hali",
+          "published": "2026-11-14T10:24:58.000Z",
+          "url": "https://www.muslimnetwork.tv/saudi-researchers-examine-mysterious-stone-circles-in-hali/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-ahmed-moawad-436466304-29436396.jpg"
         },
         {
-          "id": "https://www.muslimnetwork.tv/ukraine-russia-to-hold-largest-ever-prisoner-exchange-zelenskyy/",
-          "title": "Ukraine, Russia to hold largest-ever prisoner exchange: Zelenskyy",
-          "published": "2026-11-13T06:16:34.000Z",
-          "url": "https://www.muslimnetwork.tv/ukraine-russia-to-hold-largest-ever-prisoner-exchange-zelenskyy/"
+          "id": "https://www.muslimnetwork.tv/iran-says-two-oil-tankers-struck-mines-in-hormuz/",
+          "title": "Iran says two oil tankers struck mines in Hormuz",
+          "published": "2026-11-14T10:22:40.000Z",
+          "url": "https://www.muslimnetwork.tv/iran-says-two-oil-tankers-struck-mines-in-hormuz/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/trump-says-he-may-use-force-against-iran-right-now-if-us-allies-and-ships-are-threatened/",
-          "title": "Trump says he may use force against Iran ‘right now’ if US allies and ships are threatened",
-          "published": "2026-11-13T06:12:52.000Z",
-          "url": "https://www.muslimnetwork.tv/trump-says-he-may-use-force-against-iran-right-now-if-us-allies-and-ships-are-threatened/"
+          "id": "https://www.muslimnetwork.tv/lebanons-beirut-falafel-family-preserves-century-old-culinary-tradition/",
+          "title": "Lebanon’s Beirut falafel family preserves century-old culinary tradition",
+          "published": "2026-11-14T10:21:22.000Z",
+          "url": "https://www.muslimnetwork.tv/lebanons-beirut-falafel-family-preserves-century-old-culinary-tradition/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/israel-orders-removal-of-almond-trees-and-wild-vegetation-from-land-in-hebron/",
-          "title": "Israel orders removal of almond trees and wild vegetation from land in Hebron",
-          "published": "2026-11-13T06:09:44.000Z",
-          "url": "https://www.muslimnetwork.tv/israel-orders-removal-of-almond-trees-and-wild-vegetation-from-land-in-hebron/"
+          "id": "https://www.muslimnetwork.tv/x-suspends-palestinian-americans-senate-campaign-account/",
+          "title": "X suspends Palestinian American’s Senate campaign account",
+          "published": "2026-11-14T08:49:37.000Z",
+          "url": "https://www.muslimnetwork.tv/x-suspends-palestinian-americans-senate-campaign-account/"
         },
         {
-          "id": "https://www.muslimnetwork.tv/toronto-university-acknowledges-discrimination-against-muslims-arabs-palestinians/",
-          "title": "Toronto University acknowledges discrimination against Muslims",
-          "published": "2026-11-13T06:05:47.000Z",
-          "url": "https://www.muslimnetwork.tv/toronto-university-acknowledges-discrimination-against-muslims-arabs-palestinians/"
+          "id": "https://www.muslimnetwork.tv/us-lifts-nationwide-flight-ground-stop-after-telecommunications-outage/",
+          "title": "US lifts nationwide flight ground stop after telecommunications outage",
+          "published": "2026-11-14T08:35:42.000Z",
+          "url": "https://www.muslimnetwork.tv/us-lifts-nationwide-flight-ground-stop-after-telecommunications-outage/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-14T06:45:08.268Z",
+      "checkedAt": "2026-11-14T11:34:13.238Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -288,8 +288,15 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-13T19:52:43.946Z",
+      "checkedAt": "2026-11-14T11:34:11.567Z",
       "items": [
+        {
+          "id": "fzhjI_OiukE",
+          "title": "Was Adam’s First Sin Predestined: A Hadith Debate",
+          "published": "2026-11-14T02:42:42.000Z",
+          "url": "https://www.youtube.com/watch?v=fzhjI_OiukE",
+          "image": "https://i.ytimg.com/vi/fzhjI_OiukE/hqdefault.jpg"
+        },
         {
           "id": "c5BsK5k1uwY",
           "title": "Dajjal Prophecies: Why Modern-Day Conspiracy Theories Go Too Far",
@@ -387,18 +394,11 @@
           "published": "2026-11-05T13:59:24.000Z",
           "url": "https://www.youtube.com/watch?v=nrt--7gj3-M",
           "image": "https://i.ytimg.com/vi/nrt--7gj3-M/hqdefault.jpg"
-        },
-        {
-          "id": "ffjO4WHggVY",
-          "title": "We've Questioned the Hadith. Now What? | The Hadith Question | Series Finale",
-          "published": "2026-11-04T14:30:04.000Z",
-          "url": "https://www.youtube.com/watch?v=ffjO4WHggVY",
-          "image": "https://i.ytimg.com/vi/ffjO4WHggVY/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-13T19:52:44.320Z",
+      "checkedAt": "2026-11-14T11:34:11.758Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -508,7 +508,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-13T19:52:44.428Z",
+      "checkedAt": "2026-11-14T11:34:11.887Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -618,7 +618,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-13T19:52:44.533Z",
+      "checkedAt": "2026-11-14T11:34:12.013Z",
       "items": [
         {
           "id": "SnbyuHPRLCU",
@@ -728,8 +728,15 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-14T06:45:06.279Z",
+      "checkedAt": "2026-11-14T11:34:12.922Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/sports/tennis/wta-finals-nov-13-9.7422028",
+          "title": "Canada's Dabrowski, Brazil's Stefani advance to semifinals at WTA Finals after perfect group stage",
+          "published": "2026-11-14T06:07:34.000Z",
+          "url": "https://www.cbc.ca/sports/tennis/wta-finals-nov-13-9.7422028",
+          "image": "https://i.cbc.ca/ais/844ff602-03a0-4b03-8721-accbbb4b59ff,1794637282867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C227%2C4751%2C2672%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/edmonton/rovere-homicide-sentencing-manslaughter-9.7421713",
           "title": "Sentencing delayed for Edmonton man who left beaten girlfriend to drown, believing she was already dead",
@@ -827,22 +834,43 @@
           "published": "2026-11-13T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/investigates/hacks-non-profit-canada-crime-stoppers-9.7419936",
           "image": "https://i.cbc.ca/ais/9e616fc5-860a-4704-b1db-1f65d422f5ec,1794523877949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C549%2C2995%2C1684%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/car-fire-driveway-brantford-9.7418322",
-          "title": "Brantford, Ont., man seeks answers after car catches fire in family home's driveway",
-          "published": "2026-11-13T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/car-fire-driveway-brantford-9.7418322",
-          "image": "https://i.cbc.ca/ais/18c0c80c-b84e-446a-8d53-7ea6e4839fda,1794501453862/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2304%2C1296%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-14T06:45:08.511Z",
+      "checkedAt": "2026-11-14T11:34:13.407Z",
       "items": [
         {
+          "id": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
+          "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+          "published": "2026-11-14T11:30:10.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo",
+          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+          "published": "2026-11-14T10:42:20.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "published": "2026-11-14T10:30:38.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "published": "2026-11-14T07:42:11.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-          "title": "Microsoft says services fully restored after for day-long global outage",
+          "title": "Microsoft says services fully restored after day-long global outage",
           "published": "2026-11-14T06:42:27.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
@@ -853,13 +881,6 @@
           "published": "2026-11-14T05:52:31.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-          "title": "What we know about the longest ground stop since 9/11",
-          "published": "2026-11-14T03:45:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o",
@@ -911,13 +932,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
-          "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-          "published": "2026-11-13T21:15:24.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
           "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
           "published": "2026-11-13T19:53:57.000Z",
@@ -930,20 +944,6 @@
           "published": "2026-11-13T19:03:10.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
-          "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-          "published": "2026-11-13T18:34:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
-          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-          "published": "2026-11-13T16:40:31.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
         }
       ]
     }
