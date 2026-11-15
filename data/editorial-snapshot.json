@@ -145,7 +145,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-14T22:36:07.175Z",
+      "checkedAt": "2026-11-15T06:50:10.633Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/doha-film-festival-announces-international-cultural-partnerships/",
@@ -216,7 +216,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-14T22:36:07.639Z",
+      "checkedAt": "2026-11-15T06:50:17.768Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -256,8 +256,7 @@
           "id": "https://muslimmatters.org/2026/09/14/podcast-faith-motherhood-and-the-call-to-gaza-dr-samaiya-mushtaq/",
           "title": "[Podcast] Faith, Motherhood, and the Call to Gaza | Dr. Samaiya Mushtaq",
           "published": "2026-09-14T11:00:30.000Z",
-          "url": "https://muslimmatters.org/2026/09/14/podcast-faith-motherhood-and-the-call-to-gaza-dr-samaiya-mushtaq/",
-          "image": "https://muslimmatters.org/wp-content/uploads/A-Beautiful-Patience-1-1000x600.png"
+          "url": "https://muslimmatters.org/2026/09/14/podcast-faith-motherhood-and-the-call-to-gaza-dr-samaiya-mushtaq/"
         },
         {
           "id": "https://muslimmatters.org/2026/09/11/long-war-without-end-a-quarter-century-since-the-war-on-terror/",
@@ -729,14 +728,35 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-14T22:36:07.336Z",
+      "checkedAt": "2026-11-15T06:50:10.824Z",
       "items": [
         {
+          "id": "https://www.cbc.ca/sports/tennis/wta-finals-november-14-9.7422131",
+          "title": "Canada's Dabrowski, Brazil's Stefani fall in doubles semifinals at WTA Finals",
+          "published": "2026-11-15T04:07:23.000Z",
+          "url": "https://www.cbc.ca/sports/tennis/wta-finals-november-14-9.7422131",
+          "image": "https://i.cbc.ca/ais/3fcb1348-7d06-44c9-9ad7-595801858548,1794715608570/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C123%2C4564%2C2567%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/olympics/winter/curling/nova-scotia-wins-canadian-mixed-curling-championship-9.7422466",
+          "title": "Nova Scotia's MacDougall uses 5-point 8th end to win mixed curling nationals",
+          "published": "2026-11-14T23:16:14.000Z",
+          "url": "https://www.cbc.ca/sports/olympics/winter/curling/nova-scotia-wins-canadian-mixed-curling-championship-9.7422466",
+          "image": "https://i.cbc.ca/ais/651c5fb3-ae9a-4d95-a399-bc1691c291cc,1794698159031/full/max/0/default.jpg?im=Crop%2Crect%3D%2819%2C0%2C1958%2C1101%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/edmonton/fifth-soldier-dies-cfb-wainwright-fire-9.7422365",
-          "title": "A 5th soldier injured in CFB Wainwright fire has died, officials say",
+          "title": "Fifth soldier dead from injuries suffered in CFB Wainwright fire, officials say",
           "published": "2026-11-14T20:57:06.000Z",
           "url": "https://www.cbc.ca/news/canada/edmonton/fifth-soldier-dies-cfb-wainwright-fire-9.7422365",
           "image": "https://i.cbc.ca/ais/396e0614-ff2f-49ee-b3a9-355d3840f61c,1794690220510/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C4%2C584%2C328%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/bird-flu-outbreak-at-national-sask-poultry-show-9.7422320",
+          "title": "Avian flu outbreak spreads to other provinces at national poultry show: CFIA",
+          "published": "2026-11-14T20:12:05.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/bird-flu-outbreak-at-national-sask-poultry-show-9.7422320",
+          "image": "https://i.cbc.ca/ais/2ea7cfd3-7ded-4924-b155-93f093153db6,1794681138981/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C554%2C1536%2C864%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/windsor/fight-against-proposed-600-foot-tower-pelee-island-9.7421940",
@@ -814,60 +834,60 @@
           "published": "2026-11-14T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/dieppe-park-montreal-9.7415951",
           "image": "https://i.cbc.ca/ais/fcbcecca-5869-4a21-8ca5-0ee0df665cbd,1794273995896/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3000%2C1687%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/tennis/wta-finals-nov-13-9.7422028",
-          "title": "Canada's Dabrowski, Brazil's Stefani advance to semifinals at WTA Finals after perfect group stage",
-          "published": "2026-11-14T06:07:34.000Z",
-          "url": "https://www.cbc.ca/sports/tennis/wta-finals-nov-13-9.7422028",
-          "image": "https://i.cbc.ca/ais/844ff602-03a0-4b03-8721-accbbb4b59ff,1794637282867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C227%2C4751%2C2672%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904",
-          "title": "Premier says Manitoba nearing limits of what it can do on affordability, so he's going after big corporations",
-          "published": "2026-11-14T03:14:56.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904",
-          "image": "https://i.cbc.ca/ais/88660b65-eb57-4bb3-9932-32c70b3db057,1794622155958/full/max/0/default.jpg?im=Crop%2Crect%3D%28180%2C0%2C3285%2C1847%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/rovere-homicide-sentencing-manslaughter-9.7421713",
-          "title": "Sentencing delayed for Edmonton man who left beaten girlfriend to drown, believing she was already dead",
-          "published": "2026-11-14T01:18:08.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/rovere-homicide-sentencing-manslaughter-9.7421713",
-          "image": "https://i.cbc.ca/ais/1.7354561,1794618231087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C7%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-14T22:36:07.859Z",
+      "checkedAt": "2026-11-15T06:50:17.890Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+          "published": "2026-11-15T03:21:04.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+          "published": "2026-11-15T02:49:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
+          "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+          "published": "2026-11-15T00:06:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
+          "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+          "published": "2026-11-15T00:06:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "title": "How telecoms upgrade work sparked US flight chaos",
+          "published": "2026-11-14T23:11:27.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "published": "2026-11-14T22:37:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
           "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
           "published": "2026-11-14T22:09:40.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "published": "2026-11-14T20:41:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-          "published": "2026-11-14T20:23:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-          "title": "How telecoms upgrade work sparked US flight chaos",
-          "published": "2026-11-14T20:03:48.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
@@ -924,27 +944,6 @@
           "published": "2026-11-14T10:42:20.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "published": "2026-11-14T06:42:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o",
-          "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-          "published": "2026-11-14T01:47:36.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
-          "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-          "published": "2026-11-14T00:03:56.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e93/live/a50b98a0-e042-11f1-88e1-eb4e155225b3.png"
         }
       ]
     }

@@ -686,6 +686,33 @@
           "image": "/media/volunteers.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "generatedAt": "2026-11-15T06:50:18.000Z",
+      "items": [
+        {
+          "id": "d7a78241ae09",
+          "kind": "guide",
+          "title": "A helping hand for families",
+          "summary": "Explore family and community support resources, with links to the organizations that provide them.",
+          "url": "/resources?category=Family%20%26%20support",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/community-friends.jpg"
+        },
+        {
+          "id": "a0a7adf71f04",
+          "kind": "talk",
+          "title": "716 - Sura al-Furqan - 61 - 67 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "summary": "Make time for a recent conversation from Faraz Rabbani & SeekersGuidance. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=CM3-2EJVreY",
+          "sourceId": "seekers",
+          "source": "Faraz Rabbani & SeekersGuidance",
+          "image": "https://i.ytimg.com/vi/CM3-2EJVreY/hqdefault.jpg",
+          "published": "2026-11-14T12:59:02.000Z"
+        }
+      ]
     }
   ]
 }
