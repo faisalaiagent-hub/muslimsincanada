@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-15T11:59:37.357Z",
+      "checkedAt": "2026-11-15T18:58:16.816Z",
       "items": [
         {
           "id": "CM3-2EJVreY",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-15T11:59:37.391Z",
+      "checkedAt": "2026-11-15T18:58:16.886Z",
       "items": [
         {
           "id": "uhENzfq3XwA",
@@ -152,7 +152,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-15T11:59:39.387Z",
+      "checkedAt": "2026-11-15T18:58:18.832Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/doha-film-festival-announces-international-cultural-partnerships/",
@@ -223,7 +223,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-15T11:59:40.165Z",
+      "checkedAt": "2026-11-15T18:58:19.424Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -295,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-15T11:59:37.268Z",
+      "checkedAt": "2026-11-15T18:58:16.742Z",
       "items": [
         {
           "id": "fzhjI_OiukE",
@@ -405,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-15T11:59:37.509Z",
+      "checkedAt": "2026-11-15T18:58:16.961Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -515,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-15T11:59:37.662Z",
+      "checkedAt": "2026-11-15T18:58:17.069Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -625,8 +625,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-15T11:59:37.749Z",
+      "checkedAt": "2026-11-15T18:58:17.203Z",
       "items": [
+        {
+          "id": "bPA-NdiGTSM",
+          "title": "For the Hardest Days....",
+          "published": "2026-11-15T17:30:06.000Z",
+          "url": "https://www.youtube.com/watch?v=bPA-NdiGTSM",
+          "image": "https://i.ytimg.com/vi/bPA-NdiGTSM/hqdefault.jpg"
+        },
         {
           "id": "0n5exsbgVNg",
           "title": "Majority opinion is not evidence. Ask for proof, not popularity.",
@@ -724,19 +731,61 @@
           "published": "2026-10-28T01:43:47.000Z",
           "url": "https://www.youtube.com/watch?v=N9j6rfbxWGo",
           "image": "https://i.ytimg.com/vi/N9j6rfbxWGo/hqdefault.jpg"
-        },
-        {
-          "id": "MwFgQdUI7j4",
-          "title": "A test can become a path upward when it brings you back to Allah.",
-          "published": "2026-10-27T20:00:28.000Z",
-          "url": "https://www.youtube.com/watch?v=MwFgQdUI7j4",
-          "image": "https://i.ytimg.com/vi/MwFgQdUI7j4/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-15T11:59:39.615Z",
+      "checkedAt": "2026-11-15T18:58:19.153Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/fishing-boat-capsize-fraser-river-9.7422794",
+          "title": "One person still missing after fishing boat capsized near Yale, B.C., search and rescue says",
+          "published": "2026-11-15T16:41:55.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/fishing-boat-capsize-fraser-river-9.7422794",
+          "image": "https://i.cbc.ca/ais/93526d0c-d016-4998-8d1a-b3298859c97a,1794757853868/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688",
+          "title": "Carney, Quebec premier discuss U.S. trade, homelessness at first meeting in Cambodia",
+          "published": "2026-11-15T15:19:25.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688",
+          "image": "https://i.cbc.ca/ais/435d3638-a380-4803-88b5-4ddc84260735,1794750009710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C7983%2C4490%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/marcellus-young-casario-rabun-gap-halifax-nova-scotia-university-of-georgia-9.7422636",
+          "title": "'He lived and breathed it': NCAA football prospect from N.S. has died",
+          "published": "2026-11-15T15:19:13.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/marcellus-young-casario-rabun-gap-halifax-nova-scotia-university-of-georgia-9.7422636",
+          "image": "https://i.cbc.ca/ais/3a9c8b1d-6765-4b5d-a83f-9ed330b32d1b,1794745798365/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C69%2C1206%2C678%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419",
+          "title": "Carney cites her award-winning book on encampments. She's eyeing his plan to end homelessness",
+          "published": "2026-11-15T15:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419",
+          "image": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/coca-cola-collector-jon-aschenbrener-9.7420809",
+          "title": "A hobby that pops: Saskatoon man's massive Coca-Cola collection inspired by rural roots",
+          "published": "2026-11-15T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/coca-cola-collector-jon-aschenbrener-9.7420809",
+          "image": "https://i.cbc.ca/ais/55d8c162-9a30-4f31-9b28-ed16837ae2d5,1794588777338/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/the-shore-club-cbc-documentary-9.7418793",
+          "title": "It started with a lobster supper. Now it's an East Coast institution",
+          "published": "2026-11-15T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/the-shore-club-cbc-documentary-9.7418793",
+          "image": "https://i.cbc.ca/ais/19e89f94-8e2c-453e-95fc-c75160e8858e,1794492641913/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/newfoundland-pronunciation-murder-9.7419506",
+          "title": "A man was once murdered over the pronunciation of 'Newfoundland'",
+          "published": "2026-11-15T09:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/newfoundland-pronunciation-murder-9.7419506",
+          "image": "https://i.cbc.ca/ais/ff832520-e79a-4a78-a729-8c17b482e4f0,1794509665823/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C65%2C632%2C355%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/sports/tennis/wta-finals-november-14-9.7422131",
           "title": "Canada's Dabrowski, Brazil's Stefani fall in doubles semifinals at WTA Finals",
@@ -787,66 +836,73 @@
           "image": "https://i.cbc.ca/ais/6842c07a-9da9-4d71-a7bf-a50bb7fda917,1794672970841/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C579%2C4032%2C2268%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-dei-merit-based-hiring-9.7421191",
-          "title": "Why is Alberta ditching diversity, equity and inclusion in hiring practices?",
-          "published": "2026-11-14T13:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-dei-merit-based-hiring-9.7421191",
-          "image": "https://i.cbc.ca/ais/620e61b9-deed-49f4-8596-2ec68c396167,1763685840798/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-final-flight-caf-rcaf-9.7421352",
           "title": "Snowbirds set to fly iconic jets for last time this weekend",
           "published": "2026-11-14T10:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-final-flight-caf-rcaf-9.7421352",
           "image": "https://i.cbc.ca/ais/690207a9-d0e3-4bb8-8ad9-3d3ded7b96e8,1794612887235/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C437%2C8386%2C4717%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/new-brunswick/phishing-scam-minor-hockey-teams-9.7421100",
-          "title": "Scam targeting minor hockey teams 'heartbreaking' for affected kids",
-          "published": "2026-11-14T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/new-brunswick/phishing-scam-minor-hockey-teams-9.7421100",
-          "image": "https://i.cbc.ca/ais/1.6755526,1677015500000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C1239%2C696%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/kitchener-waterloo/stirling-marathon-9.7421011",
-          "title": "People called this Elora, Ont., company for a washer it supposedly sells. Except it doesn't even make washers",
-          "published": "2026-11-14T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/stirling-marathon-9.7421011",
-          "image": "https://i.cbc.ca/ais/3aa1906a-638c-4d7a-9f8b-e026e6d4f031,1794593818663/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/ontario-ad-spending-freedom-of-information-9.7421602",
-          "title": "Ford government spent nearly $46M on 2 ad campaigns, FOI docs reveal",
-          "published": "2026-11-14T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/ontario-ad-spending-freedom-of-information-9.7421602",
-          "image": "https://i.cbc.ca/ais/057ce3f2-d3ad-40dd-8455-8b97e0c07338,1792491539832/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C278%2C5331%2C2998%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/hay-shortage-2026-2027-9.7418319",
-          "title": "These farmers are worried N.L. is facing another hay shortage",
-          "published": "2026-11-14T09:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hay-shortage-2026-2027-9.7418319",
-          "image": "https://i.cbc.ca/ais/583e1ea4-b2e9-4ecf-ba62-3e1e6783f536,1794426652078/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117",
-          "title": "Quebec assumes parents help pay for post-secondary schooling. Students say many can't",
-          "published": "2026-11-14T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117",
-          "image": "https://i.cbc.ca/ais/efde61f7-bcaf-40af-ad7d-a6ce97b70273,1794595430638/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6268%2C3525%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/dieppe-park-montreal-9.7415951",
-          "title": "Montreal's deteriorating Dieppe Park to get $35M makeover — but not any time soon",
-          "published": "2026-11-14T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/dieppe-park-montreal-9.7415951",
-          "image": "https://i.cbc.ca/ais/fcbcecca-5869-4a21-8ca5-0ee0df665cbd,1794273995896/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3000%2C1687%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-15T11:59:40.293Z",
+      "checkedAt": "2026-11-15T18:58:19.588Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "published": "2026-11-15T18:08:20.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
+          "title": "Czechs rally against plan to switch funding of public media",
+          "published": "2026-11-15T17:23:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+          "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+          "published": "2026-11-15T15:57:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "title": "How telecoms upgrade work sparked US flight chaos",
+          "published": "2026-11-15T14:57:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "published": "2026-11-15T14:56:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "published": "2026-11-15T14:33:59.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+          "title": "Iran targets US military base in Bahrain with drone attack",
+          "published": "2026-11-15T13:42:58.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
+          "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+          "published": "2026-11-15T13:37:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
           "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
@@ -883,13 +939,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-          "published": "2026-11-15T03:21:04.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
           "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
           "published": "2026-11-15T00:06:55.000Z",
@@ -902,55 +951,6 @@
           "published": "2026-11-15T00:06:51.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-          "title": "How telecoms upgrade work sparked US flight chaos",
-          "published": "2026-11-14T23:11:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "published": "2026-11-14T22:37:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
-          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-          "published": "2026-11-14T22:27:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
-          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-          "published": "2026-11-14T22:09:40.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
-          "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-          "published": "2026-11-14T19:14:33.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-          "title": "Italy fines Meta €805m over accessing users' photos",
-          "published": "2026-11-14T18:28:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo",
-          "title": "Philippines wins first Eurovision Song Contest Asia",
-          "published": "2026-11-14T18:17:58.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
         }
       ]
     }
