@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-14T18:18:44.348Z",
+      "checkedAt": "2026-11-15T11:59:37.357Z",
       "items": [
         {
           "id": "CM3-2EJVreY",
@@ -112,8 +112,22 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-14T18:18:44.462Z",
+      "checkedAt": "2026-11-15T11:59:37.391Z",
       "items": [
+        {
+          "id": "uhENzfq3XwA",
+          "title": "They Said His Death Didn't Count | Dr. Omar Suleiman",
+          "published": "2026-11-14T21:28:26.000Z",
+          "url": "https://www.youtube.com/watch?v=uhENzfq3XwA",
+          "image": "https://i.ytimg.com/vi/uhENzfq3XwA/hqdefault.jpg"
+        },
+        {
+          "id": "fUxdg-2I46U",
+          "title": "Why Allah Didn’t Forgive Him | Dr. Omar Suleiman",
+          "published": "2026-11-14T20:02:12.000Z",
+          "url": "https://www.youtube.com/watch?v=fUxdg-2I46U",
+          "image": "https://i.ytimg.com/vi/fUxdg-2I46U/hqdefault.jpg"
+        },
         {
           "id": "p4iXuM4bJVM",
           "title": "Will We Be Destroyed? | Dr. Omar Suleiman",
@@ -134,18 +148,11 @@
           "published": "2026-11-10T17:00:10.000Z",
           "url": "https://www.youtube.com/watch?v=U0PRFP0fWBU",
           "image": "https://i.ytimg.com/vi/U0PRFP0fWBU/hqdefault.jpg"
-        },
-        {
-          "id": "aHMO6e5LIZU",
-          "title": "Salama ibn al-Akwa (ra): The Fastest Runner In Medina | The Firsts | Dr. Omar Suleiman",
-          "published": "2026-11-09T15:30:08.000Z",
-          "url": "https://www.youtube.com/watch?v=aHMO6e5LIZU",
-          "image": "https://i.ytimg.com/vi/aHMO6e5LIZU/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-15T06:50:10.633Z",
+      "checkedAt": "2026-11-15T11:59:39.387Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/doha-film-festival-announces-international-cultural-partnerships/",
@@ -216,7 +223,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-15T06:50:17.768Z",
+      "checkedAt": "2026-11-15T11:59:40.165Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
@@ -288,7 +295,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-14T22:36:06.274Z",
+      "checkedAt": "2026-11-15T11:59:37.268Z",
       "items": [
         {
           "id": "fzhjI_OiukE",
@@ -398,7 +405,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-14T18:18:44.584Z",
+      "checkedAt": "2026-11-15T11:59:37.509Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -508,7 +515,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-14T18:18:44.686Z",
+      "checkedAt": "2026-11-15T11:59:37.662Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -618,8 +625,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-14T18:18:44.850Z",
+      "checkedAt": "2026-11-15T11:59:37.749Z",
       "items": [
+        {
+          "id": "0n5exsbgVNg",
+          "title": "Majority opinion is not evidence. Ask for proof, not popularity.",
+          "published": "2026-11-15T09:26:36.000Z",
+          "url": "https://www.youtube.com/watch?v=0n5exsbgVNg",
+          "image": "https://i.ytimg.com/vi/0n5exsbgVNg/hqdefault.jpg"
+        },
         {
           "id": "NkrYHjA6Gds",
           "title": "Do Not Get Distracted O Muslims...",
@@ -717,18 +731,11 @@
           "published": "2026-10-27T20:00:28.000Z",
           "url": "https://www.youtube.com/watch?v=MwFgQdUI7j4",
           "image": "https://i.ytimg.com/vi/MwFgQdUI7j4/hqdefault.jpg"
-        },
-        {
-          "id": "VpnoHQNR1ko",
-          "title": "Blessings are preserved through responsibility, gratitude, and the character you build around them.",
-          "published": "2026-10-27T09:03:14.000Z",
-          "url": "https://www.youtube.com/watch?v=VpnoHQNR1ko",
-          "image": "https://i.ytimg.com/vi/VpnoHQNR1ko/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-15T06:50:10.824Z",
+      "checkedAt": "2026-11-15T11:59:39.615Z",
       "items": [
         {
           "id": "https://www.cbc.ca/sports/tennis/wta-finals-november-14-9.7422131",
@@ -838,21 +845,49 @@
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-15T06:50:17.890Z",
+      "checkedAt": "2026-11-15T11:59:40.293Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
+          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "published": "2026-11-15T11:06:32.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+          "published": "2026-11-15T09:57:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
+          "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+          "published": "2026-11-15T09:26:37.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
+          "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+          "published": "2026-11-15T08:17:41.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
+          "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+          "published": "2026-11-15T07:10:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
           "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
           "published": "2026-11-15T03:21:04.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-          "published": "2026-11-15T02:49:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
@@ -883,6 +918,13 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "published": "2026-11-14T22:27:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo",
           "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
           "published": "2026-11-14T22:09:40.000Z",
@@ -897,13 +939,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-          "published": "2026-11-14T19:12:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
           "title": "Italy fines Meta €805m over accessing users' photos",
           "published": "2026-11-14T18:28:06.000Z",
@@ -916,34 +951,6 @@
           "published": "2026-11-14T18:17:58.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo",
-          "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-          "published": "2026-11-14T18:00:10.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
-          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "published": "2026-11-14T15:53:55.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo",
-          "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-          "published": "2026-11-14T15:42:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo",
-          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-          "published": "2026-11-14T10:42:20.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
         }
       ]
     }
