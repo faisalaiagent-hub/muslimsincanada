@@ -152,79 +152,86 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-15T18:58:18.832Z",
+      "checkedAt": "2026-11-16T06:49:22.490Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-military-jeep-runs-over-injures-2-palestinians-in-occupied-west-bank/",
+          "title": "Israeli military jeep runs over, injures 2 Palestinians in occupied West Bank",
+          "published": "2026-11-16T06:30:09.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-military-jeep-runs-over-injures-2-palestinians-in-occupied-west-bank/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/AA-20260814-42217785-42217774-THREE_PALESTINIANS_INJURED_BY_ISRAELI_FORCES_IN_WEST_BANK.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/3-palestinians-killed-in-israeli-attacks-across-gaza/",
+          "title": "3 Palestinians killed in Israeli attacks across Gaza",
+          "published": "2026-11-16T06:28:10.000Z",
+          "url": "https://www.muslimnetwork.tv/3-palestinians-killed-in-israeli-attacks-across-gaza/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261115-43084506-43084479-MASS_FUNERAL_HELD_IN_GAZA_FOR_70_PALESTINIANS_RECOVERED_FROM_RUBBLE.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/irans-navy-says-oil-tanker-struck-mine-and-caught-fire-east-of-strait-of-hormuz/",
+          "title": "Iran’s navy says oil tanker struck mine and caught fire east of Strait of Hormuz",
+          "published": "2026-11-16T06:26:15.000Z",
+          "url": "https://www.muslimnetwork.tv/irans-navy-says-oil-tanker-struck-mine-and-caught-fire-east-of-strait-of-hormuz/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/06/AA-20260621-41739872-41739867-COMMERCIAL_SHIPS_AND_OIL_TANKERS_IN_GULF_OF_OMAN_AHEAD_OF_HORMUZ_REOPENING.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/eisenkot-calls-netanyahu-a-direct-threat-to-israels-democracy-vows-probe-into-alleged-election-interference/",
+          "title": "Eisenkot calls Netanyahu a ‘direct threat’ to Israel’s democracy, vows probe into alleged election interference",
+          "published": "2026-11-16T06:24:58.000Z",
+          "url": "https://www.muslimnetwork.tv/eisenkot-calls-netanyahu-a-direct-threat-to-israels-democracy-vows-probe-into-alleged-election-interference/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_469fb7eae6a1bcdbfcaa28c7ce5d40a2.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/iran-says-wont-remain-in-neither-war-nor-peace-state/",
+          "title": "Iran says won’t remain in ‘neither war nor peace’ state",
+          "published": "2026-11-16T06:21:15.000Z",
+          "url": "https://www.muslimnetwork.tv/iran-says-wont-remain-in-neither-war-nor-peace-state/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_7999a6bff118ff2632e9b9bd939629ff.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/former-nvidia-ceo-jensen-huang-discusses-potential-comeback-with-allies-report/",
+          "title": "Former Nvidia CEO Jensen Huang discusses potential comeback with allies: report",
+          "published": "2026-11-16T06:18:25.000Z",
+          "url": "https://www.muslimnetwork.tv/former-nvidia-ceo-jensen-huang-discusses-potential-comeback-with-allies-report/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-uma-media-2149408028-30608594-1.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/doha-film-festival-announces-international-cultural-partnerships/",
           "title": "Doha Film Festival announces international cultural partnerships",
           "published": "2026-11-14T10:33:11.000Z",
-          "url": "https://www.muslimnetwork.tv/doha-film-festival-announces-international-cultural-partnerships/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-sajjad-naqvi-1348573-38941832.jpg"
+          "url": "https://www.muslimnetwork.tv/doha-film-festival-announces-international-cultural-partnerships/"
         },
         {
           "id": "https://www.muslimnetwork.tv/saudi-and-pakistani-artists-showcase-shared-cultural-heritage/",
           "title": "Saudi and Pakistani artists showcase shared cultural heritage",
           "published": "2026-11-14T10:31:38.000Z",
-          "url": "https://www.muslimnetwork.tv/saudi-and-pakistani-artists-showcase-shared-cultural-heritage/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-muhlis-baysal-99815948-38303659.jpg"
+          "url": "https://www.muslimnetwork.tv/saudi-and-pakistani-artists-showcase-shared-cultural-heritage/"
         },
         {
           "id": "https://www.muslimnetwork.tv/palestine-book-awards-celebrate-writers-preserving-national-history/",
           "title": "Palestine Book Awards celebrate writers preserving national history",
           "published": "2026-11-14T10:30:12.000Z",
-          "url": "https://www.muslimnetwork.tv/palestine-book-awards-celebrate-writers-preserving-national-history/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/generic-book-awards-banner.jpg"
+          "url": "https://www.muslimnetwork.tv/palestine-book-awards-celebrate-writers-preserving-national-history/"
         },
         {
           "id": "https://www.muslimnetwork.tv/un-warns-israeli-attacks-threaten-gaza-health-system-collapse/",
           "title": "UN warns Israeli attacks threaten Gaza health system collapse",
           "published": "2026-11-14T10:28:28.000Z",
-          "url": "https://www.muslimnetwork.tv/un-warns-israeli-attacks-threaten-gaza-health-system-collapse/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Latest-strike-on-Nasser-Medical-Complex-kills-six-Palestinians-as-medical-facilities-struggle-amid-prolonged-destruction.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/france-condemns-israels-entry-ban-on-opposition-leaders/",
-          "title": "France condemns Israel’s entry ban on opposition leaders",
-          "published": "2026-11-14T10:27:00.000Z",
-          "url": "https://www.muslimnetwork.tv/france-condemns-israels-entry-ban-on-opposition-leaders/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_c5d5faf767a138ed0a5b1f95b3a049ae.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/saudi-researchers-examine-mysterious-stone-circles-in-hali/",
-          "title": "Saudi researchers examine mysterious stone circles in Hali",
-          "published": "2026-11-14T10:24:58.000Z",
-          "url": "https://www.muslimnetwork.tv/saudi-researchers-examine-mysterious-stone-circles-in-hali/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-ahmed-moawad-436466304-29436396.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iran-says-two-oil-tankers-struck-mines-in-hormuz/",
-          "title": "Iran says two oil tankers struck mines in Hormuz",
-          "published": "2026-11-14T10:22:40.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-says-two-oil-tankers-struck-mines-in-hormuz/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/lebanons-beirut-falafel-family-preserves-century-old-culinary-tradition/",
-          "title": "Lebanon’s Beirut falafel family preserves century-old culinary tradition",
-          "published": "2026-11-14T10:21:22.000Z",
-          "url": "https://www.muslimnetwork.tv/lebanons-beirut-falafel-family-preserves-century-old-culinary-tradition/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/x-suspends-palestinian-americans-senate-campaign-account/",
-          "title": "X suspends Palestinian American’s Senate campaign account",
-          "published": "2026-11-14T08:49:37.000Z",
-          "url": "https://www.muslimnetwork.tv/x-suspends-palestinian-americans-senate-campaign-account/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/us-lifts-nationwide-flight-ground-stop-after-telecommunications-outage/",
-          "title": "US lifts nationwide flight ground stop after telecommunications outage",
-          "published": "2026-11-14T08:35:42.000Z",
-          "url": "https://www.muslimnetwork.tv/us-lifts-nationwide-flight-ground-stop-after-telecommunications-outage/"
+          "url": "https://www.muslimnetwork.tv/un-warns-israeli-attacks-threaten-gaza-health-system-collapse/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-15T18:58:19.424Z",
+      "checkedAt": "2026-11-16T06:49:24.506Z",
       "items": [
+        {
+          "id": "https://muslimmatters.org/2026/11/16/chris-van-hollen-the-pakistan-born-senator-too-principled-for-pakistans-powerful/",
+          "title": "Chris Van Hollen: The Pakistan-Born Senator Too Principled for Pakistan’s Powerful",
+          "published": "2026-11-16T05:32:40.000Z",
+          "url": "https://muslimmatters.org/2026/11/16/chris-van-hollen-the-pakistan-born-senator-too-principled-for-pakistans-powerful/",
+          "image": "https://muslimmatters.org/wp-content/uploads/John-Esposito-w1796xh1010-jpg-300x158.webp"
+        },
         {
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
           "title": "[Podcast] Wait, Muslims Have Been Here HOW Long?! | Hassam Munir",
@@ -284,13 +291,6 @@
           "title": "From a Syrian Prison to the UN: The Case of Bilal Abdul Kareem",
           "published": "2026-09-02T11:00:42.000Z",
           "url": "https://muslimmatters.org/2026/09/02/from-a-syrian-prison-to-the-un/"
-        },
-        {
-          "id": "https://muslimmatters.org/2026/08/28/putting-lipstick-on-the-rss-pig/",
-          "title": "Putting Lipstick On The RSS Pig",
-          "published": "2026-08-28T22:29:34.000Z",
-          "url": "https://muslimmatters.org/2026/08/28/putting-lipstick-on-the-rss-pig/",
-          "image": "https://muslimmatters.org/wp-content/uploads/modimohan-300x179.png"
         }
       ]
     },
@@ -735,8 +735,50 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-15T18:58:19.153Z",
+      "checkedAt": "2026-11-16T06:49:22.697Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/cross-canada-canoe-journey-ends-in-vancouver-9.7423116",
+          "title": "3 friends complete 8,000-km canoe journey across Canada, arriving at Vancouver's Jericho Beach",
+          "published": "2026-11-16T04:11:45.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/cross-canada-canoe-journey-ends-in-vancouver-9.7423116",
+          "image": "https://i.cbc.ca/ais/41dd20f3-6a36-4fb9-b21b-98c9bba1f8cd,1794798345736/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C338%2C6500%2C3656%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-jets-flight-caf-rcaf-9.7422962",
+          "title": "Snowbirds bid farewell to legendary jets in final flight over Calgary",
+          "published": "2026-11-16T01:08:05.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-jets-flight-caf-rcaf-9.7422962",
+          "image": "https://i.cbc.ca/ais/1580df0b-dde8-49e9-8d26-3dfae07ddc42,1794795091636/full/max/0/default.jpg?im=Crop%2Crect%3D%281005%2C469%2C6191%2C3482%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/basketball/wnba-draft-lottery-recap-9.7422985",
+          "title": "Toronto Tempo earn No. 1 pick after winning 2027 WNBA draft lottery",
+          "published": "2026-11-16T00:57:11.000Z",
+          "url": "https://www.cbc.ca/sports/basketball/wnba-draft-lottery-recap-9.7422985",
+          "image": "https://i.cbc.ca/ais/9d6af0bd-ed09-4218-86cb-0cefe478a016,1794789446605/full/max/0/default.jpg?im=Crop%2Crect%3D%28178%2C75%2C749%2C421%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/player/play/9.7423030",
+          "title": "Community comes together to say farewell to Bailey, a dog with cancer",
+          "published": "2026-11-15T23:22:06.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7423030",
+          "image": "https://i.cbc.ca/ais/dedc6e05-9150-4bf7-9595-eaf53eff9cbf,1794784873134/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/faa-ground-stop-order-canada-comparison-9.7422968",
+          "title": "Nationwide flight grounding unlikely in Canada, says aviation expert",
+          "published": "2026-11-15T21:48:17.000Z",
+          "url": "https://www.cbc.ca/news/canada/faa-ground-stop-order-canada-comparison-9.7422968",
+          "image": "https://i.cbc.ca/ais/56c9efc6-db5e-4911-b599-6dedbae631e8,1794777653548/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5009%2C2817%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/hockey/recap-semifinal-womens-hockey-worlds-denmark-nov-15-9.7422813",
+          "title": "Fillier scores again as Canada tops Sweden, advances to face U.S. in women's hockey worlds final",
+          "published": "2026-11-15T17:23:16.000Z",
+          "url": "https://www.cbc.ca/sports/hockey/recap-semifinal-womens-hockey-worlds-denmark-nov-15-9.7422813",
+          "image": "https://i.cbc.ca/ais/77da908d-7a23-4b9c-b4c8-3ee2253b0424,1794778459659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C482%2C5780%2C3251%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/fishing-boat-capsize-fraser-river-9.7422794",
           "title": "One person still missing after fishing boat capsized near Yale, B.C., search and rescue says",
@@ -794,79 +836,107 @@
           "image": "https://i.cbc.ca/ais/3fcb1348-7d06-44c9-9ad7-595801858548,1794715608570/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C123%2C4564%2C2567%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/sports/olympics/winter/curling/nova-scotia-wins-canadian-mixed-curling-championship-9.7422466",
-          "title": "Nova Scotia's MacDougall uses 5-point 8th end to win mixed curling nationals",
-          "published": "2026-11-14T23:16:14.000Z",
-          "url": "https://www.cbc.ca/sports/olympics/winter/curling/nova-scotia-wins-canadian-mixed-curling-championship-9.7422466",
-          "image": "https://i.cbc.ca/ais/651c5fb3-ae9a-4d95-a399-bc1691c291cc,1794698159031/full/max/0/default.jpg?im=Crop%2Crect%3D%2819%2C0%2C1958%2C1101%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/edmonton/fifth-soldier-dies-cfb-wainwright-fire-9.7422365",
           "title": "Fifth soldier dead from injuries suffered in CFB Wainwright fire, officials say",
           "published": "2026-11-14T20:57:06.000Z",
           "url": "https://www.cbc.ca/news/canada/edmonton/fifth-soldier-dies-cfb-wainwright-fire-9.7422365",
           "image": "https://i.cbc.ca/ais/396e0614-ff2f-49ee-b3a9-355d3840f61c,1794690220510/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C4%2C584%2C328%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/bird-flu-outbreak-at-national-sask-poultry-show-9.7422320",
-          "title": "Avian flu outbreak spreads to other provinces at national poultry show: CFIA",
-          "published": "2026-11-14T20:12:05.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/bird-flu-outbreak-at-national-sask-poultry-show-9.7422320",
-          "image": "https://i.cbc.ca/ais/2ea7cfd3-7ded-4924-b155-93f093153db6,1794681138981/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C554%2C1536%2C864%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/windsor/fight-against-proposed-600-foot-tower-pelee-island-9.7421940",
-          "title": "Margaret Atwood joins other bird lovers to fight against a proposed 600-foot tower on Pelee Island",
-          "published": "2026-11-14T18:02:13.000Z",
-          "url": "https://www.cbc.ca/news/canada/windsor/fight-against-proposed-600-foot-tower-pelee-island-9.7421940",
-          "image": "https://i.cbc.ca/ais/1.4724856,1586874959000/full/max/0/default.jpg?im=Crop%2Crect%3D%28152%2C61%2C736%2C414%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/safe-supply-drug-prescriptions-change-9.7421199",
-          "title": "Change to Ontario's 'safer-supply' opioid prescriptions abruptly paused due to legal challenge",
-          "published": "2026-11-14T17:01:28.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/safe-supply-drug-prescriptions-change-9.7421199",
-          "image": "https://i.cbc.ca/ais/7baa9bc3-fd7e-40f6-99c3-ba5e99e1cb19,1794679514979/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C342%2C3648%2C2052%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/burlington-house-fire-halton-police-9.7422200",
-          "title": "3 kids, 2 adults in life-threatening condition after Burlington, Ont., house fire: police",
-          "published": "2026-11-14T15:32:22.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/burlington-house-fire-halton-police-9.7422200",
-          "image": "https://i.cbc.ca/ais/6842c07a-9da9-4d71-a7bf-a50bb7fda917,1794672970841/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C579%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-final-flight-caf-rcaf-9.7421352",
-          "title": "Snowbirds set to fly iconic jets for last time this weekend",
-          "published": "2026-11-14T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-final-flight-caf-rcaf-9.7421352",
-          "image": "https://i.cbc.ca/ais/690207a9-d0e3-4bb8-8ad9-3d3ded7b96e8,1794612887235/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C437%2C8386%2C4717%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-15T18:58:19.588Z",
+      "checkedAt": "2026-11-16T06:49:24.639Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "published": "2026-11-15T18:08:20.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo",
+          "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+          "published": "2026-11-16T05:06:59.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fe/live/01adab80-e178-11f1-9340-0b32bbf5495e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo",
+          "title": "Watch: New York teen reunites with cat missing after building collapse",
+          "published": "2026-11-16T04:36:45.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de04/live/9f9bf490-e174-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
+          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "published": "2026-11-16T03:21:56.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e43a/live/4a4493e0-e169-11f1-89b7-092cfa4897c7.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
+          "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+          "published": "2026-11-16T03:09:49.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+          "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+          "published": "2026-11-16T03:08:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "published": "2026-11-16T01:47:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
+          "title": "Russia's mega-rich are already imagining a future after Putin",
+          "published": "2026-11-16T00:13:14.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c65y131w1534o",
+          "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+          "published": "2026-11-15T22:57:27.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo",
+          "title": "Canada bars Russia from Junior World Championships",
+          "published": "2026-11-15T22:01:16.000Z",
+          "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c60evn992jq8o",
+          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+          "published": "2026-11-15T22:00:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3f/live/22cfe9d0-e115-11f1-a7db-d90284d21c62.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
           "title": "Czechs rally against plan to switch funding of public media",
-          "published": "2026-11-15T17:23:40.000Z",
+          "published": "2026-11-15T21:03:40.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-          "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-          "published": "2026-11-15T15:57:03.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "published": "2026-11-15T19:32:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo",
+          "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+          "published": "2026-11-15T18:38:11.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
@@ -876,81 +946,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "published": "2026-11-15T14:56:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
-          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-          "published": "2026-11-15T14:33:59.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
-          "title": "Iran targets US military base in Bahrain with drone attack",
-          "published": "2026-11-15T13:42:58.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
           "title": "South Korea's top scorer in tax accountancy exam admits cheating",
           "published": "2026-11-15T13:37:45.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
-          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-          "published": "2026-11-15T11:06:32.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-          "published": "2026-11-15T09:57:25.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
-          "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-          "published": "2026-11-15T09:26:37.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
-          "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-          "published": "2026-11-15T08:17:41.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-          "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-          "published": "2026-11-15T07:10:31.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
-          "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-          "published": "2026-11-15T00:06:55.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
-          "title": "Judo champion shakes up French  presidential race with surprise candidacy",
-          "published": "2026-11-15T00:06:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg"
         }
       ]
     }

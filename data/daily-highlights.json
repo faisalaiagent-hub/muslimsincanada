@@ -713,6 +713,33 @@
           "published": "2026-11-14T12:59:02.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "generatedAt": "2026-11-16T06:49:24.734Z",
+      "items": [
+        {
+          "id": "59de2a986fd8",
+          "kind": "news",
+          "title": "Israeli military jeep runs over, injures 2 Palestinians in occupied West Bank",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/israeli-military-jeep-runs-over-injures-2-palestinians-in-occupied-west-bank/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/AA-20260814-42217785-42217774-THREE_PALESTINIANS_INJURED_BY_ISRAELI_FORCES_IN_WEST_BANK.jpg",
+          "published": "2026-11-16T06:30:09.000Z"
+        },
+        {
+          "id": "69a06e9f5c25",
+          "kind": "guide",
+          "title": "Find mosques and halal food near you",
+          "summary": "Use MIC’s area search and optional location to discover nearby places, starting in the GTA.",
+          "url": "/guides/find-mosques-halal-food-near-you",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/prayer-space.jpg"
+        }
+      ]
     }
   ]
 }
