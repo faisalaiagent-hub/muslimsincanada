@@ -2,8 +2,22 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-16T12:51:08.194Z",
+      "checkedAt": "2026-11-16T22:20:19.450Z",
       "items": [
+        {
+          "id": "sXZT0oVddEg",
+          "title": "717 - Sura al-Furqan - 68 - 71 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-11-16T18:44:49.000Z",
+          "url": "https://www.youtube.com/watch?v=sXZT0oVddEg",
+          "image": "https://i.ytimg.com/vi/sXZT0oVddEg/hqdefault.jpg"
+        },
+        {
+          "id": "5is1w4y9Bmg",
+          "title": "37 - Categories 47-50: Knowing the Singletons, Narrators Mentioned Under Different Names",
+          "published": "2026-11-16T14:02:09.000Z",
+          "url": "https://www.youtube.com/watch?v=5is1w4y9Bmg",
+          "image": "https://i.ytimg.com/vi/5is1w4y9Bmg/hqdefault.jpg"
+        },
         {
           "id": "CM3-2EJVreY",
           "title": "716 - Sura al-Furqan - 61 - 67 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
@@ -94,30 +108,16 @@
           "published": "2026-11-03T02:52:54.000Z",
           "url": "https://www.youtube.com/watch?v=nfLpV2--DO4",
           "image": "https://i.ytimg.com/vi/nfLpV2--DO4/hqdefault.jpg"
-        },
-        {
-          "id": "myPaLrTU5CA",
-          "title": "709 - Sura al-Furqan - 21 - 26 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
-          "published": "2026-11-02T20:00:36.000Z",
-          "url": "https://www.youtube.com/watch?v=myPaLrTU5CA",
-          "image": "https://i.ytimg.com/vi/myPaLrTU5CA/hqdefault.jpg"
-        },
-        {
-          "id": "opbfWcscdn4",
-          "title": "708 - Sura al-Furqan - 18 - 20 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
-          "published": "2026-10-31T13:07:29.000Z",
-          "url": "https://www.youtube.com/watch?v=opbfWcscdn4",
-          "image": "https://i.ytimg.com/vi/opbfWcscdn4/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-16T12:51:08.225Z",
+      "checkedAt": "2026-11-16T22:20:19.643Z",
       "items": [
         {
           "id": "P4Rqf9Fq9zE",
           "title": "Abu Qatada (ra): The Best Horseman in Medina | The Firsts | Dr. Omar Suleiman",
-          "published": "2026-11-16T04:30:24.000Z",
+          "published": "2026-11-16T15:00:08.000Z",
           "url": "https://www.youtube.com/watch?v=P4Rqf9Fq9zE",
           "image": "https://i.ytimg.com/vi/P4Rqf9Fq9zE/hqdefault.jpg"
         },
@@ -159,78 +159,78 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-16T12:51:09.737Z",
+      "checkedAt": "2026-11-16T22:20:21.381Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/young-muslim-man-dies-in-indian-jail-amid-torture-allegations/",
+          "title": "Young Muslim man dies in Indian jail amid torture allegations",
+          "published": "2026-11-16T20:52:41.000Z",
+          "url": "https://www.muslimnetwork.tv/young-muslim-man-dies-in-indian-jail-amid-torture-allegations/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/11/AFP-TV_20240604_POL_IND_PoliticsModi_34UX4BY_en.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/muslim-man-killed-after-visiting-hospital-to-donate-blood-in-india/",
+          "title": "Muslim man killed after visiting hospital to donate blood in India",
+          "published": "2026-11-16T20:51:19.000Z",
+          "url": "https://www.muslimnetwork.tv/muslim-man-killed-after-visiting-hospital-to-donate-blood-in-india/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-shantanu09-11974201.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/homes-of-132-muslim-families-displaced-in-1983-razed-in-india/",
+          "title": "Homes of 132 Muslim families displaced in 1983 razed in India",
+          "published": "2026-11-16T20:49:47.000Z",
+          "url": "https://www.muslimnetwork.tv/homes-of-132-muslim-families-displaced-in-1983-razed-in-india/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-shantumsingh-32366612.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/dalits-face-caste-segregation-during-hindu-festival-in-nepal/",
+          "title": "Dalits face caste segregation during Hindu festival in Nepal",
+          "published": "2026-11-16T20:48:22.000Z",
+          "url": "https://www.muslimnetwork.tv/dalits-face-caste-segregation-during-hindu-festival-in-nepal/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-tkirkgoz-6026421.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/maldives-trains-farmers-to-boost-domestic-agriculture-and-food-security/",
+          "title": "Maldives trains farmers to boost domestic agriculture and food security",
+          "published": "2026-11-16T20:46:55.000Z",
+          "url": "https://www.muslimnetwork.tv/maldives-trains-farmers-to-boost-domestic-agriculture-and-food-security/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-zizi-6516276.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/bangladesh-sees-fresh-rohingya-arrivals-amid-persecution-in-india-burma/",
+          "title": "Bangladesh sees fresh Rohingya arrivals amid persecution in India, Burma",
+          "published": "2026-11-16T20:39:23.000Z",
+          "url": "https://www.muslimnetwork.tv/bangladesh-sees-fresh-rohingya-arrivals-amid-persecution-in-india-burma/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/Dhaka-says-Burma-is-understating-scale-of-Rohingya-displacement-excluding-children-and-later-arrivals-from-its-calculations-and-wrongly-denying-communitys-ethnic-identity-.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/uae-detains-five-shia-residents-against-hr-law-hrw/",
+          "title": "UAE detains five Shia residents against HR law: HRW",
+          "published": "2026-11-16T12:57:30.000Z",
+          "url": "https://www.muslimnetwork.tv/uae-detains-five-shia-residents-against-hr-law-hrw/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/israel-holds-38-palestinian-journalists-as-two-remain-missing/",
           "title": "Israel holds 38 Palestinian journalists as two remain missing",
           "published": "2026-11-16T12:49:58.000Z",
-          "url": "https://www.muslimnetwork.tv/israel-holds-38-palestinian-journalists-as-two-remain-missing/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_5bb2435cbd6e55f0197d52cef62dcc81.webp"
+          "url": "https://www.muslimnetwork.tv/israel-holds-38-palestinian-journalists-as-two-remain-missing/"
         },
         {
           "id": "https://www.muslimnetwork.tv/israeli-attacks-kill-palestinians-in-gaza-injure-west-bank-residents/",
           "title": "Israeli attacks kill Palestinians in Gaza, injure West Bank residents",
           "published": "2026-11-16T12:48:38.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-attacks-kill-palestinians-in-gaza-injure-west-bank-residents/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_3cde88ec1b4a5e1456a6f5300536fd03-1.webp"
+          "url": "https://www.muslimnetwork.tv/israeli-attacks-kill-palestinians-in-gaza-injure-west-bank-residents/"
         },
         {
           "id": "https://www.muslimnetwork.tv/saudi-artist-combines-artificial-intelligence-with-traditional-art/",
           "title": "Saudi artist combines artificial intelligence with traditional art",
           "published": "2026-11-16T12:46:56.000Z",
-          "url": "https://www.muslimnetwork.tv/saudi-artist-combines-artificial-intelligence-with-traditional-art/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_ccebab0441e4feb7b0b48392be510449.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/us-deploys-third-aircraft-carrier-toward-middle-east/",
-          "title": "US deploys third aircraft carrier toward Middle East",
-          "published": "2026-11-16T12:43:54.000Z",
-          "url": "https://www.muslimnetwork.tv/us-deploys-third-aircraft-carrier-toward-middle-east/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_0848bb18c5a47738992b156f0f94ff69.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/egypts-cairo-film-festival-launches-book-to-screen-forum/",
-          "title": "Egypt’s Cairo Film Festival launches Book to Screen forum",
-          "published": "2026-11-16T12:41:16.000Z",
-          "url": "https://www.muslimnetwork.tv/egypts-cairo-film-festival-launches-book-to-screen-forum/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/01KRVQXV8J04RYGQP3DDX2Q8ED.jpeg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/jordan-blocks-telegram-over-national-security-concerns/",
-          "title": "Jordan blocks Telegram over national security concerns",
-          "published": "2026-11-16T12:38:09.000Z",
-          "url": "https://www.muslimnetwork.tv/jordan-blocks-telegram-over-national-security-concerns/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_5c43de64e2cf4fe6b30d34658f1242e7.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iran-refuses-nuclear-inspections-until-war-ends/",
-          "title": "Iran refuses nuclear inspections until war ends",
-          "published": "2026-11-16T09:58:15.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-refuses-nuclear-inspections-until-war-ends/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-military-jeep-runs-over-injures-2-palestinians-in-occupied-west-bank/",
-          "title": "Israeli military jeep runs over, injures 2 Palestinians in occupied West Bank",
-          "published": "2026-11-16T06:30:09.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-military-jeep-runs-over-injures-2-palestinians-in-occupied-west-bank/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/3-palestinians-killed-in-israeli-attacks-across-gaza/",
-          "title": "3 Palestinians killed in Israeli attacks across Gaza",
-          "published": "2026-11-16T06:28:10.000Z",
-          "url": "https://www.muslimnetwork.tv/3-palestinians-killed-in-israeli-attacks-across-gaza/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/irans-navy-says-oil-tanker-struck-mine-and-caught-fire-east-of-strait-of-hormuz/",
-          "title": "Iran’s navy says oil tanker struck mine and caught fire east of Strait of Hormuz",
-          "published": "2026-11-16T06:26:15.000Z",
-          "url": "https://www.muslimnetwork.tv/irans-navy-says-oil-tanker-struck-mine-and-caught-fire-east-of-strait-of-hormuz/"
+          "url": "https://www.muslimnetwork.tv/saudi-artist-combines-artificial-intelligence-with-traditional-art/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-16T12:51:11.242Z",
+      "checkedAt": "2026-11-16T22:20:22.117Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/16/chris-van-hollen-the-pakistan-born-senator-too-principled-for-pakistans-powerful/",
@@ -302,8 +302,22 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-16T12:51:08.057Z",
+      "checkedAt": "2026-11-16T22:20:19.243Z",
       "items": [
+        {
+          "id": "WnG7WTwe24I",
+          "title": "Dajjal Hadith: What Muslims Really Need to Believe",
+          "published": "2026-11-16T16:01:41.000Z",
+          "url": "https://www.youtube.com/watch?v=WnG7WTwe24I",
+          "image": "https://i.ytimg.com/vi/WnG7WTwe24I/hqdefault.jpg"
+        },
+        {
+          "id": "ElrUxLCtnAE",
+          "title": "How Conversations with Christian Scholars Changed My Understanding of Islam | Dr. Shabir Ally",
+          "published": "2026-11-16T14:30:32.000Z",
+          "url": "https://www.youtube.com/watch?v=ElrUxLCtnAE",
+          "image": "https://i.ytimg.com/vi/ElrUxLCtnAE/hqdefault.jpg"
+        },
         {
           "id": "fzhjI_OiukE",
           "title": "Was Adam’s First Sin Predestined: A Hadith Debate",
@@ -394,25 +408,11 @@
           "published": "2026-11-06T14:30:14.000Z",
           "url": "https://www.youtube.com/watch?v=5bfOpP1dpuo",
           "image": "https://i.ytimg.com/vi/5bfOpP1dpuo/hqdefault.jpg"
-        },
-        {
-          "id": "wdQ0bN5uMig",
-          "title": "Forgiveness: The Ultimate Strength When Wronged",
-          "published": "2026-11-06T13:54:08.000Z",
-          "url": "https://www.youtube.com/watch?v=wdQ0bN5uMig",
-          "image": "https://i.ytimg.com/vi/wdQ0bN5uMig/hqdefault.jpg"
-        },
-        {
-          "id": "nrt--7gj3-M",
-          "title": "An Invitation from Dr. Shabir: Join Us for the MMH Fundraising Gala",
-          "published": "2026-11-05T13:59:24.000Z",
-          "url": "https://www.youtube.com/watch?v=nrt--7gj3-M",
-          "image": "https://i.ytimg.com/vi/nrt--7gj3-M/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-16T12:51:08.318Z",
+      "checkedAt": "2026-11-16T22:20:19.813Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -522,7 +522,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-16T12:51:08.462Z",
+      "checkedAt": "2026-11-16T22:20:19.965Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -632,7 +632,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-16T12:51:08.483Z",
+      "checkedAt": "2026-11-16T22:20:20.151Z",
       "items": [
         {
           "id": "QwBjJiChGV0",
@@ -742,28 +742,98 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-16T12:51:09.970Z",
+      "checkedAt": "2026-11-16T22:20:21.573Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-churchill-river-9.7424046",
+          "title": "N.L. premier waiting to hear from Quebec on Churchill River power deal",
+          "published": "2026-11-16T21:09:41.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-churchill-river-9.7424046",
+          "image": "https://i.cbc.ca/ais/3e492953-64b8-4082-bbe9-56e4ee189d3c,1794861215806/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/alberta-electoral-boundaries-mickey-amery-9.7424033",
+          "title": "Alberta has tabled a bill for new riding maps. What could a court challenge mean?",
+          "published": "2026-11-16T20:59:23.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/alberta-electoral-boundaries-mickey-amery-9.7424033",
+          "image": "https://i.cbc.ca/ais/e876d63c-765e-4a4f-9d9c-f4aa3c8af2f3,1794863126984/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C57%2C3644%2C2049%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/same-teen-suspect-wanted-2-fatal-etobicoke-shootings-9.7423850",
+          "title": "Same teen suspect wanted in connection with 2 fatal Toronto shootings: police",
+          "published": "2026-11-16T19:02:41.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/same-teen-suspect-wanted-2-fatal-etobicoke-shootings-9.7423850",
+          "image": "https://i.cbc.ca/ais/25da7968-e6d5-4214-b581-1eb427e9187d,1794858173142/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C176%2C3370%2C1895%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/stolen-church-bell-9.7423842",
+          "title": "120-year-old church bell weighing 300 pounds stolen from belfry in rural Manitoba",
+          "published": "2026-11-16T18:23:53.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/stolen-church-bell-9.7423842",
+          "image": "https://i.cbc.ca/ais/2608035d-b9c8-460e-ba47-e81dbe031ef8,1794856963210/full/max/0/default.jpg?im=Crop%2Crect%3D%2843%2C10%2C1089%2C612%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/burlington-fire-update-9.7423480",
+          "title": "1 man, 2 children dead in Burlington, Ont., house fire, Ontario Fire Marshal says",
+          "published": "2026-11-16T16:36:31.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/burlington-fire-update-9.7423480",
+          "image": "https://i.cbc.ca/ais/a94f0b04-5b40-495a-a7fb-74d43d228712,1794850611360/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4240%2C2385%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/suspect-arrested-bridle-path-home-invasion-9.7423587",
+          "title": "Toronto police arrest suspect in Bridle Path home invasion investigation",
+          "published": "2026-11-16T16:00:34.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/suspect-arrested-bridle-path-home-invasion-9.7423587",
+          "image": "https://i.cbc.ca/ais/244c89c3-e88d-44b8-95e5-34b386e13354,1794862234539/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-500-per-child-9.7423411",
+          "title": "N.L. families to receive $500 per child before the end of the year",
+          "published": "2026-11-16T14:51:15.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-500-per-child-9.7423411",
+          "image": "https://i.cbc.ca/ais/a10a42cb-ec34-47f1-9ad5-580cbd20ef98,1794840035351/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C1049%2C590%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mexico-9.7423258",
+          "title": "'Utter chaos:' N.L. family stuck in Mexico frustrated with Air Canada after U.S. ground stop",
+          "published": "2026-11-16T14:08:11.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mexico-9.7423258",
+          "image": "https://i.cbc.ca/ais/1d66dc9c-ac7e-4d0d-ace1-4dc2e10652e9,1794832882916/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299",
+          "title": "Quebecor makes $31B offer to acquire Telus",
+          "published": "2026-11-16T13:38:25.000Z",
+          "url": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299",
+          "image": "https://i.cbc.ca/ais/6dbb47e3-b956-4123-ae91-6aed08a000de,1794835926733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C532%2C6589%2C3706%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/flu-season-calgary-2026-9.7421357",
+          "title": "Early start to flu season may test Alberta hospital capacity",
+          "published": "2026-11-16T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/flu-season-calgary-2026-9.7421357",
+          "image": "https://i.cbc.ca/ais/1.4905669,1542226428000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C304%2C3264%2C1836%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/north-atlantic-right-whales-9.7420677",
+          "title": "North Atlantic right whales no match for vessel strikes, entanglements between Canada and U.S.",
+          "published": "2026-11-16T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/north-atlantic-right-whales-9.7420677",
+          "image": "https://i.cbc.ca/ais/29d55c78-fec4-4d10-b47a-a555eb3aae30,1794677341231/full/max/0/default.jpg?im=Crop%2Crect%3D%28185%2C0%2C912%2C513%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/ns-lobster-compeition-vietnam-chinese-market-9.7421271",
+          "title": "Can Canada claw its way back into the Chinese lobster market?",
+          "published": "2026-11-16T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/ns-lobster-compeition-vietnam-chinese-market-9.7421271",
+          "image": "https://i.cbc.ca/ais/1.6436179,1751053937000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C385%2C7451%2C4191%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/dang-lawsuits-former-patients-9.7420536",
           "title": "N.L.’s top-billing doctor faces malpractice lawsuits from 2 former patients",
           "published": "2026-11-16T09:30:00.000Z",
           "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/dang-lawsuits-former-patients-9.7420536",
           "image": "https://i.cbc.ca/ais/78be8feb-0817-4de5-8745-c8745a53b155,1794581135862/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1819%2C1023%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/cbsa-firearm-accommodation-medical-union-9.7421365",
-          "title": "CBSA demoting border officers who permanently lost ability to use sidearm",
-          "published": "2026-11-16T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/politics/cbsa-firearm-accommodation-medical-union-9.7421365",
-          "image": "https://i.cbc.ca/ais/465f21e7-aca9-4015-b6a0-0b190c66d0e9,1794614331867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1634%2C919%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/gopublic/westjet-flight-cancel-regulations-9.7418466",
-          "title": "WestJet denied family's cancelled flight was actually cancelled, claiming passenger rights didn't apply",
-          "published": "2026-11-16T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/gopublic/westjet-flight-cancel-regulations-9.7418466",
-          "image": "https://i.cbc.ca/ais/89a35148-e73c-43e1-b165-f0672295588a,1794598080693/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/climate/canada-alberta-methane-emissions-cop31-9.7419482",
@@ -773,121 +843,114 @@
           "image": "https://i.cbc.ca/ais/92020be7-ff28-4a60-a2ff-f916f9efd506,1794510641139/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C5911%2C3324%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/cross-canada-canoe-journey-ends-in-vancouver-9.7423116",
-          "title": "3 friends complete 8,000-km canoe journey across Canada, arriving at Vancouver's Jericho Beach",
-          "published": "2026-11-16T04:11:45.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/cross-canada-canoe-journey-ends-in-vancouver-9.7423116",
-          "image": "https://i.cbc.ca/ais/41dd20f3-6a36-4fb9-b21b-98c9bba1f8cd,1794798345736/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C338%2C6500%2C3656%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-jets-flight-caf-rcaf-9.7422962",
-          "title": "Snowbirds bid farewell to legendary jets in final flight over Calgary",
-          "published": "2026-11-16T01:08:05.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-jets-flight-caf-rcaf-9.7422962",
-          "image": "https://i.cbc.ca/ais/1580df0b-dde8-49e9-8d26-3dfae07ddc42,1794795091636/full/max/0/default.jpg?im=Crop%2Crect%3D%281005%2C469%2C6191%2C3482%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/basketball/wnba-draft-lottery-recap-9.7422985",
-          "title": "Toronto Tempo earn No. 1 pick after winning 2027 WNBA draft lottery",
-          "published": "2026-11-16T00:57:11.000Z",
-          "url": "https://www.cbc.ca/sports/basketball/wnba-draft-lottery-recap-9.7422985",
-          "image": "https://i.cbc.ca/ais/9d6af0bd-ed09-4218-86cb-0cefe478a016,1794789446605/full/max/0/default.jpg?im=Crop%2Crect%3D%28178%2C75%2C749%2C421%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/player/play/9.7423030",
-          "title": "Community comes together to say farewell to Bailey, a dog with cancer",
-          "published": "2026-11-15T23:22:06.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7423030",
-          "image": "https://i.cbc.ca/ais/dedc6e05-9150-4bf7-9595-eaf53eff9cbf,1794784873134/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/faa-ground-stop-order-canada-comparison-9.7422968",
-          "title": "Nationwide flight grounding unlikely in Canada, says aviation expert",
-          "published": "2026-11-15T21:48:17.000Z",
-          "url": "https://www.cbc.ca/news/canada/faa-ground-stop-order-canada-comparison-9.7422968",
-          "image": "https://i.cbc.ca/ais/56c9efc6-db5e-4911-b599-6dedbae631e8,1794777653548/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5009%2C2817%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/hockey/recap-semifinal-womens-hockey-worlds-denmark-nov-15-9.7422813",
-          "title": "Fillier scores again as Canada tops Sweden, advances to face U.S. in women's hockey worlds final",
-          "published": "2026-11-15T17:23:16.000Z",
-          "url": "https://www.cbc.ca/sports/hockey/recap-semifinal-womens-hockey-worlds-denmark-nov-15-9.7422813",
-          "image": "https://i.cbc.ca/ais/77da908d-7a23-4b9c-b4c8-3ee2253b0424,1794778459659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C482%2C5780%2C3251%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/fishing-boat-capsize-fraser-river-9.7422794",
-          "title": "One person still missing after fishing boat capsized near Yale, B.C., search and rescue says",
-          "published": "2026-11-15T16:41:55.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/fishing-boat-capsize-fraser-river-9.7422794",
-          "image": "https://i.cbc.ca/ais/93526d0c-d016-4998-8d1a-b3298859c97a,1794757853868/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688",
-          "title": "Carney, Quebec premier discuss U.S. trade, homelessness at first meeting in Cambodia",
-          "published": "2026-11-15T15:19:25.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688",
-          "image": "https://i.cbc.ca/ais/435d3638-a380-4803-88b5-4ddc84260735,1794750009710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C7983%2C4490%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/marcellus-young-casario-rabun-gap-halifax-nova-scotia-university-of-georgia-9.7422636",
-          "title": "'He lived and breathed it': NCAA football prospect from N.S. has died",
-          "published": "2026-11-15T15:19:13.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/marcellus-young-casario-rabun-gap-halifax-nova-scotia-university-of-georgia-9.7422636",
-          "image": "https://i.cbc.ca/ais/3a9c8b1d-6765-4b5d-a83f-9ed330b32d1b,1794745798365/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C69%2C1206%2C678%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419",
-          "title": "Carney cites her award-winning book on encampments. She's eyeing his plan to end homelessness",
-          "published": "2026-11-15T15:00:00.000Z",
-          "url": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419",
-          "image": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/coca-cola-collector-jon-aschenbrener-9.7420809",
-          "title": "A hobby that pops: Saskatoon man's massive Coca-Cola collection inspired by rural roots",
-          "published": "2026-11-15T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/coca-cola-collector-jon-aschenbrener-9.7420809",
-          "image": "https://i.cbc.ca/ais/55d8c162-9a30-4f31-9b28-ed16837ae2d5,1794588777338/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "id": "https://www.cbc.ca/player/play/9.7423078",
+          "title": "How an Ottawa man played 365 rec sports games in less than a year",
+          "published": "2026-11-16T09:00:00.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7423078",
+          "image": "https://i.cbc.ca/ais/ca43319c-474f-49b6-ad50-b8536b36a0a3,1794787115856/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-16T12:51:11.474Z",
+      "checkedAt": "2026-11-16T22:20:22.232Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/cw987343352go",
-          "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-          "published": "2026-11-16T12:49:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
+          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+          "published": "2026-11-16T21:40:07.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o",
-          "title": "Man sentenced over 'horrific' attempted murder of three children",
-          "published": "2026-11-16T12:27:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5a/live/9c3bd7d0-e1af-11f1-9a3f-99aca912798e.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo",
+          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+          "published": "2026-11-16T20:33:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go",
+          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+          "published": "2026-11-16T19:30:30.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-          "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-          "published": "2026-11-16T12:20:49.000Z",
+          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "published": "2026-11-16T19:16:52.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36dc/live/86b75570-e1b8-11f1-9a3f-99aca912798e.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo",
-          "title": "Klopp says Infantino worse than Blatter",
-          "published": "2026-11-16T11:27:08.000Z",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg"
+          "id": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o",
+          "title": "When will we see Robert Pattinson as Bond in cinemas?",
+          "published": "2026-11-16T17:18:54.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
-          "title": "Yemeni forces retreat to defend port city from Houthis",
-          "published": "2026-11-16T11:09:38.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cw987343352go",
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "published": "2026-11-16T16:27:24.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
+          "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+          "published": "2026-11-16T15:40:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo",
+          "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+          "published": "2026-11-16T15:08:59.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890e/live/2da1ec70-e1db-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c574290jvk8wo",
+          "title": "Robert Pattinson: How the Twilight star became 007",
+          "published": "2026-11-16T15:02:41.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
+          "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+          "published": "2026-11-16T14:58:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o",
+          "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+          "published": "2026-11-16T14:48:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee22/live/2a20af90-e1c8-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
+          "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+          "published": "2026-11-16T14:22:36.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o",
+          "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+          "published": "2026-11-16T13:40:56.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvde1klewg88o",
+          "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+          "published": "2026-11-16T12:42:14.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da54/live/f1263820-e1b5-11f1-9a3f-99aca912798e.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
@@ -895,69 +958,6 @@
           "published": "2026-11-16T10:57:48.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c60evn992jq8o",
-          "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
-          "published": "2026-11-16T09:21:31.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/545f/live/c6cd0f20-e18a-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o",
-          "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-          "published": "2026-11-16T08:56:04.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo",
-          "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
-          "published": "2026-11-16T07:24:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb80/live/543bf260-e189-11f1-938f-7d0e2ede1ea5.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo",
-          "title": "Watch: New York teen reunites with cat missing after building collapse",
-          "published": "2026-11-16T04:36:45.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de04/live/9f9bf490-e174-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
-          "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
-          "published": "2026-11-16T03:21:56.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e63/live/e166e240-e19c-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
-          "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-          "published": "2026-11-16T03:09:49.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o",
-          "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-          "published": "2026-11-16T01:05:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
-          "title": "Russia's mega-rich are already imagining a future after Putin",
-          "published": "2026-11-16T00:13:14.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o",
-          "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
-          "published": "2026-11-16T00:11:12.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0a/live/616751f0-df68-11f1-b441-2b33b063138f.jpg"
         }
       ]
     }
