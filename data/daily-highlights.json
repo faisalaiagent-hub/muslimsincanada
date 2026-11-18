@@ -768,6 +768,34 @@
           "published": "2026-11-17T08:06:32.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "generatedAt": "2026-11-18T07:43:23.898Z",
+      "items": [
+        {
+          "id": "80f1996c0acc",
+          "kind": "news",
+          "title": "Chris Van Hollen: The Pakistan-Born Senator Too Principled For Pakistan’s Powerful",
+          "summary": "A recent headline from MuslimMatters. Follow the original reporting for the full story and context.",
+          "url": "https://muslimmatters.org/2026/11/16/chris-van-hollen-the-pakistan-born-senator-too-principled-for-pakistans-powerful/",
+          "sourceId": "muslimmatters",
+          "source": "MuslimMatters",
+          "image": "https://muslimmatters.org/wp-content/uploads/John-Esposito-w1796xh1010-jpg.webp",
+          "published": "2026-11-16T05:32:40.000Z"
+        },
+        {
+          "id": "ed64f9c0ab32",
+          "kind": "talk",
+          "title": "Who's Ready for the MMH Gala Dinner?",
+          "summary": "Make time for a recent conversation from Shabir Ally & Let the Quran Speak. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=bEgm4E4BD6Y",
+          "sourceId": "shabir",
+          "source": "Shabir Ally & Let the Quran Speak",
+          "image": "https://i.ytimg.com/vi/bEgm4E4BD6Y/hqdefault.jpg",
+          "published": "2026-11-17T14:18:23.000Z"
+        }
+      ]
     }
   ]
 }

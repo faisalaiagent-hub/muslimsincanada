@@ -2,21 +2,21 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-17T21:06:02.675Z",
+      "checkedAt": "2026-11-18T07:43:20.566Z",
       "items": [
+        {
+          "id": "BTQPkp1k8Dg",
+          "title": "42 - Book of Purification - [Hadith 451-461] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "published": "2026-11-18T02:49:32.000Z",
+          "url": "https://www.youtube.com/watch?v=BTQPkp1k8Dg",
+          "image": "https://i.ytimg.com/vi/BTQPkp1k8Dg/hqdefault.jpg"
+        },
         {
           "id": "QnXOPU4cUhY",
           "title": "718 - Sura al-Furqan - 72 - End - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
           "published": "2026-11-17T18:41:16.000Z",
           "url": "https://www.youtube.com/watch?v=QnXOPU4cUhY",
           "image": "https://i.ytimg.com/vi/QnXOPU4cUhY/hqdefault.jpg"
-        },
-        {
-          "id": "BTQPkp1k8Dg",
-          "title": "42 - Book of Purification - [Hadith 451-461] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-11-17T14:02:13.000Z",
-          "url": "https://www.youtube.com/watch?v=BTQPkp1k8Dg",
-          "image": "https://i.ytimg.com/vi/BTQPkp1k8Dg/hqdefault.jpg"
         },
         {
           "id": "5is1w4y9Bmg",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-17T21:06:02.811Z",
+      "checkedAt": "2026-11-18T07:43:20.730Z",
       "items": [
         {
           "id": "-OTWx3px85I",
@@ -173,78 +173,78 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-17T21:06:05.977Z",
+      "checkedAt": "2026-11-18T07:43:22.348Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/israel-kills-6-palestinians-blows-up-homes-in-gaza/",
+          "title": "Israel kills 6 Palestinians, blows up homes in Gaza",
+          "published": "2026-11-18T07:37:48.000Z",
+          "url": "https://www.muslimnetwork.tv/israel-kills-6-palestinians-blows-up-homes-in-gaza/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/AA-20261117-43108296-43108270-DISPLACED_PALESTINIANS_STRUGGLE_TO_KEEP_WARM_AMID_DESTRUCTION_IN_JABALIA.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/saudi-led-coalition-says-it-intercepted-houthi-cruise-missile-targeting-riyadh/",
+          "title": "Saudi-led coalition says it intercepted Houthi cruise missile targeting Riyadh",
+          "published": "2026-11-18T06:56:18.000Z",
+          "url": "https://www.muslimnetwork.tv/saudi-led-coalition-says-it-intercepted-houthi-cruise-missile-targeting-riyadh/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_8e3a293bf30589512c25d6a138195543.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/emergency-crews-responding-to-explosion-fire-at-hazardous-waste-facility-near-houston/",
+          "title": "Emergency crews responding to explosion, fire at hazardous waste facility near Houston",
+          "published": "2026-11-18T06:55:11.000Z",
+          "url": "https://www.muslimnetwork.tv/emergency-crews-responding-to-explosion-fire-at-hazardous-waste-facility-near-houston/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_aade5308acc840638aa94a768fd19246.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/democrat-mary-peltola-wins-alaska-senate-race-unseats-republican-incumbent/",
+          "title": "Democrat Mary Peltola wins Alaska Senate race, unseats Republican incumbent",
+          "published": "2026-11-18T06:53:02.000Z",
+          "url": "https://www.muslimnetwork.tv/democrat-mary-peltola-wins-alaska-senate-race-unseats-republican-incumbent/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_0b12879addb040b9984cab46a767851a.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/economic-coercion-thing-of-past-putin-tells-apec-business-leaders/",
+          "title": "Economic ‘coercion thing of past,’ Putin tells APEC business leaders",
+          "published": "2026-11-18T06:50:40.000Z",
+          "url": "https://www.muslimnetwork.tv/economic-coercion-thing-of-past-putin-tells-apec-business-leaders/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/04/Araghchi-hails-strategic-partnership-with-Moscow-as-Tehran-leans-on-allies-amid-stalled-U.S.-diplomacy-putin.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/iranian-army-says-drone-strikes-targeted-us-installations-at-kuwait-air-base/",
+          "title": "Iranian army says drone strikes targeted US installations at Kuwait air base",
+          "published": "2026-11-18T06:47:22.000Z",
+          "url": "https://www.muslimnetwork.tv/iranian-army-says-drone-strikes-targeted-us-installations-at-kuwait-air-base/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/Revolutionary-Guards-claim-missile-and-drone-attacks-damaged-U.S.-weapons-depots-and-MQ-9-drones-as-Washington-iran-usa.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israel-vows-retaliation-over-uk-sanctions-on-settlement-firms/",
+          "title": "Israel vows retaliation over UK sanctions on settlement firms",
+          "published": "2026-11-18T06:38:49.000Z",
+          "url": "https://www.muslimnetwork.tv/israel-vows-retaliation-over-uk-sanctions-on-settlement-firms/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/bombs-bullets-starvation-disease-and-now-floods-israels-reign-of-terror-in-gaza-has-no-end/",
+          "title": "Bombs, Bullets, Starvation, Disease, and Now Floods: Israel’s Reign of Terror in Gaza Has No End",
+          "published": "2026-11-17T21:44:15.000Z",
+          "url": "https://www.muslimnetwork.tv/bombs-bullets-starvation-disease-and-now-floods-israels-reign-of-terror-in-gaza-has-no-end/"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/whatsapp-says-no-to-canadian-governments-demand-for-access-to-user-posts/",
+          "title": "WhatsApp Says “No” to Canadian Government’s Demand for Access to User Posts",
+          "published": "2026-11-17T21:40:29.000Z",
+          "url": "https://www.muslimnetwork.tv/whatsapp-says-no-to-canadian-governments-demand-for-access-to-user-posts/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/world-court-to-rule-on-rohingya-genocide-case-in-burma/",
           "title": "World Court to rule on Rohingya genocide case in Burma",
           "published": "2026-11-17T18:07:12.000Z",
-          "url": "https://www.muslimnetwork.tv/world-court-to-rule-on-rohingya-genocide-case-in-burma/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_9341331fbe71c061bbf240f5ec27c3df.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/egypt-promotes-economic-reforms-and-energy-investment-plans/",
-          "title": "Egypt promotes economic reforms and energy investment plans",
-          "published": "2026-11-17T18:00:56.000Z",
-          "url": "https://www.muslimnetwork.tv/egypt-promotes-economic-reforms-and-energy-investment-plans/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-mumtaz-niazi-18390768-36502591.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-forces-kill-palestinian-and-demolish-gaza-homes-despite-ceasefire/",
-          "title": "Israeli forces kill Palestinian and demolish Gaza homes, despite ceasefire",
-          "published": "2026-11-17T17:59:39.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-forces-kill-palestinian-and-demolish-gaza-homes-despite-ceasefire/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/images-2.jpeg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/lebanese-children-endure-lasting-trauma-from-israeli-attacks/",
-          "title": "Lebanese children endure lasting trauma from Israeli attacks",
-          "published": "2026-11-17T17:58:03.000Z",
-          "url": "https://www.muslimnetwork.tv/lebanese-children-endure-lasting-trauma-from-israeli-attacks/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_68a8e4a840dce6423ee823451ca29763.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/syrian-returnees-rebuild-homes-amid-international-funding-shortages/",
-          "title": "Syrian returnees rebuild homes amid international funding shortages",
-          "published": "2026-11-17T17:54:17.000Z",
-          "url": "https://www.muslimnetwork.tv/syrian-returnees-rebuild-homes-amid-international-funding-shortages/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_8f4aa6f6376d286afd0ce96c0a700e2b.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/israeli-incursion-forces-syrian-families-from-homes/",
-          "title": "Israeli incursion forces Syrian families from homes",
-          "published": "2026-11-17T17:52:52.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-incursion-forces-syrian-families-from-homes/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_e3dfbef8518f23b1c84ff63cf41cf7a7.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iranian-commander-visits-baghdad-amid-iraqi-faction-tensions/",
-          "title": "Iranian commander visits Baghdad amid Iraqi faction tensions",
-          "published": "2026-11-17T17:50:31.000Z",
-          "url": "https://www.muslimnetwork.tv/iranian-commander-visits-baghdad-amid-iraqi-faction-tensions/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iraq-orders-telegram-ban-over-regulatory-and-security-concerns/",
-          "title": "Iraq orders Telegram ban over regulatory and security concerns",
-          "published": "2026-11-17T17:49:07.000Z",
-          "url": "https://www.muslimnetwork.tv/iraq-orders-telegram-ban-over-regulatory-and-security-concerns/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/us-strikes-qeshm-island-as-aggression-escalates-across-hormuz/",
-          "title": "US strikes Qeshm Island as aggression escalates across Hormuz",
-          "published": "2026-11-17T17:25:35.000Z",
-          "url": "https://www.muslimnetwork.tv/us-strikes-qeshm-island-as-aggression-escalates-across-hormuz/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/singapore-may-send-medical-teams-to-egypt-to-aid-gaza/",
-          "title": "Singapore may send medical teams to Egypt to aid Gaza",
-          "published": "2026-11-17T08:47:29.000Z",
-          "url": "https://www.muslimnetwork.tv/singapore-may-send-medical-teams-to-egypt-to-aid-gaza/"
+          "url": "https://www.muslimnetwork.tv/world-court-to-rule-on-rohingya-genocide-case-in-burma/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-17T21:06:07.406Z",
+      "checkedAt": "2026-11-18T07:43:23.693Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/16/chris-van-hollen-the-pakistan-born-senator-too-principled-for-pakistans-powerful/",
@@ -316,7 +316,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-17T21:06:02.454Z",
+      "checkedAt": "2026-11-18T07:43:20.406Z",
       "items": [
         {
           "id": "bEgm4E4BD6Y",
@@ -426,7 +426,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-17T21:06:02.997Z",
+      "checkedAt": "2026-11-18T07:43:20.942Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -536,7 +536,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-17T21:06:03.146Z",
+      "checkedAt": "2026-11-18T07:43:21.064Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -646,7 +646,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-17T21:06:03.413Z",
+      "checkedAt": "2026-11-18T07:43:21.301Z",
       "items": [
         {
           "id": "zqqsVXDBvxI",
@@ -756,8 +756,71 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-17T21:06:06.156Z",
+      "checkedAt": "2026-11-18T07:43:22.606Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/grey-cup-edmonton-elks-2026-parade-9.7425862",
+          "title": "Elks celebrate 1st Grey Cup championship in more than a decade",
+          "published": "2026-11-17T23:59:13.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/grey-cup-edmonton-elks-2026-parade-9.7425862",
+          "image": "https://i.cbc.ca/ais/3118fc9b-fdb3-4db8-acb9-081956b6ac87,1794975216213/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-nicholas-herring-giller-prize-literary-community-9.7425625",
+          "title": "Nicholas Herring's Giller Prize win a 'huge opportunity' for P.E.I. authors, says literary community",
+          "published": "2026-11-17T23:16:45.000Z",
+          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-nicholas-herring-giller-prize-literary-community-9.7425625",
+          "image": "https://i.cbc.ca/ais/1744d597-0e34-4d00-b239-3127a522db50,1794884613977/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C846%2C3024%2C1701%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/books/oprah-book-club-pick-mary-lawson-9.7420605",
+          "title": "Oprah Winfrey names book by Ontario-born author as her latest book club pick",
+          "published": "2026-11-17T22:28:11.000Z",
+          "url": "https://www.cbc.ca/books/oprah-book-club-pick-mary-lawson-9.7420605",
+          "image": "https://i.cbc.ca/ais/2328bcfe-eba0-4dc7-912c-c6b908d99193,1794583372039/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3500%2C1968%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/maid-bill-liberals-debate-9.7425597",
+          "title": "Liberals limit debate on assisted dying bill as Conservatives call for changes",
+          "published": "2026-11-17T22:05:09.000Z",
+          "url": "https://www.cbc.ca/news/politics/maid-bill-liberals-debate-9.7425597",
+          "image": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/cra-cerb-covid-benefit-writeoffs-debt-9.7425445",
+          "title": "Federal government waives $4.5B debt from COVID-19 benefits sent to ineligible recipients",
+          "published": "2026-11-17T21:52:34.000Z",
+          "url": "https://www.cbc.ca/news/politics/cra-cerb-covid-benefit-writeoffs-debt-9.7425445",
+          "image": "https://i.cbc.ca/ais/871ba9db-e0ee-4926-9415-9169410d1b16,1794946047543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C8083%2C4546%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-trial-cross-exam-9.7425424",
+          "title": "'Crypto King' or 'Lying King'? Aiden Pleterski says he was neither at alleged kidnappers' trial",
+          "published": "2026-11-17T21:31:34.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-trial-cross-exam-9.7425424",
+          "image": "https://i.cbc.ca/ais/6f805e35-1a56-4879-bb15-37a72d0f391b,1791233269722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C5343%2C3005%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/snl-sister-sketch-9.7425423",
+          "title": "B.C. caregivers explain why a recent SNL sketch has struck a nerve",
+          "published": "2026-11-17T21:22:33.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/snl-sister-sketch-9.7425423",
+          "image": "https://i.cbc.ca/ais/1.6707005,1673128104000/full/max/0/default.jpg?im=Crop%2Crect%3D%28890%2C499%2C4535%2C2550%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/new-brunswick/scam-minor-hockey-teams-update-9.7424983",
+          "title": "Community rallies around 2 N.B. minor hockey teams who fell victim to phishing scam",
+          "published": "2026-11-17T21:21:08.000Z",
+          "url": "https://www.cbc.ca/news/canada/new-brunswick/scam-minor-hockey-teams-update-9.7424983",
+          "image": "https://i.cbc.ca/ais/ec1fd24d-15b2-426f-9919-26385a570317,1794930087229/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C372%2C3974%2C2235%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/cn-rail-highway-16-terrace-prince-rupert-9.7425535",
+          "title": "2 hospitalized after CN Rail train derails into Skeena River near Terrace, B.C.",
+          "published": "2026-11-17T21:06:04.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/cn-rail-highway-16-terrace-prince-rupert-9.7425535",
+          "image": "https://i.cbc.ca/ais/4b71c76a-4d73-42a6-a1e6-47ca87308d9c,1794955710871/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360",
           "title": "Canada's national emergency alert system will sound off Wednesday for testing",
@@ -784,7 +847,7 @@
           "title": "New middle-class tax cut coming next year, Manitoba government says in throne speech",
           "published": "2026-11-17T18:39:41.000Z",
           "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-2026-throne-speech-tax-cut-9.7425154",
-          "image": "https://i.cbc.ca/ais/b630a35a-6435-4f81-833d-781e0d1e2b51,1794944055514/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C70%2C4000%2C2250%29%3B"
+          "image": "https://i.cbc.ca/ais/a253f199-8073-4ce8-b1a9-00b5b0ab1a45,1794949496282/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C264%2C4800%2C2700%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/hamilton/hamilton-police-white-supremacist-demonstration-downtown-9.7423811",
@@ -795,92 +858,64 @@
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/ontario-secondary-teachers-vote-in-favor-strike-mandate-9.7425118",
-          "title": "Ontario secondary school teachers vote 96% in favor of strike mandate",
+          "title": "Ontario secondary school teachers vote 96% in favour of strike mandate",
           "published": "2026-11-17T16:44:35.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/ontario-secondary-teachers-vote-in-favor-strike-mandate-9.7425118",
           "image": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/stolen-church-bell-found-9.7424855",
-          "title": "Stolen 120-year-old church bell found discarded in rural Manitoba ditch",
-          "published": "2026-11-17T16:44:34.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/stolen-church-bell-found-9.7424855",
-          "image": "https://i.cbc.ca/ais/dd716537-ede2-4283-ac34-3dff3010ecb3,1794941805086/full/max/0/default.jpg?im=Crop%2Crect%3D%281512%2C239%2C6718%2C3778%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/london/krampus-strathroy-9.7424513",
-          "title": "Krampus banned from Santa Claus parade, stirring controversy in Ontario town",
-          "published": "2026-11-17T16:33:28.000Z",
-          "url": "https://www.cbc.ca/news/canada/london/krampus-strathroy-9.7424513",
-          "image": "https://i.cbc.ca/ais/b5e52c5a-c202-4258-90e3-767389eb2c24,1794875466038/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C1206%2C678%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/gas-prices-domo-winnipeg-9.7424705",
-          "title": "Drivers line up as fuel price briefly falls below $1 in northwest Winnipeg",
-          "published": "2026-11-17T12:48:28.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/gas-prices-domo-winnipeg-9.7424705",
-          "image": "https://i.cbc.ca/ais/40a54d54-3225-4485-90bd-c46285a58289,1794916070072/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C585%2C4000%2C2250%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/soccer/concacaf-nations-league-canada-guatemala-november-16-9.7424702",
-          "title": "Canada advances to CONCACAF Nations League semifinals with win over Guatemala",
-          "published": "2026-11-17T12:30:35.000Z",
-          "url": "https://www.cbc.ca/sports/soccer/concacaf-nations-league-canada-guatemala-november-16-9.7424702",
-          "image": "https://i.cbc.ca/ais/c43e41e8-0a96-4a30-bd16-8521367fb711,1794918535800/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C5888%2C3312%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/red-deer-mayor-ebikes-escooters-hit-and-run-9.7424641",
-          "title": "Former Red Deer, Alta., mayor seriously hurt in hit and run with e-bike or e-scooter calls for stricter rules",
-          "published": "2026-11-17T11:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/red-deer-mayor-ebikes-escooters-hit-and-run-9.7424641",
-          "image": "https://i.cbc.ca/ais/c1e292cb-d660-450d-9823-331e44943319,1794889288877/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C311%2C1153%2C648%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/collaborative-housing-alliance-federal-funding-9.7423998",
-          "title": "Manitoba real estate trust hopes to use new federal money to address homelessness",
-          "published": "2026-11-17T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/collaborative-housing-alliance-federal-funding-9.7423998",
-          "image": "https://i.cbc.ca/ais/d3fdd444-84fa-49b5-a4d9-a806a1f900dc,1794866403721/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/pq-ban-elementary-students-religious-symbols-9.7419586",
-          "title": "Fear, outrage grow as Quebec moves to ban religious symbols for elementary students",
-          "published": "2026-11-17T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/pq-ban-elementary-students-religious-symbols-9.7419586",
-          "image": "https://i.cbc.ca/ais/cf323950-0edb-443c-a8a7-e624ee04adf7,1794843583735/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/investigates/dark-patterns-gambling-addiction-design-9.7423957",
-          "title": "Hooked by design: How gambling apps keep 'losers' spending more cash",
-          "published": "2026-11-17T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/investigates/dark-patterns-gambling-addiction-design-9.7423957",
-          "image": "https://i.cbc.ca/ais/e3a79260-703d-4491-a20f-a693339cc66e,1794866866935/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C293%2C5634%2C3169%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/thunder-bay/kaylee-crowchild-inquest-day-one-9.7424294",
-          "title": "Jury in coroner's inquest hears how woman from Alberta died in northwestern Ontario",
-          "published": "2026-11-17T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/thunder-bay/kaylee-crowchild-inquest-day-one-9.7424294",
-          "image": "https://i.cbc.ca/ais/7cd07ee7-f74b-40e9-937c-515f616fedef,1794870210356/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-17T21:06:07.468Z",
+      "checkedAt": "2026-11-18T07:43:23.797Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+          "published": "2026-11-18T01:18:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "published": "2026-11-17T23:02:12.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
+          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+          "published": "2026-11-17T22:46:30.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
+          "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+          "published": "2026-11-17T22:44:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "published": "2026-11-17T21:24:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
+          "title": "Russian military plane crashes, killing all 19 on board",
+          "published": "2026-11-17T21:06:11.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
           "title": "US loses measles elimination status after 26 years amid record case numbers",
           "published": "2026-11-17T21:04:00.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
-          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-          "published": "2026-11-17T20:44:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
@@ -897,13 +932,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
-          "title": "Russian military plane crashes killing all 19 on board",
-          "published": "2026-11-17T20:25:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o",
           "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
           "published": "2026-11-17T18:58:57.000Z",
@@ -916,13 +944,6 @@
           "published": "2026-11-17T18:27:27.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "published": "2026-11-17T18:24:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqlykve012d1o",
@@ -951,27 +972,6 @@
           "published": "2026-11-17T17:19:57.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "published": "2026-11-17T16:56:38.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo",
-          "title": "BBC reports from Kyiv bridge hit by Russian attack",
-          "published": "2026-11-17T15:54:15.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a20/live/d8ac30b0-e2b4-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo",
-          "title": "How the attack on Crimean Bridge unfolded",
-          "published": "2026-11-17T15:38:10.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg"
         }
       ]
     }
