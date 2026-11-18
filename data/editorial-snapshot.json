@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-18T13:09:32.493Z",
+      "checkedAt": "2026-11-18T20:43:22.559Z",
       "items": [
+        {
+          "id": "Fa9uo_Da56I",
+          "title": "43 - Book of Purification - [Hadith 462-473] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "published": "2026-11-18T14:02:44.000Z",
+          "url": "https://www.youtube.com/watch?v=Fa9uo_Da56I",
+          "image": "https://i.ytimg.com/vi/Fa9uo_Da56I/hqdefault.jpg"
+        },
         {
           "id": "BTQPkp1k8Dg",
           "title": "42 - Book of Purification - [Hadith 451-461] - Mishkat al-Masabih - Shaykh Ilyas Patel",
@@ -101,18 +108,11 @@
           "published": "2026-11-05T02:47:08.000Z",
           "url": "https://www.youtube.com/watch?v=8TG5JaGY7yc",
           "image": "https://i.ytimg.com/vi/8TG5JaGY7yc/hqdefault.jpg"
-        },
-        {
-          "id": "hudKjLpYACE",
-          "title": "38 - Book of Purification - [Hadith 401-417] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-11-04T03:16:22.000Z",
-          "url": "https://www.youtube.com/watch?v=hudKjLpYACE",
-          "image": "https://i.ytimg.com/vi/hudKjLpYACE/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-18T13:09:32.710Z",
+      "checkedAt": "2026-11-18T20:43:22.657Z",
       "items": [
         {
           "id": "-OTWx3px85I",
@@ -130,7 +130,7 @@
         },
         {
           "id": "P4Rqf9Fq9zE",
-          "title": "Abu Qatada (ra): The Best Horseman in Medina | The Firsts | Dr. Omar Suleiman",
+          "title": "Abu Qatada (ra): The Knight Who Rode at the Prophet’s ﷺ Side | The Firsts | Dr. Omar Suleiman",
           "published": "2026-11-16T15:00:08.000Z",
           "url": "https://www.youtube.com/watch?v=P4Rqf9Fq9zE",
           "image": "https://i.ytimg.com/vi/P4Rqf9Fq9zE/hqdefault.jpg"
@@ -173,7 +173,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-18T13:09:34.626Z",
+      "checkedAt": "2026-11-18T20:43:24.284Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/araghchi-accuses-israeli-lobbyists-of-reviving-iraq-war-style-propaganda/",
@@ -244,8 +244,15 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-18T13:09:40.219Z",
+      "checkedAt": "2026-11-18T20:43:25.406Z",
       "items": [
+        {
+          "id": "https://muslimmatters.org/2026/11/18/javits-frimpong-school-bullying-the-crisis-of-belonging-and-the-responsibility-of-muslim-schools/",
+          "title": "Javits Frimpong: School Bullying, The Crisis Of Belonging, And The Responsibility Of Muslim Schools",
+          "published": "2026-11-18T16:32:32.000Z",
+          "url": "https://muslimmatters.org/2026/11/18/javits-frimpong-school-bullying-the-crisis-of-belonging-and-the-responsibility-of-muslim-schools/",
+          "image": "https://muslimmatters.org/wp-content/uploads/94_5-3.webp"
+        },
         {
           "id": "https://muslimmatters.org/2026/11/16/chris-van-hollen-the-pakistan-born-senator-too-principled-for-pakistans-powerful/",
           "title": "Chris Van Hollen: The Pakistan-Born Senator Too Principled For Pakistan’s Powerful",
@@ -306,18 +313,19 @@
           "published": "2026-09-07T17:45:09.000Z",
           "url": "https://muslimmatters.org/2026/09/07/what-the-makkah-agreement-is-missing/",
           "image": "https://muslimmatters.org/wp-content/uploads/accord-300x200.jpg"
-        },
-        {
-          "id": "https://muslimmatters.org/2026/09/02/from-a-syrian-prison-to-the-un/",
-          "title": "From a Syrian Prison to the UN: The Case of Bilal Abdul Kareem",
-          "published": "2026-09-02T11:00:42.000Z",
-          "url": "https://muslimmatters.org/2026/09/02/from-a-syrian-prison-to-the-un/"
         }
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-18T13:09:32.269Z",
+      "checkedAt": "2026-11-18T20:43:22.420Z",
       "items": [
+        {
+          "id": "wKPDganxaxg",
+          "title": "If God Knows You’ll Fail, Is Predestination Fair?",
+          "published": "2026-11-18T14:36:17.000Z",
+          "url": "https://www.youtube.com/watch?v=wKPDganxaxg",
+          "image": "https://i.ytimg.com/vi/wKPDganxaxg/hqdefault.jpg"
+        },
         {
           "id": "bEgm4E4BD6Y",
           "title": "Who's Ready for the MMH Gala Dinner?",
@@ -415,18 +423,11 @@
           "published": "2026-11-09T14:30:19.000Z",
           "url": "https://www.youtube.com/watch?v=W1TRl4S98Kg",
           "image": "https://i.ytimg.com/vi/W1TRl4S98Kg/hqdefault.jpg"
-        },
-        {
-          "id": "k4x3fknn5J4",
-          "title": "Hadith and Modern Medicine: Should We Follow Both",
-          "published": "2026-11-09T14:06:09.000Z",
-          "url": "https://www.youtube.com/watch?v=k4x3fknn5J4",
-          "image": "https://i.ytimg.com/vi/k4x3fknn5J4/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-18T13:09:32.855Z",
+      "checkedAt": "2026-11-18T20:43:22.759Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -536,7 +537,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-18T13:09:33.113Z",
+      "checkedAt": "2026-11-18T20:43:22.892Z",
       "items": [
         {
           "id": "qYMFkXmpXo8",
@@ -646,7 +647,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-18T13:09:33.221Z",
+      "checkedAt": "2026-11-18T20:43:22.990Z",
       "items": [
         {
           "id": "kWFWuAXh_qw",
@@ -756,8 +757,92 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-18T13:09:39.715Z",
+      "checkedAt": "2026-11-18T20:43:24.449Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967",
+          "title": "Cadets being told to stand down as Canada spends billions on defence",
+          "published": "2026-11-18T20:38:54.000Z",
+          "url": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967",
+          "image": "https://i.cbc.ca/ais/36a43287-dd68-4616-85f2-86ccc427ddcd,1795033338863/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C218%2C8192%2C4608%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-kidnapping-trial-9.7426895",
+          "title": "Secretly recorded videos of 'Crypto King' Aiden Pleterski meeting alleged kidnapper played at trial",
+          "published": "2026-11-18T20:34:36.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-kidnapping-trial-9.7426895",
+          "image": "https://i.cbc.ca/ais/ab418ca2-6294-44da-8b80-d9a77315d944,1794019854895/full/max/0/default.jpg?im=Crop%2Crect%3D%2822%2C0%2C3839%2C2159%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/competition-bureau-gap-old-navy-advertising-9.7426966",
+          "title": "Competition Bureau examining marketing practices by Gap, Old Navy",
+          "published": "2026-11-18T20:21:02.000Z",
+          "url": "https://www.cbc.ca/news/business/competition-bureau-gap-old-navy-advertising-9.7426966",
+          "image": "https://i.cbc.ca/ais/1.7452028,1738855093000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/health/measles-elimination-status-canada-us-mexico-9.7426328",
+          "title": "What it will take for Canada to regain its measles elimination status",
+          "published": "2026-11-18T20:15:00.000Z",
+          "url": "https://www.cbc.ca/news/health/measles-elimination-status-canada-us-mexico-9.7426328",
+          "image": "https://i.cbc.ca/ais/ec234d10-e2e6-40ce-9f72-2f844db55999,1795013085923/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C5079%2C2856%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/canada-strong-pass-banff-national-park-9.7425708",
+          "title": "Parks Canada budget cuts, tourism growth raise concerns for Canada Strong Pass return",
+          "published": "2026-11-18T20:11:25.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/canada-strong-pass-banff-national-park-9.7425708",
+          "image": "https://i.cbc.ca/ais/1.5220054,1795026651740/full/max/0/default.jpg?im=Crop%2Crect%3D%28140%2C1537%2C2883%2C1621%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/hockey/pwhl/emerance-maschmeyer-absence-vancouver-goldeneyes-personal-reasons-pwhl-9.7426698",
+          "title": "Goldeneyes goalie Maschmeyer steps away from PWHL club for personal reasons",
+          "published": "2026-11-18T17:20:19.000Z",
+          "url": "https://www.cbc.ca/sports/hockey/pwhl/emerance-maschmeyer-absence-vancouver-goldeneyes-personal-reasons-pwhl-9.7426698",
+          "image": "https://i.cbc.ca/ais/693adffb-8bdb-4129-8a0c-e1292f1e638f,1795021785568/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/hamilton-kunkel-remembrance-day-9.7426315",
+          "title": "Cadet leader says he's paralyzed from waist down after attack in Hamilton restaurant",
+          "published": "2026-11-18T14:39:10.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-kunkel-remembrance-day-9.7426315",
+          "image": "https://i.cbc.ca/ais/ec1a8fa3-05c3-4fba-910d-2cc5ccc9fe39,1795028792230/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C720%2C405%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/alta-research-ovenbirds-9.7424838",
+          "title": "Biologists are using AI to track individual birds by their songs alone",
+          "published": "2026-11-18T12:05:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/alta-research-ovenbirds-9.7424838",
+          "image": "https://i.cbc.ca/ais/4089a67a-cb57-4132-8399-fd42e6c4c87d,1794926482341/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C180%2C3455%2C1943%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-flavoured-vapes-ban-9.7425719",
+          "title": "N.L. Health Minister vows to meet with critics of proposed flavour vape ban, as top doctor praises new bill",
+          "published": "2026-11-18T12:01:18.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-flavoured-vapes-ban-9.7425719",
+          "image": "https://i.cbc.ca/ais/60a34091-97be-4be6-ac7f-aec32ba6ee4b,1795024377923/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/wait-times-mri-ultrasound-ct-scan-9.7424042",
+          "title": "Wait for the most common diagnostic scans in Manitoba 'worse now than it ever has been': doctor",
+          "published": "2026-11-18T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/wait-times-mri-ultrasound-ct-scan-9.7424042",
+          "image": "https://i.cbc.ca/ais/68f5ca7f-59a9-4913-ab8a-deb90c121e68,1794929793453/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/zachary-dunphy-bail-denied-9.7425265",
+          "title": "‘Not anymore’: N.L. judge denies bail to man who bragged about Canada's easy release",
+          "published": "2026-11-18T09:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/zachary-dunphy-bail-denied-9.7425265",
+          "image": "https://i.cbc.ca/ais/d9cf8e74-d115-46e6-9d76-9644e2844ed3,1789581644731/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2804%2C1577%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/body-cam-justice-system-9.7425438",
+          "title": "Body cam footage could overload the justice system, warns senior Crown prosecutor",
+          "published": "2026-11-18T09:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/body-cam-justice-system-9.7425438",
+          "image": "https://i.cbc.ca/ais/e902eec6-9c25-49a1-8242-b1d7ffab8e52,1794947543810/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/saqijuq-mobile-intervention-team-kuujjuaq-quebec-police-nunavik-9.7425441",
           "title": "Fatal police shootings in Nunavik shattered trust. Can these new intervention teams help?",
@@ -778,102 +863,102 @@
           "published": "2026-11-18T02:06:12.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/prince-george-save-on-arrest-9.7425921",
           "image": "https://i.cbc.ca/ais/d69a62cf-5798-4e84-a181-5243e6188505,1794961478828/full/max/0/default.jpg?im=Crop%2Crect%3D%281618%2C438%2C1752%2C985%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/grey-cup-edmonton-elks-2026-parade-9.7425862",
-          "title": "Elks celebrate 1st Grey Cup championship in more than a decade",
-          "published": "2026-11-17T23:59:13.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/grey-cup-edmonton-elks-2026-parade-9.7425862",
-          "image": "https://i.cbc.ca/ais/3118fc9b-fdb3-4db8-acb9-081956b6ac87,1794975216213/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-nicholas-herring-giller-prize-literary-community-9.7425625",
-          "title": "Nicholas Herring's Giller Prize win a 'huge opportunity' for P.E.I. authors, says literary community",
-          "published": "2026-11-17T23:16:45.000Z",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-nicholas-herring-giller-prize-literary-community-9.7425625",
-          "image": "https://i.cbc.ca/ais/1744d597-0e34-4d00-b239-3127a522db50,1794884613977/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C846%2C3024%2C1701%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/books/oprah-book-club-pick-mary-lawson-9.7420605",
-          "title": "Oprah Winfrey names book by Ontario-born author as her latest book club pick",
-          "published": "2026-11-17T22:28:11.000Z",
-          "url": "https://www.cbc.ca/books/oprah-book-club-pick-mary-lawson-9.7420605",
-          "image": "https://i.cbc.ca/ais/2328bcfe-eba0-4dc7-912c-c6b908d99193,1794583372039/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3500%2C1968%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/maid-bill-liberals-debate-9.7425597",
-          "title": "Liberals limit debate on assisted dying bill as Conservatives call for changes",
-          "published": "2026-11-17T22:05:09.000Z",
-          "url": "https://www.cbc.ca/news/politics/maid-bill-liberals-debate-9.7425597",
-          "image": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/cra-cerb-covid-benefit-writeoffs-debt-9.7425445",
-          "title": "Federal government waives $4.5B debt from COVID-19 benefits sent to ineligible recipients",
-          "published": "2026-11-17T21:52:34.000Z",
-          "url": "https://www.cbc.ca/news/politics/cra-cerb-covid-benefit-writeoffs-debt-9.7425445",
-          "image": "https://i.cbc.ca/ais/871ba9db-e0ee-4926-9415-9169410d1b16,1794946047543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C8083%2C4546%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-trial-cross-exam-9.7425424",
-          "title": "'Crypto King' or 'Lying King'? Aiden Pleterski says he was neither at alleged kidnappers' trial",
-          "published": "2026-11-17T21:31:34.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-trial-cross-exam-9.7425424",
-          "image": "https://i.cbc.ca/ais/6f805e35-1a56-4879-bb15-37a72d0f391b,1791233269722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C5343%2C3005%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/snl-sister-sketch-9.7425423",
-          "title": "B.C. caregivers explain why a recent SNL sketch has struck a nerve",
-          "published": "2026-11-17T21:22:33.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/snl-sister-sketch-9.7425423",
-          "image": "https://i.cbc.ca/ais/1.6707005,1673128104000/full/max/0/default.jpg?im=Crop%2Crect%3D%28890%2C499%2C4535%2C2550%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/new-brunswick/scam-minor-hockey-teams-update-9.7424983",
-          "title": "Community rallies around 2 N.B. minor hockey teams who fell victim to phishing scam",
-          "published": "2026-11-17T21:21:08.000Z",
-          "url": "https://www.cbc.ca/news/canada/new-brunswick/scam-minor-hockey-teams-update-9.7424983",
-          "image": "https://i.cbc.ca/ais/ec1fd24d-15b2-426f-9919-26385a570317,1794930087229/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C372%2C3974%2C2235%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/cn-rail-highway-16-terrace-prince-rupert-9.7425535",
-          "title": "2 hospitalized after CN Rail train derails into Skeena River near Terrace, B.C.",
-          "published": "2026-11-17T21:06:04.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/cn-rail-highway-16-terrace-prince-rupert-9.7425535",
-          "image": "https://i.cbc.ca/ais/4b71c76a-4d73-42a6-a1e6-47ca87308d9c,1794955710871/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360",
-          "title": "Canada's national emergency alert system will sound off Wednesday for testing",
-          "published": "2026-11-17T20:33:35.000Z",
-          "url": "https://www.cbc.ca/news/canada/emergency-alert-test-canada-9.7425360",
-          "image": "https://i.cbc.ca/ais/a1d241ef-1338-4211-97d5-00defe05e6dc,1794942548498/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C305%2C2659%2C1495%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/st-francis-high-school-calgary-food-delivery-app-9.7425320",
-          "title": "Calgary high school says too many students are getting food delivered",
-          "published": "2026-11-17T19:35:39.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/st-francis-high-school-calgary-food-delivery-app-9.7425320",
-          "image": "https://i.cbc.ca/ais/e4f548d0-cf01-4ce1-8738-e1e976e8e1fe,1794940027505/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C147%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/china-canada-tariffs-deal-extended-expanded-trade-pork-seafood-9.7424993",
-          "title": "Canada has extended and expanded its deal with China. Here's how it affects different sectors",
-          "published": "2026-11-17T18:52:05.000Z",
-          "url": "https://www.cbc.ca/news/politics/china-canada-tariffs-deal-extended-expanded-trade-pork-seafood-9.7424993",
-          "image": "https://i.cbc.ca/ais/40cafb53-5d84-408b-a2ff-40fadec574bb,1794928349110/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C108%2C2048%2C1152%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-18T13:09:40.329Z",
+      "checkedAt": "2026-11-18T20:43:25.553Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+          "published": "2026-11-18T20:14:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o",
+          "title": "William and Kate meet PM Modi as they wrap up India tour",
+          "published": "2026-11-18T20:07:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+          "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+          "published": "2026-11-18T17:34:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+          "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+          "published": "2026-11-18T17:34:23.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o",
+          "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+          "published": "2026-11-18T17:09:43.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/51ebbbe0-e36d-11f1-99a1-253766e7ad8b.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "published": "2026-11-18T17:00:40.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
+          "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+          "published": "2026-11-18T17:00:04.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o",
+          "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+          "published": "2026-11-18T16:33:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03b/live/031efcc0-e34f-11f1-99aa-0f40b013ad11.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
           "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-          "published": "2026-11-18T12:39:24.000Z",
+          "published": "2026-11-18T16:10:44.000Z",
           "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo",
+          "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+          "published": "2026-11-18T16:05:26.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/769d/live/66da74a0-e369-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo",
+          "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+          "published": "2026-11-18T15:39:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1d/live/5d5ab520-e35f-11f1-a94c-dd322c59ae3f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+          "title": "The seven Anthropic founders who are about to become multi-billionaires",
+          "published": "2026-11-18T13:55:14.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+          "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+          "published": "2026-11-18T13:04:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no",
@@ -888,90 +973,6 @@
           "published": "2026-11-18T11:12:46.000Z",
           "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
-          "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-          "published": "2026-11-18T10:23:57.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o",
-          "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-          "published": "2026-11-18T09:28:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o",
-          "title": "Ghana's new $60m presidential jet sparks public outrage",
-          "published": "2026-11-18T09:27:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
-          "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-          "published": "2026-11-18T07:48:18.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o",
-          "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-          "published": "2026-11-18T05:11:42.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de4/live/f39e1920-e1b9-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
-          "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-          "published": "2026-11-18T04:57:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/b9e12140-e2f5-11f1-910a-c953499d69d5.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-          "published": "2026-11-18T01:18:18.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o",
-          "title": "Millions of red crabs start annual migration on Christmas Island",
-          "published": "2026-11-17T23:05:39.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2f/live/6faad2d0-e2da-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
-          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-          "published": "2026-11-17T22:46:30.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "published": "2026-11-17T21:24:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
-          "title": "Russian military plane crashes, killing all 19 on board",
-          "published": "2026-11-17T21:06:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
-          "title": "US loses measles elimination status after 26 years amid record case numbers",
-          "published": "2026-11-17T21:04:00.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
         }
       ]
     }
