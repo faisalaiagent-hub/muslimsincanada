@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-19T13:21:38.233Z",
+      "checkedAt": "2026-11-19T20:49:15.353Z",
       "items": [
         {
           "id": "Fa9uo_Da56I",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-19T13:21:38.373Z",
+      "checkedAt": "2026-11-19T20:49:15.365Z",
       "items": [
         {
           "id": "-OTWx3px85I",
@@ -173,14 +173,21 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-19T13:21:40.277Z",
+      "checkedAt": "2026-11-19T20:49:17.588Z",
       "items": [
         {
-          "id": "https://www.muslimnetwork.tv/rohingya-activists-rights-groups-welcome-icj-genocide-ruling/",
-          "title": "Rohingya activists, rights groups welcome ICJ genocide ruling",
-          "published": "2026-11-19T13:07:03.000Z",
-          "url": "https://www.muslimnetwork.tv/rohingya-activists-rights-groups-welcome-icj-genocide-ruling/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/02/20220223_2_52300221_73974272-scaled.jpg"
+          "id": "https://www.muslimnetwork.tv/world-reacts-as-icj-finds-burma-committed-rohingya-genocide/",
+          "title": "World reacts as ICJ finds Burma committed Rohingya genocide",
+          "published": "2026-11-19T14:19:46.000Z",
+          "url": "https://www.muslimnetwork.tv/world-reacts-as-icj-finds-burma-committed-rohingya-genocide/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/02/AA-20240223-33794848-33794833-ICJ_HOLDS_PUBLIC_HEARINGS_IN_ADVISORY_PROCEEDING_ON_STATE_OF_PALESTINE.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/uk-expels-myanmar-envoy-over-rohingya-genocide-ruling/",
+          "title": "UK expels Myanmar envoy over Rohingya genocide ruling",
+          "published": "2026-11-19T13:56:32.000Z",
+          "url": "https://www.muslimnetwork.tv/uk-expels-myanmar-envoy-over-rohingya-genocide-ruling/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/Ed_Miliband_conference_speech_in_Manchester_September_2010.jpeg"
         },
         {
           "id": "https://www.muslimnetwork.tv/justice-for-alls-founder-and-president-imam-malik-to-address-rohingya-ruling/",
@@ -205,7 +212,7 @@
         },
         {
           "id": "https://www.muslimnetwork.tv/icj-says-myanmar-committed-genocide-of-rohingya-muslims/",
-          "title": "ICJ says Myanmar committed genocide of Rohingya Muslims",
+          "title": "ICJ says Burma committed genocide of Rohingya Muslims",
           "published": "2026-11-19T11:41:13.000Z",
           "url": "https://www.muslimnetwork.tv/icj-says-myanmar-committed-genocide-of-rohingya-muslims/",
           "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/10/AA-20251022-39489467-39489456-ICJ_ISSUES_ADVISORY_OPINION_ON_ISRAELI_MEASURES_AGAINST_UN_AGENCIES.jpg"
@@ -214,8 +221,7 @@
           "id": "https://www.muslimnetwork.tv/china-imposes-state-approved-history-on-east-turkestan/",
           "title": "China imposes state-approved history on East Turkestan",
           "published": "2026-11-19T08:57:00.000Z",
-          "url": "https://www.muslimnetwork.tv/china-imposes-state-approved-history-on-east-turkestan/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/07/AFP-TV_20221203_POL_FRA_UyghurRights_32YC7B8_en-2.jpg"
+          "url": "https://www.muslimnetwork.tv/china-imposes-state-approved-history-on-east-turkestan/"
         },
         {
           "id": "https://www.muslimnetwork.tv/you-are-home-mamdani-defends-hindu-sikh-communities/",
@@ -234,17 +240,11 @@
           "title": "Texas Muslims welcome pledge to reverse CAIR terror label",
           "published": "2026-11-19T08:43:48.000Z",
           "url": "https://www.muslimnetwork.tv/texas-muslims-welcome-pledge-to-reverse-cair-terror-label/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/paxton-drops-lawsuit-against-cair-after-election-sweep/",
-          "title": "Paxton drops lawsuit against CAIR after election sweep",
-          "published": "2026-11-19T08:40:25.000Z",
-          "url": "https://www.muslimnetwork.tv/paxton-drops-lawsuit-against-cair-after-election-sweep/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-19T13:21:41.819Z",
+      "checkedAt": "2026-11-19T20:49:18.889Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/18/javits-frimpong-school-bullying-the-crisis-of-belonging-and-the-responsibility-of-muslim-schools/",
@@ -317,8 +317,29 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-19T13:21:37.952Z",
+      "checkedAt": "2026-11-19T20:49:15.098Z",
       "items": [
+        {
+          "id": "MBlbMO6jnxc",
+          "title": "Who Can Tell if a Hadith is Made Up?",
+          "published": "2026-11-19T19:59:39.000Z",
+          "url": "https://www.youtube.com/watch?v=MBlbMO6jnxc",
+          "image": "https://i.ytimg.com/vi/MBlbMO6jnxc/hqdefault.jpg"
+        },
+        {
+          "id": "lTQ58LpHbqY",
+          "title": "Does Predestination Undermine Personal Responsibility in Islam?",
+          "published": "2026-11-19T16:21:23.000Z",
+          "url": "https://www.youtube.com/watch?v=lTQ58LpHbqY",
+          "image": "https://i.ytimg.com/vi/lTQ58LpHbqY/hqdefault.jpg"
+        },
+        {
+          "id": "u61Q3UFHN6Y",
+          "title": "Is God Speaking to You Through Your Dreams? | Dr. Shabir Ally",
+          "published": "2026-11-19T14:30:02.000Z",
+          "url": "https://www.youtube.com/watch?v=u61Q3UFHN6Y",
+          "image": "https://i.ytimg.com/vi/u61Q3UFHN6Y/hqdefault.jpg"
+        },
         {
           "id": "wKPDganxaxg",
           "title": "If God Knows You’ll Fail, Is Predestination Fair?",
@@ -402,32 +423,11 @@
           "published": "2026-11-11T14:30:02.000Z",
           "url": "https://www.youtube.com/watch?v=vFTB567yQGs",
           "image": "https://i.ytimg.com/vi/vFTB567yQGs/hqdefault.jpg"
-        },
-        {
-          "id": "l-a24llpfl0",
-          "title": "Mark Your Calendars! | MMH Gala Dinner",
-          "published": "2026-11-10T14:33:10.000Z",
-          "url": "https://www.youtube.com/watch?v=l-a24llpfl0",
-          "image": "https://i.ytimg.com/vi/l-a24llpfl0/hqdefault.jpg"
-        },
-        {
-          "id": "MOku7BNEpmc",
-          "title": "Tracing the Narration: What Historical Sources Can Confirm",
-          "published": "2026-11-09T18:14:21.000Z",
-          "url": "https://www.youtube.com/watch?v=MOku7BNEpmc",
-          "image": "https://i.ytimg.com/vi/MOku7BNEpmc/hqdefault.jpg"
-        },
-        {
-          "id": "W1TRl4S98Kg",
-          "title": "Did Paul Deliberately Distort Jesus’ Message? | Dr. Shabir Ally",
-          "published": "2026-11-09T14:30:19.000Z",
-          "url": "https://www.youtube.com/watch?v=W1TRl4S98Kg",
-          "image": "https://i.ytimg.com/vi/W1TRl4S98Kg/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-19T13:21:38.656Z",
+      "checkedAt": "2026-11-19T20:49:15.537Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -537,7 +537,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-19T13:21:38.861Z",
+      "checkedAt": "2026-11-19T20:49:15.877Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -647,8 +647,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-19T13:21:39.071Z",
+      "checkedAt": "2026-11-19T20:49:16.016Z",
       "items": [
+        {
+          "id": "kby8vtEGYMA",
+          "title": "Was Islam Spread by the Sword? The Untold History",
+          "published": "2026-11-19T17:30:10.000Z",
+          "url": "https://www.youtube.com/watch?v=kby8vtEGYMA",
+          "image": "https://i.ytimg.com/vi/kby8vtEGYMA/hqdefault.jpg"
+        },
         {
           "id": "kWFWuAXh_qw",
           "title": "Not every difference can be solved. When it can't, the goal is to manage it.",
@@ -746,19 +753,96 @@
           "published": "2026-11-01T23:00:10.000Z",
           "url": "https://www.youtube.com/watch?v=ZCpq-SUW-ig",
           "image": "https://i.ytimg.com/vi/ZCpq-SUW-ig/hqdefault.jpg"
-        },
-        {
-          "id": "y670P_o9aAA",
-          "title": "Are people who celebrate Halloween committing Shirk?",
-          "published": "2026-10-31T05:48:18.000Z",
-          "url": "https://www.youtube.com/watch?v=y670P_o9aAA",
-          "image": "https://i.ytimg.com/vi/y670P_o9aAA/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-19T13:21:40.376Z",
+      "checkedAt": "2026-11-19T20:49:17.759Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/rabies-bats-sorel-tracy-chsld-granby-zoo-9.7428306",
+          "title": "Granby Zoo offers to rehome bat colony living in Quebec long-term care facility",
+          "published": "2026-11-19T18:49:06.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/rabies-bats-sorel-tracy-chsld-granby-zoo-9.7428306",
+          "image": "https://i.cbc.ca/ais/434daa45-7cfb-4aab-a75b-bd9503e46461,1795107447732/full/max/0/default.jpg?im=Crop%2Crect%3D%28357%2C0%2C3613%2C2032%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-school-flag-regulations-costs-flagpoles-9.7427520",
+          "title": "Alberta government to revise policy as school boards say new flag regulations could cost millions of dollars",
+          "published": "2026-11-19T18:01:50.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-school-flag-regulations-costs-flagpoles-9.7427520",
+          "image": "https://i.cbc.ca/ais/85bb170b-7711-435f-a768-f394f39f2cb6,1795063416727/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C77%2C2268%2C1275%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/tenant-escaped-glace-bay-building-collapse-9.7428215",
+          "title": "'We could have been dead,' says tenant who escaped Cape Breton building collapse",
+          "published": "2026-11-19T17:52:17.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/tenant-escaped-glace-bay-building-collapse-9.7428215",
+          "image": "https://i.cbc.ca/ais/d3319302-d512-4f40-93bd-c31336ee1c1a,1795105184182/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/hockey/pwhl/canadian-pwhl-takeover-tour-2026-27-stops-9.7428309",
+          "title": "6 Canadian cities announced as stops on PWHL Takeover Tour",
+          "published": "2026-11-19T17:42:20.000Z",
+          "url": "https://www.cbc.ca/sports/hockey/pwhl/canadian-pwhl-takeover-tour-2026-27-stops-9.7428309",
+          "image": "https://i.cbc.ca/ais/abe28164-7387-40af-84e0-b473f56848e9,1795107071765/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C179%2C3449%2C1940%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-43-bike-lanes-9.7428365",
+          "title": "Alberta bill would ban some bike lanes, let transportation minister remove others",
+          "published": "2026-11-19T17:27:11.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-43-bike-lanes-9.7428365",
+          "image": "https://i.cbc.ca/ais/461cf8b7-e08c-475f-a26f-7d4534ba96b2,1795109136935/full/max/0/default.jpg?im=Crop%2Crect%3D%2834%2C6%2C517%2C290%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/sudbury/northlander-returns-dec-tenth-9.7428203",
+          "title": "Ontario Northlander rail service to resume on Dec. 10",
+          "published": "2026-11-19T16:15:44.000Z",
+          "url": "https://www.cbc.ca/news/canada/sudbury/northlander-returns-dec-tenth-9.7428203",
+          "image": "https://i.cbc.ca/ais/a83b41e8-b0a0-4f76-9439-bfbe3d84e2bb,1767916041651/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/talika-stuart-9.7428132",
+          "title": "Mother in Burlington, Ont., house fire over the weekend has died, family friend says",
+          "published": "2026-11-19T15:56:40.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/talika-stuart-9.7428132",
+          "image": "https://i.cbc.ca/ais/7b530a93-123b-4777-b7e7-94cc13143517,1795103193884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C720%2C405%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/montreal-byelections-crucial-for-rebuilding-ndp-says-party-leader-avi-lewis-9.7427787",
+          "title": "Montreal byelections crucial for rebuilding NDP, party leader Avi Lewis says",
+          "published": "2026-11-19T15:33:28.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/montreal-byelections-crucial-for-rebuilding-ndp-says-party-leader-avi-lewis-9.7427787",
+          "image": "https://i.cbc.ca/ais/c3c9135b-b9bf-4aa5-984f-571a9e61c839,1795090986692/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5411%2C3043%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/toys-r-us-partnership-staples-9.7427933",
+          "title": "Toys 'R' Us partnership has Staples Canada playing around with its business model",
+          "published": "2026-11-19T15:32:41.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/toys-r-us-partnership-staples-9.7427933",
+          "image": "https://i.cbc.ca/ais/4b10fc8e-cfb9-400c-b2f5-76c394dcd7e8,1795098961674/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C846%2C8127%2C4571%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/thunder-bay/lake-superior-krampus-9.7427268",
+          "title": "Krampus will be celebrated in Thunder Bay after southern Ontario town's ban from Santa Claus parade",
+          "published": "2026-11-19T15:30:04.000Z",
+          "url": "https://www.cbc.ca/news/canada/thunder-bay/lake-superior-krampus-9.7427268",
+          "image": "https://i.cbc.ca/ais/f0ad732f-9949-408c-871d-a645d90d5068,1795102135148/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/sudbury/moose-factory-water-levels-9.7427967",
+          "title": "Water levels ‘critically low’ at Moose Factory Island water treatment plant in northern Ontario",
+          "published": "2026-11-19T14:44:39.000Z",
+          "url": "https://www.cbc.ca/news/canada/sudbury/moose-factory-water-levels-9.7427967",
+          "image": "https://i.cbc.ca/ais/2f35c31f-94f2-49df-b9ac-c62c2f63ddda,1790889526740/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/kpmg-cybersecurity-breach-9.7427838",
+          "title": "KPMG Canada client documents accessed in cybersecurity breach, accounting firm says",
+          "published": "2026-11-19T14:34:37.000Z",
+          "url": "https://www.cbc.ca/news/business/kpmg-cybersecurity-breach-9.7427838",
+          "image": "https://i.cbc.ca/ais/b4aca990-af02-4f7a-a324-a348d6cfb8f8,1795097628082/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-o-canada-national-anthem-mandatory-schools-9.7427293",
           "title": "Should playing O Canada be mandatory in all P.E.I. schools? One MLA thinks so",
@@ -779,102 +863,81 @@
           "published": "2026-11-19T00:40:55.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/surrey-landscaping-company-grand-theft-auto-6-9.7427305",
           "image": "https://i.cbc.ca/ais/5b32afc5-7778-415a-bb14-2da59bdd8bc9,1795044911924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-justice-duncan-beveridge-9.7427275",
-          "title": "P.E.I. tasks retired N.S. justice to lead independent review into how police handled Byron Carr murder case",
-          "published": "2026-11-19T00:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-justice-duncan-beveridge-9.7427275",
-          "image": "https://i.cbc.ca/ais/1.7095828,1793209041356/full/max/0/default.jpg?im=Crop%2Crect%3D%28437%2C777%2C3220%2C1811%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/tesla-kinew-government-court-order-9.7427003",
-          "title": "Judge orders Kinew government to disclose who excluded Tesla from Manitoba EV rebate program and why",
-          "published": "2026-11-19T00:22:31.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/tesla-kinew-government-court-order-9.7427003",
-          "image": "https://i.cbc.ca/ais/1.7489131,1742525155000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C258%2C5000%2C2812%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-oil-gas-well-cleanup-fund-9.7427452",
-          "title": "Alberta bill would force oil and gas companies to save money for cleanup of each new well drilled",
-          "published": "2026-11-19T00:09:03.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-oil-gas-well-cleanup-fund-9.7427452",
-          "image": "https://i.cbc.ca/ais/ebd676f0-9221-4345-84f6-1971ac04c85a,1795046891774/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C4000%2C2250%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/player/play/9.7427222",
-          "title": "Group claiming responsibility for Montreal Metro vandalism cites rising cost of living",
-          "published": "2026-11-18T23:26:18.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7427222",
-          "image": "https://i.cbc.ca/ais/bb8e269c-63eb-4712-8fa7-1528cdfcc36e,1795044256520/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/first-nations-health-watchdog-investigating-boy-surgery-9.7426924",
-          "title": "First Nations health watchdog investigating how Sask. boy lost small intestine after routine surgery",
-          "published": "2026-11-18T22:39:44.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/first-nations-health-watchdog-investigating-boy-surgery-9.7426924",
-          "image": "https://i.cbc.ca/ais/83004cb2-572a-43d3-b128-b00c9823fb28,1795041153251/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/player/play/9.7427166",
-          "title": "New grad rules for Alberta high schools have people talking",
-          "published": "2026-11-18T22:13:31.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7427166",
-          "image": "https://i.cbc.ca/ais/4dbd6b73-3a0e-4854-ab56-6509c809ea8f,1795039583204/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/air-force-major-charged-negligence-abuse-9.7427221",
-          "title": "Canadian Air Force major charged with negligent performance, abuse of subordinates",
-          "published": "2026-11-18T22:00:59.000Z",
-          "url": "https://www.cbc.ca/news/politics/air-force-major-charged-negligence-abuse-9.7427221",
-          "image": "https://i.cbc.ca/ais/9b07e2b8-eacc-4c61-85a4-96d4ffd388dc,1795038819398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C176%2C8640%2C4860%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/new-brunswick/student-protests-cell-phone-ban-9.7426743",
-          "title": "High school students across N.B. walk out over cellphone ban",
-          "published": "2026-11-18T21:33:47.000Z",
-          "url": "https://www.cbc.ca/news/canada/new-brunswick/student-protests-cell-phone-ban-9.7426743",
-          "image": "https://i.cbc.ca/ais/b25d429b-2d72-4c20-839d-67bcde13a9f6,1795031404712/full/max/0/default.jpg?im=Crop%2Crect%3D%28769%2C703%2C3262%2C1834%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/grand-theft-auto-inspired-video-game-set-in-toronto-9.7427072",
-          "title": "GTA VI in the GTA? Man builds Grand Theft Auto-inspired video game set in Toronto",
-          "published": "2026-11-18T21:31:46.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/grand-theft-auto-inspired-video-game-set-in-toronto-9.7427072",
-          "image": "https://i.cbc.ca/ais/f19e6939-6758-47b0-862c-80556c430768,1795033843068/full/max/0/default.jpg?im=Crop%2Crect%3D%2815%2C0%2C2833%2C1593%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/train-derailment-skeena-river-9.7426854",
-          "title": "Gitxsan hereditary chiefs call for halt to rail cargo as diesel leaks from train derailment along river in B.C.",
-          "published": "2026-11-18T21:26:06.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/train-derailment-skeena-river-9.7426854",
-          "image": "https://i.cbc.ca/ais/e58c74be-810e-45ca-9fe8-39089c60a5f8,1795050197433/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1141%2C641%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-proposed-restrictions-data-centres-9.7427099",
-          "title": "Alberta government proposing more restrictions on upcoming data centre projects",
-          "published": "2026-11-18T21:13:18.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-proposed-restrictions-data-centres-9.7427099",
-          "image": "https://i.cbc.ca/ais/07e803ec-0a0d-49fd-b897-d25ab46f66db,1784138264669/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/business/quebecor-telus-proposal-could-mean-higher-bills-experts-9.7425945",
-          "title": "If Quebecor buys Telus, less competition could mean higher cellphone bills, experts say",
-          "published": "2026-11-18T20:40:00.000Z",
-          "url": "https://www.cbc.ca/news/business/quebecor-telus-proposal-could-mean-higher-bills-experts-9.7425945",
-          "image": "https://i.cbc.ca/ais/b34ecbe6-3e36-46ca-a0b1-09b1795bd3dd,1794943910772/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C625%2C6000%2C3375%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-19T13:21:41.847Z",
+      "checkedAt": "2026-11-19T20:49:18.983Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+          "published": "2026-11-19T20:07:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "published": "2026-11-19T19:16:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+          "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+          "published": "2026-11-19T17:38:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o",
+          "title": "Rohingya genocide: What was said in court and what happens now?",
+          "published": "2026-11-19T17:35:05.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dea/live/12de9420-e441-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo",
+          "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+          "published": "2026-11-19T17:23:34.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo",
+          "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+          "published": "2026-11-19T17:23:29.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+          "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+          "published": "2026-11-19T17:03:23.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
+          "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+          "published": "2026-11-19T15:52:26.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+          "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+          "published": "2026-11-19T13:31:23.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
           "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
           "published": "2026-11-19T13:07:35.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
@@ -884,18 +947,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3358/live/5110da10-e40e-11f1-b37c-b3a71d7200af.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
-          "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-          "published": "2026-11-19T11:07:37.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cm702q0lg50po",
+          "title": "Florida pastor found guilty over role in assassination of Haitian president",
+          "published": "2026-11-19T11:44:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-          "title": "Anthropic raises $81bn in record-breaking stock market debut",
-          "published": "2026-11-19T10:48:04.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o",
+          "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+          "published": "2026-11-19T11:43:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo",
+          "title": "Indian driver wins $1.3m in life-changing lottery prize",
+          "published": "2026-11-19T11:38:09.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31eb/live/93fec7f0-e40a-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo",
@@ -903,76 +973,6 @@
           "published": "2026-11-19T10:32:10.000Z",
           "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812d/live/4b23fac0-e403-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c920xgxp5785o",
-          "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-          "published": "2026-11-19T09:21:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
-          "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-          "published": "2026-11-19T09:02:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o",
-          "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-          "published": "2026-11-19T04:42:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c722/live/3ea490d0-e3ee-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
-          "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-          "published": "2026-11-19T02:59:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo",
-          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-          "published": "2026-11-19T00:49:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do",
-          "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-          "published": "2026-11-19T00:38:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde6/live/889408a0-e250-11f1-ad39-a14279638f62.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go",
-          "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-          "published": "2026-11-18T23:47:46.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-          "title": "The seven Anthropic founders who are about to become multi-billionaires",
-          "published": "2026-11-18T23:42:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o",
-          "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-          "published": "2026-11-18T23:28:03.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo",
-          "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
-          "published": "2026-11-18T22:32:47.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e88/live/842b0ae0-e39d-11f1-a094-5fdc692f3e33.jpg"
         }
       ]
     }
