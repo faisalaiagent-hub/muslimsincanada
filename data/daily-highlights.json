@@ -823,6 +823,34 @@
           "image": "/media/shared-table.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "generatedAt": "2026-11-20T07:30:06.687Z",
+      "items": [
+        {
+          "id": "ecff7c5400b6",
+          "kind": "talk",
+          "title": "Can We Trust Classical Interpretations (Tafsir) of the Quran? | Dr. Shabir Ally & Dr. Safiyyah Ally",
+          "summary": "Make time for a recent conversation from Shabir Ally & Let the Quran Speak. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=vFTB567yQGs",
+          "sourceId": "shabir",
+          "source": "Shabir Ally & Let the Quran Speak",
+          "image": "https://i.ytimg.com/vi/vFTB567yQGs/hqdefault.jpg",
+          "published": "2026-11-11T14:30:02.000Z"
+        },
+        {
+          "id": "086bc2d5ffe8",
+          "kind": "news",
+          "title": "Cyclone Akvan makes landfall along India’s coast",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/cyclone-akvan-makes-landfall-along-indias-coast/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/06/AA-20230617-31456067-31456060-AFTERMATH_OF_BIPARJOY_CYCLONE_IN_INDIAS_KUTCH-scaled.jpg",
+          "published": "2026-11-20T06:50:01.000Z"
+        }
+      ]
     }
   ]
 }

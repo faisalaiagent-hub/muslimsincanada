@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-19T20:49:15.353Z",
+      "checkedAt": "2026-11-20T07:29:55.254Z",
       "items": [
         {
           "id": "Fa9uo_Da56I",
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-19T20:49:15.365Z",
+      "checkedAt": "2026-11-20T07:29:55.368Z",
       "items": [
+        {
+          "id": "v-0Oem9ey6I",
+          "title": "When a Fight Saves a Relationship | Dr. Omar Suleiman",
+          "published": "2026-11-20T00:20:33.000Z",
+          "url": "https://www.youtube.com/watch?v=v-0Oem9ey6I",
+          "image": "https://i.ytimg.com/vi/v-0Oem9ey6I/hqdefault.jpg"
+        },
         {
           "id": "-OTWx3px85I",
           "title": "When “Religious” People Become The Oppressors | Signs of the Hour Ep. 26 | Dr. Omar Suleiman",
@@ -162,89 +169,82 @@
           "published": "2026-11-13T23:37:30.000Z",
           "url": "https://www.youtube.com/watch?v=p4iXuM4bJVM",
           "image": "https://i.ytimg.com/vi/p4iXuM4bJVM/hqdefault.jpg"
-        },
-        {
-          "id": "PnbHjBjD_O4",
-          "title": "The WORST (and BEST?) Thing That’s Ever Happened To You | LATEST Khutbah by Dr. Omar Suleiman",
-          "published": "2026-11-13T18:57:08.000Z",
-          "url": "https://www.youtube.com/watch?v=PnbHjBjD_O4",
-          "image": "https://i.ytimg.com/vi/PnbHjBjD_O4/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-19T20:49:17.588Z",
+      "checkedAt": "2026-11-20T07:29:57.603Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/cyclone-akvan-makes-landfall-along-indias-coast/",
+          "title": "Cyclone Akvan makes landfall along India’s coast",
+          "published": "2026-11-20T06:50:01.000Z",
+          "url": "https://www.muslimnetwork.tv/cyclone-akvan-makes-landfall-along-indias-coast/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2023/06/AA-20230617-31456067-31456060-AFTERMATH_OF_BIPARJOY_CYCLONE_IN_INDIAS_KUTCH-scaled.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/iran-rejects-trumps-bioweapons-claims/",
+          "title": "Iran rejects Trump’s bioweapons claims",
+          "published": "2026-11-20T06:14:51.000Z",
+          "url": "https://www.muslimnetwork.tv/iran-rejects-trumps-bioweapons-claims/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/10/AA-20241021-35972297-35972294-IRANIAN_FOREIGN_MINISTRY_SPOKESMAN_ESMAIL_BAQAYI.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/gaza-children-appeal-to-world-ahead-of-world-childrens-day-dont-forget-us/",
+          "title": "Gaza children appeal to world ahead of World Children’s Day: ‘Don’t forget us’",
+          "published": "2026-11-20T06:12:22.000Z",
+          "url": "https://www.muslimnetwork.tv/gaza-children-appeal-to-world-ahead-of-world-childrens-day-dont-forget-us/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/03/Over-38000-Palestinian-children-orphaned-by-Israeli-war-on-Gaza-Official.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/over-22000-palestinian-children-killed-in-israels-gaza-genocide/",
+          "title": "Over 22,000 Palestinian children killed in Israel’s Gaza genocide",
+          "published": "2026-11-20T06:08:34.000Z",
+          "url": "https://www.muslimnetwork.tv/over-22000-palestinian-children-killed-in-israels-gaza-genocide/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260918-42508054-42508052-WOUNDED_PALESTINIANS_BROUGHT_TO_HOSPITAL_AFTER_GAZA_AIRSTRIKE.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/2-oil-tankers-catch-fire-after-hitting-mines-in-waters-east-of-strait-of-hormuz-iranian-army/",
+          "title": "2 oil tankers catch fire after hitting mines in waters east of Strait of Hormuz: Iranian army",
+          "published": "2026-11-20T06:05:38.000Z",
+          "url": "https://www.muslimnetwork.tv/2-oil-tankers-catch-fire-after-hitting-mines-in-waters-east-of-strait-of-hormuz-iranian-army/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/03/AA-20260302-40711524-40711522-COMMERCIAL_VESSELS_DIVERT_TO_UAE_COASTS_AMID_NAVIGATION_ISSUES.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/coming-soon-ontarios-new-auto-insurance-fraud-tracking-service/",
+          "title": "Coming Soon: Ontario’s New Auto Insurance Fraud Tracking Service!",
+          "published": "2026-11-20T01:18:55.000Z",
+          "url": "https://www.muslimnetwork.tv/coming-soon-ontarios-new-auto-insurance-fraud-tracking-service/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-introspectivedsgn-23319098.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/for-the-1st-time-the-hague-has-held-a-state-responsible-for-committing-genocide/",
+          "title": "For the 1st Time, The Hague Has Held a “State” Responsible for Committing Genocide.",
+          "published": "2026-11-20T01:13:20.000Z",
+          "url": "https://www.muslimnetwork.tv/for-the-1st-time-the-hague-has-held-a-state-responsible-for-committing-genocide/"
+        },
         {
           "id": "https://www.muslimnetwork.tv/world-reacts-as-icj-finds-burma-committed-rohingya-genocide/",
           "title": "World reacts as ICJ finds Burma committed Rohingya genocide",
           "published": "2026-11-19T14:19:46.000Z",
-          "url": "https://www.muslimnetwork.tv/world-reacts-as-icj-finds-burma-committed-rohingya-genocide/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/02/AA-20240223-33794848-33794833-ICJ_HOLDS_PUBLIC_HEARINGS_IN_ADVISORY_PROCEEDING_ON_STATE_OF_PALESTINE.jpg"
+          "url": "https://www.muslimnetwork.tv/world-reacts-as-icj-finds-burma-committed-rohingya-genocide/"
         },
         {
           "id": "https://www.muslimnetwork.tv/uk-expels-myanmar-envoy-over-rohingya-genocide-ruling/",
           "title": "UK expels Myanmar envoy over Rohingya genocide ruling",
           "published": "2026-11-19T13:56:32.000Z",
-          "url": "https://www.muslimnetwork.tv/uk-expels-myanmar-envoy-over-rohingya-genocide-ruling/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/Ed_Miliband_conference_speech_in_Manchester_September_2010.jpeg"
+          "url": "https://www.muslimnetwork.tv/uk-expels-myanmar-envoy-over-rohingya-genocide-ruling/"
         },
         {
           "id": "https://www.muslimnetwork.tv/justice-for-alls-founder-and-president-imam-malik-to-address-rohingya-ruling/",
           "title": "Justice For All’s founder and president, Imam Malik, to address Rohingya ruling",
           "published": "2026-11-19T12:46:12.000Z",
-          "url": "https://www.muslimnetwork.tv/justice-for-alls-founder-and-president-imam-malik-to-address-rohingya-ruling/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/04/Abdul_Malik_Mujahid-s.png"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/nine-icj-judges-find-burma-responsible-for-genocide/",
-          "title": "Nine ICJ judges find Burma responsible for genocide",
-          "published": "2026-11-19T12:35:47.000Z",
-          "url": "https://www.muslimnetwork.tv/nine-icj-judges-find-burma-responsible-for-genocide/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_bac24df8de227c75d57c98f3e3172e0b-1.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/how-icj-judges-voted-on-13-rulings-in-rohingya-genocide-case/",
-          "title": "How ICJ judges voted on 13 rulings in Rohingya genocide case",
-          "published": "2026-11-19T12:20:25.000Z",
-          "url": "https://www.muslimnetwork.tv/how-icj-judges-voted-on-13-rulings-in-rohingya-genocide-case/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_628d63a093002fa5b883c952ca25a6c4.webp"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/icj-says-myanmar-committed-genocide-of-rohingya-muslims/",
-          "title": "ICJ says Burma committed genocide of Rohingya Muslims",
-          "published": "2026-11-19T11:41:13.000Z",
-          "url": "https://www.muslimnetwork.tv/icj-says-myanmar-committed-genocide-of-rohingya-muslims/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/10/AA-20251022-39489467-39489456-ICJ_ISSUES_ADVISORY_OPINION_ON_ISRAELI_MEASURES_AGAINST_UN_AGENCIES.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/china-imposes-state-approved-history-on-east-turkestan/",
-          "title": "China imposes state-approved history on East Turkestan",
-          "published": "2026-11-19T08:57:00.000Z",
-          "url": "https://www.muslimnetwork.tv/china-imposes-state-approved-history-on-east-turkestan/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/you-are-home-mamdani-defends-hindu-sikh-communities/",
-          "title": "‘You are home’: Mamdani defends Hindu, Sikh communities",
-          "published": "2026-11-19T08:46:46.000Z",
-          "url": "https://www.muslimnetwork.tv/you-are-home-mamdani-defends-hindu-sikh-communities/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/judge-questions-doj-secrecy-in-ilhan-omar-probe/",
-          "title": "Judge questions DOJ secrecy in Ilhan Omar probe",
-          "published": "2026-11-19T08:45:02.000Z",
-          "url": "https://www.muslimnetwork.tv/judge-questions-doj-secrecy-in-ilhan-omar-probe/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/texas-muslims-welcome-pledge-to-reverse-cair-terror-label/",
-          "title": "Texas Muslims welcome pledge to reverse CAIR terror label",
-          "published": "2026-11-19T08:43:48.000Z",
-          "url": "https://www.muslimnetwork.tv/texas-muslims-welcome-pledge-to-reverse-cair-terror-label/"
+          "url": "https://www.muslimnetwork.tv/justice-for-alls-founder-and-president-imam-malik-to-address-rohingya-ruling/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-19T20:49:18.889Z",
+      "checkedAt": "2026-11-20T07:30:06.537Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/18/javits-frimpong-school-bullying-the-crisis-of-belonging-and-the-responsibility-of-muslim-schools/",
@@ -317,7 +317,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-19T20:49:15.098Z",
+      "checkedAt": "2026-11-20T07:29:55.012Z",
       "items": [
         {
           "id": "MBlbMO6jnxc",
@@ -427,7 +427,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-19T20:49:15.537Z",
+      "checkedAt": "2026-11-20T07:29:55.584Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -537,7 +537,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-19T20:49:15.877Z",
+      "checkedAt": "2026-11-20T07:29:55.704Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -647,7 +647,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-19T20:49:16.016Z",
+      "checkedAt": "2026-11-20T07:29:55.910Z",
       "items": [
         {
           "id": "kby8vtEGYMA",
@@ -757,8 +757,57 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-19T20:49:17.759Z",
+      "checkedAt": "2026-11-20T07:29:57.738Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/cn-derailment-diesel-skeena-oil-by-rail-9.7429141",
+          "title": "CN derailments into Skeena River raise fresh concerns over shipping hazardous materials through northwest B.C.",
+          "published": "2026-11-20T00:53:14.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/cn-derailment-diesel-skeena-oil-by-rail-9.7429141",
+          "image": "https://i.cbc.ca/ais/727658ea-d734-4c12-8ebb-b5ddaa4d0a9d,1795135156203/full/max/0/default.jpg?im=Crop%2Crect%3D%28274%2C219%2C1457%2C819%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/david-teboul-rcmp-officer-assault-case-9.7428491",
+          "title": "Former top Mountie, guilty of rec centre teen assault, gets conditional discharge",
+          "published": "2026-11-19T22:28:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/david-teboul-rcmp-officer-assault-case-9.7428491",
+          "image": "https://i.cbc.ca/ais/1.7369867,1765927535404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C415%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/mother-jones-tumbler-ridge-chatgpt-3d-gun-parts-9.7428555",
+          "title": "Tumbler Ridge shooter used ChatGPT to build 3D gun parts, U.S. magazine reports",
+          "published": "2026-11-19T21:55:05.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/mother-jones-tumbler-ridge-chatgpt-3d-gun-parts-9.7428555",
+          "image": "https://i.cbc.ca/ais/eb0c6165-4b5c-42a3-835e-ce99c1dcc39b,1795120645648/full/max/0/default.jpg?im=Crop%2Crect%3D%28328%2C473%2C2403%2C1351%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/intimate-partner-violence-bc-statistics-canada-9.7428764",
+          "title": "Almost half of women in B.C. report intimate partner violence: StatsCan",
+          "published": "2026-11-19T21:39:22.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/intimate-partner-violence-bc-statistics-canada-9.7428764",
+          "image": "https://i.cbc.ca/ais/7640806c-e21d-40b5-8353-1f2743b67f13,1795123499535/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5162%2C2903%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-co-conspirator-trial-delayed-9.7428544",
+          "title": "Alleged co-conspirator in Tumbler Ridge shooting has trial delayed until December 2027",
+          "published": "2026-11-19T20:08:37.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-co-conspirator-trial-delayed-9.7428544",
+          "image": "https://i.cbc.ca/ais/33c9c3a6-5329-43ea-b789-d8bf2550ecc4,1795118268242/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C474%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/konrad-narth-interim-leader-news-release-9.7428665",
+          "title": "Leaked news release announces Konrad Narth will lead Manitoba PCs into election — before members vote",
+          "published": "2026-11-19T20:04:45.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/konrad-narth-interim-leader-news-release-9.7428665",
+          "image": "https://i.cbc.ca/ais/4b2af1a7-f4d6-4ce7-81b9-06b2fd0b59f9,1791571439424/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C48%2C3100%2C1743%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/jill-dunlop-colleges-and-universities-osap-9.7428530",
+          "title": "Ontario's former colleges and universities minister refuses to answer questions about growing OSAP scandal",
+          "published": "2026-11-19T18:59:49.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/jill-dunlop-colleges-and-universities-osap-9.7428530",
+          "image": "https://i.cbc.ca/ais/1.7359817,1729623973000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/rabies-bats-sorel-tracy-chsld-granby-zoo-9.7428306",
           "title": "Granby Zoo offers to rehome bat colony living in Quebec long-term care facility",
@@ -814,165 +863,116 @@
           "published": "2026-11-19T15:33:28.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/montreal-byelections-crucial-for-rebuilding-ndp-says-party-leader-avi-lewis-9.7427787",
           "image": "https://i.cbc.ca/ais/c3c9135b-b9bf-4aa5-984f-571a9e61c839,1795090986692/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5411%2C3043%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/toys-r-us-partnership-staples-9.7427933",
-          "title": "Toys 'R' Us partnership has Staples Canada playing around with its business model",
-          "published": "2026-11-19T15:32:41.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/toys-r-us-partnership-staples-9.7427933",
-          "image": "https://i.cbc.ca/ais/4b10fc8e-cfb9-400c-b2f5-76c394dcd7e8,1795098961674/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C846%2C8127%2C4571%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/thunder-bay/lake-superior-krampus-9.7427268",
-          "title": "Krampus will be celebrated in Thunder Bay after southern Ontario town's ban from Santa Claus parade",
-          "published": "2026-11-19T15:30:04.000Z",
-          "url": "https://www.cbc.ca/news/canada/thunder-bay/lake-superior-krampus-9.7427268",
-          "image": "https://i.cbc.ca/ais/f0ad732f-9949-408c-871d-a645d90d5068,1795102135148/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/sudbury/moose-factory-water-levels-9.7427967",
-          "title": "Water levels ‘critically low’ at Moose Factory Island water treatment plant in northern Ontario",
-          "published": "2026-11-19T14:44:39.000Z",
-          "url": "https://www.cbc.ca/news/canada/sudbury/moose-factory-water-levels-9.7427967",
-          "image": "https://i.cbc.ca/ais/2f35c31f-94f2-49df-b9ac-c62c2f63ddda,1790889526740/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/business/kpmg-cybersecurity-breach-9.7427838",
-          "title": "KPMG Canada client documents accessed in cybersecurity breach, accounting firm says",
-          "published": "2026-11-19T14:34:37.000Z",
-          "url": "https://www.cbc.ca/news/business/kpmg-cybersecurity-breach-9.7427838",
-          "image": "https://i.cbc.ca/ais/b4aca990-af02-4f7a-a324-a348d6cfb8f8,1795097628082/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/prince-edward-island/pei-o-canada-national-anthem-mandatory-schools-9.7427293",
-          "title": "Should playing O Canada be mandatory in all P.E.I. schools? One MLA thinks so",
-          "published": "2026-11-19T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-o-canada-national-anthem-mandatory-schools-9.7427293",
-          "image": "https://i.cbc.ca/ais/8fa7b476-6f7e-4982-b6e1-11b8f51e1c46,1794883796472/full/max/0/default.jpg?im=Crop%2Crect%3D%2846%2C0%2C4755%2C2674%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/impaired-driving-stay-proceedings-rcmp-officer-9.7427281",
-          "title": "Manitoba judge stays charge in 'rare' decision after Mountie failed to disclose relationship with key witness",
-          "published": "2026-11-19T00:46:58.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/impaired-driving-stay-proceedings-rcmp-officer-9.7427281",
-          "image": "https://i.cbc.ca/ais/1.5209838,1562948664000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3839%2C2159%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/surrey-landscaping-company-grand-theft-auto-6-9.7427305",
-          "title": "Grand Theft Auto VI release means Surrey, B.C., landscaping company employees get the day off",
-          "published": "2026-11-19T00:40:55.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/surrey-landscaping-company-grand-theft-auto-6-9.7427305",
-          "image": "https://i.cbc.ca/ais/5b32afc5-7778-415a-bb14-2da59bdd8bc9,1795044911924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-19T20:49:18.983Z",
+      "checkedAt": "2026-11-20T07:30:06.595Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
+          "title": "UK and EU to agree youth mobility scheme, BBC understands",
+          "published": "2026-11-20T07:14:46.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
+          "title": "More climate money for Africa? Europe says use what's already pledged",
+          "published": "2026-11-20T05:03:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo",
+          "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+          "published": "2026-11-20T04:13:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "published": "2026-11-20T00:50:24.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo",
+          "title": "Why Canada is embracing AI data centres while the US pushes back",
+          "published": "2026-11-20T00:13:24.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d8/live/7f60e450-df9a-11f1-a9ad-6774a3284d10.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
+          "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+          "published": "2026-11-20T00:13:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o",
+          "title": "How did Anthropic's stock market debut unfold?",
+          "published": "2026-11-19T23:52:25.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/6731c740-e478-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+          "title": "Trump posthumously pardons US baseball legend Pete Rose",
+          "published": "2026-11-19T23:51:50.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+          "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+          "published": "2026-11-19T23:40:29.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "published": "2026-11-19T23:33:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo",
+          "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+          "published": "2026-11-19T23:29:00.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9306/live/f4b27990-e31d-11f1-baab-4b3b35d174b7.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+          "title": "California targets Nvidia in China AI chip probe",
+          "published": "2026-11-19T23:04:30.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo",
+          "title": "From premature baby to social media star - Famed hippo Fiona dies",
+          "published": "2026-11-19T22:54:03.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/df1a11d0-e46a-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo",
+          "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+          "published": "2026-11-19T22:48:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
           "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
           "published": "2026-11-19T20:07:02.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "published": "2026-11-19T19:16:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
-          "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-          "published": "2026-11-19T17:38:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o",
-          "title": "Rohingya genocide: What was said in court and what happens now?",
-          "published": "2026-11-19T17:35:05.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dea/live/12de9420-e441-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo",
-          "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-          "published": "2026-11-19T17:23:34.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo",
-          "title": "What did Trump, Xi and Putin get out of their historic meeting?",
-          "published": "2026-11-19T17:23:29.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
-          "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-          "published": "2026-11-19T17:03:23.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
-          "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-          "published": "2026-11-19T15:52:26.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
-          "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-          "published": "2026-11-19T13:31:23.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
-          "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-          "published": "2026-11-19T13:07:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
-          "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-          "published": "2026-11-19T12:56:30.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3358/live/5110da10-e40e-11f1-b37c-b3a71d7200af.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm702q0lg50po",
-          "title": "Florida pastor found guilty over role in assassination of Haitian president",
-          "published": "2026-11-19T11:44:57.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o",
-          "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-          "published": "2026-11-19T11:43:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo",
-          "title": "Indian driver wins $1.3m in life-changing lottery prize",
-          "published": "2026-11-19T11:38:09.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31eb/live/93fec7f0-e40a-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo",
-          "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-          "published": "2026-11-19T10:32:10.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812d/live/4b23fac0-e403-11f1-99b6-a35a62fa4264.jpg"
         }
       ]
     }
