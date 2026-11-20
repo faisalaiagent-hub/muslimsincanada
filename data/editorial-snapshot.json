@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-20T07:29:55.254Z",
+      "checkedAt": "2026-11-20T13:01:39.504Z",
       "items": [
         {
           "id": "Fa9uo_Da56I",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-20T07:29:55.368Z",
+      "checkedAt": "2026-11-20T13:01:39.611Z",
       "items": [
         {
           "id": "v-0Oem9ey6I",
@@ -173,8 +173,22 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-20T07:29:57.603Z",
+      "checkedAt": "2026-11-20T13:01:41.728Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/icjs-burma-genocide-verdict-raises-alarm-in-israel-over-gaza-proceedings-report/",
+          "title": "ICJ’s Burma genocide verdict raises alarm in Israel over Gaza proceedings: Report",
+          "published": "2026-11-20T10:13:29.000Z",
+          "url": "https://www.muslimnetwork.tv/icjs-burma-genocide-verdict-raises-alarm-in-israel-over-gaza-proceedings-report/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/06/AA-20220620-28210495-28210478-PHOTO_EXHIBITION_HIGHLIGHTS_PLIGHT_OF_ROHINGYA_IN_BANGLADESH-scaled.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/burma-has-no-credible-excuse-to-disregard-icj-genocide-ruling-gambias-lawyer-says/",
+          "title": "Burma has no ‘credible’ excuse to disregard ICJ genocide ruling, Gambia’s lawyer says",
+          "published": "2026-11-20T10:09:15.000Z",
+          "url": "https://www.muslimnetwork.tv/burma-has-no-credible-excuse-to-disregard-icj-genocide-ruling-gambias-lawyer-says/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/01/AA-20240112-33420018-33420004-ISRAEL_BEGINS_PRESENTING_DEFENSE_AT_WORLD_COURT_AGAINST_GENOCIDE_CASE.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/cyclone-akvan-makes-landfall-along-indias-coast/",
           "title": "Cyclone Akvan makes landfall along India’s coast",
@@ -207,15 +221,13 @@
           "id": "https://www.muslimnetwork.tv/2-oil-tankers-catch-fire-after-hitting-mines-in-waters-east-of-strait-of-hormuz-iranian-army/",
           "title": "2 oil tankers catch fire after hitting mines in waters east of Strait of Hormuz: Iranian army",
           "published": "2026-11-20T06:05:38.000Z",
-          "url": "https://www.muslimnetwork.tv/2-oil-tankers-catch-fire-after-hitting-mines-in-waters-east-of-strait-of-hormuz-iranian-army/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/03/AA-20260302-40711524-40711522-COMMERCIAL_VESSELS_DIVERT_TO_UAE_COASTS_AMID_NAVIGATION_ISSUES.jpg"
+          "url": "https://www.muslimnetwork.tv/2-oil-tankers-catch-fire-after-hitting-mines-in-waters-east-of-strait-of-hormuz-iranian-army/"
         },
         {
           "id": "https://www.muslimnetwork.tv/coming-soon-ontarios-new-auto-insurance-fraud-tracking-service/",
           "title": "Coming Soon: Ontario’s New Auto Insurance Fraud Tracking Service!",
           "published": "2026-11-20T01:18:55.000Z",
-          "url": "https://www.muslimnetwork.tv/coming-soon-ontarios-new-auto-insurance-fraud-tracking-service/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-introspectivedsgn-23319098.jpg"
+          "url": "https://www.muslimnetwork.tv/coming-soon-ontarios-new-auto-insurance-fraud-tracking-service/"
         },
         {
           "id": "https://www.muslimnetwork.tv/for-the-1st-time-the-hague-has-held-a-state-responsible-for-committing-genocide/",
@@ -228,23 +240,11 @@
           "title": "World reacts as ICJ finds Burma committed Rohingya genocide",
           "published": "2026-11-19T14:19:46.000Z",
           "url": "https://www.muslimnetwork.tv/world-reacts-as-icj-finds-burma-committed-rohingya-genocide/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/uk-expels-myanmar-envoy-over-rohingya-genocide-ruling/",
-          "title": "UK expels Myanmar envoy over Rohingya genocide ruling",
-          "published": "2026-11-19T13:56:32.000Z",
-          "url": "https://www.muslimnetwork.tv/uk-expels-myanmar-envoy-over-rohingya-genocide-ruling/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/justice-for-alls-founder-and-president-imam-malik-to-address-rohingya-ruling/",
-          "title": "Justice For All’s founder and president, Imam Malik, to address Rohingya ruling",
-          "published": "2026-11-19T12:46:12.000Z",
-          "url": "https://www.muslimnetwork.tv/justice-for-alls-founder-and-president-imam-malik-to-address-rohingya-ruling/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-20T07:30:06.537Z",
+      "checkedAt": "2026-11-20T13:01:41.991Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/18/javits-frimpong-school-bullying-the-crisis-of-belonging-and-the-responsibility-of-muslim-schools/",
@@ -317,7 +317,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-20T07:29:55.012Z",
+      "checkedAt": "2026-11-20T13:01:39.349Z",
       "items": [
         {
           "id": "MBlbMO6jnxc",
@@ -427,7 +427,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-20T07:29:55.584Z",
+      "checkedAt": "2026-11-20T13:01:39.781Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -537,7 +537,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-20T07:29:55.704Z",
+      "checkedAt": "2026-11-20T13:01:39.961Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -647,7 +647,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-20T07:29:55.910Z",
+      "checkedAt": "2026-11-20T13:01:40.047Z",
       "items": [
         {
           "id": "kby8vtEGYMA",
@@ -757,8 +757,57 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-20T07:29:57.738Z",
+      "checkedAt": "2026-11-20T13:01:41.866Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/glacier-national-park-avalanche-control-military-revelstoke-9.7428898",
+          "title": "Canadian military will keep firing howitzers to trigger B.C. avalanches, pausing plan to end program",
+          "published": "2026-11-20T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/glacier-national-park-avalanche-control-military-revelstoke-9.7428898",
+          "image": "https://i.cbc.ca/ais/45bc9b77-ee9c-4325-b7e9-a8851c092762,1795127325733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C187%2C3600%2C2025%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/family-loses-food-truck-business-leomay-fusion-9.7426283",
+          "title": "They finally had their dream food truck. Then it was repossessed",
+          "published": "2026-11-20T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/family-loses-food-truck-business-leomay-fusion-9.7426283",
+          "image": "https://i.cbc.ca/ais/e0d7ce59-8e5d-4593-83a7-64a3107c5c11,1795018539667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C224%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/thunder-bay/mamow-ahyamowen-report-9.7428902",
+          "title": "Health-care report highlights chronic conditions, inequities in northern Ontario First Nations",
+          "published": "2026-11-20T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/thunder-bay/mamow-ahyamowen-report-9.7428902",
+          "image": "https://i.cbc.ca/ais/bca4e1f6-cbec-44ac-a969-285579dea98d,1795125299378/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3742%2C2104%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/canada-arctic-starlink-musk-satellites-9.7428908",
+          "title": "Canada looks to break Starlink's grip on Arctic military communications",
+          "published": "2026-11-20T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/canada-arctic-starlink-musk-satellites-9.7428908",
+          "image": "https://i.cbc.ca/ais/ebf12314-f8bc-4d0b-90aa-b812d63cfbc5,1795129526649/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/business/compute-canada-sovereignty-ai-9.7428523",
+          "title": "Large AI companies 'desperate for compute' are crowding out Canadian startups at home",
+          "published": "2026-11-20T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/business/compute-canada-sovereignty-ai-9.7428523",
+          "image": "https://i.cbc.ca/ais/bf337caa-b480-4c8b-8d88-5a28f9b09f94,1795116901062/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/pickpack-quebec-election-signs-packages-9.7428705",
+          "title": "Orders roll in for Quebec company's quirky shipping boxes made from campaign posters",
+          "published": "2026-11-20T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/pickpack-quebec-election-signs-packages-9.7428705",
+          "image": "https://i.cbc.ca/ais/f14ca21d-3974-422e-bca4-1b9ef1e591b9,1795125358338/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/afghan-women-radio-program-9.7428784",
+          "title": "How a small Toronto radio program is bringing Afghan women's voices to light",
+          "published": "2026-11-20T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/afghan-women-radio-program-9.7428784",
+          "image": "https://i.cbc.ca/ais/23b89ae4-9d78-4e87-becd-7b08f829bfc8,1795126894882/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/cn-derailment-diesel-skeena-oil-by-rail-9.7429141",
           "title": "CN derailments into Skeena River raise fresh concerns over shipping hazardous materials through northwest B.C.",
@@ -814,67 +863,60 @@
           "published": "2026-11-19T18:49:06.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/rabies-bats-sorel-tracy-chsld-granby-zoo-9.7428306",
           "image": "https://i.cbc.ca/ais/434daa45-7cfb-4aab-a75b-bd9503e46461,1795107447732/full/max/0/default.jpg?im=Crop%2Crect%3D%28357%2C0%2C3613%2C2032%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-school-flag-regulations-costs-flagpoles-9.7427520",
-          "title": "Alberta government to revise policy as school boards say new flag regulations could cost millions of dollars",
-          "published": "2026-11-19T18:01:50.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-school-flag-regulations-costs-flagpoles-9.7427520",
-          "image": "https://i.cbc.ca/ais/85bb170b-7711-435f-a768-f394f39f2cb6,1795063416727/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C77%2C2268%2C1275%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/tenant-escaped-glace-bay-building-collapse-9.7428215",
-          "title": "'We could have been dead,' says tenant who escaped Cape Breton building collapse",
-          "published": "2026-11-19T17:52:17.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/tenant-escaped-glace-bay-building-collapse-9.7428215",
-          "image": "https://i.cbc.ca/ais/d3319302-d512-4f40-93bd-c31336ee1c1a,1795105184182/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/hockey/pwhl/canadian-pwhl-takeover-tour-2026-27-stops-9.7428309",
-          "title": "6 Canadian cities announced as stops on PWHL Takeover Tour",
-          "published": "2026-11-19T17:42:20.000Z",
-          "url": "https://www.cbc.ca/sports/hockey/pwhl/canadian-pwhl-takeover-tour-2026-27-stops-9.7428309",
-          "image": "https://i.cbc.ca/ais/abe28164-7387-40af-84e0-b473f56848e9,1795107071765/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C179%2C3449%2C1940%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-43-bike-lanes-9.7428365",
-          "title": "Alberta bill would ban some bike lanes, let transportation minister remove others",
-          "published": "2026-11-19T17:27:11.000Z",
-          "url": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-43-bike-lanes-9.7428365",
-          "image": "https://i.cbc.ca/ais/461cf8b7-e08c-475f-a26f-7d4534ba96b2,1795109136935/full/max/0/default.jpg?im=Crop%2Crect%3D%2834%2C6%2C517%2C290%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/sudbury/northlander-returns-dec-tenth-9.7428203",
-          "title": "Ontario Northlander rail service to resume on Dec. 10",
-          "published": "2026-11-19T16:15:44.000Z",
-          "url": "https://www.cbc.ca/news/canada/sudbury/northlander-returns-dec-tenth-9.7428203",
-          "image": "https://i.cbc.ca/ais/a83b41e8-b0a0-4f76-9439-bfbe3d84e2bb,1767916041651/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/talika-stuart-9.7428132",
-          "title": "Mother in Burlington, Ont., house fire over the weekend has died, family friend says",
-          "published": "2026-11-19T15:56:40.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/talika-stuart-9.7428132",
-          "image": "https://i.cbc.ca/ais/7b530a93-123b-4777-b7e7-94cc13143517,1795103193884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C720%2C405%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/montreal-byelections-crucial-for-rebuilding-ndp-says-party-leader-avi-lewis-9.7427787",
-          "title": "Montreal byelections crucial for rebuilding NDP, party leader Avi Lewis says",
-          "published": "2026-11-19T15:33:28.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/montreal-byelections-crucial-for-rebuilding-ndp-says-party-leader-avi-lewis-9.7427787",
-          "image": "https://i.cbc.ca/ais/c3c9135b-b9bf-4aa5-984f-571a9e61c839,1795090986692/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5411%2C3043%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-20T07:30:06.595Z",
+      "checkedAt": "2026-11-20T13:01:42.097Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+          "published": "2026-11-20T13:01:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "published": "2026-11-20T12:56:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
+          "title": "Nearly 600 women killed in South Africa within three months",
+          "published": "2026-11-20T10:56:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a9/live/1f7166f0-e4c2-11f1-87df-79d8910e0f29.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
+          "title": "South Korea catches 111 students with new measures against exam cheating",
+          "published": "2026-11-20T10:16:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+          "title": "White House removes cyber-security chief after series of tech outages",
+          "published": "2026-11-20T09:37:59.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
           "title": "UK and EU to agree youth mobility scheme, BBC understands",
           "published": "2026-11-20T07:14:46.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
+          "title": "Nigeria moves to end jail terms for attempted suicide",
+          "published": "2026-11-20T06:32:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d5d/live/2a0c8580-e4a0-11f1-a01e-f1ba573bc781.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
@@ -889,6 +931,13 @@
           "published": "2026-11-20T04:13:22.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo",
+          "title": "US army warns detonation of unstable explosives will create toxic plume",
+          "published": "2026-11-20T01:27:27.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcee/live/c0069740-e475-11f1-9a84-5bed4823e5ff.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
@@ -924,55 +973,6 @@
           "published": "2026-11-19T23:51:50.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
-          "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-          "published": "2026-11-19T23:40:29.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-          "published": "2026-11-19T23:33:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo",
-          "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-          "published": "2026-11-19T23:29:00.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9306/live/f4b27990-e31d-11f1-baab-4b3b35d174b7.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
-          "title": "California targets Nvidia in China AI chip probe",
-          "published": "2026-11-19T23:04:30.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo",
-          "title": "From premature baby to social media star - Famed hippo Fiona dies",
-          "published": "2026-11-19T22:54:03.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/df1a11d0-e46a-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo",
-          "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-          "published": "2026-11-19T22:48:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
-          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-          "published": "2026-11-19T20:07:02.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
         }
       ]
     }
