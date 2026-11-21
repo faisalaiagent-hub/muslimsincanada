@@ -851,6 +851,33 @@
           "published": "2026-11-20T06:50:01.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-21",
+      "generatedAt": "2026-11-21T07:26:00.672Z",
+      "items": [
+        {
+          "id": "0f4ec740378e",
+          "kind": "news",
+          "title": "Canadian Retirees: Your OAS Could Increase by 10% Regardless of Age",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/canadian-retirees-your-oas-could-increase-by-10-regardless-of-age/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-silverkblack-39191611.jpg",
+          "published": "2026-11-20T23:45:37.000Z"
+        },
+        {
+          "id": "77ef24f11cd7",
+          "kind": "guide",
+          "title": "A little more community in your everyday life",
+          "summary": "Explore MIC’s local discovery, marketplace, community voices, news and practical resources.",
+          "url": "/guides/discover-mic-community-features",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/community-friends.jpg"
+        }
+      ]
     }
   ]
 }
