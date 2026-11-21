@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-21T12:44:35.452Z",
+      "checkedAt": "2026-11-21T19:29:59.756Z",
       "items": [
+        {
+          "id": "IAnf9EoaQVI",
+          "title": "720 - Sura al-Shuʿaraʾ - 10 - 20 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
+          "published": "2026-11-21T14:26:19.000Z",
+          "url": "https://www.youtube.com/watch?v=IAnf9EoaQVI",
+          "image": "https://i.ytimg.com/vi/IAnf9EoaQVI/hqdefault.jpg"
+        },
         {
           "id": "GC3eJ87ceZk",
           "title": "719 - Sura al-Shuʿaraʾ - 01 - 09 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
@@ -101,18 +108,11 @@
           "published": "2026-11-09T19:39:22.000Z",
           "url": "https://www.youtube.com/watch?v=mv0sjjJOyjs",
           "image": "https://i.ytimg.com/vi/mv0sjjJOyjs/hqdefault.jpg"
-        },
-        {
-          "id": "2p2kAUm57Gk",
-          "title": "711 - Sura al-Furqan - 33 - 38 - Seekers Complete Quran Tafsir - Shaykh Abdul-Rahim Reasat",
-          "published": "2026-11-06T01:36:53.000Z",
-          "url": "https://www.youtube.com/watch?v=2p2kAUm57Gk",
-          "image": "https://i.ytimg.com/vi/2p2kAUm57Gk/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-21T12:44:35.570Z",
+      "checkedAt": "2026-11-21T19:29:59.771Z",
       "items": [
         {
           "id": "iOBfHo0YU5U",
@@ -166,7 +166,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-21T12:44:38.587Z",
+      "checkedAt": "2026-11-21T19:30:02.787Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/dhaka-press-conference-genocide-ruling-can-bring-rohingya-home/",
@@ -237,7 +237,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-21T12:44:39.205Z",
+      "checkedAt": "2026-11-21T19:30:04.075Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/18/javits-frimpong-school-bullying-the-crisis-of-belonging-and-the-responsibility-of-muslim-schools/",
@@ -310,7 +310,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-21T12:44:35.168Z",
+      "checkedAt": "2026-11-21T19:29:59.453Z",
       "items": [
         {
           "id": "MBlbMO6jnxc",
@@ -420,7 +420,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-21T12:44:35.734Z",
+      "checkedAt": "2026-11-21T19:29:59.983Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -530,7 +530,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-21T12:44:35.883Z",
+      "checkedAt": "2026-11-21T19:30:00.300Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -640,7 +640,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-21T12:44:35.965Z",
+      "checkedAt": "2026-11-21T19:30:00.467Z",
       "items": [
         {
           "id": "7KE0tSyN7wQ",
@@ -750,8 +750,43 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-21T12:44:38.804Z",
+      "checkedAt": "2026-11-21T19:30:02.890Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306",
+          "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
+          "published": "2026-11-21T17:34:01.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306",
+          "image": "https://i.cbc.ca/ais/1.5469573,1688819038000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1053%2C592%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/cer-hearing-power-export-9.7428806",
+          "title": "Hearing on controversial plans to export power from Powell River to U.S. wraps up",
+          "published": "2026-11-21T13:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/cer-hearing-power-export-9.7428806",
+          "image": "https://i.cbc.ca/ais/3f0fb23b-ffdc-447e-961f-acd30e777e78,1795195854279/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1756%2C987%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598",
+          "title": "'We are sorry': Rocks found in restaurant burritos in Alberta",
+          "published": "2026-11-21T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598",
+          "image": "https://i.cbc.ca/ais/8efbf840-ff34-42b6-9e1b-e19c42e072ef,1795211010014/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785",
+          "title": "Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains",
+          "published": "2026-11-21T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785",
+          "image": "https://i.cbc.ca/ais/93348ee1-d41c-4aa3-96ec-8636d5558a67,1795190063830/full/max/0/default.jpg?im=Crop%2Crect%3D%28408%2C256%2C769%2C432%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/2026-winter-warm-temperature-toronto-9.7430326",
+          "title": "Mild months ahead: What we know about this winter across southern Ontario",
+          "published": "2026-11-21T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/2026-winter-warm-temperature-toronto-9.7430326",
+          "image": "https://i.cbc.ca/ais/90d90673-f714-4c6c-935f-c87f66bcedcc,1795204813476/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C575%2C5792%2C3258%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565",
           "title": "Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen",
@@ -765,6 +800,13 @@
           "published": "2026-11-21T09:00:00.000Z",
           "url": "https://www.cbc.ca/player/play/9.7427291",
           "image": "https://i.cbc.ca/ais/2ff2f149-5b29-47c4-a832-5f07bfedc5bd,1795103858120/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331",
+          "title": "Ontario Liberals to elect new leader today after lengthy race",
+          "published": "2026-11-21T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331",
+          "image": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B"
         },
         {
           "id": "https://www.cbc.ca/sports/hockey/nhl/daniel-carr-criminal-probe-on-ice-punch-9.7431143",
@@ -814,60 +856,46 @@
           "published": "2026-11-20T21:06:02.000Z",
           "url": "https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-study-economy-productivity-9.7430154",
           "image": "https://i.cbc.ca/ais/bf11ce4b-f0d0-4bf4-bb0e-9760fe0702c0,1795204707081/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C116%2C2203%2C1239%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/windsor/joshua-smith-windsor-police-uttering-threats-9.7430310",
-          "title": "'I should know better': Windsor police officer gets 2nd conditional discharge after latest guilty plea",
-          "published": "2026-11-20T21:01:15.000Z",
-          "url": "https://www.cbc.ca/news/canada/windsor/joshua-smith-windsor-police-uttering-threats-9.7430310",
-          "image": "https://i.cbc.ca/ais/3b0d9939-eacb-41c3-a526-3e4b9afc46d5,1795208334914/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/scotties-tournament-of-hearts-will-be-played-in-vernon-b-c-in-2028-9.7430393",
-          "title": "Vernon to host curling's Scotties Tournament of Hearts in 2028",
-          "published": "2026-11-20T20:30:47.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/scotties-tournament-of-hearts-will-be-played-in-vernon-b-c-in-2028-9.7430393",
-          "image": "https://i.cbc.ca/ais/48e3f6a9-e98c-415e-9cd6-e9c38c240591,1795206085601/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5414%2C3045%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/quensel-pulp-mill-federal-aid-questions-9.7428821",
-          "title": "MP demands answers over $100M federal aid given to company curtailing Quesnel pulp mill",
-          "published": "2026-11-20T14:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/quensel-pulp-mill-federal-aid-questions-9.7428821",
-          "image": "https://i.cbc.ca/ais/6b391425-357e-4c4f-8ed4-29c207eedc3d,1795122664309/full/max/0/default.jpg?im=Crop%2Crect%3D%286%2C0%2C938%2C527%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/british-columbia/glacier-national-park-avalanche-control-military-revelstoke-9.7428898",
-          "title": "Canadian military will keep firing howitzers to trigger B.C. avalanches, pausing plan to end program",
-          "published": "2026-11-20T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/british-columbia/glacier-national-park-avalanche-control-military-revelstoke-9.7428898",
-          "image": "https://i.cbc.ca/ais/45bc9b77-ee9c-4325-b7e9-a8851c092762,1795127325733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C187%2C3600%2C2025%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/family-loses-food-truck-business-leomay-fusion-9.7426283",
-          "title": "They finally had their dream food truck. Then it was repossessed",
-          "published": "2026-11-20T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/family-loses-food-truck-business-leomay-fusion-9.7426283",
-          "image": "https://i.cbc.ca/ais/e0d7ce59-8e5d-4593-83a7-64a3107c5c11,1795018539667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C224%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-driving-school-instructor-parents-upset-9.7428803",
-          "title": "Parents say this N.S. driving school ‘ghosted’ them after they paid hundreds of dollars",
-          "published": "2026-11-20T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-driving-school-instructor-parents-upset-9.7428803",
-          "image": "https://i.cbc.ca/ais/d33301fb-594a-4945-9041-888048eb709b,1795121532691/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-21T12:44:39.350Z",
+      "checkedAt": "2026-11-21T19:30:04.210Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "published": "2026-11-21T19:20:22.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "published": "2026-11-21T16:35:15.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "published": "2026-11-21T14:54:24.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
           "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "published": "2026-11-21T12:20:55.000Z",
+          "published": "2026-11-21T13:17:38.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "published": "2026-11-21T13:15:21.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
@@ -877,25 +905,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "published": "2026-11-21T09:52:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
           "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
           "published": "2026-11-21T09:40:55.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "published": "2026-11-21T09:34:20.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
@@ -952,20 +966,6 @@
           "published": "2026-11-20T23:20:33.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko",
-          "title": "US declassifies more UFO footage filmed in the Middle East",
-          "published": "2026-11-20T23:15:20.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029f/live/9fdeb250-e537-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
-          "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-          "published": "2026-11-20T23:08:57.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
         }
       ]
     }
