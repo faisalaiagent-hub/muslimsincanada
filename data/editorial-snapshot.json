@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-21T07:25:55.989Z",
+      "checkedAt": "2026-11-21T12:44:35.452Z",
       "items": [
         {
           "id": "GC3eJ87ceZk",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-21T07:25:56.014Z",
+      "checkedAt": "2026-11-21T12:44:35.570Z",
       "items": [
         {
           "id": "iOBfHo0YU5U",
@@ -166,8 +166,15 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-21T07:25:58.262Z",
+      "checkedAt": "2026-11-21T12:44:38.587Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/dhaka-press-conference-genocide-ruling-can-bring-rohingya-home/",
+          "title": "Dhaka press conference: genocide ruling can bring Rohingya home",
+          "published": "2026-11-21T08:16:06.000Z",
+          "url": "https://www.muslimnetwork.tv/dhaka-press-conference-genocide-ruling-can-bring-rohingya-home/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/LIT06204.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/canadian-retirees-your-oas-could-increase-by-10-regardless-of-age/",
           "title": "Canadian Retirees: Your OAS Could Increase by 10% Regardless of Age",
@@ -207,8 +214,7 @@
           "id": "https://www.muslimnetwork.tv/icjs-burma-genocide-verdict-raises-alarm-in-israel-over-gaza-proceedings-report/",
           "title": "ICJ’s Burma genocide verdict raises alarm in Israel over Gaza proceedings: Report",
           "published": "2026-11-20T10:13:29.000Z",
-          "url": "https://www.muslimnetwork.tv/icjs-burma-genocide-verdict-raises-alarm-in-israel-over-gaza-proceedings-report/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2022/06/AA-20220620-28210495-28210478-PHOTO_EXHIBITION_HIGHLIGHTS_PLIGHT_OF_ROHINGYA_IN_BANGLADESH-scaled.jpg"
+          "url": "https://www.muslimnetwork.tv/icjs-burma-genocide-verdict-raises-alarm-in-israel-over-gaza-proceedings-report/"
         },
         {
           "id": "https://www.muslimnetwork.tv/burma-has-no-credible-excuse-to-disregard-icj-genocide-ruling-gambias-lawyer-says/",
@@ -227,17 +233,11 @@
           "title": "Iran rejects Trump’s bioweapons claims",
           "published": "2026-11-20T06:14:51.000Z",
           "url": "https://www.muslimnetwork.tv/iran-rejects-trumps-bioweapons-claims/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/gaza-children-appeal-to-world-ahead-of-world-childrens-day-dont-forget-us/",
-          "title": "Gaza children appeal to world ahead of World Children’s Day: ‘Don’t forget us’",
-          "published": "2026-11-20T06:12:22.000Z",
-          "url": "https://www.muslimnetwork.tv/gaza-children-appeal-to-world-ahead-of-world-childrens-day-dont-forget-us/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-21T07:26:00.374Z",
+      "checkedAt": "2026-11-21T12:44:39.205Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/18/javits-frimpong-school-bullying-the-crisis-of-belonging-and-the-responsibility-of-muslim-schools/",
@@ -310,7 +310,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-21T07:25:55.844Z",
+      "checkedAt": "2026-11-21T12:44:35.168Z",
       "items": [
         {
           "id": "MBlbMO6jnxc",
@@ -420,7 +420,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-21T07:25:56.124Z",
+      "checkedAt": "2026-11-21T12:44:35.734Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -530,7 +530,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-21T07:25:56.293Z",
+      "checkedAt": "2026-11-21T12:44:35.883Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -640,8 +640,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-21T07:25:56.399Z",
+      "checkedAt": "2026-11-21T12:44:35.965Z",
       "items": [
+        {
+          "id": "7KE0tSyN7wQ",
+          "title": "The Prophet ﷺ praised the intelligent person. Do you know how he defined intelligence?",
+          "published": "2026-11-21T08:42:54.000Z",
+          "url": "https://www.youtube.com/watch?v=7KE0tSyN7wQ",
+          "image": "https://i.ytimg.com/vi/7KE0tSyN7wQ/hqdefault.jpg"
+        },
         {
           "id": "dH1otfga7l4",
           "title": "Your Attention Is Under Attack",
@@ -739,19 +746,40 @@
           "published": "2026-11-05T18:30:07.000Z",
           "url": "https://www.youtube.com/watch?v=kg5bEhCpKKE",
           "image": "https://i.ytimg.com/vi/kg5bEhCpKKE/hqdefault.jpg"
-        },
-        {
-          "id": "FdWuQCSz7SU",
-          "title": "Monday is named for the moon god. Is it haram to say Monday?",
-          "published": "2026-11-03T06:58:12.000Z",
-          "url": "https://www.youtube.com/watch?v=FdWuQCSz7SU",
-          "image": "https://i.ytimg.com/vi/FdWuQCSz7SU/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-21T07:25:58.785Z",
+      "checkedAt": "2026-11-21T12:44:38.804Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565",
+          "title": "Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen",
+          "published": "2026-11-21T10:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565",
+          "image": "https://i.cbc.ca/ais/a9472579-f5da-4f78-98a5-af548efd4261,1794584948320/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C1145%2C644%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/player/play/9.7427291",
+          "title": "Tips are off the table at this Montreal café — and customers are into it",
+          "published": "2026-11-21T09:00:00.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7427291",
+          "image": "https://i.cbc.ca/ais/2ff2f149-5b29-47c4-a832-5f07bfedc5bd,1795103858120/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/hockey/nhl/daniel-carr-criminal-probe-on-ice-punch-9.7431143",
+          "title": "Canadian hockey player Daniel Carr faces Swiss criminal probe over on-ice punch",
+          "published": "2026-11-21T06:48:03.000Z",
+          "url": "https://www.cbc.ca/sports/hockey/nhl/daniel-carr-criminal-probe-on-ice-punch-9.7431143",
+          "image": "https://i.cbc.ca/ais/94c6b44d-8b47-4ee7-8f9a-2b22e7dd1106,1795243670994/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C54%2C4342%2C2442%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/peguis-tries-to-oust-cfs-leader-9.7429796",
+          "title": "Peguis First Nation members, including chief and councillor, try to oust CFS leader",
+          "published": "2026-11-21T03:24:18.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/peguis-tries-to-oust-cfs-leader-9.7429796",
+          "image": "https://i.cbc.ca/ais/5b134489-02b3-435b-bd1e-235b27c495a5,1795227486629/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/politics/ndp-liberals-bill-c39-indigenous-concerns-9.7430722",
           "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
@@ -828,53 +856,60 @@
           "published": "2026-11-20T10:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-driving-school-instructor-parents-upset-9.7428803",
           "image": "https://i.cbc.ca/ais/d33301fb-594a-4945-9041-888048eb709b,1795121532691/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/cfb-shilo-military-growth-brandon-9.7429044",
-          "title": "Manitoba military base aims to nearly double in size over decade while growing area's economy",
-          "published": "2026-11-20T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/cfb-shilo-military-growth-brandon-9.7429044",
-          "image": "https://i.cbc.ca/ais/1.7276729,1722016627000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5694%2C3202%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/thunder-bay/mamow-ahyamowen-report-9.7428902",
-          "title": "Health-care report highlights chronic conditions, inequities in northern Ontario First Nations",
-          "published": "2026-11-20T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/thunder-bay/mamow-ahyamowen-report-9.7428902",
-          "image": "https://i.cbc.ca/ais/bca4e1f6-cbec-44ac-a969-285579dea98d,1795125299378/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3742%2C2104%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/canada-arctic-starlink-musk-satellites-9.7428908",
-          "title": "Canada looks to break Starlink's grip on Arctic military communications",
-          "published": "2026-11-20T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/politics/canada-arctic-starlink-musk-satellites-9.7428908",
-          "image": "https://i.cbc.ca/ais/ebf12314-f8bc-4d0b-90aa-b812d63cfbc5,1795129526649/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C5000%2C2812%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/business/compute-canada-sovereignty-ai-9.7428523",
-          "title": "Large AI companies 'desperate for compute' are crowding out Canadian startups at home",
-          "published": "2026-11-20T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/business/compute-canada-sovereignty-ai-9.7428523",
-          "image": "https://i.cbc.ca/ais/bf337caa-b480-4c8b-8d88-5a28f9b09f94,1795116901062/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-21T07:26:00.574Z",
+      "checkedAt": "2026-11-21T12:44:39.350Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
-          "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-          "published": "2026-11-21T07:24:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "published": "2026-11-21T12:20:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+          "published": "2026-11-21T10:26:36.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "published": "2026-11-21T09:52:11.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
           "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-          "published": "2026-11-21T06:00:09.000Z",
+          "published": "2026-11-21T09:40:55.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "published": "2026-11-21T09:34:20.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
+          "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+          "published": "2026-11-21T08:10:25.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
+          "title": "Trafalgar Square Christmas tree felled in Norway",
+          "published": "2026-11-21T08:10:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
@@ -927,45 +962,10 @@
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
-          "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
           "published": "2026-11-20T23:08:57.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "published": "2026-11-20T22:42:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
-          "title": "French police officers sentenced for beating of music producer Michel Zecler",
-          "published": "2026-11-20T22:37:09.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
-          "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-          "published": "2026-11-20T22:14:17.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
-          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-          "published": "2026-11-20T21:57:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo",
-          "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-          "published": "2026-11-20T21:43:22.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg"
         }
       ]
     }
