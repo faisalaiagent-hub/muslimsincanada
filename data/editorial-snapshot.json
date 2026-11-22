@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-21T19:29:59.756Z",
+      "checkedAt": "2026-11-22T07:07:24.779Z",
       "items": [
         {
           "id": "IAnf9EoaQVI",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-21T19:29:59.771Z",
+      "checkedAt": "2026-11-22T07:07:24.793Z",
       "items": [
         {
           "id": "iOBfHo0YU5U",
@@ -155,18 +155,11 @@
           "published": "2026-11-15T19:10:10.000Z",
           "url": "https://www.youtube.com/watch?v=yRJTlFcCOqU",
           "image": "https://i.ytimg.com/vi/yRJTlFcCOqU/hqdefault.jpg"
-        },
-        {
-          "id": "uhENzfq3XwA",
-          "title": "They Said His Death Didn't Count | Dr. Omar Suleiman",
-          "published": "2026-11-14T21:28:26.000Z",
-          "url": "https://www.youtube.com/watch?v=uhENzfq3XwA",
-          "image": "https://i.ytimg.com/vi/uhENzfq3XwA/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-21T19:30:02.787Z",
+      "checkedAt": "2026-11-22T07:07:28.786Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/dhaka-press-conference-genocide-ruling-can-bring-rohingya-home/",
@@ -237,8 +230,15 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-21T19:30:04.075Z",
+      "checkedAt": "2026-11-22T07:07:30.359Z",
       "items": [
+        {
+          "id": "https://muslimmatters.org/2026/11/21/not-so-easy-at-suez-the-lustre-and-limitations-of-an-anticolonial-watershed/",
+          "title": "Not So Easy at Suez: The Lustre and Limitations of an Anticolonial Watershed",
+          "published": "2026-11-22T02:27:02.000Z",
+          "url": "https://muslimmatters.org/2026/11/21/not-so-easy-at-suez-the-lustre-and-limitations-of-an-anticolonial-watershed/",
+          "image": "https://muslimmatters.org/wp-content/uploads/free-officers-300x179.jpg"
+        },
         {
           "id": "https://muslimmatters.org/2026/11/18/javits-frimpong-school-bullying-the-crisis-of-belonging-and-the-responsibility-of-muslim-schools/",
           "title": "Javits Frimpong: School Bullying, The Crisis Of Belonging, And The Responsibility Of Muslim Schools",
@@ -257,7 +257,8 @@
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
           "title": "[Podcast] Wait, Muslims Have Been Here HOW Long?! | Hassam Munir",
           "published": "2026-10-05T11:00:27.000Z",
-          "url": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/"
+          "url": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
+          "image": "https://muslimmatters.org/wp-content/uploads/Islamic-History-month-1000x600.png"
         },
         {
           "id": "https://muslimmatters.org/2026/09/30/taliban-tale-how-afghan-militants-survived-campaigns-in-2006-16/",
@@ -299,18 +300,11 @@
           "published": "2026-09-11T06:01:05.000Z",
           "url": "https://muslimmatters.org/2026/09/11/long-war-without-end-a-quarter-century-since-the-war-on-terror/",
           "image": "https://muslimmatters.org/wp-content/uploads/twintowers-267x300.webp"
-        },
-        {
-          "id": "https://muslimmatters.org/2026/09/07/what-the-makkah-agreement-is-missing/",
-          "title": "What The Makkah Agreement Is Missing",
-          "published": "2026-09-07T17:45:09.000Z",
-          "url": "https://muslimmatters.org/2026/09/07/what-the-makkah-agreement-is-missing/",
-          "image": "https://muslimmatters.org/wp-content/uploads/accord-300x200.jpg"
         }
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-21T19:29:59.453Z",
+      "checkedAt": "2026-11-22T07:07:24.481Z",
       "items": [
         {
           "id": "MBlbMO6jnxc",
@@ -420,7 +414,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-21T19:29:59.983Z",
+      "checkedAt": "2026-11-22T07:07:24.953Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -530,7 +524,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-21T19:30:00.300Z",
+      "checkedAt": "2026-11-22T07:07:25.276Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -640,7 +634,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-21T19:30:00.467Z",
+      "checkedAt": "2026-11-22T07:07:25.422Z",
       "items": [
         {
           "id": "7KE0tSyN7wQ",
@@ -651,7 +645,7 @@
         },
         {
           "id": "dH1otfga7l4",
-          "title": "Your Attention Is Under Attack",
+          "title": "Here's WHY We're More Distracted Than Ever.",
           "published": "2026-11-20T22:30:09.000Z",
           "url": "https://www.youtube.com/watch?v=dH1otfga7l4",
           "image": "https://i.ytimg.com/vi/dH1otfga7l4/hqdefault.jpg"
@@ -750,8 +744,43 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-21T19:30:02.890Z",
+      "checkedAt": "2026-11-22T07:07:28.973Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/death-outside-port-hardy-hospital-sheds-light-on-continuous-er-closures-9.7431561",
+          "title": "Death outside Vancouver Island hospital raises questions about rural emergency care access",
+          "published": "2026-11-22T00:26:27.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/death-outside-port-hardy-hospital-sheds-light-on-continuous-er-closures-9.7431561",
+          "image": "https://i.cbc.ca/ais/1.6680834,1764373407947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1258%2C707%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/regina-shut-down-public-transit-bargaining-9.7431432",
+          "title": "City of Regina plans to shut down public transit starting Monday",
+          "published": "2026-11-21T22:58:35.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-shut-down-public-transit-bargaining-9.7431432",
+          "image": "https://i.cbc.ca/ais/69d17428-76c7-4169-a704-ebf0a5ac487c,1795293922867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C49%2C5210%2C2930%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/soccer/cpl/cpl-final-atletico-ottawa-cavalry-fc-calgary-november-21-9.7429768",
+          "title": "Cavalry FC defeats Atlético Ottawa 3-2 to claim CPL title and historic double",
+          "published": "2026-11-21T22:21:50.000Z",
+          "url": "https://www.cbc.ca/sports/soccer/cpl/cpl-final-atletico-ottawa-cavalry-fc-calgary-november-21-9.7429768",
+          "image": "https://i.cbc.ca/ais/7efe5c34-29c5-4ba5-987a-d52f0f12de79,1795302311776/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/nova-scotia/becky-druhan-wins-n-s-liberal-leadership-becomes-first-woman-to-lead-party-9.7431358",
+          "title": "Becky Druhan wins N.S. Liberal leadership, becomes first woman to lead party",
+          "published": "2026-11-21T22:11:25.000Z",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/becky-druhan-wins-n-s-liberal-leadership-becomes-first-woman-to-lead-party-9.7431358",
+          "image": "https://i.cbc.ca/ais/c29b6c40-f72e-4498-a99a-3b60a22fbc82,1795300121774/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C305%2C2016%2C1134%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298",
+          "title": "Ontario Liberals elect Navdeep Bains as new party leader",
+          "published": "2026-11-21T21:35:51.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298",
+          "image": "https://i.cbc.ca/ais/30690b4b-150c-4b8b-9883-ce3f56442a81,1795278309500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C8%2C8640%2C4860%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306",
           "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
@@ -765,6 +794,13 @@
           "published": "2026-11-21T13:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/cer-hearing-power-export-9.7428806",
           "image": "https://i.cbc.ca/ais/3f0fb23b-ffdc-447e-961f-acd30e777e78,1795195854279/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1756%2C987%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/age-friendly-sask-9.7430139",
+          "title": "Age-Friendly initiative works to help Sask. seniors stay in their home communities",
+          "published": "2026-11-21T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/age-friendly-sask-9.7430139",
+          "image": "https://i.cbc.ca/ais/4b2ec39f-835e-4f6f-9e36-e1121674e96e,1795203867101/full/max/0/default.jpg?im=Crop%2Crect%3D%28350%2C31%2C1904%2C1071%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598",
@@ -781,6 +817,20 @@
           "image": "https://i.cbc.ca/ais/93348ee1-d41c-4aa3-96ec-8636d5558a67,1795190063830/full/max/0/default.jpg?im=Crop%2Crect%3D%28408%2C256%2C769%2C432%29%3B"
         },
         {
+          "id": "https://www.cbc.ca/news/canada/manitoba/neighbour-dog-dispute-lawsuit-9.7429865",
+          "title": "Judge awards damages to both sides in lawsuit after neighbours' dispute over loose dogs 'spun out of control'",
+          "published": "2026-11-21T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/neighbour-dog-dispute-lawsuit-9.7429865",
+          "image": "https://i.cbc.ca/ais/1.6713341,1744142358000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5500%2C3093%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/kitchener-waterloo/satellites-are-constantly-photographing-earth-a-waterloo-student-has-compiled-the-pictures-into-one-spot-9.7428257",
+          "title": "Satellites are constantly photographing Earth. A Waterloo student has compiled the pictures into one spot",
+          "published": "2026-11-21T11:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/satellites-are-constantly-photographing-earth-a-waterloo-student-has-compiled-the-pictures-into-one-spot-9.7428257",
+          "image": "https://i.cbc.ca/ais/306a6f0a-77b8-438e-bbfa-282b2082bc18,1795187019506/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/toronto/2026-winter-warm-temperature-toronto-9.7430326",
           "title": "Mild months ahead: What we know about this winter across southern Ontario",
           "published": "2026-11-21T10:00:00.000Z",
@@ -788,80 +838,73 @@
           "image": "https://i.cbc.ca/ais/90d90673-f714-4c6c-935f-c87f66bcedcc,1795204813476/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C575%2C5792%2C3258%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565",
-          "title": "Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen",
+          "id": "https://www.cbc.ca/news/canada/new-brunswick/giller-prize-goose-lane-9.7430024",
+          "title": "N.B. publisher of Giller Prize-winning novel says win proves important stories can come out of the Maritimes",
           "published": "2026-11-21T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565",
-          "image": "https://i.cbc.ca/ais/a9472579-f5da-4f78-98a5-af548efd4261,1794584948320/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C1145%2C644%29%3B"
+          "url": "https://www.cbc.ca/news/canada/new-brunswick/giller-prize-goose-lane-9.7430024",
+          "image": "https://i.cbc.ca/ais/a7830c44-c697-4be7-b255-60eda28156fa,1794884265858/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C56%2C4993%2C2808%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/player/play/9.7427291",
-          "title": "Tips are off the table at this Montreal café — and customers are into it",
-          "published": "2026-11-21T09:00:00.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7427291",
-          "image": "https://i.cbc.ca/ais/2ff2f149-5b29-47c4-a832-5f07bfedc5bd,1795103858120/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331",
-          "title": "Ontario Liberals to elect new leader today after lengthy race",
-          "published": "2026-11-21T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331",
-          "image": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/hockey/nhl/daniel-carr-criminal-probe-on-ice-punch-9.7431143",
-          "title": "Canadian hockey player Daniel Carr faces Swiss criminal probe over on-ice punch",
-          "published": "2026-11-21T06:48:03.000Z",
-          "url": "https://www.cbc.ca/sports/hockey/nhl/daniel-carr-criminal-probe-on-ice-punch-9.7431143",
-          "image": "https://i.cbc.ca/ais/94c6b44d-8b47-4ee7-8f9a-2b22e7dd1106,1795243670994/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C54%2C4342%2C2442%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/peguis-tries-to-oust-cfs-leader-9.7429796",
-          "title": "Peguis First Nation members, including chief and councillor, try to oust CFS leader",
-          "published": "2026-11-21T03:24:18.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/peguis-tries-to-oust-cfs-leader-9.7429796",
-          "image": "https://i.cbc.ca/ais/5b134489-02b3-435b-bd1e-235b27c495a5,1795227486629/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/ndp-liberals-bill-c39-indigenous-concerns-9.7430722",
-          "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
-          "published": "2026-11-20T23:59:54.000Z",
-          "url": "https://www.cbc.ca/news/politics/ndp-liberals-bill-c39-indigenous-concerns-9.7430722",
-          "image": "https://i.cbc.ca/ais/e7be82db-c6a4-47b0-b535-48f6d02d5488,1795213793884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C8356%2C4700%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/baseball/mlb/davis-schneider-becomes-free-agent-9.7430834",
-          "title": "Davis Schneider becomes free agent after 4 seasons with Blue Jays",
-          "published": "2026-11-20T23:18:35.000Z",
-          "url": "https://www.cbc.ca/sports/baseball/mlb/davis-schneider-becomes-free-agent-9.7430834",
-          "image": "https://i.cbc.ca/ais/457f0d17-2eaa-473d-8d52-6a65c94762c0,1795216662741/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C6200%2C3487%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/jamie-dacosta-threats-prime-minister-mark-carney-guilty-plea-9.7430401",
-          "title": "Calgary man who threatened to kill Prime Minister Mark Carney in TikTok, YouTube videos pleads guilty",
-          "published": "2026-11-20T21:53:48.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/jamie-dacosta-threats-prime-minister-mark-carney-guilty-plea-9.7430401",
-          "image": "https://i.cbc.ca/ais/1643916b-a001-4302-8225-156738805905,1789497877184/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/sean-fraser-canadian-bar-association-9.7430396",
-          "title": "Justice minister warns 'troubling narrative' creeping into criticism of judges' decisions",
-          "published": "2026-11-20T21:49:25.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/sean-fraser-canadian-bar-association-9.7430396",
-          "image": "https://i.cbc.ca/ais/0496a137-a7f7-4fea-82eb-713411c6bac9,1795209046819/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3205%2C1802%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-study-economy-productivity-9.7430154",
-          "title": "Alto-backed study predicts major economic gains along proposed high-speed rail corridor",
-          "published": "2026-11-20T21:06:02.000Z",
-          "url": "https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-study-economy-productivity-9.7430154",
-          "image": "https://i.cbc.ca/ais/bf11ce4b-f0d0-4bf4-bb0e-9760fe0702c0,1795204707081/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C116%2C2203%2C1239%29%3B"
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/rohingya-genocide-ruling-nl-survivor-9.7429263",
+          "title": "Rohingya 'clearance operation' survivor in N.L. triumphant following genocide ruling",
+          "published": "2026-11-21T09:30:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/rohingya-genocide-ruling-nl-survivor-9.7429263",
+          "image": "https://i.cbc.ca/ais/49ac4195-a5d1-47dd-9bfe-f8435ac85914,1795134607234/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-21T19:30:04.210Z",
+      "checkedAt": "2026-11-22T07:07:30.422Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+          "title": "New draft deal aims to avert collapse of talks at climate summit",
+          "published": "2026-11-22T06:54:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+          "title": "Dozens missing after fire at Indonesian factory",
+          "published": "2026-11-22T06:05:00.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "published": "2026-11-22T01:25:03.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "published": "2026-11-22T00:10:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
+          "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+          "published": "2026-11-22T00:10:37.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo",
+          "title": "How a teen gamer and his mother helped rescue a missing girl",
+          "published": "2026-11-22T00:09:58.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
+          "title": "Lock of former US President George Washington's hair sells for $4,000",
+          "published": "2026-11-21T22:01:19.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
           "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -870,32 +913,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "published": "2026-11-21T16:35:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "published": "2026-11-21T14:54:24.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
           "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
           "published": "2026-11-21T13:17:38.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "published": "2026-11-21T13:15:21.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
@@ -938,34 +960,6 @@
           "published": "2026-11-21T01:02:39.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4e/live/03859c80-e56d-11f1-a6ac-55a3d46eac91.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
-          "title": "ANC fights to keep control of South Africa's key cities after election setback",
-          "published": "2026-11-21T00:34:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
-          "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-          "published": "2026-11-21T00:01:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo",
-          "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-          "published": "2026-11-20T23:28:17.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
-          "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-          "published": "2026-11-20T23:20:33.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg"
         }
       ]
     }

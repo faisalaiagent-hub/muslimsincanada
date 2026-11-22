@@ -878,6 +878,33 @@
           "image": "/media/community-friends.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "generatedAt": "2026-11-22T07:07:30.505Z",
+      "items": [
+        {
+          "id": "3e0f6dfc4438",
+          "kind": "guide",
+          "title": "A practical starting point for newcomers",
+          "summary": "Explore named settlement and community-service providers. Confirm current services and eligibility directly with each provider.",
+          "url": "/resources?category=Newcomers",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/volunteers.jpg"
+        },
+        {
+          "id": "a6b5a622e159",
+          "kind": "talk",
+          "title": "Minor Signs of the Day of Judgement (Part 2) I Dr. Haifaa Younis I Jannah Institute",
+          "summary": "Make time for a recent conversation from Dr. Haifaa Younis. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=djQaxHShCVI",
+          "sourceId": "haifaa",
+          "source": "Dr. Haifaa Younis",
+          "image": "https://i.ytimg.com/vi/djQaxHShCVI/hqdefault.jpg",
+          "published": "2026-11-18T22:07:17.000Z"
+        }
+      ]
     }
   ]
 }
