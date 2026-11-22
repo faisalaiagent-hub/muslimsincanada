@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-22T07:07:24.779Z",
+      "checkedAt": "2026-11-22T12:39:12.903Z",
       "items": [
         {
           "id": "IAnf9EoaQVI",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-22T07:07:24.793Z",
+      "checkedAt": "2026-11-22T12:39:12.987Z",
       "items": [
         {
           "id": "iOBfHo0YU5U",
@@ -159,7 +159,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-22T07:07:28.786Z",
+      "checkedAt": "2026-11-22T12:39:15.247Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/dhaka-press-conference-genocide-ruling-can-bring-rohingya-home/",
@@ -230,7 +230,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-22T07:07:30.359Z",
+      "checkedAt": "2026-11-22T12:39:15.412Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/21/not-so-easy-at-suez-the-lustre-and-limitations-of-an-anticolonial-watershed/",
@@ -304,7 +304,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-22T07:07:24.481Z",
+      "checkedAt": "2026-11-22T12:39:12.815Z",
       "items": [
         {
           "id": "MBlbMO6jnxc",
@@ -414,7 +414,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-22T07:07:24.953Z",
+      "checkedAt": "2026-11-22T12:39:12.994Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -524,7 +524,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-22T07:07:25.276Z",
+      "checkedAt": "2026-11-22T12:39:13.087Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -634,7 +634,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-22T07:07:25.422Z",
+      "checkedAt": "2026-11-22T12:39:13.096Z",
       "items": [
         {
           "id": "7KE0tSyN7wQ",
@@ -744,8 +744,15 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-22T07:07:28.973Z",
+      "checkedAt": "2026-11-22T12:39:15.321Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/player/play/9.7430888",
+          "title": "Hudson, Que., community brings landmark church back to life after massive fire in 2024",
+          "published": "2026-11-22T09:00:00.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7430888",
+          "image": "https://i.cbc.ca/ais/57c2b37e-5529-45c2-89e3-4d8f66fe7d87,1795218535029/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C433%2C4032%2C2268%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/death-outside-port-hardy-hospital-sheds-light-on-continuous-er-closures-9.7431561",
           "title": "Death outside Vancouver Island hospital raises questions about rural emergency care access",
@@ -843,29 +850,36 @@
           "published": "2026-11-21T10:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/new-brunswick/giller-prize-goose-lane-9.7430024",
           "image": "https://i.cbc.ca/ais/a7830c44-c697-4be7-b255-60eda28156fa,1794884265858/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C56%2C4993%2C2808%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/rohingya-genocide-ruling-nl-survivor-9.7429263",
-          "title": "Rohingya 'clearance operation' survivor in N.L. triumphant following genocide ruling",
-          "published": "2026-11-21T09:30:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/rohingya-genocide-ruling-nl-survivor-9.7429263",
-          "image": "https://i.cbc.ca/ais/49ac4195-a5d1-47dd-9bfe-f8435ac85914,1795134607234/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-22T07:07:30.422Z",
+      "checkedAt": "2026-11-22T12:39:15.435Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
-          "title": "New draft deal aims to avert collapse of talks at climate summit",
-          "published": "2026-11-22T06:54:06.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "published": "2026-11-22T11:25:14.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
+          "title": "South Korea education minister resigns over exam cheating scandal",
+          "published": "2026-11-22T09:20:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "published": "2026-11-22T07:12:41.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
-          "title": "Dozens missing after fire at Indonesian factory",
+          "title": "Three killed and dozens missing after fire at Indonesian factory",
           "published": "2026-11-22T06:05:00.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
@@ -904,13 +918,6 @@
           "published": "2026-11-21T22:01:19.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
-          "title": "Russia-bound ship attacked in Gulf of Finland",
-          "published": "2026-11-21T19:20:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
@@ -953,13 +960,6 @@
           "published": "2026-11-21T04:34:00.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
-          "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-          "published": "2026-11-21T01:02:39.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4e/live/03859c80-e56d-11f1-a6ac-55a3d46eac91.jpg"
         }
       ]
     }
