@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-22T19:51:05.423Z",
+      "checkedAt": "2026-11-23T07:53:49.066Z",
       "items": [
         {
           "id": "IAnf9EoaQVI",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-22T19:51:05.449Z",
+      "checkedAt": "2026-11-23T07:53:49.203Z",
       "items": [
         {
           "id": "eLcgsT_Vv74",
@@ -166,8 +166,50 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-22T19:51:08.595Z",
+      "checkedAt": "2026-11-23T07:53:51.108Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/attacks-on-shipping-near-strait-of-hormuz-hit-wartime-high-in-october-uk-maritime-monitor/",
+          "title": "Attacks on shipping near Strait of Hormuz hit wartime high in October: UK maritime monitor",
+          "published": "2026-11-23T06:33:22.000Z",
+          "url": "https://www.muslimnetwork.tv/attacks-on-shipping-near-strait-of-hormuz-hit-wartime-high-in-october-uk-maritime-monitor/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/06/AA-20260621-41740980-41740976-VESSEL_ACTIVITY_IN_THE_STRAIT_OF_HORMUZ.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/hospital-fire-in-berlin-injures-15-people/",
+          "title": "Hospital fire in Berlin injures 15 people",
+          "published": "2026-11-23T06:21:33.000Z",
+          "url": "https://www.muslimnetwork.tv/hospital-fire-in-berlin-injures-15-people/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-valentin-ivantsov-2154772556-33479985.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-occupiers-list-seized-palestinian-home-in-jerusalems-old-city-for-20-million/",
+          "title": "Israeli occupiers list seized Palestinian home in Jerusalem’s Old City for $20 million",
+          "published": "2026-11-23T06:20:51.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-occupiers-list-seized-palestinian-home-in-jerusalems-old-city-for-20-million/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/08/AA-20260809-42174892-42174888-ISRAELI_FORCES_RAID_THE_CITY_OF_NABLUS.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/israeli-attacks-kill-3-in-gaza-injure-4/",
+          "title": "Israeli attacks kill 3 in Gaza, injure 4",
+          "published": "2026-11-23T06:20:27.000Z",
+          "url": "https://www.muslimnetwork.tv/israeli-attacks-kill-3-in-gaza-injure-4/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260916-42485016-42484978-5_CHILDREN_AMONG_20_PALESTINIANS_KILLED_AS_WARDAMAGED_BUILDING_COLLAPSES_IN_GAZA_CITY.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/houthi-drone-targeting-southern-saudi-arabia-intercepted/",
+          "title": "Houthi drone targeting southern Saudi Arabia intercepted",
+          "published": "2026-11-23T06:15:13.000Z",
+          "url": "https://www.muslimnetwork.tv/houthi-drone-targeting-southern-saudi-arabia-intercepted/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/saudi.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/south-korea-seeks-priority-access-to-qatars-lng-supplies-once-hormuz-shipping-normalizes/",
+          "title": "South Korea seeks priority access to Qatar’s LNG supplies once Hormuz shipping normalizes",
+          "published": "2026-11-23T06:08:56.000Z",
+          "url": "https://www.muslimnetwork.tv/south-korea-seeks-priority-access-to-qatars-lng-supplies-once-hormuz-shipping-normalizes/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-aboodi-13966943-2.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/dhaka-press-conference-genocide-ruling-can-bring-rohingya-home/",
           "title": "Dhaka press conference: genocide ruling can bring Rohingya home",
@@ -179,65 +221,24 @@
           "id": "https://www.muslimnetwork.tv/canadian-retirees-your-oas-could-increase-by-10-regardless-of-age/",
           "title": "Canadian Retirees: Your OAS Could Increase by 10% Regardless of Age",
           "published": "2026-11-20T23:45:37.000Z",
-          "url": "https://www.muslimnetwork.tv/canadian-retirees-your-oas-could-increase-by-10-regardless-of-age/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-silverkblack-39191611.jpg"
+          "url": "https://www.muslimnetwork.tv/canadian-retirees-your-oas-could-increase-by-10-regardless-of-age/"
         },
         {
           "id": "https://www.muslimnetwork.tv/supreme-court-of-canada-to-hear-arguments-on-quebecs-bill-21/",
           "title": "Supreme Court of Canada to Hear Arguments on Quebec’s Bill 21",
           "published": "2026-11-20T23:43:26.000Z",
-          "url": "https://www.muslimnetwork.tv/supreme-court-of-canada-to-hear-arguments-on-quebecs-bill-21/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Latest_News_1.jpg"
+          "url": "https://www.muslimnetwork.tv/supreme-court-of-canada-to-hear-arguments-on-quebecs-bill-21/"
         },
         {
           "id": "https://www.muslimnetwork.tv/amid-israeli-persecution-gaza-children-demand-basic-rights-of-shelter-education/",
           "title": "Amid Israeli persecution, Gaza children demand basic rights of shelter, education",
           "published": "2026-11-20T19:33:35.000Z",
-          "url": "https://www.muslimnetwork.tv/amid-israeli-persecution-gaza-children-demand-basic-rights-of-shelter-education/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/08/AA-20240901-35536914-35536887-MASS_POLIO_VACCINATION_DRIVE_FOR_CHILDREN_CONTINUES_IN_GAZA_STRIP_COVERING_THOUSANDS_OF_CHILDREN_AMID_WAR.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/american-muslims-play-key-role-in-rohingya-genocide-case-at-world-court/",
-          "title": "American Muslims play key role in Rohingya Genocide Case at World Court",
-          "published": "2026-11-20T15:40:43.000Z",
-          "url": "https://www.muslimnetwork.tv/american-muslims-play-key-role-in-rohingya-genocide-case-at-world-court/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-20.20.10.jpeg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/bangladesh-should-to-press-burma-after-icj-genocide-ruling-imam-malik/",
-          "title": "Bangladesh should press Burma after ICJ genocide ruling: Imam Malik",
-          "published": "2026-11-20T15:22:43.000Z",
-          "url": "https://www.muslimnetwork.tv/bangladesh-should-to-press-burma-after-icj-genocide-ruling-imam-malik/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/ROHINGYA.jpeg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/icjs-burma-genocide-verdict-raises-alarm-in-israel-over-gaza-proceedings-report/",
-          "title": "ICJ’s Burma genocide verdict raises alarm in Israel over Gaza proceedings: Report",
-          "published": "2026-11-20T10:13:29.000Z",
-          "url": "https://www.muslimnetwork.tv/icjs-burma-genocide-verdict-raises-alarm-in-israel-over-gaza-proceedings-report/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/burma-has-no-credible-excuse-to-disregard-icj-genocide-ruling-gambias-lawyer-says/",
-          "title": "Burma has no ‘credible’ excuse to disregard ICJ genocide ruling, Gambia’s lawyer says",
-          "published": "2026-11-20T10:09:15.000Z",
-          "url": "https://www.muslimnetwork.tv/burma-has-no-credible-excuse-to-disregard-icj-genocide-ruling-gambias-lawyer-says/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/cyclone-akvan-makes-landfall-along-indias-coast/",
-          "title": "Cyclone Akvan makes landfall along India’s coast",
-          "published": "2026-11-20T06:50:01.000Z",
-          "url": "https://www.muslimnetwork.tv/cyclone-akvan-makes-landfall-along-indias-coast/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/iran-rejects-trumps-bioweapons-claims/",
-          "title": "Iran rejects Trump’s bioweapons claims",
-          "published": "2026-11-20T06:14:51.000Z",
-          "url": "https://www.muslimnetwork.tv/iran-rejects-trumps-bioweapons-claims/"
+          "url": "https://www.muslimnetwork.tv/amid-israeli-persecution-gaza-children-demand-basic-rights-of-shelter-education/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-22T19:51:16.865Z",
+      "checkedAt": "2026-11-23T07:53:52.281Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/21/not-so-easy-at-suez-the-lustre-and-limitations-of-an-anticolonial-watershed/",
@@ -311,7 +312,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-22T19:51:05.129Z",
+      "checkedAt": "2026-11-23T07:53:48.975Z",
       "items": [
         {
           "id": "MBlbMO6jnxc",
@@ -421,7 +422,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-22T19:51:05.660Z",
+      "checkedAt": "2026-11-23T07:53:49.311Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -531,7 +532,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-22T19:51:05.943Z",
+      "checkedAt": "2026-11-23T07:53:49.470Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -641,8 +642,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-22T19:51:06.205Z",
+      "checkedAt": "2026-11-23T07:53:49.489Z",
       "items": [
+        {
+          "id": "f6Eq6V3gj_4",
+          "title": "Beyond Results: The True Value of Your Efforts",
+          "published": "2026-11-23T01:00:07.000Z",
+          "url": "https://www.youtube.com/watch?v=f6Eq6V3gj_4",
+          "image": "https://i.ytimg.com/vi/f6Eq6V3gj_4/hqdefault.jpg"
+        },
         {
           "id": "7KE0tSyN7wQ",
           "title": "The Prophet ﷺ praised the intelligent person. Do you know how he defined intelligence?",
@@ -740,19 +748,47 @@
           "published": "2026-11-08T07:06:55.000Z",
           "url": "https://www.youtube.com/watch?v=N2XmCL2L_S8",
           "image": "https://i.ytimg.com/vi/N2XmCL2L_S8/hqdefault.jpg"
-        },
-        {
-          "id": "kg5bEhCpKKE",
-          "title": "Will Our Generation Save Islam's Legacy?",
-          "published": "2026-11-05T18:30:07.000Z",
-          "url": "https://www.youtube.com/watch?v=kg5bEhCpKKE",
-          "image": "https://i.ytimg.com/vi/kg5bEhCpKKE/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-22T19:51:08.781Z",
+      "checkedAt": "2026-11-23T07:53:51.263Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/romer-s-burger-bar-shut-down-9.7432148",
+          "title": "Closure of longtime Vancouver burger chain highlights growing pressures on B.C. restaurants",
+          "published": "2026-11-23T03:55:29.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/romer-s-burger-bar-shut-down-9.7432148",
+          "image": "https://i.cbc.ca/ais/3e4891f2-1d1d-42d9-9e2c-e7a1f048d489,1795401337003/full/max/0/default.jpg?im=Crop%2Crect%3D%28109%2C0%2C1298%2C730%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138",
+          "title": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
+          "published": "2026-11-23T01:55:29.000Z",
+          "url": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138",
+          "image": "https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/first-nations-leader-warns-consequences-of-dripa-repeal-9.7432127",
+          "title": "First Nations leader warns of 'dire' consequences if B.C. repeals the Declaration on the Rights of Indigenous Peoples Act",
+          "published": "2026-11-23T01:06:09.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/first-nations-leader-warns-consequences-of-dripa-repeal-9.7432127",
+          "image": "https://i.cbc.ca/ais/6965f96e-5a70-4181-8645-fb7252a67084,1771537033013/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5546%2C3119%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/kal-dosanjh-pay-discontinued-9.7431776",
+          "title": "Pay halted for suspended Vancouver police officer charged with fraud and theft",
+          "published": "2026-11-22T18:40:48.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/kal-dosanjh-pay-discontinued-9.7431776",
+          "image": "https://i.cbc.ca/ais/a567898e-370e-42a0-9800-96f2ce5f5d2e,1789160640586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432",
+          "title": "A small latte and a chat, please: Why this B.C. café owner put conversation on the menu",
+          "published": "2026-11-22T15:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/cafe-conversation-and-coffee-bc-9.7424432",
+          "image": "https://i.cbc.ca/ais/a86b7542-6155-4067-8270-0e810e4dc0a6,1794936567001/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C709%2C1536%2C864%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/prince-george-olympian-fundraising-injury-debt-9.7427067",
           "title": "Elite B.C. snowboarder's injury highlights financial strain of Olympic dreams",
@@ -775,11 +811,11 @@
           "image": "https://i.cbc.ca/ais/ac0ada49-5aac-47d8-aa64-b1c072c79c36,1794929852942/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C247%2C5712%2C3213%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059",
-          "title": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
-          "published": "2026-11-22T09:00:00.000Z",
-          "url": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059",
-          "image": "https://i.cbc.ca/ais/c67d9c46-843d-41cd-bd3d-36210f777404,1795016769775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1021%2C574%29%3B"
+          "id": "https://www.cbc.ca/player/play/9.7431001",
+          "title": "Was mispronouncing ‘Newfoundland’ the motive for murder?",
+          "published": "2026-11-22T09:30:00.000Z",
+          "url": "https://www.cbc.ca/player/play/9.7431001",
+          "image": "https://i.cbc.ca/ais/f71ce721-4963-48d3-9cad-be3a5ad73c7e,1795224196760/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493",
@@ -787,6 +823,13 @@
           "published": "2026-11-22T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493",
           "image": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059",
+          "title": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
+          "published": "2026-11-22T09:00:00.000Z",
+          "url": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059",
+          "image": "https://i.cbc.ca/ais/c67d9c46-843d-41cd-bd3d-36210f777404,1795016769775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1021%2C574%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991",
@@ -815,74 +858,95 @@
           "published": "2026-11-21T22:58:35.000Z",
           "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-shut-down-public-transit-bargaining-9.7431432",
           "image": "https://i.cbc.ca/ais/69d17428-76c7-4169-a704-ebf0a5ac487c,1795293922867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C49%2C5210%2C2930%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/becky-druhan-wins-n-s-liberal-leadership-becomes-first-woman-to-lead-party-9.7431358",
-          "title": "Becky Druhan wins N.S. Liberal leadership, becomes first woman to lead party",
-          "published": "2026-11-21T22:11:25.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/becky-druhan-wins-n-s-liberal-leadership-becomes-first-woman-to-lead-party-9.7431358",
-          "image": "https://i.cbc.ca/ais/c29b6c40-f72e-4498-a99a-3b60a22fbc82,1795300121774/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C305%2C2016%2C1134%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298",
-          "title": "Ontario Liberals elect Navdeep Bains as new party leader",
-          "published": "2026-11-21T21:35:51.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298",
-          "image": "https://i.cbc.ca/ais/30690b4b-150c-4b8b-9883-ce3f56442a81,1795278309500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C8%2C8640%2C4860%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306",
-          "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
-          "published": "2026-11-21T17:34:01.000Z",
-          "url": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306",
-          "image": "https://i.cbc.ca/ais/1.5469573,1688819038000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1053%2C592%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/saskatchewan/age-friendly-sask-9.7430139",
-          "title": "Age-Friendly initiative works to help Sask. seniors stay in their home communities",
-          "published": "2026-11-21T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/saskatchewan/age-friendly-sask-9.7430139",
-          "image": "https://i.cbc.ca/ais/4b2ec39f-835e-4f6f-9e36-e1121674e96e,1795203867101/full/max/0/default.jpg?im=Crop%2Crect%3D%28350%2C31%2C1904%2C1071%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598",
-          "title": "'We are sorry': Rocks found in restaurant burritos in Alberta",
-          "published": "2026-11-21T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598",
-          "image": "https://i.cbc.ca/ais/8efbf840-ff34-42b6-9e1b-e19c42e072ef,1795211010014/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785",
-          "title": "Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains",
-          "published": "2026-11-21T11:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785",
-          "image": "https://i.cbc.ca/ais/93348ee1-d41c-4aa3-96ec-8636d5558a67,1795190063830/full/max/0/default.jpg?im=Crop%2Crect%3D%28408%2C256%2C769%2C432%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-22T19:51:17.127Z",
+      "checkedAt": "2026-11-23T07:53:52.416Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
+          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+          "published": "2026-11-23T07:01:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+          "title": "What's next after no deal at COP31 climate talks?",
+          "published": "2026-11-23T05:34:39.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/0b9a5c60-e70e-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+          "title": "What's next after no deal at COP31 climate talks?",
+          "published": "2026-11-23T05:34:39.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/0b9a5c60-e70e-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "published": "2026-11-23T05:33:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+          "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+          "published": "2026-11-23T05:15:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f2/live/6fcf3080-e708-11f1-99a1-253766e7ad8b.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
           "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "published": "2026-11-22T19:26:54.000Z",
+          "published": "2026-11-23T02:59:35.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
-          "title": "What's next after no deal at COP31 climate talks?",
-          "published": "2026-11-22T18:57:24.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
+          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "published": "2026-11-23T01:23:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7583/live/ce5448a0-e6e7-11f1-99b6-a35a62fa4264.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
-          "title": "What's next after no deal at COP31 climate talks?",
-          "published": "2026-11-22T18:57:24.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "published": "2026-11-23T00:33:36.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+          "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+          "published": "2026-11-23T00:08:00.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "published": "2026-11-22T22:37:43.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "published": "2026-11-22T22:37:43.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
+          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "published": "2026-11-22T21:22:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
@@ -890,27 +954,6 @@
           "published": "2026-11-22T18:29:46.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "published": "2026-11-22T18:17:59.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "published": "2026-11-22T17:57:43.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
-          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "published": "2026-11-22T17:57:43.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
@@ -925,48 +968,6 @@
           "published": "2026-11-22T14:05:20.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
-          "title": "South Korea education minister resigns over exam cheating scandal",
-          "published": "2026-11-22T09:20:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
-          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-          "published": "2026-11-22T08:46:28.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-          "published": "2026-11-22T07:12:41.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "published": "2026-11-22T01:25:03.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "published": "2026-11-22T00:10:44.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
-          "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-          "published": "2026-11-22T00:10:37.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg"
         }
       ]
     }

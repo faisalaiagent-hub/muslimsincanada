@@ -905,6 +905,33 @@
           "published": "2026-11-18T22:07:17.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "generatedAt": "2026-11-23T07:53:52.505Z",
+      "items": [
+        {
+          "id": "34d4b75e94fc",
+          "kind": "news",
+          "title": "Attacks on shipping near Strait of Hormuz hit wartime high in October: UK maritime monitor",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/attacks-on-shipping-near-strait-of-hormuz-hit-wartime-high-in-october-uk-maritime-monitor/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/06/AA-20260621-41740980-41740976-VESSEL_ACTIVITY_IN_THE_STRAIT_OF_HORMUZ.jpg",
+          "published": "2026-11-23T06:33:22.000Z"
+        },
+        {
+          "id": "d7a78241ae09",
+          "kind": "guide",
+          "title": "A helping hand for families",
+          "summary": "Explore family and community support resources, with links to the organizations that provide them.",
+          "url": "/resources?category=Family%20%26%20support",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/community-friends.jpg"
+        }
+      ]
     }
   ]
 }
