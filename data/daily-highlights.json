@@ -932,6 +932,34 @@
           "image": "/media/community-friends.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "generatedAt": "2026-11-24T10:06:36.924Z",
+      "items": [
+        {
+          "id": "f74e09c2d1fd",
+          "kind": "talk",
+          "title": "How To Read End Times Prophecies About Non-Muslims | Signs of the Hour Ep. 27 | Dr. Omar Suleiman",
+          "summary": "Make time for a recent conversation from Dr. Omar Suleiman. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=-b20oQERvLI",
+          "sourceId": "omar",
+          "source": "Dr. Omar Suleiman",
+          "image": "https://i.ytimg.com/vi/-b20oQERvLI/hqdefault.jpg",
+          "published": "2026-11-24T05:24:52.000Z"
+        },
+        {
+          "id": "364bdee07a23",
+          "kind": "news",
+          "title": "Israeli drone strikes kill 5 people in Gaza",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/israeli-drone-strikes-kill-5-people-in-gaza/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/09/AA-20260918-42508054-42508052-WOUNDED_PALESTINIANS_BROUGHT_TO_HOSPITAL_AFTER_GAZA_AIRSTRIKE.jpg",
+          "published": "2026-11-24T07:37:35.000Z"
+        }
+      ]
     }
   ]
 }
