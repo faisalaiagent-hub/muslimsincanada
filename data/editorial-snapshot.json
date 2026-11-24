@@ -2,8 +2,15 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-24T10:06:33.942Z",
+      "checkedAt": "2026-11-24T14:56:15.186Z",
       "items": [
+        {
+          "id": "Wi_gdm7wVxQ",
+          "title": "44 - Book of Purification - [Hadith 474-481] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "published": "2026-11-24T14:00:47.000Z",
+          "url": "https://www.youtube.com/watch?v=Wi_gdm7wVxQ",
+          "image": "https://i.ytimg.com/vi/Wi_gdm7wVxQ/hqdefault.jpg"
+        },
         {
           "id": "iTVnxIlNZjg",
           "title": "38 - Categories 51-53: Knowing the Agnomens Known by Names, Titles, and Similar and Dissimilar",
@@ -101,18 +108,11 @@
           "published": "2026-11-11T17:49:49.000Z",
           "url": "https://www.youtube.com/watch?v=NjQvoIPiyew",
           "image": "https://i.ytimg.com/vi/NjQvoIPiyew/hqdefault.jpg"
-        },
-        {
-          "id": "egVKSpiQHuU",
-          "title": "40 - Book of Purification - [Hadith 430-436] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-11-11T02:37:58.000Z",
-          "url": "https://www.youtube.com/watch?v=egVKSpiQHuU",
-          "image": "https://i.ytimg.com/vi/egVKSpiQHuU/hqdefault.jpg"
         }
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-24T10:06:34.071Z",
+      "checkedAt": "2026-11-24T14:56:15.206Z",
       "items": [
         {
           "id": "-b20oQERvLI",
@@ -166,8 +166,29 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-24T10:06:36.136Z",
+      "checkedAt": "2026-11-24T14:56:16.578Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/thousands-of-christians-march-in-india-demanding-religious-freedom-amid-attacks/",
+          "title": "Thousands of Christians march in India demanding religious freedom amid attacks",
+          "published": "2026-11-24T12:20:19.000Z",
+          "url": "https://www.muslimnetwork.tv/thousands-of-christians-march-in-india-demanding-religious-freedom-amid-attacks/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/pexels-ranit-das-2154541727-33572731.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/india-demolishes-muslim-religious-sites-ahead-of-major-hindu-festival/",
+          "title": "India demolishes Muslim religious sites ahead of major Hindu festival",
+          "published": "2026-11-24T12:18:28.000Z",
+          "url": "https://www.muslimnetwork.tv/india-demolishes-muslim-religious-sites-ahead-of-major-hindu-festival/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/05/AA-20250510-37905225-37905224-INDIAN_PRIME_MINISTER_NARENDRA_MODI.jpg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/bangladesh-rescues-eight-rohingya-from-human-trafficking-operation/",
+          "title": "Bangladesh rescues eight Rohingya from human trafficking operation",
+          "published": "2026-11-24T12:16:52.000Z",
+          "url": "https://www.muslimnetwork.tv/bangladesh-rescues-eight-rohingya-from-human-trafficking-operation/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2024/03/AFP-TV_20240321_ENV_IDN_RohingyaRefugees_34LZ2HR_en.jpg"
+        },
         {
           "id": "https://www.muslimnetwork.tv/israeli-drone-strikes-kill-5-people-in-gaza/",
           "title": "Israeli drone strikes kill 5 people in Gaza",
@@ -193,54 +214,30 @@
           "id": "https://www.muslimnetwork.tv/us-senators-urge-rubio-to-press-israel-on-winter-aid-for-gaza/",
           "title": "US senators urge Rubio to press Israel on winter aid for Gaza",
           "published": "2026-11-24T06:16:25.000Z",
-          "url": "https://www.muslimnetwork.tv/us-senators-urge-rubio-to-press-israel-on-winter-aid-for-gaza/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/rubio.webp"
+          "url": "https://www.muslimnetwork.tv/us-senators-urge-rubio-to-press-israel-on-winter-aid-for-gaza/"
         },
         {
           "id": "https://www.muslimnetwork.tv/pakistani-set-to-become-1st-foreign-astronaut-to-enter-chinas-space-station/",
           "title": "Pakistani set to become 1st foreign astronaut to enter China’s space station",
           "published": "2026-11-24T06:13:38.000Z",
-          "url": "https://www.muslimnetwork.tv/pakistani-set-to-become-1st-foreign-astronaut-to-enter-chinas-space-station/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_c103cd9f5f961bf0caa5baf0d377d9cf.webp"
+          "url": "https://www.muslimnetwork.tv/pakistani-set-to-become-1st-foreign-astronaut-to-enter-chinas-space-station/"
         },
         {
           "id": "https://www.muslimnetwork.tv/gta-residents-will-pay-more-for-407-etr-starting-january-1-2027/",
           "title": "GTA Residents Will Pay More for 407 ETR Starting January 1, 2027",
           "published": "2026-11-24T00:02:49.000Z",
-          "url": "https://www.muslimnetwork.tv/gta-residents-will-pay-more-for-407-etr-starting-january-1-2027/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/407ETR_Entry.jpg"
+          "url": "https://www.muslimnetwork.tv/gta-residents-will-pay-more-for-407-etr-starting-january-1-2027/"
         },
         {
           "id": "https://www.muslimnetwork.tv/pack-away-the-t-shirts-and-bring-out-the-jackets-the-winter-is-finally-here/",
           "title": "Pack Away the T-Shirts and Bring Out the Jackets; The Winter Is Finally Here",
           "published": "2026-11-23T23:55:21.000Z",
           "url": "https://www.muslimnetwork.tv/pack-away-the-t-shirts-and-bring-out-the-jackets-the-winter-is-finally-here/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/this-is-no-life-rohingya-sufferings-through-eyes-of-american-muslim-leader/",
-          "title": "‘This is no life’: Rohingya sufferings through eyes of American Muslim leader",
-          "published": "2026-11-23T14:59:12.000Z",
-          "url": "https://www.muslimnetwork.tv/this-is-no-life-rohingya-sufferings-through-eyes-of-american-muslim-leader/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/DSC04318-300x300.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/laptops-mentorship-and-jobs-call-to-empower-rohingya-refugees/",
-          "title": "US Muslim initiative opens digital employment pathways for Rohingya youth",
-          "published": "2026-11-23T14:30:59.000Z",
-          "url": "https://www.muslimnetwork.tv/laptops-mentorship-and-jobs-call-to-empower-rohingya-refugees/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/DSC04114.jpg"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/american-muslim-leader-mujahid-urges-justice-for-rohingya/",
-          "title": "American Muslim leader Abdul Malik Mujahid urges justice for Rohingya",
-          "published": "2026-11-23T14:17:40.000Z",
-          "url": "https://www.muslimnetwork.tv/american-muslim-leader-mujahid-urges-justice-for-rohingya/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/DSC04431.jpg"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-24T10:06:36.741Z",
+      "checkedAt": "2026-11-24T14:56:17.023Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/21/not-so-easy-at-suez-the-lustre-and-limitations-of-an-anticolonial-watershed/",
@@ -314,8 +311,15 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-24T10:06:33.829Z",
+      "checkedAt": "2026-11-24T14:56:15.099Z",
       "items": [
+        {
+          "id": "DEcsMl5i_JA",
+          "title": "I'm a New Muslim. I Feel Unwelcome in the Mosque | Dr. Shabir Ally & Dr. Safiyyah Ally",
+          "published": "2026-11-24T14:34:47.000Z",
+          "url": "https://www.youtube.com/watch?v=DEcsMl5i_JA",
+          "image": "https://i.ytimg.com/vi/DEcsMl5i_JA/hqdefault.jpg"
+        },
         {
           "id": "1RVYSmFngn8",
           "title": "Quran on Satan, Repentance, and God’s Forgiveness",
@@ -413,18 +417,11 @@
           "published": "2026-11-12T19:20:25.000Z",
           "url": "https://www.youtube.com/watch?v=qUJ4WnitVbA",
           "image": "https://i.ytimg.com/vi/qUJ4WnitVbA/hqdefault.jpg"
-        },
-        {
-          "id": "MnYAvU6PAJE",
-          "title": "Who Is Al-Masih Ad-Dajjal: The Islamic Antichrist Explained",
-          "published": "2026-11-12T14:53:09.000Z",
-          "url": "https://www.youtube.com/watch?v=MnYAvU6PAJE",
-          "image": "https://i.ytimg.com/vi/MnYAvU6PAJE/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-24T10:06:34.244Z",
+      "checkedAt": "2026-11-24T14:56:15.363Z",
       "items": [
         {
           "id": "15mYIFBrR7A",
@@ -534,7 +531,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-24T10:06:34.370Z",
+      "checkedAt": "2026-11-24T14:56:15.376Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -644,8 +641,15 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-24T10:06:34.463Z",
+      "checkedAt": "2026-11-24T14:56:15.526Z",
       "items": [
+        {
+          "id": "Aw6FwNBB2KU",
+          "title": "Tests in this life don't mean Allah has stopped loving you. Sometimes, He wants to bring you closer.",
+          "published": "2026-11-24T11:02:51.000Z",
+          "url": "https://www.youtube.com/watch?v=Aw6FwNBB2KU",
+          "image": "https://i.ytimg.com/vi/Aw6FwNBB2KU/hqdefault.jpg"
+        },
         {
           "id": "f6Eq6V3gj_4",
           "title": "Beyond Results: The True Value of Your Efforts",
@@ -743,29 +747,29 @@
           "published": "2026-11-08T17:30:10.000Z",
           "url": "https://www.youtube.com/watch?v=vEF-JNikjOs",
           "image": "https://i.ytimg.com/vi/vEF-JNikjOs/hqdefault.jpg"
-        },
-        {
-          "id": "N2XmCL2L_S8",
-          "title": "Do you only remember Allah when things go wrong?",
-          "published": "2026-11-08T07:06:55.000Z",
-          "url": "https://www.youtube.com/watch?v=N2XmCL2L_S8",
-          "image": "https://i.ytimg.com/vi/N2XmCL2L_S8/hqdefault.jpg"
         }
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-24T10:06:36.340Z",
+      "checkedAt": "2026-11-24T14:56:16.765Z",
       "items": [
         {
+          "id": "https://www.cbc.ca/news/regina-transit-lockout-ends-9.7433715",
+          "title": "Regina transit lockout ends after tentative deal reached",
+          "published": "2026-11-24T12:25:38.000Z",
+          "url": "https://www.cbc.ca/news/regina-transit-lockout-ends-9.7433715",
+          "image": "https://i.cbc.ca/ais/2c58cc62-1e1c-420f-9a6c-4eb0711829fb,1795525226568/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/manitoba/scam-payment-misdirection-fraud-flin-flon-denare-beach-9.7430546",
-          "title": "Wildfire victim trying to buy new Flin Flon home loses $170K in lawyer impersonation scam",
+          "title": "Wildfire victim trying to buy new Flin Flon, Man., home loses $170K in lawyer impersonation scam",
           "published": "2026-11-24T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/manitoba/scam-payment-misdirection-fraud-flin-flon-denare-beach-9.7430546",
           "image": "https://i.cbc.ca/ais/d00da2e6-a84c-4e38-8070-520079d8f612,1795461725211/full/max/0/default.jpg?im=Crop%2Crect%3D%28205%2C27%2C1237%2C695%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/politics/alto-expropriation-changes-9.7433464",
-          "title": "Draft budget bill proposes sweeping new land-seizure powers for high-speed rail",
+          "title": "Ottawa proposes sweeping new land-seizure powers for Alto high-speed rail project",
           "published": "2026-11-24T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/politics/alto-expropriation-changes-9.7433464",
           "image": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
@@ -776,6 +780,13 @@
           "published": "2026-11-24T09:00:00.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/toronto-peptide-shop-concerns-9.7428435",
           "image": "https://i.cbc.ca/ais/e5c6d802-4bf5-4178-8949-8800029cb63d,1795192375488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C333%2C3720%2C2092%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/oldest-grocery-story-north-america-9.7433381",
+          "title": "Quebec grocery store believed to be oldest in North America revived with an Italian twist",
+          "published": "2026-11-24T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/oldest-grocery-story-north-america-9.7433381",
+          "image": "https://i.cbc.ca/ais/69bb1fb6-d845-462d-ac2f-0b25895111a8,1795475372494/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C2048%2C1152%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-shooting-bryant-detention-order-revoke-9.7433468",
@@ -846,32 +857,60 @@
           "published": "2026-11-23T18:30:00.000Z",
           "url": "https://www.cbc.ca/player/play/9.7432634",
           "image": "https://i.cbc.ca/ais/766ec9bb-2e46-4a9f-b5c2-9935e6e3e895,1795452082869/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/virginia-blatz-death-dentist-9.7432787",
-          "title": "Dentist pleads guilty to professional misconduct in 23-year-old's death",
-          "published": "2026-11-23T18:19:54.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/virginia-blatz-death-dentist-9.7432787",
-          "image": "https://i.cbc.ca/ais/b5d61513-0f4e-49de-978b-62430b7134cd,1795471529382/full/max/0/default.jpg?im=Crop%2Crect%3D%28512%2C68%2C5028%2C2828%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/jon-wells-blood-tribe-calgary-police-officers-charged-manslaughter-9.7432609",
-          "title": "3 Calgary police officers charged with manslaughter in death of unarmed Blood Tribe man",
-          "published": "2026-11-23T17:04:14.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/jon-wells-blood-tribe-calgary-police-officers-charged-manslaughter-9.7432609",
-          "image": "https://i.cbc.ca/ais/3d3790b6-c6e2-4992-8dc5-7bc8edb9dca4,1795464729883/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C1179%2C663%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-24T10:06:36.842Z",
+      "checkedAt": "2026-11-24T14:56:17.355Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
+          "title": "Russian governor detained in rare criminal case against regional leader",
+          "published": "2026-11-24T12:45:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+          "published": "2026-11-24T12:12:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
+          "title": "Car bomb tears through Colombian city wounding more than 20",
+          "published": "2026-11-24T11:45:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c0/live/f8f77110-e811-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm78270l4z7no",
+          "title": "Pope Francis' diary reveals claims he saw the devil three times",
+          "published": "2026-11-24T11:10:57.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "published": "2026-11-24T10:58:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
           "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-          "published": "2026-11-24T09:42:54.000Z",
+          "published": "2026-11-24T10:53:37.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
+          "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+          "published": "2026-11-24T10:48:27.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo",
@@ -879,13 +918,6 @@
           "published": "2026-11-24T09:09:41.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
-          "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-          "published": "2026-11-24T08:35:41.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
@@ -909,18 +941,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
-          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-          "published": "2026-11-24T02:15:59.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo",
           "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
           "published": "2026-11-24T01:21:41.000Z",
           "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd69/live/495b9350-e7d3-11f1-99b6-a35a62fa4264.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b8/live/43f09a20-e808-11f1-99b6-a35a62fa4264.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o",
@@ -942,34 +967,6 @@
           "published": "2026-11-23T22:59:07.000Z",
           "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1167/live/142d5c60-e790-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o",
-          "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-          "published": "2026-11-23T21:24:47.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
-          "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-          "published": "2026-11-23T21:03:34.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo",
-          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-          "published": "2026-11-23T20:48:35.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo",
-          "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-          "published": "2026-11-23T18:49:19.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg"
         }
       ]
     }
