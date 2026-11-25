@@ -2,12 +2,12 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-24T22:37:18.631Z",
+      "checkedAt": "2026-11-25T08:51:28.301Z",
       "items": [
         {
           "id": "Wi_gdm7wVxQ",
           "title": "44 - Book of Purification - [Hadith 474-481] - Mishkat al-Masabih - Shaykh Ilyas Patel",
-          "published": "2026-11-24T14:00:47.000Z",
+          "published": "2026-11-25T02:48:00.000Z",
           "url": "https://www.youtube.com/watch?v=Wi_gdm7wVxQ",
           "image": "https://i.ytimg.com/vi/Wi_gdm7wVxQ/hqdefault.jpg"
         },
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-24T22:37:18.728Z",
+      "checkedAt": "2026-11-25T08:51:28.418Z",
       "items": [
         {
           "id": "-b20oQERvLI",
@@ -166,8 +166,22 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-24T22:37:21.443Z",
+      "checkedAt": "2026-11-25T08:51:29.618Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/mississaugas-new-mayor-pauses-all-new-hiring-in-the-city/",
+          "title": "Mississauga’s New Mayor Pauses All New Hiring in the City.",
+          "published": "2026-11-24T23:54:42.000Z",
+          "url": "https://www.muslimnetwork.tv/mississaugas-new-mayor-pauses-all-new-hiring-in-the-city/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/914355154_1677367950567546_7158718842074845256_n.jpeg"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/ausma-malik-emerges-as-a-new-power-center-in-toronto/",
+          "title": "Ausma Malik Emerges as a New Power Center in Toronto!",
+          "published": "2026-11-24T23:50:05.000Z",
+          "url": "https://www.muslimnetwork.tv/ausma-malik-emerges-as-a-new-power-center-in-toronto/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Ausma-Malik.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/thousands-of-christians-march-in-india-demanding-religious-freedom-amid-attacks/",
           "title": "Thousands of Christians march in India demanding religious freedom amid attacks",
@@ -200,15 +214,13 @@
           "id": "https://www.muslimnetwork.tv/iranian-parliament-speaker-says-us-seeks-no-war-no-peace-stalemate-with-iran-calls-for-deterrence/",
           "title": "Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence",
           "published": "2026-11-24T07:34:34.000Z",
-          "url": "https://www.muslimnetwork.tv/iranian-parliament-speaker-says-us-seeks-no-war-no-peace-stalemate-with-iran-calls-for-deterrence/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/iran-speaker.webp"
+          "url": "https://www.muslimnetwork.tv/iranian-parliament-speaker-says-us-seeks-no-war-no-peace-stalemate-with-iran-calls-for-deterrence/"
         },
         {
           "id": "https://www.muslimnetwork.tv/qatari-prime-minister-warns-middle-east-cant-afford-another-us-iran-escalation/",
           "title": "Qatari prime minister warns Middle East can’t afford another US-Iran escalation",
           "published": "2026-11-24T06:21:52.000Z",
-          "url": "https://www.muslimnetwork.tv/qatari-prime-minister-warns-middle-east-cant-afford-another-us-iran-escalation/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Qatar-pm.webp"
+          "url": "https://www.muslimnetwork.tv/qatari-prime-minister-warns-middle-east-cant-afford-another-us-iran-escalation/"
         },
         {
           "id": "https://www.muslimnetwork.tv/us-senators-urge-rubio-to-press-israel-on-winter-aid-for-gaza/",
@@ -221,23 +233,11 @@
           "title": "Pakistani set to become 1st foreign astronaut to enter China’s space station",
           "published": "2026-11-24T06:13:38.000Z",
           "url": "https://www.muslimnetwork.tv/pakistani-set-to-become-1st-foreign-astronaut-to-enter-chinas-space-station/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/gta-residents-will-pay-more-for-407-etr-starting-january-1-2027/",
-          "title": "GTA Residents Will Pay More for 407 ETR Starting January 1, 2027",
-          "published": "2026-11-24T00:02:49.000Z",
-          "url": "https://www.muslimnetwork.tv/gta-residents-will-pay-more-for-407-etr-starting-january-1-2027/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/pack-away-the-t-shirts-and-bring-out-the-jackets-the-winter-is-finally-here/",
-          "title": "Pack Away the T-Shirts and Bring Out the Jackets; The Winter Is Finally Here",
-          "published": "2026-11-23T23:55:21.000Z",
-          "url": "https://www.muslimnetwork.tv/pack-away-the-t-shirts-and-bring-out-the-jackets-the-winter-is-finally-here/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-24T22:37:29.586Z",
+      "checkedAt": "2026-11-25T08:51:29.801Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/21/not-so-easy-at-suez-the-lustre-and-limitations-of-an-anticolonial-watershed/",
@@ -264,7 +264,8 @@
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
           "title": "[Podcast] Wait, Muslims Have Been Here HOW Long?! | Hassam Munir",
           "published": "2026-10-05T11:00:27.000Z",
-          "url": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/"
+          "url": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
+          "image": "https://muslimmatters.org/wp-content/uploads/Islamic-History-month-1000x600.png"
         },
         {
           "id": "https://muslimmatters.org/2026/09/30/taliban-tale-how-afghan-militants-survived-campaigns-in-2006-16/",
@@ -310,7 +311,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-24T22:37:18.562Z",
+      "checkedAt": "2026-11-25T08:51:28.223Z",
       "items": [
         {
           "id": "_4zrjhk88C8",
@@ -420,8 +421,22 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-24T22:37:18.799Z",
+      "checkedAt": "2026-11-25T08:51:28.501Z",
       "items": [
+        {
+          "id": "aJEiToZgm1A",
+          "title": "The Four Seasons: Mastering Emotions and Healthy Ways of Coping",
+          "published": "2026-11-25T07:00:10.000Z",
+          "url": "https://www.youtube.com/watch?v=aJEiToZgm1A",
+          "image": "https://i.ytimg.com/vi/aJEiToZgm1A/hqdefault.jpg"
+        },
+        {
+          "id": "hSScTJPdrUg",
+          "title": "Restored Roots: Breaking the Curse ofGenerational Trauma",
+          "published": "2026-11-25T01:12:12.000Z",
+          "url": "https://www.youtube.com/watch?v=hSScTJPdrUg",
+          "image": "https://i.ytimg.com/vi/hSScTJPdrUg/hqdefault.jpg"
+        },
         {
           "id": "15mYIFBrR7A",
           "title": "From stuck to serene.",
@@ -512,20 +527,6 @@
           "published": "2026-06-06T12:00:27.000Z",
           "url": "https://www.youtube.com/watch?v=pFk0WjtuaDQ",
           "image": "https://i.ytimg.com/vi/pFk0WjtuaDQ/hqdefault.jpg"
-        },
-        {
-          "id": "kzEOr0CF1RM",
-          "title": "DhulHijjah360 Day 7 | Ustadha Yasmin Mogahed | Money, Ambition, and the Quiet Idols",
-          "published": "2026-05-25T10:34:29.000Z",
-          "url": "https://www.youtube.com/watch?v=kzEOr0CF1RM",
-          "image": "https://i.ytimg.com/vi/kzEOr0CF1RM/hqdefault.jpg"
-        },
-        {
-          "id": "89s10XvJypE",
-          "title": "The Only Thing That Will Save You on the Day of Judgment | Ustadha Yasmin Mogahed",
-          "published": "2026-05-15T13:00:06.000Z",
-          "url": "https://www.youtube.com/watch?v=89s10XvJypE",
-          "image": "https://i.ytimg.com/vi/89s10XvJypE/hqdefault.jpg"
         }
       ]
     },
@@ -640,7 +641,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-24T22:37:19.002Z",
+      "checkedAt": "2026-11-25T08:51:28.902Z",
       "items": [
         {
           "id": "Aw6FwNBB2KU",
@@ -750,14 +751,14 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-24T22:37:21.522Z",
+      "checkedAt": "2026-11-25T08:51:29.683Z",
       "items": [
         {
           "id": "https://www.cbc.ca/news/science/king-tide-planetary-alignment-flooding-9.7434458",
           "title": "How king tides happen, and what that means amid flood warnings in B.C.",
           "published": "2026-11-24T22:11:36.000Z",
           "url": "https://www.cbc.ca/news/science/king-tide-planetary-alignment-flooding-9.7434458",
-          "image": "https://i.cbc.ca/ais/0e17a2f5-3089-4e82-80ed-f590c3a87bfc,1795550225293/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C156%2C3000%2C1687%29%3B"
+          "image": "https://i.cbc.ca/ais/253d12b5-be36-425b-b318-8306dd218614,1795566080108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C451%2C5642%2C3173%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/manitoba/girl-death-cfs-manitoba-9.7434528",
@@ -765,6 +766,13 @@
           "published": "2026-11-24T22:03:13.000Z",
           "url": "https://www.cbc.ca/news/canada/manitoba/girl-death-cfs-manitoba-9.7434528",
           "image": "https://i.cbc.ca/ais/ab3c275d-844f-45dc-a3f1-90f39328f922,1795555756984/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C410%2C9425%2C5301%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/anes-mati-gold-medal-judo-cadet-grand-prix-uzbekistan-9.7434605",
+          "title": "Montreal's Anes Mati wins judo gold in all-Canadian final in Uzbekistan",
+          "published": "2026-11-24T21:45:09.000Z",
+          "url": "https://www.cbc.ca/sports/anes-mati-gold-medal-judo-cadet-grand-prix-uzbekistan-9.7434605",
+          "image": "https://i.cbc.ca/ais/504fc3b5-bd5f-448f-aff2-5df0d252d6d4,1795556395959/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/calgary/flag-pole-legislation-changes-9.7434537",
@@ -830,6 +838,13 @@
           "image": "https://i.cbc.ca/ais/5e4136d7-8d38-47b1-ad29-7e11c56e2e6b,1795545732893/full/max/0/default.jpg?im=Crop%2Crect%3D%283%2C0%2C2642%2C1486%29%3B"
         },
         {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/weather-rain-wind-flood-nov-24-2026-9.7433846",
+          "title": "'Significant' wind, waves and rain forecast for coastal B.C.: Environment Canada",
+          "published": "2026-11-24T16:06:51.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/weather-rain-wind-flood-nov-24-2026-9.7433846",
+          "image": "https://i.cbc.ca/ais/4e5a5e46-d6ae-44f4-bd8c-72780a39ae29,1794860805914/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/keith-sullivan-also-travelled-with-odriscoll-mowis-dime-9.7433739",
           "title": "Top civil servant in N.L. fisheries department also travelled on aquaculture company’s dime",
           "published": "2026-11-24T14:05:50.000Z",
@@ -842,130 +857,116 @@
           "published": "2026-11-24T12:25:38.000Z",
           "url": "https://www.cbc.ca/news/regina-transit-lockout-ends-9.7433715",
           "image": "https://i.cbc.ca/ais/2c58cc62-1e1c-420f-9a6c-4eb0711829fb,1795525226568/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/dehavilland-wheatland-county-farmland-soil-map-9.7432121",
-          "title": "Building water bombers or growing crops? This Alberta county has cast its vote",
-          "published": "2026-11-24T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/dehavilland-wheatland-county-farmland-soil-map-9.7432121",
-          "image": "https://i.cbc.ca/ais/66636cd8-afdb-4a0b-bb6b-3475e245fec1,1795471096065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C854%2C480%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/dominion-society-maritimes-immigration-nationalism-9.7432906",
-          "title": "Anti-immigration group’s tour of the Maritimes draws criticism",
-          "published": "2026-11-24T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/dominion-society-maritimes-immigration-nationalism-9.7432906",
-          "image": "https://i.cbc.ca/ais/29632410-ae43-41cf-82b1-37196290da56,1795466334454/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-24T22:37:29.762Z",
+      "checkedAt": "2026-11-25T08:51:30.039Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-          "published": "2026-11-24T22:24:23.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o",
+          "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+          "published": "2026-11-25T07:26:54.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+          "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+          "published": "2026-11-25T06:36:00.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
+          "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+          "published": "2026-11-25T06:00:36.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
           "title": "US attorney general dodges questions about Nvidia investigation",
-          "published": "2026-11-24T21:19:42.000Z",
+          "published": "2026-11-25T03:44:07.000Z",
           "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
-          "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-          "published": "2026-11-24T19:27:23.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
+          "id": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo",
+          "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+          "published": "2026-11-25T03:28:37.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o",
-          "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-          "published": "2026-11-24T19:10:31.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+          "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+          "published": "2026-11-25T02:59:27.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
-          "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-          "published": "2026-11-24T18:07:46.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmrrg749d02do",
+          "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+          "published": "2026-11-25T01:51:43.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ff/live/1284fd50-e871-11f1-99a1-253766e7ad8b.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
-          "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-          "published": "2026-11-24T17:04:00.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e688/live/d1155630-e820-11f1-99a1-253766e7ad8b.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
+          "title": "Thomas Markle charged in US for possessing child sex abuse images",
+          "published": "2026-11-25T01:40:42.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o",
-          "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-          "published": "2026-11-24T16:49:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
+          "title": "Trump's rescue of Nvidia's Huang brings political risks",
+          "published": "2026-11-25T01:03:05.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
-          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-          "published": "2026-11-24T15:35:53.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o",
+          "title": "The rising cost of putting food on the table in India",
+          "published": "2026-11-25T01:02:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo",
-          "title": "Land mine casualties soar in Syria, two years after war",
-          "published": "2026-11-24T15:17:28.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o",
+          "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+          "published": "2026-11-25T01:00:36.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dac/live/653c0750-e7d1-11f1-83ab-9953b30aab1f.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
-          "title": "Russian governor detained in rare criminal case against regional leader",
-          "published": "2026-11-24T12:45:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo",
+          "title": "Clashing political visions reflect a divided Spain ahead of election",
+          "published": "2026-11-25T00:58:34.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cda/live/86305ac0-e811-11f1-ab42-55d8d8278025.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
-          "title": "Car bomb tears through Colombian city wounding more than 20",
-          "published": "2026-11-24T11:45:52.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c0/live/f8f77110-e811-11f1-99a1-253766e7ad8b.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
+          "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+          "published": "2026-11-25T00:56:51.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/cm78270l4z7no",
-          "title": "Pope Francis' diary reveals claims he saw the devil three times",
-          "published": "2026-11-24T11:10:57.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o",
+          "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+          "published": "2026-11-25T00:54:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
-          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-          "published": "2026-11-24T10:58:51.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo",
-          "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-          "published": "2026-11-24T09:09:41.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
-          "title": "What Jensen Huang's return teaches China's Xi about Trump",
-          "published": "2026-11-24T07:26:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
+          "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+          "published": "2026-11-24T23:05:11.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg"
         }
       ]
     }

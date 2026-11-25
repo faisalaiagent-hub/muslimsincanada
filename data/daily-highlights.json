@@ -960,6 +960,34 @@
           "published": "2026-11-24T07:37:35.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "generatedAt": "2026-11-25T08:51:30.161Z",
+      "items": [
+        {
+          "id": "cbcca4ddfde5",
+          "kind": "news",
+          "title": "Mississauga’s New Mayor Pauses All New Hiring in the City.",
+          "summary": "A recent headline from Muslim Network TV. Follow the original reporting for the full story and context.",
+          "url": "https://www.muslimnetwork.tv/mississaugas-new-mayor-pauses-all-new-hiring-in-the-city/",
+          "sourceId": "muslim-network",
+          "source": "Muslim Network TV",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/914355154_1677367950567546_7158718842074845256_n.jpeg",
+          "published": "2026-11-24T23:54:42.000Z"
+        },
+        {
+          "id": "c76e8b0808b0",
+          "kind": "talk",
+          "title": "44 - Book of Purification - [Hadith 474-481] - Mishkat al-Masabih - Shaykh Ilyas Patel",
+          "summary": "Make time for a recent conversation from Faraz Rabbani & SeekersGuidance. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=Wi_gdm7wVxQ",
+          "sourceId": "seekers",
+          "source": "Faraz Rabbani & SeekersGuidance",
+          "image": "https://i.ytimg.com/vi/Wi_gdm7wVxQ/hqdefault.jpg",
+          "published": "2026-11-25T02:48:00.000Z"
+        }
+      ]
     }
   ]
 }
