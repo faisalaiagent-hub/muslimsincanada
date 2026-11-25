@@ -2,11 +2,11 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-25T14:30:03.780Z",
+      "checkedAt": "2026-11-25T21:50:48.388Z",
       "items": [
         {
           "id": "zOEkCGHcVzo",
-          "title": "Lesson-45- Book of Purification - [Hadith 482-489] -Mishkat al-Masabih -Shaykh Ilyas Patel",
+          "title": "45 - Book of Purification - [Hadith 482-489] - Mishkat al-Masabih - Shaykh Ilyas Patel",
           "published": "2026-11-25T14:01:42.000Z",
           "url": "https://www.youtube.com/watch?v=zOEkCGHcVzo",
           "image": "https://i.ytimg.com/vi/zOEkCGHcVzo/hqdefault.jpg"
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-25T14:30:03.794Z",
+      "checkedAt": "2026-11-25T21:50:48.668Z",
       "items": [
         {
           "id": "-b20oQERvLI",
@@ -155,19 +155,33 @@
           "published": "2026-11-17T16:00:09.000Z",
           "url": "https://www.youtube.com/watch?v=-OTWx3px85I",
           "image": "https://i.ytimg.com/vi/-OTWx3px85I/hqdefault.jpg"
-        },
-        {
-          "id": "P3LVhUKq9GE",
-          "title": "Is There Any Good In Sinning? | Dr. Omar Suleiman",
-          "published": "2026-11-17T00:42:52.000Z",
-          "url": "https://www.youtube.com/watch?v=P3LVhUKq9GE",
-          "image": "https://i.ytimg.com/vi/P3LVhUKq9GE/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-25T14:30:05.630Z",
+      "checkedAt": "2026-11-25T21:50:50.910Z",
       "items": [
+        {
+          "id": "https://www.muslimnetwork.tv/amnesty-details-gazas-deepening-humanitarian-and-reproductive-crisis/",
+          "title": "Amnesty details Gaza’s deepening humanitarian and reproductive crisis",
+          "published": "2026-11-25T16:52:57.000Z",
+          "url": "https://www.muslimnetwork.tv/amnesty-details-gazas-deepening-humanitarian-and-reproductive-crisis/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/amnesty-international-gaza.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/meningitis-outbreak-shows-deadly-toll-of-israels-genocide/",
+          "title": "Meningitis outbreak shows deadly toll of Israel’s genocide",
+          "published": "2026-11-25T14:47:36.000Z",
+          "url": "https://www.muslimnetwork.tv/meningitis-outbreak-shows-deadly-toll-of-israels-genocide/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_8c4e3c1b0c9db1dc2432f29c3a6192de.webp"
+        },
+        {
+          "id": "https://www.muslimnetwork.tv/turkiye-defends-cop31-outcome-as-climate-talks-collapse-over-fossil-fuels/",
+          "title": "Türkiye rejects COP31 failure narrative, cites major gains",
+          "published": "2026-11-25T14:37:17.000Z",
+          "url": "https://www.muslimnetwork.tv/turkiye-defends-cop31-outcome-as-climate-talks-collapse-over-fossil-fuels/",
+          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/thumbs_b_c_f9fff105de5f0505a5349e29d5c6259b.webp"
+        },
         {
           "id": "https://www.muslimnetwork.tv/kashmiri-man-drowns-trying-to-reach-his-exiled-family/",
           "title": "Kashmiri man drowns trying to reach his exiled family",
@@ -193,55 +207,34 @@
           "id": "https://www.muslimnetwork.tv/israeli-airstrike-kills-four-palestinians-in-gaza-in-latest-ceasefire-violations/",
           "title": "Israeli airstrike kills four Palestinians in Gaza in latest ceasefire violations",
           "published": "2026-11-25T10:54:08.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-airstrike-kills-four-palestinians-in-gaza-in-latest-ceasefire-violations/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Israels-latest-ceasefire-violation-kills-parents-and-two-daughters-underscoring-continued-violence-amid-its-genocide-against-Palestinians.webp"
+          "url": "https://www.muslimnetwork.tv/israeli-airstrike-kills-four-palestinians-in-gaza-in-latest-ceasefire-violations/"
         },
         {
           "id": "https://www.muslimnetwork.tv/israeli-attacks-leave-gaza-facing-toxic-environmental-catastrophe/",
           "title": "Israeli attacks leave Gaza facing toxic environmental catastrophe",
           "published": "2026-11-25T10:52:47.000Z",
-          "url": "https://www.muslimnetwork.tv/israeli-attacks-leave-gaza-facing-toxic-environmental-catastrophe/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/11/Oxfam-warns-contamination-across-99-percent-of-Gaza-threatens-Palestinian-health-and-survival-for-generations.webp"
+          "url": "https://www.muslimnetwork.tv/israeli-attacks-leave-gaza-facing-toxic-environmental-catastrophe/"
         },
         {
           "id": "https://www.muslimnetwork.tv/ice-arrests-mount-in-massachusetts-courthouses-despite-law/",
           "title": "ICE arrests mount in Massachusetts courthouses despite law",
           "published": "2026-11-25T09:52:18.000Z",
-          "url": "https://www.muslimnetwork.tv/ice-arrests-mount-in-massachusetts-courthouses-despite-law/",
-          "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/06/AA-20250610-38237424-38237415-LOS_ANGELES_RIOTS_TENSIONS_RISE_AMID_PROTESTS_OVER_IMMIGRATION_RAIDS.jpg"
+          "url": "https://www.muslimnetwork.tv/ice-arrests-mount-in-massachusetts-courthouses-despite-law/"
         },
         {
           "id": "https://www.muslimnetwork.tv/mamdani-sues-over-trump-rule-threatening-immigrant-homes/",
           "title": "Mamdani sues over Trump rule threatening immigrant homes",
           "published": "2026-11-25T09:49:37.000Z",
           "url": "https://www.muslimnetwork.tv/mamdani-sues-over-trump-rule-threatening-immigrant-homes/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/horrific-80-us-lawmakers-back-anti-settlement-bill/",
-          "title": "‘Horrific’: 80 US lawmakers back anti-settlement bill",
-          "published": "2026-11-25T09:46:39.000Z",
-          "url": "https://www.muslimnetwork.tv/horrific-80-us-lawmakers-back-anti-settlement-bill/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/mamdani-backs-us-sanctions-on-violent-israeli-settlers/",
-          "title": "Mamdani backs US sanctions on violent Israeli settlers",
-          "published": "2026-11-25T09:45:32.000Z",
-          "url": "https://www.muslimnetwork.tv/mamdani-backs-us-sanctions-on-violent-israeli-settlers/"
-        },
-        {
-          "id": "https://www.muslimnetwork.tv/gaza-genocide-splits-pen-america-writers-launch-rival-body/",
-          "title": "Gaza genocide splits PEN America; writers launch rival body",
-          "published": "2026-11-25T09:44:01.000Z",
-          "url": "https://www.muslimnetwork.tv/gaza-genocide-splits-pen-america-writers-launch-rival-body/"
         }
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-25T14:30:07.523Z",
+      "checkedAt": "2026-11-25T21:50:52.656Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/24/storm-brewing-tim-hortons-data-leak-to-israeli-spy-vets-firm-exposed/",
-          "title": "Storm Brewing: Tim Hortons Data Leak to Israeli Spy Vets’ Firm Exposed",
+          "title": "Storm Brewing: Tim Hortons Data Leak To Israeli Spy Vets’ Firm Exposed",
           "published": "2026-11-25T00:54:32.000Z",
           "url": "https://muslimmatters.org/2026/11/24/storm-brewing-tim-hortons-data-leak-to-israeli-spy-vets-firm-exposed/",
           "image": "https://muslimmatters.org/wp-content/uploads/timhortons.jpg"
@@ -311,8 +304,22 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-25T14:30:03.676Z",
+      "checkedAt": "2026-11-25T21:50:48.250Z",
       "items": [
+        {
+          "id": "Y3PxnKm3RAo",
+          "title": "If It's Not From God",
+          "published": "2026-11-25T20:05:54.000Z",
+          "url": "https://www.youtube.com/watch?v=Y3PxnKm3RAo",
+          "image": "https://i.ytimg.com/vi/Y3PxnKm3RAo/hqdefault.jpg"
+        },
+        {
+          "id": "rkolhAPnp8M",
+          "title": "Quran vs Hadith: How Historical Context Shapes Interpretation",
+          "published": "2026-11-25T15:18:42.000Z",
+          "url": "https://www.youtube.com/watch?v=rkolhAPnp8M",
+          "image": "https://i.ytimg.com/vi/rkolhAPnp8M/hqdefault.jpg"
+        },
         {
           "id": "_4zrjhk88C8",
           "title": "When a Hadith Feels Unfair: An Islamic Approach",
@@ -403,25 +410,11 @@
           "published": "2026-11-14T02:42:42.000Z",
           "url": "https://www.youtube.com/watch?v=fzhjI_OiukE",
           "image": "https://i.ytimg.com/vi/fzhjI_OiukE/hqdefault.jpg"
-        },
-        {
-          "id": "c5BsK5k1uwY",
-          "title": "Dajjal Prophecies: Why Modern-Day Conspiracy Theories Go Too Far",
-          "published": "2026-11-13T16:23:17.000Z",
-          "url": "https://www.youtube.com/watch?v=c5BsK5k1uwY",
-          "image": "https://i.ytimg.com/vi/c5BsK5k1uwY/hqdefault.jpg"
-        },
-        {
-          "id": "3srhVCV8K4k",
-          "title": "What Does Islam Really Teach About the Holy Spirit? | Dr. Shabir Ally",
-          "published": "2026-11-13T15:49:21.000Z",
-          "url": "https://www.youtube.com/watch?v=3srhVCV8K4k",
-          "image": "https://i.ytimg.com/vi/3srhVCV8K4k/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-25T14:30:03.954Z",
+      "checkedAt": "2026-11-25T21:50:48.829Z",
       "items": [
         {
           "id": "aJEiToZgm1A",
@@ -531,7 +524,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-25T14:30:03.965Z",
+      "checkedAt": "2026-11-25T21:50:49.062Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -641,7 +634,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-25T14:30:03.974Z",
+      "checkedAt": "2026-11-25T21:50:49.243Z",
       "items": [
         {
           "id": "P3bHrAO3O1w",
@@ -751,8 +744,85 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-25T14:30:05.668Z",
+      "checkedAt": "2026-11-25T21:50:51.056Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/windsor/atwood-bird-tower-pelee-island-9.7435820",
+          "title": "Margaret Atwood, bird advocates fighting Pelee Island telecom tower say battle is gaining steam",
+          "published": "2026-11-25T21:19:38.000Z",
+          "url": "https://www.cbc.ca/news/canada/windsor/atwood-bird-tower-pelee-island-9.7435820",
+          "image": "https://i.cbc.ca/ais/5863a8d4-57b6-426e-8feb-4690a4f3295a,1795640367348/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C67%2C943%2C530%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/canada-qatar-afghanistan-9.7436135",
+          "title": "Canada partners with Qatar for consular services to Canadians in Afghanistan",
+          "published": "2026-11-25T21:09:16.000Z",
+          "url": "https://www.cbc.ca/news/politics/canada-qatar-afghanistan-9.7436135",
+          "image": "https://i.cbc.ca/ais/2a94dd9e-1a34-4cec-a79c-8e2422f68da6,1795639123109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959",
+          "title": "Buster the hamster home safe after hitching ride in Halloween pumpkin",
+          "published": "2026-11-25T20:39:33.000Z",
+          "url": "https://www.cbc.ca/news/canada/ottawa/buster-the-hamster-home-safe-after-hitching-ride-in-halloween-pumpkin-9.7435959",
+          "image": "https://i.cbc.ca/ais/71842113-5276-4f71-b45f-9614d71a77ce,1795634942425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C306%2C684%2C384%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/oath-king-quebec-pq-constitution-9.7435914",
+          "title": "PQ urges other parties urged to sit in Quebec legislature — despite recent ruling ordering oath to King",
+          "published": "2026-11-25T20:33:50.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/oath-king-quebec-pq-constitution-9.7435914",
+          "image": "https://i.cbc.ca/ais/3396f23c-e65a-4139-aaaa-9470647e51ea,1795633607768/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-investor-seen-on-security-video-buying-phone-used-in-alleged-kidnapping-officer-testifies-9.7436000",
+          "title": "'Crypto King' investor seen on security video buying phone used in alleged kidnapping, officer testifies",
+          "published": "2026-11-25T20:27:20.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-investor-seen-on-security-video-buying-phone-used-in-alleged-kidnapping-officer-testifies-9.7436000",
+          "image": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/budget-martinez-ferrada-kraft-dinner-9.7435878",
+          "title": "Montreal mayor walks back 'clumsy' Kraft Dinner comment after major tax hike",
+          "published": "2026-11-25T18:57:08.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/budget-martinez-ferrada-kraft-dinner-9.7435878",
+          "image": "https://i.cbc.ca/ais/4c6e0e03-adb2-411c-b5a8-65c77906d885,1795632986918/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/montreal/spvm-scandal-police-9.7435632",
+          "title": "3rd former Montreal police officer arrested and charged in connection with racism scandal",
+          "published": "2026-11-25T16:47:39.000Z",
+          "url": "https://www.cbc.ca/news/canada/montreal/spvm-scandal-police-9.7435632",
+          "image": "https://i.cbc.ca/ais/54884a17-af7a-4d57-8630-4580d698f388,1793374084968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C238%2C4566%2C2568%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/bruce-power-fish-kill-court-mixup-9.7435313",
+          "title": "Federal case over Ontario nuclear plant's worst fish kill hits procedural snag",
+          "published": "2026-11-25T16:46:17.000Z",
+          "url": "https://www.cbc.ca/news/canada/bruce-power-fish-kill-court-mixup-9.7435313",
+          "image": "https://i.cbc.ca/ais/0100aeab-7de0-4db3-9dbc-9ce8deb6e3ae,1795616559717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C756%2C425%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-vape-amendment-postponing-9.7435548",
+          "title": "'This is a small win,' says vape shop manager after N.L. pauses plans to ban flavoured vapes",
+          "published": "2026-11-25T16:21:52.000Z",
+          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-vape-amendment-postponing-9.7435548",
+          "image": "https://i.cbc.ca/ais/28114053-eb8a-48f0-9160-5c96ca62b953,1795635343066/full/max/0/default.jpg?im=Crop%2Crect%3D%28103%2C58%2C1816%2C1021%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/science/josh-kutryk-wife-birth-9.7435347",
+          "title": "Astronaut Joshua Kutryk's wife gives birth while he's aboard the International Space Station",
+          "published": "2026-11-25T15:15:58.000Z",
+          "url": "https://www.cbc.ca/news/science/josh-kutryk-wife-birth-9.7435347",
+          "image": "https://i.cbc.ca/ais/31fe152d-fa50-4bc1-9cf6-29d1b9e136fe,1795616064361/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4275%2C2404%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/ottawa/alto-rail-land-seizure-powers-reaction-9.7435114",
+          "title": "Rural Ontario residents slam proposed land-seizure powers for Alto high-speed rail project",
+          "published": "2026-11-25T13:00:13.000Z",
+          "url": "https://www.cbc.ca/news/canada/ottawa/alto-rail-land-seizure-powers-reaction-9.7435114",
+          "image": "https://i.cbc.ca/ais/a4ba3771-098a-4efe-83eb-3a8575bbdde8,1795634415207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/king-tides-wind-rain-vancouver-island-metro-vancouver-9.7434984",
           "title": "King tides coincide with storms across coastal B.C. as evacuation alerts issued",
@@ -761,114 +831,121 @@
           "image": "https://i.cbc.ca/ais/cc55c711-45a2-4d0a-ab64-e9f3c78ba591,1795569449668/full/max/0/default.jpg?im=Crop%2Crect%3D%281660%2C688%2C4151%2C2334%29%3B"
         },
         {
+          "id": "https://www.cbc.ca/news/canada/edmonton/alta-fatality-review-9.7434435",
+          "title": "Ending mandatory inquiries for in-custody deaths risks eroding trust in Alberta justice, experts warn",
+          "published": "2026-11-25T12:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/edmonton/alta-fatality-review-9.7434435",
+          "image": "https://i.cbc.ca/ais/1.4364902,1508529543000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C32%2C3200%2C1800%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/toronto/dangerous-driving-sentencing-cristillo-kirubananthan-9.7435165",
+          "title": "Driver in 2025 Ontario crash that killed father of 3 sentenced to 6.5 years",
+          "published": "2026-11-25T11:35:28.000Z",
+          "url": "https://www.cbc.ca/news/canada/toronto/dangerous-driving-sentencing-cristillo-kirubananthan-9.7435165",
+          "image": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B"
+        },
+        {
           "id": "https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158",
           "title": "1 man dead after being shot during confrontation with home invader, Toronto police say",
           "published": "2026-11-25T11:05:15.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158",
-          "image": "https://i.cbc.ca/ais/31c3aacc-a73c-4838-8d1b-1d5631838a3c,1795613369043/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/nova-scotia/fixer-upper-demolished-springhill-9.7432921",
-          "title": "They bought this N.S. bungalow as a fixer-upper. It was just demolished without their knowledge",
-          "published": "2026-11-25T10:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/nova-scotia/fixer-upper-demolished-springhill-9.7432921",
-          "image": "https://i.cbc.ca/ais/847eba3b-4ef2-4ba4-8720-72ece1096865,1795459680062/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C37%2C1054%2C592%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/business/ai-shopping-assistant-black-friday-deals-9.7434424",
-          "title": "Can AI chatbots really help shoppers find the best deals?",
-          "published": "2026-11-25T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/business/ai-shopping-assistant-black-friday-deals-9.7434424",
-          "image": "https://i.cbc.ca/ais/92cdbab2-4b80-4b0a-8111-36d7e58c12c8,1795547642442/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/most-byelections-this-soon-after-general-election-9.7434875",
-          "title": "Highest MP turnover rate in decades making for byelection bonanza this Parliament",
-          "published": "2026-11-25T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/politics/most-byelections-this-soon-after-general-election-9.7434875",
-          "image": "https://i.cbc.ca/ais/f41a8e79-16fd-44b6-aaf4-135ae6d7a818,1795562937243/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8553%2C4811%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/health/covid19-vaccine-faq-2026-9.7434872",
-          "title": "Yes, COVID cases are on the rise again. And yes, experts say, it's still a very good idea to get vaccinated",
-          "published": "2026-11-25T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/health/covid19-vaccine-faq-2026-9.7434872",
-          "image": "https://i.cbc.ca/ais/efd4a197-7086-475e-b717-6ed7c173e82b,1795569662351/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C18%2C5471%2C3077%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/suspected-north-korean-computer-programmers-british-columbia-government-9.7433830",
-          "title": "Suspected North Korean computer programmers did contract work for B.C. government",
-          "published": "2026-11-25T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/suspected-north-korean-computer-programmers-british-columbia-government-9.7433830",
-          "image": "https://i.cbc.ca/ais/852026bc-7daa-4367-9942-ea7502fff976,1795529820548/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C860%2C483%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/science/king-tide-planetary-alignment-flooding-9.7434458",
-          "title": "How king tides happen, and what that means amid flood warnings in B.C.",
-          "published": "2026-11-24T22:11:36.000Z",
-          "url": "https://www.cbc.ca/news/science/king-tide-planetary-alignment-flooding-9.7434458",
-          "image": "https://i.cbc.ca/ais/253d12b5-be36-425b-b318-8306dd218614,1795566080108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C451%2C5642%2C3173%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/manitoba/girl-death-cfs-manitoba-9.7434528",
-          "title": "Family seeks answers in death of girl, 5, who was in CFS care",
-          "published": "2026-11-24T22:03:13.000Z",
-          "url": "https://www.cbc.ca/news/canada/manitoba/girl-death-cfs-manitoba-9.7434528",
-          "image": "https://i.cbc.ca/ais/ab3c275d-844f-45dc-a3f1-90f39328f922,1795555756984/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C410%2C9425%2C5301%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/sports/anes-mati-gold-medal-judo-cadet-grand-prix-uzbekistan-9.7434605",
-          "title": "Montreal's Anes Mati wins judo gold in all-Canadian final in Uzbekistan",
-          "published": "2026-11-24T21:45:09.000Z",
-          "url": "https://www.cbc.ca/sports/anes-mati-gold-medal-judo-cadet-grand-prix-uzbekistan-9.7434605",
-          "image": "https://i.cbc.ca/ais/504fc3b5-bd5f-448f-aff2-5df0d252d6d4,1795556395959/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/flag-pole-legislation-changes-9.7434537",
-          "title": "Alberta government backtracks, won't make schools install secondary flag poles",
-          "published": "2026-11-24T21:29:04.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/flag-pole-legislation-changes-9.7434537",
-          "image": "https://i.cbc.ca/ais/90d8245f-5fb9-4e79-ba2f-56523e024e37,1795554944702/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3687%2C2073%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/stellantis-sues-unifor-brampton-assembly-plant-9.7434527",
-          "title": "Stellantis taking Unifor to court over alleged obstruction of environmental assessment",
-          "published": "2026-11-24T21:03:27.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/stellantis-sues-unifor-brampton-assembly-plant-9.7434527",
-          "image": "https://i.cbc.ca/ais/9d2aa352-0d23-45f0-8f42-556b36b1d5f1,1795553566699/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C276%2C5287%2C2973%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/crypto-king-court-gas-station-waterboarding-alleged-kidnapping-9.7434459",
-          "title": "'Crypto King' was actually at gas station when he testified alleged kidnappers waterboarded him elsewhere",
-          "published": "2026-11-24T20:40:39.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-court-gas-station-waterboarding-alleged-kidnapping-9.7434459",
-          "image": "https://i.cbc.ca/ais/f453bb35-371b-4ac3-b67a-aa33e383c1b2,1795550336698/full/max/0/default.jpg?im=Crop%2Crect%3D%28262%2C0%2C1022%2C574%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-seniors-advocate-report-2026-9.7433998",
-          "title": "Use of physical restraints on seniors at N.L. care homes is more than double national average: report",
-          "published": "2026-11-24T19:59:34.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-seniors-advocate-report-2026-9.7433998",
-          "image": "https://i.cbc.ca/ais/bf60f4a5-ecce-4e73-9356-4cb26259e292,1795539004042/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C231%2C4000%2C2250%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/newfoundland-labrador/sheshatshiu-arrest-protests-9.7433235",
-          "title": "Innu leaders cry foul over use of force in Sheshatshiu arrest; RCMP says man had weapon",
-          "published": "2026-11-24T19:23:41.000Z",
-          "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/sheshatshiu-arrest-protests-9.7433235",
-          "image": "https://i.cbc.ca/ais/b85b0a86-b941-40d4-aaaa-6b007bff0707,1795471034171/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "image": "https://i.cbc.ca/ais/06f6743a-a5c3-4b33-aa74-4186c3dcce4f,1795636304339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C781%2C8137%2C4577%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-25T14:30:07.562Z",
+      "checkedAt": "2026-11-25T21:50:52.797Z",
       "items": [
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
-          "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-          "published": "2026-11-25T12:42:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+          "title": "US stocks fall further as fears over AI intensify",
+          "published": "2026-11-25T21:43:18.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
+          "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+          "published": "2026-11-25T21:25:14.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+          "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+          "published": "2026-11-25T19:54:52.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+          "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+          "published": "2026-11-25T19:47:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
+          "title": "Two children among six dead after plane crash off Mississippi coast",
+          "published": "2026-11-25T19:26:44.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23e1/live/16967230-e906-11f1-b9b5-17bef7133655.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+          "title": "North Korea expels Swiss diplomat in sanctions row",
+          "published": "2026-11-25T19:19:06.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
+          "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+          "published": "2026-11-25T18:41:33.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
+          "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+          "published": "2026-11-25T17:30:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+          "title": "US announces new tariffs on host of countries including China",
+          "published": "2026-11-25T16:21:34.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
+          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+          "published": "2026-11-25T15:42:50.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo",
+          "title": "Canadian astronaut welcomes baby girl  from space station",
+          "published": "2026-11-25T15:41:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
+          "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+          "published": "2026-11-25T14:46:41.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo",
+          "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+          "published": "2026-11-25T14:06:13.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
@@ -883,90 +960,6 @@
           "published": "2026-11-25T12:21:49.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
-          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-          "published": "2026-11-25T12:20:17.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
-          "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-          "published": "2026-11-25T11:45:16.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-          "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-          "published": "2026-11-25T10:52:09.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o",
-          "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-          "published": "2026-11-25T07:26:54.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
-          "title": "Two children among six dead after plane crash off Mississippi coast",
-          "published": "2026-11-25T07:08:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
-          "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-          "published": "2026-11-25T06:00:36.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-          "title": "US attorney general dodges questions about Nvidia investigation",
-          "published": "2026-11-25T03:44:07.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo",
-          "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-          "published": "2026-11-25T03:28:37.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno",
-          "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-          "published": "2026-11-25T03:15:12.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmrrg749d02do",
-          "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
-          "published": "2026-11-25T01:51:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ff/live/1284fd50-e871-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
-          "title": "Thomas Markle charged in US for possessing child sex abuse images",
-          "published": "2026-11-25T01:40:42.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
-          "title": "Trump's rescue of Nvidia's Huang brings political risks",
-          "published": "2026-11-25T01:03:05.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg"
         }
       ]
     }
