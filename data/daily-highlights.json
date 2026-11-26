@@ -988,6 +988,33 @@
           "published": "2026-11-25T02:48:00.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "generatedAt": "2026-11-26T08:37:48.037Z",
+      "items": [
+        {
+          "id": "b484354a1234",
+          "kind": "talk",
+          "title": "The Pleasure Trap: How To Rewire Our Understanding of Happiness",
+          "summary": "Make time for a recent conversation from Yasmin Mogahed. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=dE35fHmAlPw",
+          "sourceId": "yasmin",
+          "source": "Yasmin Mogahed",
+          "image": "https://i.ytimg.com/vi/dE35fHmAlPw/hqdefault.jpg",
+          "published": "2026-11-26T07:00:23.000Z"
+        },
+        {
+          "id": "69a06e9f5c25",
+          "kind": "guide",
+          "title": "Find mosques and halal food near you",
+          "summary": "Use MIC’s area search and optional location to discover nearby places, starting in the GTA.",
+          "url": "/guides/find-mosques-halal-food-near-you",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/prayer-space.jpg"
+        }
+      ]
     }
   ]
 }
