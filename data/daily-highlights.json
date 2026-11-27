@@ -1015,6 +1015,34 @@
           "image": "/media/prayer-space.jpg"
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "generatedAt": "2026-11-27T08:48:50.531Z",
+      "items": [
+        {
+          "id": "44238aacbbe3",
+          "kind": "talk",
+          "title": "Hadith Transmission: Why Short Sayings May Be More Reliable",
+          "summary": "Make time for a recent conversation from Shabir Ally & Let the Quran Speak. Watch on the official channel and explore the ideas for yourself.",
+          "url": "https://www.youtube.com/watch?v=bLYPen5iq_E",
+          "sourceId": "shabir",
+          "source": "Shabir Ally & Let the Quran Speak",
+          "image": "https://i.ytimg.com/vi/bLYPen5iq_E/hqdefault.jpg",
+          "published": "2026-11-26T18:48:47.000Z"
+        },
+        {
+          "id": "e5f79411f9f4",
+          "kind": "news",
+          "title": "Millions of wives in South Asia unprotected from marital rape - study",
+          "summary": "A recent headline from BBC News · World. Follow the original reporting for the full story and context.",
+          "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do",
+          "sourceId": "bbc-world",
+          "source": "BBC News · World",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg",
+          "published": "2026-11-27T08:13:43.000Z"
+        }
+      ]
     }
   ]
 }
