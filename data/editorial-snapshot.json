@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-27T08:48:47.567Z",
+      "checkedAt": "2026-11-27T13:57:22.595Z",
       "items": [
         {
           "id": "Z9AngMsJWcY",
@@ -112,8 +112,15 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-27T08:48:47.671Z",
+      "checkedAt": "2026-11-27T13:57:22.730Z",
       "items": [
+        {
+          "id": "gYrru2A2-sc",
+          "title": "How to Handle Anxiety About the Future, After COVID, Gaza, and AI | NEW Lecture by Dr. Omar Suleiman",
+          "published": "2026-11-26T23:30:37.000Z",
+          "url": "https://www.youtube.com/watch?v=gYrru2A2-sc",
+          "image": "https://i.ytimg.com/vi/gYrru2A2-sc/hqdefault.jpg"
+        },
         {
           "id": "-b20oQERvLI",
           "title": "How To Read End Times Prophecies About Non-Muslims | Signs of the Hour Ep. 27 | Dr. Omar Suleiman",
@@ -152,7 +159,7 @@
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-27T08:48:49.316Z",
+      "checkedAt": "2026-11-27T13:57:26.738Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/frances-afp-news-agency-hit-by-cyberattack-takes-content-platform-offline/",
@@ -223,7 +230,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-27T08:48:49.670Z",
+      "checkedAt": "2026-11-27T13:57:28.450Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/24/storm-brewing-tim-hortons-data-leak-to-israeli-spy-vets-firm-exposed/",
@@ -297,7 +304,7 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-27T08:48:47.489Z",
+      "checkedAt": "2026-11-27T13:57:22.498Z",
       "items": [
         {
           "id": "bLYPen5iq_E",
@@ -407,7 +414,7 @@
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-27T08:48:47.751Z",
+      "checkedAt": "2026-11-27T13:57:22.870Z",
       "items": [
         {
           "id": "dE35fHmAlPw",
@@ -517,7 +524,7 @@
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-27T08:48:47.850Z",
+      "checkedAt": "2026-11-27T13:57:23.044Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -627,7 +634,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-27T08:48:47.927Z",
+      "checkedAt": "2026-11-27T13:57:23.149Z",
       "items": [
         {
           "id": "7URWcfIwAQg",
@@ -737,8 +744,36 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-27T08:48:49.394Z",
+      "checkedAt": "2026-11-27T13:57:27.018Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/suspected-north-korean-operative-software-company-9.7437137",
+          "title": "This suspected North Korean operative said he had an IT company in Toronto. It wasn't real",
+          "published": "2026-11-27T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/suspected-north-korean-operative-software-company-9.7437137",
+          "image": "https://i.cbc.ca/ais/e85568b3-7d5d-4ec9-956c-88d3553ddcc5,1795717498840/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C52%2C932%2C524%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/hamilton/stanpac-us-canada-tariffs-trade-9.7435346",
+          "title": "Niagara family business says $500K weekly in Trump tariffs is forcing production to U.S.",
+          "published": "2026-11-27T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/canada/hamilton/stanpac-us-canada-tariffs-trade-9.7435346",
+          "image": "https://i.cbc.ca/ais/2a63b0c4-d19b-4e17-92b4-6d38ed516aac,1795618555985/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C3531%2C1986%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/brantford-byelection-dave-carrol-independent-conservative-9.7438039",
+          "title": "This Independent is giving Poilievre's Conservatives the jitters ahead of a crucial byelection",
+          "published": "2026-11-27T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/brantford-byelection-dave-carrol-independent-conservative-9.7438039",
+          "image": "https://i.cbc.ca/ais/0f876966-6d9d-4411-ac66-42a589a29ff9,1795738306263/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/politics/supreme-court-decison-bill-21-9.7437512",
+          "title": "Supreme Court to render its decision on Quebec's secularism law today",
+          "published": "2026-11-27T09:00:00.000Z",
+          "url": "https://www.cbc.ca/news/politics/supreme-court-decison-bill-21-9.7437512",
+          "image": "https://i.cbc.ca/ais/7d90793b-7015-4d10-b4fa-764d2e0acba1,1795719265108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/fort-st-john-freezing-rain-skating-9.7437589",
           "title": "Residents skate the streets as freezing rain blankets Fort St. John, B.C.",
@@ -775,15 +810,8 @@
           "image": "https://i.cbc.ca/ais/1.5781938,1603989607000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C186%2C2000%2C1125%29%3B"
         },
         {
-          "id": "https://www.cbc.ca/news/politics/temporary-immigration-targets-9.7437870",
-          "title": "Non-permanent population expected to exceed 2027 target, minister says",
-          "published": "2026-11-26T22:23:01.000Z",
-          "url": "https://www.cbc.ca/news/politics/temporary-immigration-targets-9.7437870",
-          "image": "https://i.cbc.ca/ais/5c3153f2-b06f-4c92-bff7-3fd273277f6e,1795731370006/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6941%2C3904%29%3B"
-        },
-        {
           "id": "https://www.cbc.ca/news/canada/british-columbia/ndp-mlas-sworn-in-david-eby-absent-9.7437833",
-          "title": "B.C. NDP MLAs sworn in but David Eby absent",
+          "title": "B.C. NDP MLAs sworn in, but David Eby absent",
           "published": "2026-11-26T22:07:15.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/ndp-mlas-sworn-in-david-eby-absent-9.7437833",
           "image": "https://i.cbc.ca/ais/bf0aac4b-cb4c-4de2-bb1a-474679a28342,1795730637340/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
@@ -822,33 +850,68 @@
           "published": "2026-11-26T20:05:38.000Z",
           "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/n-l-apologizes-says-it-now-accepts-innu-history-dates-back-more-than-300-years-9.7437647",
           "image": "https://i.cbc.ca/ais/03ee5d2f-b355-4a1e-91ff-c74365007c24,1790859327459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C318%2C4240%2C2385%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/player/play/9.7437572",
-          "title": "Sask. city councillor blasted for wanting to run homeless people 'out of town'",
-          "published": "2026-11-26T19:42:28.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7437572",
-          "image": "https://i.cbc.ca/ais/f1064707-13de-4cd0-ba53-abcd0c4d0b3a,1795722102422/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/tsb-report-plane-crash-16-year-old-boy-9.7437497",
-          "title": "Cause of plane crash northeast of Toronto that killed teen undetermined: TSB report",
-          "published": "2026-11-26T19:38:42.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/tsb-report-plane-crash-16-year-old-boy-9.7437497",
-          "image": "https://i.cbc.ca/ais/1.7588896,1752869532000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/ford-home-invasion-ontario-9.7437456",
-          "title": "Ford says he wouldn't hesitate to shoot a home invader, encourages Ontarians to 'fight back'",
-          "published": "2026-11-26T19:14:36.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/ford-home-invasion-ontario-9.7437456",
-          "image": "https://i.cbc.ca/ais/adf7e008-a596-4407-aa8f-2d13fc52e697,1795717379207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7282%2C4096%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-27T08:48:49.918Z",
+      "checkedAt": "2026-11-27T13:57:28.570Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
+          "title": "Rare turtles found inside baggage at Amsterdam airport",
+          "published": "2026-11-27T13:38:07.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab4e/live/3ac58820-ea60-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
+          "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+          "published": "2026-11-27T11:44:40.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo",
+          "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+          "published": "2026-11-27T11:22:02.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38d/live/fde88380-ea46-11f1-b220-b9f21129b546.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
+          "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+          "published": "2026-11-27T10:39:31.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
+          "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "published": "2026-11-27T10:26:28.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
+          "title": "Clashes mar European games as Macron condemns violence",
+          "published": "2026-11-27T10:24:24.000Z",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "published": "2026-11-27T09:07:48.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
+          "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+          "published": "2026-11-27T08:58:08.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/cw074p95ye5do",
           "title": "Millions of wives in South Asia unprotected from marital rape - study",
@@ -857,102 +920,46 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po",
+          "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+          "published": "2026-11-27T07:28:10.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d573/live/2b6db3a0-e9b8-11f1-8d2a-f5d2aabc11cb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno",
+          "title": "EU leaders fail to bridge budget splits as talks stall",
+          "published": "2026-11-27T06:11:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a83/live/c35a2570-ea0f-11f1-8868-df2967876f4c.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo",
-          "title": "Could housing decide Spain's general election?",
+          "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
           "published": "2026-11-27T06:09:31.000Z",
           "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo",
-          "title": "Houthi attacks test Saudi Arabia's image of security",
+          "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
           "published": "2026-11-27T06:04:51.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
-          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-          "published": "2026-11-27T05:15:26.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o",
+          "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+          "published": "2026-11-27T06:03:39.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c670278qk879o",
-          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-          "published": "2026-11-27T03:28:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o",
-          "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
-          "published": "2026-11-27T00:48:11.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx30g71rev23o",
-          "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-          "published": "2026-11-27T00:47:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo",
-          "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-          "published": "2026-11-26T23:03:16.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
-          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-          "published": "2026-11-26T22:49:27.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o",
-          "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-          "published": "2026-11-26T22:06:20.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e73/live/90642570-ea33-11f1-99b6-a35a62fa4264.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
-          "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-          "published": "2026-11-26T22:01:22.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
-          "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-          "published": "2026-11-26T21:17:53.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cq808d704m22o",
-          "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-          "published": "2026-11-26T19:26:16.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda3/live/d6364450-ea2b-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cq808d704m22o",
-          "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-          "published": "2026-11-26T19:26:16.000Z",
-          "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda3/live/d6364450-ea2b-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
-          "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-          "published": "2026-11-26T16:21:19.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg"
+          "id": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o",
+          "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+          "published": "2026-11-27T05:54:38.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe1/live/e746c130-ea16-11f1-bb90-c99309416892.jpg"
         }
       ]
     }
