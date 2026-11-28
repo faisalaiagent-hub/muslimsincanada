@@ -1043,6 +1043,33 @@
           "published": "2026-11-27T08:13:43.000Z"
         }
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "generatedAt": "2026-11-28T08:05:58.856Z",
+      "items": [
+        {
+          "id": "ccb005aa315b",
+          "kind": "news",
+          "title": "Eight killed in Peruvian military helicopter crash",
+          "summary": "A recent headline from BBC News · World. Follow the original reporting for the full story and context.",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+          "sourceId": "bbc-world",
+          "source": "BBC News · World",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
+          "published": "2026-11-28T04:19:16.000Z"
+        },
+        {
+          "id": "5a7ad270d01b",
+          "kind": "guide",
+          "title": "Give your skills and small business a community home",
+          "summary": "A practical guide to creating a community marketplace offering and what happens after you submit it.",
+          "url": "/guides/share-your-business-on-mic",
+          "sourceId": "mic",
+          "source": "Muslims in Canada",
+          "image": "/media/shared-table.jpg"
+        }
+      ]
     }
   ]
 }

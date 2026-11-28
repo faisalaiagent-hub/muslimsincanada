@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "seekers": {
-      "checkedAt": "2026-11-27T21:28:12.387Z",
+      "checkedAt": "2026-11-28T08:05:45.782Z",
       "items": [
         {
           "id": "V7Hhh87foOs",
@@ -112,7 +112,7 @@
       ]
     },
     "omar": {
-      "checkedAt": "2026-11-27T21:28:13.198Z",
+      "checkedAt": "2026-11-28T08:05:45.912Z",
       "items": [
         {
           "id": "gYrru2A2-sc",
@@ -148,18 +148,11 @@
           "published": "2026-11-21T00:20:57.000Z",
           "url": "https://www.youtube.com/watch?v=iOBfHo0YU5U",
           "image": "https://i.ytimg.com/vi/iOBfHo0YU5U/hqdefault.jpg"
-        },
-        {
-          "id": "v-0Oem9ey6I",
-          "title": "When a Fight Saves a Relationship | Dr. Omar Suleiman",
-          "published": "2026-11-20T00:20:33.000Z",
-          "url": "https://www.youtube.com/watch?v=v-0Oem9ey6I",
-          "image": "https://i.ytimg.com/vi/v-0Oem9ey6I/hqdefault.jpg"
         }
       ]
     },
     "muslim-network": {
-      "checkedAt": "2026-11-27T21:28:15.751Z",
+      "checkedAt": "2026-11-28T08:05:49.272Z",
       "items": [
         {
           "id": "https://www.muslimnetwork.tv/muslim-ngos-seek-stronger-global-cooperation/",
@@ -230,7 +223,7 @@
       ]
     },
     "muslimmatters": {
-      "checkedAt": "2026-11-27T21:28:17.523Z",
+      "checkedAt": "2026-11-28T08:05:58.629Z",
       "items": [
         {
           "id": "https://muslimmatters.org/2026/11/24/storm-brewing-tim-hortons-data-leak-to-israeli-spy-vets-firm-exposed/",
@@ -264,8 +257,7 @@
           "id": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
           "title": "[Podcast] Wait, Muslims Have Been Here HOW Long?! | Hassam Munir",
           "published": "2026-10-05T11:00:27.000Z",
-          "url": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/",
-          "image": "https://muslimmatters.org/wp-content/uploads/Islamic-History-month-1000x600.png"
+          "url": "https://muslimmatters.org/2026/10/05/podcast-wait-muslims-have-been-how-long-hassam-munir/"
         },
         {
           "id": "https://muslimmatters.org/2026/09/30/taliban-tale-how-afghan-militants-survived-campaigns-in-2006-16/",
@@ -304,8 +296,15 @@
       ]
     },
     "shabir": {
-      "checkedAt": "2026-11-27T21:28:12.148Z",
+      "checkedAt": "2026-11-28T08:05:45.691Z",
       "items": [
+        {
+          "id": "KuAy0vRWH2I",
+          "title": "Forgiveness: The Ultimate Strength When Wronged",
+          "published": "2026-11-28T02:20:36.000Z",
+          "url": "https://www.youtube.com/watch?v=KuAy0vRWH2I",
+          "image": "https://i.ytimg.com/vi/KuAy0vRWH2I/hqdefault.jpg"
+        },
         {
           "id": "pOICE6z0ZCc",
           "title": "Prophet Muhammad and the Dajjal: A Critical Question",
@@ -403,19 +402,19 @@
           "published": "2026-11-17T14:18:23.000Z",
           "url": "https://www.youtube.com/watch?v=bEgm4E4BD6Y",
           "image": "https://i.ytimg.com/vi/bEgm4E4BD6Y/hqdefault.jpg"
-        },
-        {
-          "id": "Nur5kZWP8b4",
-          "title": "God Knows Every Future and Can Block Any Possibility",
-          "published": "2026-11-17T01:44:28.000Z",
-          "url": "https://www.youtube.com/watch?v=Nur5kZWP8b4",
-          "image": "https://i.ytimg.com/vi/Nur5kZWP8b4/hqdefault.jpg"
         }
       ]
     },
     "yasmin": {
-      "checkedAt": "2026-11-27T21:28:13.492Z",
+      "checkedAt": "2026-11-28T08:05:46.016Z",
       "items": [
+        {
+          "id": "2ODO42GnrI4",
+          "title": "Healing the bonds of family",
+          "published": "2026-11-28T02:56:54.000Z",
+          "url": "https://www.youtube.com/watch?v=2ODO42GnrI4",
+          "image": "https://i.ytimg.com/vi/2ODO42GnrI4/hqdefault.jpg"
+        },
         {
           "id": "dE35fHmAlPw",
           "title": "The Pleasure Trap: How To Rewire Our Understanding of Happiness",
@@ -513,18 +512,11 @@
           "published": "2026-07-13T21:42:15.000Z",
           "url": "https://www.youtube.com/watch?v=9EIhyzhOBFE",
           "image": "https://i.ytimg.com/vi/9EIhyzhOBFE/hqdefault.jpg"
-        },
-        {
-          "id": "dg92SnAMsxo",
-          "title": "Healing Trauma & the Wounds We Carry | Ust Yasmin Mogahed",
-          "published": "2026-06-23T13:30:05.000Z",
-          "url": "https://www.youtube.com/watch?v=dg92SnAMsxo",
-          "image": "https://i.ytimg.com/vi/dg92SnAMsxo/hqdefault.jpg"
         }
       ]
     },
     "haifaa": {
-      "checkedAt": "2026-11-27T21:28:14.170Z",
+      "checkedAt": "2026-11-28T08:05:46.182Z",
       "items": [
         {
           "id": "djQaxHShCVI",
@@ -634,7 +626,7 @@
       ]
     },
     "yasir": {
-      "checkedAt": "2026-11-27T13:57:23.149Z",
+      "checkedAt": "2026-11-28T08:05:46.199Z",
       "items": [
         {
           "id": "7URWcfIwAQg",
@@ -744,14 +736,49 @@
       ]
     },
     "cbc-canada": {
-      "checkedAt": "2026-11-27T21:28:15.936Z",
+      "checkedAt": "2026-11-28T08:05:49.474Z",
       "items": [
+        {
+          "id": "https://www.cbc.ca/news/canada/saskatchewan/killed-sister-family-driving-drunk-speaking-together-forgiveness-9.7440189",
+          "title": "She killed his sister and her family while driving drunk. Now they're speaking together about forgiveness",
+          "published": "2026-11-28T06:52:57.000Z",
+          "url": "https://www.cbc.ca/news/canada/saskatchewan/killed-sister-family-driving-drunk-speaking-together-forgiveness-9.7440189",
+          "image": "https://i.cbc.ca/ais/a444fe79-cf64-446a-b800-04d74f5217b7,1795848612391/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C87%2C4032%2C2268%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/manitoba/wab-kinew-quebec-bill-21-legislative-racism-alberta-saskatchewan-discrimination-supreme-court-ruling-9.7440050",
+          "title": "Upheld Quebec religious symbols bill 'legislative racism,' Manitoba premier says",
+          "published": "2026-11-28T02:03:24.000Z",
+          "url": "https://www.cbc.ca/news/canada/manitoba/wab-kinew-quebec-bill-21-legislative-racism-alberta-saskatchewan-discrimination-supreme-court-ruling-9.7440050",
+          "image": "https://i.cbc.ca/ais/eef82dba-356a-44d1-9952-c768d463c1c6,1795030953030/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C140%2C5712%2C3213%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/calgary/danielle-smith-scott-moe-lorne-doerkson-ucp-agm-9.7439775",
+          "title": "'Team West': 3 conservative premiers unite at UCP AGM as party unity looms large",
+          "published": "2026-11-28T00:57:11.000Z",
+          "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-scott-moe-lorne-doerkson-ucp-agm-9.7439775",
+          "image": "https://i.cbc.ca/ais/e7ea6db0-b4f1-47a7-9e9f-737b9e32bfc8,1795819347632/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4586%2C2579%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/george-heyman-former-bc-environment-minister-9.7439691",
+          "title": "Former B.C. environment minister George Heyman dead at 77",
+          "published": "2026-11-27T22:46:04.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/george-heyman-former-bc-environment-minister-9.7439691",
+          "image": "https://i.cbc.ca/ais/a024d58a-b0dd-4188-9294-066062ca750a,1795819118752/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C132%2C3300%2C1856%29%3B"
+        },
         {
           "id": "https://www.cbc.ca/news/canada/british-columbia/pedestrian-killed-main-street-and-east-broadway-9.7439411",
           "title": "Pedestrian killed in crash involving off-duty Vancouver police officer",
           "published": "2026-11-27T21:18:49.000Z",
           "url": "https://www.cbc.ca/news/canada/british-columbia/pedestrian-killed-main-street-and-east-broadway-9.7439411",
-          "image": "https://i.cbc.ca/ais/1c7473b0-6a9b-4421-8408-0b926b18c358,1795814257948/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+          "image": "https://i.cbc.ca/ais/1b84fc88-52fa-45b9-a4c6-ed75c60be13e,1795823666194/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C299%2C5731%2C3223%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/news/canada/british-columbia/pacific-blue-cross-cyber-incident-9.7439376",
+          "title": "Cyber incident disrupting services for Pacific Blue Cross members",
+          "published": "2026-11-27T21:02:25.000Z",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/pacific-blue-cross-cyber-incident-9.7439376",
+          "image": "https://i.cbc.ca/ais/1.5820686,1795811322839/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C134%2C3000%2C1687%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/edmonton/edmonton-scot-macdermid-interpol-9.7439421",
@@ -759,6 +786,13 @@
           "published": "2026-11-27T20:51:53.000Z",
           "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-scot-macdermid-interpol-9.7439421",
           "image": "https://i.cbc.ca/ais/1.4967755,1793917468438/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C298%2C167%29%3B"
+        },
+        {
+          "id": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/megan-oldham-silver-medal-big-air-world-cup-innsbruck-9.7439377",
+          "title": "Canadian freestyle skier Megan Oldham opens World Cup season with big air silver",
+          "published": "2026-11-27T20:27:01.000Z",
+          "url": "https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/megan-oldham-silver-medal-big-air-world-cup-innsbruck-9.7439377",
+          "image": "https://i.cbc.ca/ais/7ec83421-3696-4bfc-8571-e587dbde2949,1795810819286/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/ottawa/ottawa-romance-scam-flyers-apology-9.7438302",
@@ -797,78 +831,78 @@
         },
         {
           "id": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-bill-21-supreme-court-of-canada-ruling-9.7434446",
-          "title": "Carney says he respects top court's independence after justices uphold Quebec's secularism law",
+          "title": "Canada's top court upholds Quebec law banning some workers from wearing religious symbols",
           "published": "2026-11-27T13:45:52.000Z",
           "url": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-bill-21-supreme-court-of-canada-ruling-9.7434446",
-          "image": "https://i.cbc.ca/ais/7bc5ea8f-44ec-4b7c-9a31-2eb9ce6727c7,1795809531407/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C257%2C3226%2C1814%29%3B"
+          "image": "https://i.cbc.ca/ais/8f556cd7-bced-4bc4-a26b-0b0ae5c875da,1795816613955/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C676%2C8299%2C4668%29%3B"
         },
         {
           "id": "https://www.cbc.ca/news/canada/toronto/kenneth-law-sentencing-hearing-poison-seller-9.7438391",
-          "title": "Crown seeks 25-year sentence for Kenneth Law, who admitted to selling poison",
+          "title": "Kenneth Law apologizes in court to families of victims",
           "published": "2026-11-27T12:15:39.000Z",
           "url": "https://www.cbc.ca/news/canada/toronto/kenneth-law-sentencing-hearing-poison-seller-9.7438391",
           "image": "https://i.cbc.ca/ais/1.6831073,1702415985000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3877%2C2180%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/calgary/backpack-reflectors-alberta-school-pushes-pre-dawn-safety-after-time-change-ends-9.7437499",
-          "title": "Backpack reflectors: Alberta school pushes pre-dawn safety after time change ends",
-          "published": "2026-11-27T12:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/calgary/backpack-reflectors-alberta-school-pushes-pre-dawn-safety-after-time-change-ends-9.7437499",
-          "image": "https://i.cbc.ca/ais/6b615bc6-cebb-4434-ae82-2a271dd4d68b,1795717305902/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1051%2C3024%2C1701%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/hamilton/stanpac-us-canada-tariffs-trade-9.7435346",
-          "title": "Niagara family business says $500K weekly in Trump tariffs is forcing production to U.S.",
-          "published": "2026-11-27T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/hamilton/stanpac-us-canada-tariffs-trade-9.7435346",
-          "image": "https://i.cbc.ca/ais/2a63b0c4-d19b-4e17-92b4-6d38ed516aac,1795618555985/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C3531%2C1986%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/toronto/toronto-city-hall-credit-cards-expenses-9.7437567",
-          "title": "Jays tickets, drums and Tinder: Hundreds of purchases made with city credit cards raise questions about misuse",
-          "published": "2026-11-27T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/toronto/toronto-city-hall-credit-cards-expenses-9.7437567",
-          "image": "https://i.cbc.ca/ais/b0235315-7290-41ed-861e-edccaa122cdc,1795714178366/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/canada/suspected-north-korean-operative-software-company-9.7437137",
-          "title": "This suspected North Korean operative said he had an IT company in Toronto. It wasn't real",
-          "published": "2026-11-27T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/canada/suspected-north-korean-operative-software-company-9.7437137",
-          "image": "https://i.cbc.ca/ais/e85568b3-7d5d-4ec9-956c-88d3553ddcc5,1795717498840/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C52%2C932%2C524%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/brantford-byelection-dave-carrol-independent-conservative-9.7438039",
-          "title": "This Independent is giving Poilievre's Conservatives the jitters ahead of a crucial byelection",
-          "published": "2026-11-27T09:00:00.000Z",
-          "url": "https://www.cbc.ca/news/politics/brantford-byelection-dave-carrol-independent-conservative-9.7438039",
-          "image": "https://i.cbc.ca/ais/0f876966-6d9d-4411-ac66-42a589a29ff9,1795738306263/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B"
-        },
-        {
-          "id": "https://www.cbc.ca/player/play/9.7438152",
-          "title": "Alberta's Nakiska ski hill closure proves bears are still out",
-          "published": "2026-11-27T00:15:36.000Z",
-          "url": "https://www.cbc.ca/player/play/9.7438152",
-          "image": "https://i.cbc.ca/ais/2b740128-6e66-414a-8d66-22680c90a5c5,1795738230732/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C1080%2C607%29%3B"
         }
       ]
     },
     "bbc-world": {
-      "checkedAt": "2026-11-27T21:28:17.743Z",
+      "checkedAt": "2026-11-28T08:05:58.772Z",
       "items": [
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+          "title": "Eight killed in Peruvian military helicopter crash",
+          "published": "2026-11-28T04:19:16.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo",
+          "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+          "published": "2026-11-28T04:13:45.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o",
+          "title": "Nigeria's 'ultimate hard man' who become an online meme",
+          "published": "2026-11-28T01:20:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo",
+          "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+          "published": "2026-11-28T00:56:55.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o",
+          "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+          "published": "2026-11-28T00:50:11.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbd/live/d9f6b7b0-e97b-11f1-acd8-af22a7ebb474.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno",
+          "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+          "published": "2026-11-28T00:05:17.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
+          "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+          "published": "2026-11-27T23:02:35.000Z",
+          "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg"
+        },
         {
           "id": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
           "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-          "published": "2026-11-27T20:57:04.000Z",
+          "published": "2026-11-27T21:55:53.000Z",
           "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo",
-          "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-          "published": "2026-11-27T20:34:45.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo",
@@ -906,11 +940,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo",
-          "title": "Brazil pushes back on Macron calling its meat 'doped'",
-          "published": "2026-11-27T15:54:15.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg"
+          "id": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o",
+          "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+          "published": "2026-11-27T16:46:47.000Z",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/b600e9f0-ea81-11f1-a094-5fdc692f3e33.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
@@ -918,48 +952,6 @@
           "published": "2026-11-27T13:38:07.000Z",
           "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab4e/live/3ac58820-ea60-11f1-99a1-253766e7ad8b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
-          "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-          "published": "2026-11-27T11:44:40.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo",
-          "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-          "published": "2026-11-27T11:22:02.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f21/live/5d0dee20-ea85-11f1-a094-5fdc692f3e33.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
-          "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-          "published": "2026-11-27T10:39:31.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
-          "title": "Clashes mar European games as Macron condemns violence",
-          "published": "2026-11-27T10:24:24.000Z",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
-          "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-          "published": "2026-11-27T08:58:08.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw074p95ye5do",
-          "title": "Millions of wives in South Asia unprotected from marital rape - study",
-          "published": "2026-11-27T08:13:43.000Z",
-          "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg"
         }
       ]
     }
